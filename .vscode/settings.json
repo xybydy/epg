@@ -1,0 +1,13 @@
+{
+    "go.lintTool": "golangci-lint",
+    "go.lintFlags": [
+        "--fast",
+    ],
+    "go.lintOnSave": "workspace",
+    "code-runner.cwd": "",
+    "code-runner.saveFileBeforeRun": true,
+    "code-runner.executorMap": {
+        "go": "go run $workspaceRoot config set radarr -a qweqeq",
+    },
+    "python.formatting.provider": "black",
+}
