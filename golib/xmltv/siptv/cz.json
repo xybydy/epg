@@ -1,0 +1,882 @@
+[
+ {
+   "channel_name": "213",
+   "epg_code": "213.cz",
+   "popularity": 3
+ },
+ {
+   "channel_name": "360TuneBox",
+   "epg_code": "360TuneBox.cz",
+   "popularity": 2140
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "MGM.cz",
+   "popularity": 2282
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.cz",
+   "popularity": 641
+ },
+ {
+   "channel_name": "Arena Sport 1",
+   "epg_code": "ArenaSport1.sk",
+   "popularity": 384
+ },
+ {
+   "channel_name": "Arena Sport 2",
+   "epg_code": "ArenaSport2.cz",
+   "popularity": 143
+ },
+ {
+   "channel_name": "Auto Moto Sport",
+   "epg_code": "AutoMotoSport.cz",
+   "popularity": 8143
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.cz",
+   "popularity": 654
+ },
+ {
+   "channel_name": "AXN Black",
+   "epg_code": "AXNScifi.cz",
+   "popularity": 584
+ },
+ {
+   "channel_name": "AXN White",
+   "epg_code": "AXNCrime.cz",
+   "popularity": 462
+ },
+ {
+   "channel_name": "Barrandov Krimi",
+   "epg_code": "BarrandovKrimi.cz",
+   "popularity": 355
+ },
+ {
+   "channel_name": "Barrandov Muzika",
+   "epg_code": "BarrandovMuzika.cz",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Barrandov Plus",
+   "epg_code": "BarrandovPlus.cz",
+   "popularity": 278
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.cz",
+   "popularity": 201
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.cz",
+   "popularity": 320
+ },
+ {
+   "channel_name": "CBS Drama",
+   "epg_code": "CBSDrama.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.cz",
+   "popularity": 5611
+ },
+ {
+   "channel_name": "Československo",
+   "epg_code": "Ceskoslovensko.cz",
+   "popularity": 233
+ },
+ {
+   "channel_name": "Československo / Festival",
+   "epg_code": "Festival.cz",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "Cinemax.cz",
+   "popularity": 1870
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.cz",
+   "popularity": 17858
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.cz",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Crime and Investigation",
+   "epg_code": "CrimeInvestigation.cz",
+   "popularity": 199
+ },
+ {
+   "channel_name": "CS Film",
+   "epg_code": "CSFilm.cz",
+   "popularity": 680
+ },
+ {
+   "channel_name": "ČT art",
+   "epg_code": "CTart.cz",
+   "popularity": 331
+ },
+ {
+   "channel_name": "ČT sport",
+   "epg_code": "CTsport.cz",
+   "popularity": 754
+ },
+ {
+   "channel_name": "ČT1",
+   "epg_code": "CT1.cz",
+   "popularity": 2762
+ },
+ {
+   "channel_name": "ČT2",
+   "epg_code": "CT2.cz",
+   "popularity": 1633
+ },
+ {
+   "channel_name": "ČT24",
+   "epg_code": "CT24.cz",
+   "popularity": 1375
+ },
+ {
+   "channel_name": "ČT4 Sport",
+   "epg_code": "CT4Sport.cz",
+   "popularity": 721
+ },
+ {
+   "channel_name": "Dajto",
+   "epg_code": "Dajto.sk",
+   "popularity": 3707
+ },
+ {
+   "channel_name": "Digi Sport 1 HD",
+   "epg_code": "DigiSport.cz",
+   "popularity": 139
+ },
+ {
+   "channel_name": "Digi Sport 2 HD",
+   "epg_code": "DigiSport2.cz",
+   "popularity": 67
+ },
+ {
+   "channel_name": "DIGI SPORT 5",
+   "epg_code": "DigisportSK5.sk",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Digi sport SK",
+   "epg_code": "DigisportSK.sk",
+   "popularity": 79
+ },
+ {
+   "channel_name": "Digi sport SK 2",
+   "epg_code": "DigisportSK2.sk",
+   "popularity": 134
+ },
+ {
+   "channel_name": "Digi sport SK 3",
+   "epg_code": "DigisportSK3.sk",
+   "popularity": 116
+ },
+ {
+   "channel_name": "Digi sport SK 4",
+   "epg_code": "DigisportSK4.sk",
+   "popularity": 36
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.cz",
+   "popularity": 3136
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "DiscoveryChannelHD.cz",
+   "popularity": 209
+ },
+ {
+   "channel_name": "Discovery Investigation",
+   "epg_code": "DiscoveryID.cz",
+   "popularity": 111
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.cz",
+   "popularity": 616
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.cz",
+   "popularity": 447
+ },
+ {
+   "channel_name": "Doku CS",
+   "epg_code": "DokuCS.cz",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Doma",
+   "epg_code": "TVDoma.sk",
+   "popularity": 9628
+ },
+ {
+   "channel_name": "DOQ",
+   "epg_code": "DOQ.cz",
+   "popularity": 1
+ },
+ {
+   "channel_name": "DTX",
+   "epg_code": "DTX.cz",
+   "popularity": 848
+ },
+ {
+   "channel_name": "Duck TV",
+   "epg_code": "DuckTV.cz",
+   "popularity": 394
+ },
+ {
+   "channel_name": "Dvojka",
+   "epg_code": "Dvojka.sk",
+   "popularity": 2244
+ },
+ {
+   "channel_name": "E! Entertainment",
+   "epg_code": "E.cz",
+   "popularity": 43
+ },
+ {
+   "channel_name": "EPIC DRAMA",
+   "epg_code": "EpicDrama.cz",
+   "popularity": 159
+ },
+ {
+   "channel_name": "Eurosport1",
+   "epg_code": "Eurosport1.cz",
+   "popularity": 427
+ },
+ {
+   "channel_name": "Eurosport2",
+   "epg_code": "Eurosport2.cz",
+   "popularity": 559
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.cz",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Fashion TV Czech",
+   "epg_code": "Fashion.cz",
+   "popularity": 101
+ },
+ {
+   "channel_name": "FashionBox HD",
+   "epg_code": "FashionBox.cz",
+   "popularity": 99
+ },
+ {
+   "channel_name": "Fightbox HD",
+   "epg_code": "Fightbox.cz",
+   "popularity": 3829
+ },
+ {
+   "channel_name": "Film +",
+   "epg_code": "FilmPlus.cz",
+   "popularity": 3792
+ },
+ {
+   "channel_name": "Film Europe",
+   "epg_code": "FilmEurope.cz",
+   "popularity": 1378
+ },
+ {
+   "channel_name": "Filmbox",
+   "epg_code": "Filmbox.cz",
+   "popularity": 5759
+ },
+ {
+   "channel_name": "Filmbox Extra",
+   "epg_code": "FilmboxExtra.cz",
+   "popularity": 894
+ },
+ {
+   "channel_name": "Filmbox Extra HD",
+   "epg_code": "FilmboxExtraHD.cz",
+   "popularity": 216
+ },
+ {
+   "channel_name": "Filmbox Family",
+   "epg_code": "FilmboxFamily.cz",
+   "popularity": 6896
+ },
+ {
+   "channel_name": "Filmbox Plus",
+   "epg_code": "FilmboxPlus.cz",
+   "popularity": 5146
+ },
+ {
+   "channel_name": "Filmbox Premium",
+   "epg_code": "FilmboxPremium.cz",
+   "popularity": 7194
+ },
+ {
+   "channel_name": "Fine Living Network",
+   "epg_code": "FLN.cz",
+   "popularity": 203
+ },
+ {
+   "channel_name": "Fishing and Hunting",
+   "epg_code": "FishingandHunting.cz",
+   "popularity": 3840
+ },
+ {
+   "channel_name": "Ginx",
+   "epg_code": "Ginx.cz",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Golf Channel",
+   "epg_code": "GolfChannel.cz",
+   "popularity": 128
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBO.cz",
+   "popularity": 3497
+ },
+ {
+   "channel_name": "HBO2",
+   "epg_code": "HBO2.cz",
+   "popularity": 32299
+ },
+ {
+   "channel_name": "HBO3",
+   "epg_code": "HBOComedy.cz",
+   "popularity": 16294
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChannel.cz",
+   "popularity": 3024
+ },
+ {
+   "channel_name": "HOROR FILM",
+   "epg_code": "HORORFILM.cz",
+   "popularity": 232
+ },
+ {
+   "channel_name": "ID Xtra",
+   "epg_code": "IDXtra.cz",
+   "popularity": 428
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.cz",
+   "popularity": 163
+ },
+ {
+   "channel_name": "Jednotka",
+   "epg_code": "Jednotka.sk",
+   "popularity": 3402
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.cz",
+   "popularity": 589
+ },
+ {
+   "channel_name": "JOJ",
+   "epg_code": "JOJ.sk",
+   "popularity": 12150
+ },
+ {
+   "channel_name": "JOJ +1",
+   "epg_code": "JOJplus1.sk",
+   "popularity": 371
+ },
+ {
+   "channel_name": "JOJ Cinema",
+   "epg_code": "JOJCinema.cz",
+   "popularity": 3099
+ },
+ {
+   "channel_name": "JOJ Cinema +1",
+   "epg_code": "JOJCinemaPlus1.cz",
+   "popularity": 184
+ },
+ {
+   "channel_name": "JOJ Cinema SK",
+   "epg_code": "JOJCinema.sk",
+   "popularity": 630
+ },
+ {
+   "channel_name": "JOJ Family",
+   "epg_code": "JOJFamily.sk",
+   "popularity": 1773
+ },
+ {
+   "channel_name": "JOJ PLUS",
+   "epg_code": "JOJPlus.sk",
+   "popularity": 4506
+ },
+ {
+   "channel_name": "Kino Barrandov",
+   "epg_code": "KinoBarrandov.cz",
+   "popularity": 1075
+ },
+ {
+   "channel_name": "Kino CS",
+   "epg_code": "KinoCS.cz",
+   "popularity": 7
+ },
+ {
+   "channel_name": "KinoSvět",
+   "epg_code": "KinoSvet.cz",
+   "popularity": 217
+ },
+ {
+   "channel_name": "Lux",
+   "epg_code": "Lux.cz",
+   "popularity": 186
+ },
+ {
+   "channel_name": "Markíza",
+   "epg_code": "Markiza.sk",
+   "popularity": 21375
+ },
+ {
+   "channel_name": "Markiza +1",
+   "epg_code": "MarkizaPlus1.sk",
+   "popularity": 704
+ },
+ {
+   "channel_name": "Markiza Int",
+   "epg_code": "MarkizaInt.sk",
+   "popularity": 1063
+ },
+ {
+   "channel_name": "Megamax",
+   "epg_code": "Megamax.cz",
+   "popularity": 1714
+ },
+ {
+   "channel_name": "Meteo TV",
+   "epg_code": "Meteo.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Minimax",
+   "epg_code": "Minimax.cz",
+   "popularity": 661
+ },
+ {
+   "channel_name": "Mňam TV",
+   "epg_code": "MnamTV.cz",
+   "popularity": 346
+ },
+ {
+   "channel_name": "MŇAU",
+   "epg_code": "MnauTV.cz",
+   "popularity": 106
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.cz",
+   "popularity": 106
+ },
+ {
+   "channel_name": "MTV Europe",
+   "epg_code": "MTVEurope.cz",
+   "popularity": 4927
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.cz",
+   "popularity": 110
+ },
+ {
+   "channel_name": "Muzika CS",
+   "epg_code": "MuzikaCS.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NationalGeographicWild.cz",
+   "popularity": 1657
+ },
+ {
+   "channel_name": "National Geographic Channel",
+   "epg_code": "NationalGeographic.cz",
+   "popularity": 531
+ },
+ {
+   "channel_name": "National Geographic Channel HD",
+   "epg_code": "NationalGeographicHD.cz",
+   "popularity": 43
+ },
+ {
+   "channel_name": "NAUTICAL CHANNEL",
+   "epg_code": "NauticalChannel.cz",
+   "popularity": 23
+ },
+ {
+   "channel_name": "NICK JR THOR CZ",
+   "epg_code": "NickJrThor.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nick Jr.",
+   "epg_code": "NickJr.cz",
+   "popularity": 380
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.cz",
+   "popularity": 554
+ },
+ {
+   "channel_name": "Nova 2",
+   "epg_code": "Nova2.cz",
+   "popularity": 2402
+ },
+ {
+   "channel_name": "Nova Action",
+   "epg_code": "NovaAction.cz",
+   "popularity": 1561
+ },
+ {
+   "channel_name": "Nova Cinema",
+   "epg_code": "NovaCinema.cz",
+   "popularity": 12848
+ },
+ {
+   "channel_name": "Nova Gold",
+   "epg_code": "NovaGold.cz",
+   "popularity": 1244
+ },
+ {
+   "channel_name": "Nova International",
+   "epg_code": "NovaInternational.cz",
+   "popularity": 802
+ },
+ {
+   "channel_name": "Nova Sport",
+   "epg_code": "NovaSport.cz",
+   "popularity": 5770
+ },
+ {
+   "channel_name": "Nova Sport 1",
+   "epg_code": "NovaSport1.cz",
+   "popularity": 245
+ },
+ {
+   "channel_name": "Nova Sport 2",
+   "epg_code": "NovaSport2.cz",
+   "popularity": 364
+ },
+ {
+   "channel_name": "Nova TV",
+   "epg_code": "NovaTV.cz",
+   "popularity": 19259
+ },
+ {
+   "channel_name": "Nova TV +1",
+   "epg_code": "NovaTVplus1.cz",
+   "popularity": 521
+ },
+ {
+   "channel_name": "Óčko",
+   "epg_code": "Ocko.cz",
+   "popularity": 421
+ },
+ {
+   "channel_name": "Óčko Expres",
+   "epg_code": "OckoExpres.cz",
+   "popularity": 253
+ },
+ {
+   "channel_name": "Óčko Gold",
+   "epg_code": "OckoGold.cz",
+   "popularity": 135
+ },
+ {
+   "channel_name": "POWER TV",
+   "epg_code": "PowerTV.cz",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Premier Sport",
+   "epg_code": "PremierSport.sk",
+   "popularity": 271
+ },
+ {
+   "channel_name": "Prima +1",
+   "epg_code": "Primaplus1.cz",
+   "popularity": 325
+ },
+ {
+   "channel_name": "Prima Comedy Central",
+   "epg_code": "PrimaComedyCentral.cz",
+   "popularity": 986
+ },
+ {
+   "channel_name": "Prima Cool",
+   "epg_code": "PrimaCool.cz",
+   "popularity": 2264
+ },
+ {
+   "channel_name": "PRIMA KRIMI",
+   "epg_code": "PrimaKrimi.cz",
+   "popularity": 697
+ },
+ {
+   "channel_name": "Prima LOVE",
+   "epg_code": "PrimaLOVE.cz",
+   "popularity": 1931
+ },
+ {
+   "channel_name": "Prima MAX",
+   "epg_code": "PrimaMAX.cz",
+   "popularity": 1941
+ },
+ {
+   "channel_name": "PRIMA PLUS",
+   "epg_code": "PrimaPlus.sk",
+   "popularity": 659
+ },
+ {
+   "channel_name": "Prima TV",
+   "epg_code": "PrimaTV.cz",
+   "popularity": 4199
+ },
+ {
+   "channel_name": "Prima ZOOM",
+   "epg_code": "PrimaZOOM.cz",
+   "popularity": 928
+ },
+ {
+   "channel_name": "Rebel",
+   "epg_code": "Rebel.cz",
+   "popularity": 173
+ },
+ {
+   "channel_name": "Regionalni televize",
+   "epg_code": "regionalnitelevize.cz",
+   "popularity": 200
+ },
+ {
+   "channel_name": "Relax",
+   "epg_code": "Relax.cz",
+   "popularity": 516
+ },
+ {
+   "channel_name": "Retro Music Television",
+   "epg_code": "RetroMusic.cz",
+   "popularity": 1576
+ },
+ {
+   "channel_name": "RiK",
+   "epg_code": "RiK.cz",
+   "popularity": 324
+ },
+ {
+   "channel_name": "RiK SK",
+   "epg_code": "RiK.sk",
+   "popularity": 41
+ },
+ {
+   "channel_name": "SENZI TV",
+   "epg_code": "Senzi.cz",
+   "popularity": 62
+ },
+ {
+   "channel_name": "SEZNAM TV",
+   "epg_code": "Seznam.cz",
+   "popularity": 377
+ },
+ {
+   "channel_name": "Šlágr TV",
+   "epg_code": "SlagrTV.cz",
+   "popularity": 435
+ },
+ {
+   "channel_name": "Slovak Sport TV1",
+   "epg_code": "SlovakSportTV1.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Slušnej Kanál TV - Rebel 2",
+   "epg_code": "SlusnejKanalTV.cz",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Spektrum",
+   "epg_code": "Spektrum.cz",
+   "popularity": 1496
+ },
+ {
+   "channel_name": "Spektrum Home",
+   "epg_code": "SpektrumHome.cz",
+   "popularity": 723
+ },
+ {
+   "channel_name": "Sport 5",
+   "epg_code": "Sport5.cz",
+   "popularity": 1316
+ },
+ {
+   "channel_name": "Sport1",
+   "epg_code": "Sport1.cz",
+   "popularity": 407
+ },
+ {
+   "channel_name": "Sport2",
+   "epg_code": "Sport2.cz",
+   "popularity": 561
+ },
+ {
+   "channel_name": "SportKlub",
+   "epg_code": "SportKlub.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TA3 Day",
+   "epg_code": "TA3.sk",
+   "popularity": 721
+ },
+ {
+   "channel_name": "TA3 Day",
+   "epg_code": "TA3day.sk",
+   "popularity": 139
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.cz",
+   "popularity": 682
+ },
+ {
+   "channel_name": "Trojka",
+   "epg_code": "TROJKA.sk",
+   "popularity": 934
+ },
+ {
+   "channel_name": "Ťuki",
+   "epg_code": "Tuki.cz",
+   "popularity": 153
+ },
+ {
+   "channel_name": "TUTY",
+   "epg_code": "TUTY.cz",
+   "popularity": 13
+ },
+ {
+   "channel_name": "TV 8",
+   "epg_code": "TV8.sk",
+   "popularity": 38
+ },
+ {
+   "channel_name": "TV Barrandov",
+   "epg_code": "TVBarrandov.cz",
+   "popularity": 1062
+ },
+ {
+   "channel_name": "TV Noe",
+   "epg_code": "TVNoe.cz",
+   "popularity": 92
+ },
+ {
+   "channel_name": "TV Paprika",
+   "epg_code": "TVPaprika.cz",
+   "popularity": 3370
+ },
+ {
+   "channel_name": "TV Rebel",
+   "epg_code": "TVRebel.cz",
+   "popularity": 218
+ },
+ {
+   "channel_name": "TV2",
+   "epg_code": "TV2.sk",
+   "popularity": 80
+ },
+ {
+   "channel_name": "Up Network",
+   "epg_code": "UPNetwork.cz",
+   "popularity": 180
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.cz",
+   "popularity": 110
+ },
+ {
+   "channel_name": "VH1 Classic",
+   "epg_code": "VH1Classic.cz",
+   "popularity": 349
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.cz",
+   "popularity": 586
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.cz",
+   "popularity": 751
+ },
+ {
+   "channel_name": "Viasat History HD",
+   "epg_code": "ViasatHistoryHD.cz",
+   "popularity": 316
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.cz",
+   "popularity": 617
+ },
+ {
+   "channel_name": "Viasat Spice",
+   "epg_code": "ViasatSpice.cz",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VIVA",
+   "epg_code": "VIVA.cz",
+   "popularity": 38
+ },
+ {
+   "channel_name": "VOYO",
+   "epg_code": "VOYO.cz",
+   "popularity": 369
+ },
+ {
+   "channel_name": "WAR svět válek",
+   "epg_code": "WARsvetvalek.cz",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Wau",
+   "epg_code": "Wau.sk",
+   "popularity": 2894
+ },
+ {
+   "channel_name": "Z1",
+   "epg_code": "Z1.cz",
+   "popularity": 7206
+ },
+ {
+   "channel_name": "Zone Reality",
+   "epg_code": "ZoneReality.cz",
+   "popularity": 0
+ }
+]

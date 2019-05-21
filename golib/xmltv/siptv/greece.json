@@ -1,0 +1,627 @@
+[
+ {
+   "channel_name": "4Ε",
+   "epg_code": "4E.gr",
+   "popularity": 6925
+ },
+ {
+   "channel_name": "Action 24",
+   "epg_code": "Action24.gr",
+   "popularity": 2709
+ },
+ {
+   "channel_name": "Al Jazeera",
+   "epg_code": "AlJazeeraIntl.gr",
+   "popularity": 85
+ },
+ {
+   "channel_name": "ALERT",
+   "epg_code": "ALERT.gr",
+   "popularity": 264
+ },
+ {
+   "channel_name": "Alpha",
+   "epg_code": "alpha.gr",
+   "popularity": 76802
+ },
+ {
+   "channel_name": "ALPHA CYPRUS",
+   "epg_code": "ALPHACYPRUS.cy",
+   "popularity": 592
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "animalplanet.gr",
+   "popularity": 2137
+ },
+ {
+   "channel_name": "ANT1",
+   "epg_code": "ANT1.gr",
+   "popularity": 62221
+ },
+ {
+   "channel_name": "ANT1 Cyprus",
+   "epg_code": "ANT1.cy",
+   "popularity": 570
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.gr",
+   "popularity": 1187
+ },
+ {
+   "channel_name": "BBC Earth HD",
+   "epg_code": "BBCEarth.gr",
+   "popularity": 1041
+ },
+ {
+   "channel_name": "Best TV",
+   "epg_code": "BestTV.gr",
+   "popularity": 1644
+ },
+ {
+   "channel_name": "Blue Sky",
+   "epg_code": "BlueSky.gr",
+   "popularity": 224
+ },
+ {
+   "channel_name": "Body in Balance",
+   "epg_code": "BodyInBalance.gr",
+   "popularity": 329
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.gr",
+   "popularity": 807
+ },
+ {
+   "channel_name": "C Music TV",
+   "epg_code": "CMusicTV.gr",
+   "popularity": 163
+ },
+ {
+   "channel_name": "Capital TV",
+   "epg_code": "CapitalTV.cy",
+   "popularity": 174
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.gr",
+   "popularity": 1079
+ },
+ {
+   "channel_name": "Channel 9",
+   "epg_code": "Channel9.gr",
+   "popularity": 992
+ },
+ {
+   "channel_name": "Corfu Channel",
+   "epg_code": "CorfuChannel.gr",
+   "popularity": 248
+ },
+ {
+   "channel_name": "Cosmote Cinema 1",
+   "epg_code": "OTECinema1.gr",
+   "popularity": 11796
+ },
+ {
+   "channel_name": "Cosmote Cinema 2",
+   "epg_code": "OTECinema2.gr",
+   "popularity": 14541
+ },
+ {
+   "channel_name": "Cosmote Cinema 3",
+   "epg_code": "OTECinema3.gr",
+   "popularity": 9485
+ },
+ {
+   "channel_name": "Cosmote Cinema 4",
+   "epg_code": "OTECinema4.gr",
+   "popularity": 2063
+ },
+ {
+   "channel_name": "Cosmote History",
+   "epg_code": "OTEHistory.gr",
+   "popularity": 1457
+ },
+ {
+   "channel_name": "Cosmote Sport 1",
+   "epg_code": "OTESport1.gr",
+   "popularity": 17403
+ },
+ {
+   "channel_name": "Cosmote Sport 2",
+   "epg_code": "OTESport2.gr",
+   "popularity": 21936
+ },
+ {
+   "channel_name": "Cosmote Sport 3",
+   "epg_code": "OTESport3.gr",
+   "popularity": 10944
+ },
+ {
+   "channel_name": "Cosmote Sport 4",
+   "epg_code": "OTESport4.gr",
+   "popularity": 7684
+ },
+ {
+   "channel_name": "Cosmote Sport 5",
+   "epg_code": "OTESport5.gr",
+   "popularity": 5916
+ },
+ {
+   "channel_name": "Cosmote Sport 6",
+   "epg_code": "OTESport6.gr",
+   "popularity": 2780
+ },
+ {
+   "channel_name": "Cosmote Sport 7",
+   "epg_code": "OTESport7.gr",
+   "popularity": 2649
+ },
+ {
+   "channel_name": "Cosmote Sport 8",
+   "epg_code": "OTESport8.gr",
+   "popularity": 2247
+ },
+ {
+   "channel_name": "COSMOTE SPORT 9HD",
+   "epg_code": "CosmoteSport9.gr",
+   "popularity": 1119
+ },
+ {
+   "channel_name": "Cosmote Sport Highlights",
+   "epg_code": "OTESportsHighlights.gr",
+   "popularity": 2692
+ },
+ {
+   "channel_name": "Crime and Investigation",
+   "epg_code": "CrimeInvestigation.gr",
+   "popularity": 654
+ },
+ {
+   "channel_name": "Deutsche Welle",
+   "epg_code": "DeutscheWelle.gr",
+   "popularity": 111
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "discovery.gr",
+   "popularity": 1909
+ },
+ {
+   "channel_name": "Discovery Showcase HD",
+   "epg_code": "DiscoveryHD.gr",
+   "popularity": 1135
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.gr",
+   "popularity": 1367
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.gr",
+   "popularity": 2221
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.gr",
+   "popularity": 2424
+ },
+ {
+   "channel_name": "E! Entertainment",
+   "epg_code": "Eentertainment.gr",
+   "popularity": 1015
+ },
+ {
+   "channel_name": "EDGEsport HD",
+   "epg_code": "EDGEsport.gr",
+   "popularity": 68
+ },
+ {
+   "channel_name": "ERT World",
+   "epg_code": "ERTWorld.gr",
+   "popularity": 2528
+ },
+ {
+   "channel_name": "Eurosport",
+   "epg_code": "EuroSport1.gr",
+   "popularity": 1045
+ },
+ {
+   "channel_name": "Eurosport2",
+   "epg_code": "EuroSport2.gr",
+   "popularity": 1229
+ },
+ {
+   "channel_name": "Extra",
+   "epg_code": "Extra.gr",
+   "popularity": 487
+ },
+ {
+   "channel_name": "Extra Cyprus",
+   "epg_code": "Extra.cy",
+   "popularity": 97
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.gr",
+   "popularity": 375
+ },
+ {
+   "channel_name": "Fine Living",
+   "epg_code": "Fineliving.gr",
+   "popularity": 737
+ },
+ {
+   "channel_name": "FoodNetwork",
+   "epg_code": "FoodNetwork.gr",
+   "popularity": 873
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "FOX.gr",
+   "popularity": 1446
+ },
+ {
+   "channel_name": "FOX Life",
+   "epg_code": "Foxlife.gr",
+   "popularity": 1146
+ },
+ {
+   "channel_name": "FOX SPORTS HD",
+   "epg_code": "FoxSports.gr",
+   "popularity": 227
+ },
+ {
+   "channel_name": "History",
+   "epg_code": "TheHistoryChannel.gr",
+   "popularity": 2314
+ },
+ {
+   "channel_name": "ID (Discovery) IDX HD",
+   "epg_code": "DiscoveryID.gr",
+   "popularity": 1000
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.cy",
+   "popularity": 273
+ },
+ {
+   "channel_name": "Kontra Channel",
+   "epg_code": "Kontra.gr",
+   "popularity": 14413
+ },
+ {
+   "channel_name": "Macedonia TV",
+   "epg_code": "Macedonia.gr",
+   "popularity": 7851
+ },
+ {
+   "channel_name": "Mad Cyprus",
+   "epg_code": "Mad.cy",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Mad Greekz",
+   "epg_code": "MADGreekz.gr",
+   "popularity": 1065
+ },
+ {
+   "channel_name": "Mad Hits",
+   "epg_code": "MadHits.gr",
+   "popularity": 1202
+ },
+ {
+   "channel_name": "MAD TV",
+   "epg_code": "MADTV.gr",
+   "popularity": 2137
+ },
+ {
+   "channel_name": "Mega Channel",
+   "epg_code": "mega.gr",
+   "popularity": 25406
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.gr",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Motors TV",
+   "epg_code": "MotorsTV.gr",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Motorvision Channel",
+   "epg_code": "MotorvisionChannel.gr",
+   "popularity": 2434
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.gr",
+   "popularity": 39
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "natgeo.gr",
+   "popularity": 1704
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "natgeoHD.gr",
+   "popularity": 1027
+ },
+ {
+   "channel_name": "National Geographic Wild HD",
+   "epg_code": "NatGeoWild.gr",
+   "popularity": 2056
+ },
+ {
+   "channel_name": "Nautical Channel HD",
+   "epg_code": "NauticalChannel.gr",
+   "popularity": 845
+ },
+ {
+   "channel_name": "New TV",
+   "epg_code": "NewTV.gr",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.gr",
+   "popularity": 1519
+ },
+ {
+   "channel_name": "novacinema1",
+   "epg_code": "NovaCinema1.gr",
+   "popularity": 3128
+ },
+ {
+   "channel_name": "novacinema2",
+   "epg_code": "NovaCinema2.gr",
+   "popularity": 3491
+ },
+ {
+   "channel_name": "novacinema3",
+   "epg_code": "NovaCinema3.gr",
+   "popularity": 7838
+ },
+ {
+   "channel_name": "novacinema4",
+   "epg_code": "NovaCinema4.gr",
+   "popularity": 2484
+ },
+ {
+   "channel_name": "novalife",
+   "epg_code": "NovaLife.gr",
+   "popularity": 1237
+ },
+ {
+   "channel_name": "novasports1",
+   "epg_code": "NovaSports1.gr",
+   "popularity": 9733
+ },
+ {
+   "channel_name": "novasports2",
+   "epg_code": "NovaSports2.gr",
+   "popularity": 3320
+ },
+ {
+   "channel_name": "NOVASPORTS24HD",
+   "epg_code": "Novasports24.gr",
+   "popularity": 210
+ },
+ {
+   "channel_name": "novasports3",
+   "epg_code": "NovaSports3.gr",
+   "popularity": 1612
+ },
+ {
+   "channel_name": "novasports4",
+   "epg_code": "NovaSports4.gr",
+   "popularity": 1068
+ },
+ {
+   "channel_name": "novasports5HD",
+   "epg_code": "NovaSports5.gr",
+   "popularity": 748
+ },
+ {
+   "channel_name": "OPEN BEYOND",
+   "epg_code": "OPENBEYOND.gr",
+   "popularity": 10316
+ },
+ {
+   "channel_name": "Outdoor Channel",
+   "epg_code": "OutdoorChannel.gr",
+   "popularity": 494
+ },
+ {
+   "channel_name": "Plus TV",
+   "epg_code": "PlusTV.cy",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Rik 1",
+   "epg_code": "RIK1.cy",
+   "popularity": 198
+ },
+ {
+   "channel_name": "Rik 2",
+   "epg_code": "RIK2.cy",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Rik Sat",
+   "epg_code": "RikSat.gr",
+   "popularity": 614
+ },
+ {
+   "channel_name": "Science (Discovery)",
+   "epg_code": "DiscoveryScience.gr",
+   "popularity": 2684
+ },
+ {
+   "channel_name": "Sigma TV",
+   "epg_code": "SigmaTV.cy",
+   "popularity": 2576
+ },
+ {
+   "channel_name": "Skai",
+   "epg_code": "Skai.gr",
+   "popularity": 77947
+ },
+ {
+   "channel_name": "Smile TV",
+   "epg_code": "SmileTV.gr",
+   "popularity": 1028
+ },
+ {
+   "channel_name": "Star",
+   "epg_code": "star.gr",
+   "popularity": 52740
+ },
+ {
+   "channel_name": "Star Κεντρικης Ελλαδας",
+   "epg_code": "StarKentrikesElladas.gr",
+   "popularity": 336
+ },
+ {
+   "channel_name": "Stingray iConcerts",
+   "epg_code": "StingrayIConcerts.gr",
+   "popularity": 46
+ },
+ {
+   "channel_name": "Sundance Channel",
+   "epg_code": "SundanceChannel.gr",
+   "popularity": 2368
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCM.gr",
+   "popularity": 904
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.gr",
+   "popularity": 1427
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "travel.gr",
+   "popularity": 725
+ },
+ {
+   "channel_name": "TRT",
+   "epg_code": "TRT.gr",
+   "popularity": 510
+ },
+ {
+   "channel_name": "TV One Cyprus",
+   "epg_code": "TVOne.cy",
+   "popularity": 45
+ },
+ {
+   "channel_name": "TV100",
+   "epg_code": "TV100.cy",
+   "popularity": 151
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.gr",
+   "popularity": 301
+ },
+ {
+   "channel_name": "Viasat Explore",
+   "epg_code": "ViasatExplore.gr",
+   "popularity": 1130
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.gr",
+   "popularity": 1468
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.gr",
+   "popularity": 1019
+ },
+ {
+   "channel_name": "Village Cinema",
+   "epg_code": "VillageCinema.gr",
+   "popularity": 2677
+ },
+ {
+   "channel_name": "Vouli",
+   "epg_code": "vouli.gr",
+   "popularity": 1795
+ },
+ {
+   "channel_name": "World Fashion",
+   "epg_code": "WorldFashion.gr",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Αιγαιο TV",
+   "epg_code": "AigaioTV.gr",
+   "popularity": 71
+ },
+ {
+   "channel_name": "ΑΡΤ",
+   "epg_code": "APT.gr",
+   "popularity": 1140
+ },
+ {
+   "channel_name": "Δελτα TV",
+   "epg_code": "DeltaTV.gr",
+   "popularity": 1680
+ },
+ {
+   "channel_name": "ΔΙΚΤΥΟ TV",
+   "epg_code": "DiktyoTV.gr",
+   "popularity": 125
+ },
+ {
+   "channel_name": "ΔΤ HD",
+   "epg_code": "EPT-HD.gr",
+   "popularity": 2263
+ },
+ {
+   "channel_name": "ΕΡΤ1",
+   "epg_code": "EPT1.gr",
+   "popularity": 7106
+ },
+ {
+   "channel_name": "ΕΡΤ2",
+   "epg_code": "EPT2.gr",
+   "popularity": 6212
+ },
+ {
+   "channel_name": "ΕΡΤ3",
+   "epg_code": "EPT3.gr",
+   "popularity": 13904
+ },
+ {
+   "channel_name": "Ήπειρος TV1",
+   "epg_code": "IPIROSTV.gr",
+   "popularity": 612
+ },
+ {
+   "channel_name": "ΙΟΝΙΑΝ TV",
+   "epg_code": "ΙΟΝΙΑΝ.gr",
+   "popularity": 97
+ },
+ {
+   "channel_name": "Κρητη TV",
+   "epg_code": "ΚreteTV.gr",
+   "popularity": 172
+ },
+ {
+   "channel_name": "Νεα Τηλεοραση Κρητης",
+   "epg_code": "NeaTeleoraseKretes.gr",
+   "popularity": 160
+ }
+]

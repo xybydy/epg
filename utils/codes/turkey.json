@@ -1,0 +1,607 @@
+[
+ {
+   "chan_name": "360 HD",
+   "epg_code": "360.tr",
+   "popularity": 31652
+ },
+ {
+   "chan_name": "5+1 Concerts",
+   "epg_code": "5+1Concerts.tr",
+   "popularity": 0
+ },
+ {
+   "chan_name": "A Haber HD",
+   "epg_code": "AHaber.tr",
+   "popularity": 183716
+ },
+ {
+   "chan_name": "A News HD",
+   "epg_code": "ANews.tr",
+   "popularity": 2443
+ },
+ {
+   "chan_name": "A Spor HD",
+   "epg_code": "ASpor.tr",
+   "popularity": 160489
+ },
+ {
+   "chan_name": "A2 HD",
+   "epg_code": "A2.tr",
+   "popularity": 56939
+ },
+ {
+   "chan_name": "AL JAZEERA ENGLISH HD",
+   "epg_code": "AlJazeeraInt.tr",
+   "popularity": 2107
+ },
+ {
+   "chan_name": "Al Quran Al Kareem TV HD",
+   "epg_code": "AlQuranAlKareemTV.tr",
+   "popularity": 42
+ },
+ {
+   "chan_name": "Al Sunnah Al Nabawiyah TV HD",
+   "epg_code": "AlSunnahAlNabawiyahTV.tr",
+   "popularity": 5
+ },
+ {
+   "chan_name": "ALEM FM",
+   "epg_code": "ALEMFM.tr",
+   "popularity": 191
+ },
+ {
+   "chan_name": "ATV HD",
+   "epg_code": "ATV.tr",
+   "popularity": 801147
+ },
+ {
+   "chan_name": "Baba Radyo",
+   "epg_code": "BabaRadyo.tr",
+   "popularity": 91
+ },
+ {
+   "chan_name": "Baby TV",
+   "epg_code": "BabyTV.tr",
+   "popularity": 8530
+ },
+ {
+   "chan_name": "BBC EARTH HD",
+   "epg_code": "BBCEarth.tr",
+   "popularity": 6262
+ },
+ {
+   "chan_name": "BBC Entertainment",
+   "epg_code": "BBCEntertainment.tr",
+   "popularity": 0
+ },
+ {
+   "chan_name": "BBC World News HD",
+   "epg_code": "BBCWorldNews.tr",
+   "popularity": 16
+ },
+ {
+   "chan_name": "beIN BOX OFFICE 1 HD",
+   "epg_code": "Salon1.tr",
+   "popularity": 11116
+ },
+ {
+   "chan_name": "beIN BOX OFFICE 2 HD",
+   "epg_code": "Salon2.tr",
+   "popularity": 7881
+ },
+ {
+   "chan_name": "beIN BOX OFFICE 3 HD",
+   "epg_code": "Salon3.tr",
+   "popularity": 7091
+ },
+ {
+   "chan_name": "beIN GURME HD",
+   "epg_code": "TurkmaxGurme.tr",
+   "popularity": 15510
+ },
+ {
+   "chan_name": "beIN HOME & ENTERTAINMENT HD",
+   "epg_code": "HomeyEntertainment.tr",
+   "popularity": 723
+ },
+ {
+   "chan_name": "beIN MOVIES ACTION 2 HD",
+   "epg_code": "MoviemaxAction2.tr",
+   "popularity": 9359
+ },
+ {
+   "chan_name": "beIN MOVIES ACTION HD",
+   "epg_code": "MoviemaxAction.tr",
+   "popularity": 12653
+ },
+ {
+   "chan_name": "beIN MOVIES FAMILY HD",
+   "epg_code": "MoviemaxFamily.tr",
+   "popularity": 7965
+ },
+ {
+   "chan_name": "beIN MOVIES PREMIERE 2 HD",
+   "epg_code": "MoviemaxPremier2.tr",
+   "popularity": 8554
+ },
+ {
+   "chan_name": "beIN MOVIES PREMIERE HD",
+   "epg_code": "MoviemaxPremier.tr",
+   "popularity": 8798
+ },
+ {
+   "chan_name": "beIN MOVIES STARS HD",
+   "epg_code": "MoviemaxStars.tr",
+   "popularity": 7509
+ },
+ {
+   "chan_name": "beIN MOVIES TURK HD",
+   "epg_code": "MoviemaxTurk.tr",
+   "popularity": 13043
+ },
+ {
+   "chan_name": "beIN SERIES COMEDY HD",
+   "epg_code": "DizimaxComedy.tr",
+   "popularity": 5499
+ },
+ {
+   "chan_name": "beIN SERIES DRAMA HD",
+   "epg_code": "DizimaxDrama.tr",
+   "popularity": 5005
+ },
+ {
+   "chan_name": "beIN SERIES SCI-FI HD",
+   "epg_code": "DizimaxSci-fi.tr",
+   "popularity": 3954
+ },
+ {
+   "chan_name": "beIN SERIES VICE HD",
+   "epg_code": "DizimaxVice.tr",
+   "popularity": 4898
+ },
+ {
+   "chan_name": "beIN SPORTS HD 1",
+   "epg_code": "LIGTV.tr",
+   "popularity": 164041
+ },
+ {
+   "chan_name": "beIN SPORTS HD 2",
+   "epg_code": "LIGTV2.tr",
+   "popularity": 51530
+ },
+ {
+   "chan_name": "beIN SPORTS HD 3",
+   "epg_code": "LIGTV3.tr",
+   "popularity": 31853
+ },
+ {
+   "chan_name": "beIN SPORTS HD 4",
+   "epg_code": "LIGTV4.tr",
+   "popularity": 26300
+ },
+ {
+   "chan_name": "beIN SPORTS MAX 1 HD",
+   "epg_code": "beINSPORTSMAX.tr",
+   "popularity": 19358
+ },
+ {
+   "chan_name": "Best FM",
+   "epg_code": "BestFM.tr",
+   "popularity": 215
+ },
+ {
+   "chan_name": "BEYAZ TV HD",
+   "epg_code": "BEYAZTV.tr",
+   "popularity": 262484
+ },
+ {
+   "chan_name": "BLOOMBERG HD",
+   "epg_code": "BLOOMBERG.tr",
+   "popularity": 32323
+ },
+ {
+   "chan_name": "BOOMERANG HD",
+   "epg_code": "Boomerang.tr",
+   "popularity": 9306
+ },
+ {
+   "chan_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.tr",
+   "popularity": 8635
+ },
+ {
+   "chan_name": "Cem Tv",
+   "epg_code": "CemTv.tr",
+   "popularity": 3393
+ },
+ {
+   "chan_name": "CNN INTERNATIONAL",
+   "epg_code": "CNN.tr",
+   "popularity": 170
+ },
+ {
+   "chan_name": "Çocuk Smart",
+   "epg_code": "SmartCocuk.tr",
+   "popularity": 5945
+ },
+ {
+   "chan_name": "Da Vinci",
+   "epg_code": "DaVinci.tr",
+   "popularity": 470
+ },
+ {
+   "chan_name": "Digiturk 4K",
+   "epg_code": "Digiturk4K.tr",
+   "popularity": 111
+ },
+ {
+   "chan_name": "Discovery Channel HD",
+   "epg_code": "Discovery.tr",
+   "popularity": 21724
+ },
+ {
+   "chan_name": "Discovery Science HD",
+   "epg_code": "DiscoveryScience.tr",
+   "popularity": 26668
+ },
+ {
+   "chan_name": "Disney Channel",
+   "epg_code": "DisneyChannel.tr",
+   "popularity": 13218
+ },
+ {
+   "chan_name": "Disney Junior",
+   "epg_code": "DisneyJunior.tr",
+   "popularity": 7809
+ },
+ {
+   "chan_name": "Disney XD",
+   "epg_code": "DisneyXD.tr",
+   "popularity": 3578
+ },
+ {
+   "chan_name": "Dizi Smart Max",
+   "epg_code": "MaxSmartPremium.tr",
+   "popularity": 631
+ },
+ {
+   "chan_name": "Dizi Smart Premium",
+   "epg_code": "DiziPremiumHD.tr",
+   "popularity": 565
+ },
+ {
+   "chan_name": "DMAX HD",
+   "epg_code": "DMAX.tr",
+   "popularity": 1566
+ },
+ {
+   "chan_name": "EURONEWS",
+   "epg_code": "Euronews.tr",
+   "popularity": 384
+ },
+ {
+   "chan_name": "Eurosport 1 HD",
+   "epg_code": "Eurosport.tr",
+   "popularity": 16152
+ },
+ {
+   "chan_name": "Eurosport 2 HD",
+   "epg_code": "Eurosport2.tr",
+   "popularity": 11545
+ },
+ {
+   "chan_name": "Fashion TV HD",
+   "epg_code": "FashionTV.tr",
+   "popularity": 449
+ },
+ {
+   "chan_name": "FB TV HD",
+   "epg_code": "FBTV.tr",
+   "popularity": 21294
+ },
+ {
+   "chan_name": "FOX",
+   "epg_code": "Fox.tr",
+   "popularity": 573969
+ },
+ {
+   "chan_name": "GS TV HD",
+   "epg_code": "GALATASARAYTV.tr",
+   "popularity": 19461
+ },
+ {
+   "chan_name": "HABERTURK HD",
+   "epg_code": "HABERTURK.tr",
+   "popularity": 128693
+ },
+ {
+   "chan_name": "KANAL 7 HD",
+   "epg_code": "Kanal7.tr",
+   "popularity": 268936
+ },
+ {
+   "chan_name": "Kanal D HD",
+   "epg_code": "KanalD.tr",
+   "popularity": 802908
+ },
+ {
+   "chan_name": "Kral FM",
+   "epg_code": "KralFM.tr",
+   "popularity": 939
+ },
+ {
+   "chan_name": "Kral Pop Radyo",
+   "epg_code": "KralPopRadyo.tr",
+   "popularity": 222
+ },
+ {
+   "chan_name": "MCM Top HD",
+   "epg_code": "MCMTop.tr",
+   "popularity": 47
+ },
+ {
+   "chan_name": "Mezzo HD",
+   "epg_code": "Mezzo.tr",
+   "popularity": 24
+ },
+ {
+   "chan_name": "Milyon",
+   "epg_code": "Milyon.tr",
+   "popularity": 5
+ },
+ {
+   "chan_name": "MinikaGO",
+   "epg_code": "MinikaGo.tr",
+   "popularity": 9773
+ },
+ {
+   "chan_name": "MovieSmart Action",
+   "epg_code": "MovieSmartAction.tr",
+   "popularity": 8318
+ },
+ {
+   "chan_name": "MovieSmart Classic",
+   "epg_code": "MovieSmartClassic.tr",
+   "popularity": 7837
+ },
+ {
+   "chan_name": "MovieSmart Family",
+   "epg_code": "MovieSmartFamily.tr",
+   "popularity": 6494
+ },
+ {
+   "chan_name": "MovieSmart Fest",
+   "epg_code": "MovieSmartFest.tr",
+   "popularity": 6419
+ },
+ {
+   "chan_name": "MovieSmart Gold",
+   "epg_code": "MovieSmartGold.tr",
+   "popularity": 6899
+ },
+ {
+   "chan_name": "MovieSmart Platin",
+   "epg_code": "MovieSmartPlatin.tr",
+   "popularity": 6379
+ },
+ {
+   "chan_name": "MovieSmart Platin 2",
+   "epg_code": "MovieSmartPlatin2.tr",
+   "popularity": 5040
+ },
+ {
+   "chan_name": "MovieSmart Premium",
+   "epg_code": "MovieSmartPremium.tr",
+   "popularity": 5791
+ },
+ {
+   "chan_name": "MovieSmart Premium 2",
+   "epg_code": "MovieSmartPremium2.tr",
+   "popularity": 4457
+ },
+ {
+   "chan_name": "MovieSmart Türk",
+   "epg_code": "MovieSmartTurk.tr",
+   "popularity": 9917
+ },
+ {
+   "chan_name": "MTV Hits",
+   "epg_code": "MTVHits.tr",
+   "popularity": 173
+ },
+ {
+   "chan_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.tr",
+   "popularity": 362
+ },
+ {
+   "chan_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWild.tr",
+   "popularity": 34230
+ },
+ {
+   "chan_name": "National Geographic HD",
+   "epg_code": "NatGeoHD.tr",
+   "popularity": 7203
+ },
+ {
+   "chan_name": "Nick Jr.",
+   "epg_code": "NickJr.tr",
+   "popularity": 3046
+ },
+ {
+   "chan_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.tr",
+   "popularity": 3837
+ },
+ {
+   "chan_name": "Nickelodeon HD",
+   "epg_code": "NickelodeonHD.tr",
+   "popularity": 5101
+ },
+ {
+   "chan_name": "NTV HD",
+   "epg_code": "NTV.tr",
+   "popularity": 95277
+ },
+ {
+   "chan_name": "Radyo Viva",
+   "epg_code": "RadyoViva.tr",
+   "popularity": 16
+ },
+ {
+   "chan_name": "RAI UNO",
+   "epg_code": "RAIUNO.tr",
+   "popularity": 169
+ },
+ {
+   "chan_name": "RTR PLANETA",
+   "epg_code": "RTRPLANETA.tr",
+   "popularity": 1
+ },
+ {
+   "chan_name": "S SPORT HD",
+   "epg_code": "SSport.tr",
+   "popularity": 32810
+ },
+ {
+   "chan_name": "Show Radyo",
+   "epg_code": "ShowRadyo.tr",
+   "popularity": 174
+ },
+ {
+   "chan_name": "Show TV HD",
+   "epg_code": "ShowTV.tr",
+   "popularity": 840573
+ },
+ {
+   "chan_name": "Slow Türk",
+   "epg_code": "SlowTurk.tr",
+   "popularity": 181
+ },
+ {
+   "chan_name": "Spor Smart",
+   "epg_code": "SmartSpor1.tr",
+   "popularity": 1719
+ },
+ {
+   "chan_name": "Star TV HD",
+   "epg_code": "Start.tr",
+   "popularity": 502525
+ },
+ {
+   "chan_name": "Taraftar 2 HD",
+   "epg_code": "Taraftar2.tr",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Taraftar HD",
+   "epg_code": "Taraftar.tr",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Teve2 HD",
+   "epg_code": "TV2.tr",
+   "popularity": 106291
+ },
+ {
+   "chan_name": "TLC",
+   "epg_code": "TLC.tr",
+   "popularity": 9043
+ },
+ {
+   "chan_name": "TRT 1 HD",
+   "epg_code": "TRT1.tr",
+   "popularity": 469855
+ },
+ {
+   "chan_name": "TRT 2 HD",
+   "epg_code": "TRT2.tr",
+   "popularity": 15051
+ },
+ {
+   "chan_name": "TRT 3 - TRT Spor",
+   "epg_code": "TRT3.tr",
+   "popularity": 95264
+ },
+ {
+   "chan_name": "TRT Arabi",
+   "epg_code": "TRTAlArabiya.tr",
+   "popularity": 6956
+ },
+ {
+   "chan_name": "TRT AVAZ",
+   "epg_code": "TRTAVAZ.tr",
+   "popularity": 24381
+ },
+ {
+   "chan_name": "TRT Belgesel HD",
+   "epg_code": "TRTBelgeselHD.tr",
+   "popularity": 120
+ },
+ {
+   "chan_name": "TRT Çocuk",
+   "epg_code": "TRTCocuk.tr",
+   "popularity": 36264
+ },
+ {
+   "chan_name": "TRT Haber HD",
+   "epg_code": "TRTHaberHD.tr",
+   "popularity": 273
+ },
+ {
+   "chan_name": "TRT Kurdi",
+   "epg_code": "TRTKurdi.tr",
+   "popularity": 2875
+ },
+ {
+   "chan_name": "TRT Spor",
+   "epg_code": "TRTSPOR.tr",
+   "popularity": 12390
+ },
+ {
+   "chan_name": "TRT Spor 2",
+   "epg_code": "TRTSpor2.tr",
+   "popularity": 7036
+ },
+ {
+   "chan_name": "TRT World HD",
+   "epg_code": "TRTWorldHD.tr",
+   "popularity": 12203
+ },
+ {
+   "chan_name": "TRT1 HD",
+   "epg_code": "TRT1HD.tr",
+   "popularity": 26082
+ },
+ {
+   "chan_name": "Tv 100",
+   "epg_code": "Tv100.tr",
+   "popularity": 4530
+ },
+ {
+   "chan_name": "TV5 Monde Europe",
+   "epg_code": "TV5Monde.tr",
+   "popularity": 1914
+ },
+ {
+   "chan_name": "TV8 HD",
+   "epg_code": "TV8.tr",
+   "popularity": 586644
+ },
+ {
+   "chan_name": "TVNET HD",
+   "epg_code": "TVNet.tr",
+   "popularity": 30935
+ },
+ {
+   "chan_name": "VH1",
+   "epg_code": "VH1.tr",
+   "popularity": 19
+ },
+ {
+   "chan_name": "Yaban TV",
+   "epg_code": "YabanTV.tr",
+   "popularity": 1996
+ }
+]

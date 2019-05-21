@@ -1,0 +1,1172 @@
+[
+ {
+   "chan_name": "#0",
+   "epg_code": "Hashtag0.es",
+   "popularity": 20545
+ },
+ {
+   "chan_name": "#Vamos",
+   "epg_code": "Vamos.es",
+   "popularity": 7205
+ },
+ {
+   "chan_name": "13 TV",
+   "epg_code": "13tv.es",
+   "popularity": 6285
+ },
+ {
+   "chan_name": "24 Horas",
+   "epg_code": "24Horas.sp",
+   "popularity": 15689
+ },
+ {
+   "chan_name": "3 24",
+   "epg_code": "324.es",
+   "popularity": 310
+ },
+ {
+   "chan_name": "7 Region de Murcia",
+   "epg_code": "7tv.es",
+   "popularity": 168
+ },
+ {
+   "chan_name": "8 Madrid TV",
+   "epg_code": "8Madrid.sp",
+   "popularity": 421
+ },
+ {
+   "chan_name": "8TV",
+   "epg_code": "8tv.es",
+   "popularity": 8
+ },
+ {
+   "chan_name": "A Punt",
+   "epg_code": "Apunt.es",
+   "popularity": 284
+ },
+ {
+   "chan_name": "Al Jazeera English",
+   "epg_code": "AlJazeeraEnglish.es",
+   "popularity": 2429
+ },
+ {
+   "chan_name": "Alquiler 1",
+   "epg_code": "Taquilla1.es",
+   "popularity": 1657
+ },
+ {
+   "chan_name": "Alquiler 2",
+   "epg_code": "Taquilla2.es",
+   "popularity": 530
+ },
+ {
+   "chan_name": "Alquiler 2 HD",
+   "epg_code": "Taquilla2HD.es",
+   "popularity": 551
+ },
+ {
+   "chan_name": "Alquiler 3",
+   "epg_code": "Taquilla3.es",
+   "popularity": 419
+ },
+ {
+   "chan_name": "Alquiler 4",
+   "epg_code": "Taquilla4.es",
+   "popularity": 371
+ },
+ {
+   "chan_name": "Alquiler 5",
+   "epg_code": "Taquilla5.es",
+   "popularity": 370
+ },
+ {
+   "chan_name": "Alquiler 6",
+   "epg_code": "Taquilla6.es",
+   "popularity": 389
+ },
+ {
+   "chan_name": "Alquiler HD",
+   "epg_code": "TaquillaHD.es",
+   "popularity": 27
+ },
+ {
+   "chan_name": "AMC",
+   "epg_code": "AMC.es",
+   "popularity": 22686
+ },
+ {
+   "chan_name": "Andalucia TV",
+   "epg_code": "AndaluciaTVsat.sp",
+   "popularity": 1996
+ },
+ {
+   "chan_name": "Antena 3",
+   "epg_code": "Antena3.sp",
+   "popularity": 100706
+ },
+ {
+   "chan_name": "Aragon Television",
+   "epg_code": "AragonTV.es",
+   "popularity": 285
+ },
+ {
+   "chan_name": "Aragon TV Int",
+   "epg_code": "AragonTVsat.es",
+   "popularity": 121
+ },
+ {
+   "chan_name": "Aragón TV Int",
+   "epg_code": "AragonTVsat.sp",
+   "popularity": 2068
+ },
+ {
+   "chan_name": "ARIRANG TV",
+   "epg_code": "ARIRANGTV.es",
+   "popularity": 6
+ },
+ {
+   "chan_name": "Atreseries",
+   "epg_code": "A3seriesHD.es",
+   "popularity": 737
+ },
+ {
+   "chan_name": "AXN",
+   "epg_code": "AXNhd.sp",
+   "popularity": 15356
+ },
+ {
+   "chan_name": "AXN White",
+   "epg_code": "AXNWhite.es",
+   "popularity": 21580
+ },
+ {
+   "chan_name": "AyE",
+   "epg_code": "AandE.es",
+   "popularity": 870
+ },
+ {
+   "chan_name": "Az Corazon",
+   "epg_code": "AzCorazon.es",
+   "popularity": 4
+ },
+ {
+   "chan_name": "Baby TV",
+   "epg_code": "BabyTV.sp",
+   "popularity": 3916
+ },
+ {
+   "chan_name": "Barça TV",
+   "epg_code": "BarcaTV.es",
+   "popularity": 16198
+ },
+ {
+   "chan_name": "BBC World",
+   "epg_code": "BBCWorld.es",
+   "popularity": 8
+ },
+ {
+   "chan_name": "BE MAD",
+   "epg_code": "BEMAD.es",
+   "popularity": 6096
+ },
+ {
+   "chan_name": "BE MAD TV HD",
+   "epg_code": "BeMadTV.es",
+   "popularity": 1837
+ },
+ {
+   "chan_name": "BeIN LaLiga",
+   "epg_code": "BeINLaLiga.es",
+   "popularity": 1296
+ },
+ {
+   "chan_name": "Bein LaLiga 1",
+   "epg_code": "BeinLaLiga1.es",
+   "popularity": 63
+ },
+ {
+   "chan_name": "Bein LaLiga 2",
+   "epg_code": "BeinLaLiga2.es",
+   "popularity": 21
+ },
+ {
+   "chan_name": "Betevé",
+   "epg_code": "Beteve.es",
+   "popularity": 256
+ },
+ {
+   "chan_name": "Betis TV",
+   "epg_code": "BetisTV.es",
+   "popularity": 1626
+ },
+ {
+   "chan_name": "Blaze",
+   "epg_code": "Blaze.es",
+   "popularity": 2229
+ },
+ {
+   "chan_name": "Bloomberg",
+   "epg_code": "Bloomberg.es",
+   "popularity": 53
+ },
+ {
+   "chan_name": "Boing",
+   "epg_code": "Boing.sp",
+   "popularity": 5223
+ },
+ {
+   "chan_name": "Buzz",
+   "epg_code": "Buzz.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Calle 13",
+   "epg_code": "Calle13.sp",
+   "popularity": 22164
+ },
+ {
+   "chan_name": "Canal 33",
+   "epg_code": "Canal33.es",
+   "popularity": 888
+ },
+ {
+   "chan_name": "Canal Cocina",
+   "epg_code": "Cocina.sp",
+   "popularity": 12605
+ },
+ {
+   "chan_name": "Canal de las Estrellas",
+   "epg_code": "CanalEstrellas.es",
+   "popularity": 464
+ },
+ {
+   "chan_name": "Canal Decasa",
+   "epg_code": "Decasa.sp",
+   "popularity": 5190
+ },
+ {
+   "chan_name": "Canal Extremadura",
+   "epg_code": "CanalExtremadura.es",
+   "popularity": 3716
+ },
+ {
+   "chan_name": "Canal Fútbol Replay",
+   "epg_code": "CanalFutbolReplay.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Canal Orbe 21",
+   "epg_code": "CanalOrbe21.es",
+   "popularity": 132
+ },
+ {
+   "chan_name": "Canal Panda",
+   "epg_code": "Panda.es",
+   "popularity": 5251
+ },
+ {
+   "chan_name": "Canal Parlamento",
+   "epg_code": "CanalParlamento.es",
+   "popularity": 160
+ },
+ {
+   "chan_name": "Canal Sur",
+   "epg_code": "CanalSur.es",
+   "popularity": 2590
+ },
+ {
+   "chan_name": "Canal Sur 1",
+   "epg_code": "CanalSur1.es",
+   "popularity": 254
+ },
+ {
+   "chan_name": "Canal Sur Andalucía",
+   "epg_code": "CanalSurAndalucia.es",
+   "popularity": 2716
+ },
+ {
+   "chan_name": "CANAL VASCO",
+   "epg_code": "ETBsatVasco.es",
+   "popularity": 6
+ },
+ {
+   "chan_name": "Canal+ Toros",
+   "epg_code": "CanalPlusToros.es",
+   "popularity": 10218
+ },
+ {
+   "chan_name": "Caracol TV",
+   "epg_code": "Caracol.es",
+   "popularity": 9
+ },
+ {
+   "chan_name": "Castilla-La Mancha Media",
+   "epg_code": "CMM.es",
+   "popularity": 317
+ },
+ {
+   "chan_name": "Caza y Pesca",
+   "epg_code": "CazayPesca.es",
+   "popularity": 10891
+ },
+ {
+   "chan_name": "Cazavision",
+   "epg_code": "Cazavision.es",
+   "popularity": 1225
+ },
+ {
+   "chan_name": "CGTN Espanol",
+   "epg_code": "CGTN.es",
+   "popularity": 124
+ },
+ {
+   "chan_name": "Clan TVE",
+   "epg_code": "ClanTVE.sp",
+   "popularity": 6898
+ },
+ {
+   "chan_name": "Classica",
+   "epg_code": "Classica.es",
+   "popularity": 2026
+ },
+ {
+   "chan_name": "Classica HD",
+   "epg_code": "ClassicaHD.es",
+   "popularity": 124
+ },
+ {
+   "chan_name": "CNBC",
+   "epg_code": "CNBC.es",
+   "popularity": 3
+ },
+ {
+   "chan_name": "CNC World",
+   "epg_code": "CNCWorld.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "CNN Int",
+   "epg_code": "CNNInt.es",
+   "popularity": 8
+ },
+ {
+   "chan_name": "Comedy Central",
+   "epg_code": "ComedyCentral.sp",
+   "popularity": 11085
+ },
+ {
+   "chan_name": "Cosmopolitan HD",
+   "epg_code": "CosmopolitanHD.es",
+   "popularity": 11727
+ },
+ {
+   "chan_name": "Crimen + Investigacion",
+   "epg_code": "CrimeAndInvestigation.es",
+   "popularity": 1364
+ },
+ {
+   "chan_name": "Cuatro",
+   "epg_code": "Cuatro.sp",
+   "popularity": 80028
+ },
+ {
+   "chan_name": "Cubavisión",
+   "epg_code": "Cubavision.sp",
+   "popularity": 147
+ },
+ {
+   "chan_name": "CyL 7",
+   "epg_code": "CyL7.es",
+   "popularity": 13
+ },
+ {
+   "chan_name": "CyL 8",
+   "epg_code": "CyL8.es",
+   "popularity": 10
+ },
+ {
+   "chan_name": "Dark",
+   "epg_code": "Dark.es",
+   "popularity": 4656
+ },
+ {
+   "chan_name": "Dark Red",
+   "epg_code": "DarkRed.es",
+   "popularity": 534
+ },
+ {
+   "chan_name": "DCine Español",
+   "epg_code": "DCineEsp.sp",
+   "popularity": 6028
+ },
+ {
+   "chan_name": "Discovery",
+   "epg_code": "DiscoveryIberia.es",
+   "popularity": 26
+ },
+ {
+   "chan_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.sp",
+   "popularity": 10266
+ },
+ {
+   "chan_name": "Discovery MAX",
+   "epg_code": "DiscoveryMAX.es",
+   "popularity": 1030
+ },
+ {
+   "chan_name": "Disney Channel",
+   "epg_code": "DisneyChannel.sp",
+   "popularity": 6813
+ },
+ {
+   "chan_name": "Disney Junior",
+   "epg_code": "DisneyJr.sp",
+   "popularity": 4395
+ },
+ {
+   "chan_name": "Disney XD",
+   "epg_code": "DisneyXD.sp",
+   "popularity": 1865
+ },
+ {
+   "chan_name": "Disney+ Espana",
+   "epg_code": "Disney+.es",
+   "popularity": 585
+ },
+ {
+   "chan_name": "Divinity",
+   "epg_code": "Divinity.es",
+   "popularity": 11001
+ },
+ {
+   "chan_name": "DKISS",
+   "epg_code": "DKISS.es",
+   "popularity": 5579
+ },
+ {
+   "chan_name": "DMAX",
+   "epg_code": "DMAX.es",
+   "popularity": 6846
+ },
+ {
+   "chan_name": "El Garage TV",
+   "epg_code": "ElGarageTV.es",
+   "popularity": 1
+ },
+ {
+   "chan_name": "El Trece Internacional",
+   "epg_code": "ElTreceInt.es",
+   "popularity": 46
+ },
+ {
+   "chan_name": "Energy",
+   "epg_code": "Energy.es",
+   "popularity": 13410
+ },
+ {
+   "chan_name": "Esport 3",
+   "epg_code": "Esport3.es",
+   "popularity": 3996
+ },
+ {
+   "chan_name": "ETB 1",
+   "epg_code": "etb1.sp",
+   "popularity": 619
+ },
+ {
+   "chan_name": "ETB 2",
+   "epg_code": "ETB2.es",
+   "popularity": 366
+ },
+ {
+   "chan_name": "ETB 4",
+   "epg_code": "ETB4.es",
+   "popularity": 62
+ },
+ {
+   "chan_name": "ETB Sat",
+   "epg_code": "ETBSat.es",
+   "popularity": 122
+ },
+ {
+   "chan_name": "ETB3",
+   "epg_code": "ETB3.es",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Euronews",
+   "epg_code": "Euronews.es",
+   "popularity": 69
+ },
+ {
+   "chan_name": "Eurosport 1",
+   "epg_code": "Eurosport1.es",
+   "popularity": 7028
+ },
+ {
+   "chan_name": "Eurosport 2",
+   "epg_code": "Eurosport2.es",
+   "popularity": 4517
+ },
+ {
+   "chan_name": "Eurosport HD",
+   "epg_code": "EurosportHD.sp",
+   "popularity": 1230
+ },
+ {
+   "chan_name": "EWTN",
+   "epg_code": "EWTN.es",
+   "popularity": 8
+ },
+ {
+   "chan_name": "Extremadura TV SAT",
+   "epg_code": "ExtremaduraSAT.es",
+   "popularity": 16
+ },
+ {
+   "chan_name": "Factoría de Ficción",
+   "epg_code": "FDF.sp",
+   "popularity": 23413
+ },
+ {
+   "chan_name": "Fashion Television",
+   "epg_code": "FashionTV.es",
+   "popularity": 7
+ },
+ {
+   "chan_name": "Fight Sports",
+   "epg_code": "FightSports.es",
+   "popularity": 121
+ },
+ {
+   "chan_name": "Fox",
+   "epg_code": "Fox.sp",
+   "popularity": 13924
+ },
+ {
+   "chan_name": "Fox Life",
+   "epg_code": "FoxLife.sp",
+   "popularity": 12943
+ },
+ {
+   "chan_name": "Fox News",
+   "epg_code": "FoxNews.es",
+   "popularity": 1492
+ },
+ {
+   "chan_name": "FRANCE 24",
+   "epg_code": "FRANCE24.es",
+   "popularity": 321
+ },
+ {
+   "chan_name": "Galicia TV Europa",
+   "epg_code": "GaliciaTVEuropa.es",
+   "popularity": 91
+ },
+ {
+   "chan_name": "Garage TV",
+   "epg_code": "GarageTV.es",
+   "popularity": 503
+ },
+ {
+   "chan_name": "GOL",
+   "epg_code": "GOL.es",
+   "popularity": 33539
+ },
+ {
+   "chan_name": "Hispan TV",
+   "epg_code": "HispanTV.es",
+   "popularity": 507
+ },
+ {
+   "chan_name": "Historia",
+   "epg_code": "Historia.sp",
+   "popularity": 14193
+ },
+ {
+   "chan_name": "Hollywood",
+   "epg_code": "Hollywood.sp",
+   "popularity": 20246
+ },
+ {
+   "chan_name": "IB3",
+   "epg_code": "IB3.es",
+   "popularity": 33
+ },
+ {
+   "chan_name": "IB3 RTV Illes Balears",
+   "epg_code": "IB3RTVIllesBalears.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Iberalia TV",
+   "epg_code": "IberaliaTV.es",
+   "popularity": 9965
+ },
+ {
+   "chan_name": "Intereconomía TV",
+   "epg_code": "Intereconomia.sp",
+   "popularity": 2149
+ },
+ {
+   "chan_name": "LA 1",
+   "epg_code": "LA1.es",
+   "popularity": 71281
+ },
+ {
+   "chan_name": "LA 2",
+   "epg_code": "LA2.es",
+   "popularity": 13841
+ },
+ {
+   "chan_name": "La Otra",
+   "epg_code": "LaOtra.es",
+   "popularity": 854
+ },
+ {
+   "chan_name": "La Sexta",
+   "epg_code": "LaSexta.sp",
+   "popularity": 64097
+ },
+ {
+   "chan_name": "LaLiga 123 TV",
+   "epg_code": "LaLiga123.es",
+   "popularity": 73
+ },
+ {
+   "chan_name": "LaLiga TV Bar",
+   "epg_code": "LaLigaTVBar.es",
+   "popularity": 2830
+ },
+ {
+   "chan_name": "LaLiga TV Bar 1",
+   "epg_code": "LaLigaTVBar1.es",
+   "popularity": 777
+ },
+ {
+   "chan_name": "LaLiga TV Bar 2",
+   "epg_code": "LaLigaTVBar2.es",
+   "popularity": 3606
+ },
+ {
+   "chan_name": "LaLiga TV Bar 3",
+   "epg_code": "LaLigaTVBar3.es",
+   "popularity": 2164
+ },
+ {
+   "chan_name": "LaLiga TV Bar 4",
+   "epg_code": "LaLigaTVBar4.es",
+   "popularity": 728
+ },
+ {
+   "chan_name": "LaLiga TV Bar 5",
+   "epg_code": "LaLigaTVBar5.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "LaLiga TV Bar 6",
+   "epg_code": "LaLigaTVBar6.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Libertad Digital",
+   "epg_code": "LibertadDigital.es",
+   "popularity": 30
+ },
+ {
+   "chan_name": "Mega",
+   "epg_code": "Mega.es",
+   "popularity": 9913
+ },
+ {
+   "chan_name": "Mezzo",
+   "epg_code": "Mezzo.sp",
+   "popularity": 403
+ },
+ {
+   "chan_name": "Mezzo Live HD",
+   "epg_code": "MezzoLiveHD.sp",
+   "popularity": 1634
+ },
+ {
+   "chan_name": "Motorsport.TV",
+   "epg_code": "Motorsport.es",
+   "popularity": 48
+ },
+ {
+   "chan_name": "Movistar Disney",
+   "epg_code": "MovistarDisney.es",
+   "popularity": 677
+ },
+ {
+   "chan_name": "Movistar Doc&Roll",
+   "epg_code": "CanalPlusXtra.sp",
+   "popularity": 1834
+ },
+ {
+   "chan_name": "Movistar Drama",
+   "epg_code": "CanalPlusDCine.sp",
+   "popularity": 9191
+ },
+ {
+   "chan_name": "Movistar eSports",
+   "epg_code": "M.eSports.sp",
+   "popularity": 8
+ },
+ {
+   "chan_name": "Movistar Formula1 Multi1",
+   "epg_code": "F1Multi1.es",
+   "popularity": 27
+ },
+ {
+   "chan_name": "Movistar Formula1 Multi2",
+   "epg_code": "F1Multi2.es",
+   "popularity": 15
+ },
+ {
+   "chan_name": "Movistar Formula1 Multi3",
+   "epg_code": "F1Multi3.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Movistar Formula1 Multi4",
+   "epg_code": "F1Multi4.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Movistar Formula1 Multi5",
+   "epg_code": "F1Multi5.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Movistar LaLiga",
+   "epg_code": "M.LaLiga.es",
+   "popularity": 41291
+ },
+ {
+   "chan_name": "Movistar LaLiga 1",
+   "epg_code": "M.LaLiga1.es",
+   "popularity": 6115
+ },
+ {
+   "chan_name": "Movistar LaLiga 1 UHD",
+   "epg_code": "M.LaLiga1UHD.es",
+   "popularity": 149
+ },
+ {
+   "chan_name": "Movistar LaLiga 2",
+   "epg_code": "M.LaLiga2.es",
+   "popularity": 2262
+ },
+ {
+   "chan_name": "Movistar LaLiga 3",
+   "epg_code": "M.LaLiga3.es",
+   "popularity": 1303
+ },
+ {
+   "chan_name": "Movistar LaLiga 4",
+   "epg_code": "M.LaLiga4.es",
+   "popularity": 3457
+ },
+ {
+   "chan_name": "Movistar LaLiga 5",
+   "epg_code": "M.LaLiga5.es",
+   "popularity": 658
+ },
+ {
+   "chan_name": "Movistar LaLiga 6",
+   "epg_code": "M.LaLiga6.es",
+   "popularity": 1657
+ },
+ {
+   "chan_name": "Movistar LaLiga 7",
+   "epg_code": "M.LaLiga7.es",
+   "popularity": 676
+ },
+ {
+   "chan_name": "Movistar LaLiga 8",
+   "epg_code": "M.LaLiga8.es",
+   "popularity": 610
+ },
+ {
+   "chan_name": "Movistar LaLiga 9",
+   "epg_code": "M.LaLiga9.es",
+   "popularity": 632
+ },
+ {
+   "chan_name": "Movistar LaLiga UHD",
+   "epg_code": "M.LaLigaUHD.es",
+   "popularity": 251
+ },
+ {
+   "chan_name": "Movistar Liga de Campeones",
+   "epg_code": "MLigaCampeones.es",
+   "popularity": 18207
+ },
+ {
+   "chan_name": "Movistar Liga de Campeones 1",
+   "epg_code": "MovistarLDC1.es",
+   "popularity": 5966
+ },
+ {
+   "chan_name": "Movistar Liga de Campeones 2",
+   "epg_code": "MovistarLDC2.es",
+   "popularity": 6068
+ },
+ {
+   "chan_name": "Movistar MotoGP Multi1",
+   "epg_code": "MotoGPMulti1.es",
+   "popularity": 6
+ },
+ {
+   "chan_name": "Movistar Seriesmania",
+   "epg_code": "CanalPlusSeriesXtra.sp",
+   "popularity": 2364
+ },
+ {
+   "chan_name": "Movistar+ Accion",
+   "epg_code": "CanalPlusAccion.es",
+   "popularity": 35328
+ },
+ {
+   "chan_name": "Movistar+ Comedia",
+   "epg_code": "CanalPlusComedia.es",
+   "popularity": 21622
+ },
+ {
+   "chan_name": "Movistar+ Deportes",
+   "epg_code": "CanalPlusDeportes.es",
+   "popularity": 6908
+ },
+ {
+   "chan_name": "Movistar+ Deportes2",
+   "epg_code": "CanalPlusDeportes2.es",
+   "popularity": 1566
+ },
+ {
+   "chan_name": "Movistar+ Estrenos",
+   "epg_code": "CanalPlusEstrenos.sp",
+   "popularity": 26002
+ },
+ {
+   "chan_name": "Movistar+ F1",
+   "epg_code": "MovistarFormula1.es",
+   "popularity": 10817
+ },
+ {
+   "chan_name": "Movistar+ Futbol",
+   "epg_code": "CanalPlusFutbol.es",
+   "popularity": 1554
+ },
+ {
+   "chan_name": "Movistar+ Golf",
+   "epg_code": "Golf.sp",
+   "popularity": 8728
+ },
+ {
+   "chan_name": "Movistar+ Moto GP",
+   "epg_code": "MovistarMotoGP.es",
+   "popularity": 431
+ },
+ {
+   "chan_name": "Movistar+ Partidazo",
+   "epg_code": "CanalPlusPartidazo.es",
+   "popularity": 185
+ },
+ {
+   "chan_name": "Movistar+ Series",
+   "epg_code": "CanalPlusSeries.sp",
+   "popularity": 22607
+ },
+ {
+   "chan_name": "MTV",
+   "epg_code": "MTV2.sp",
+   "popularity": 272
+ },
+ {
+   "chan_name": "MTV España",
+   "epg_code": "MTVEsp.sp",
+   "popularity": 6586
+ },
+ {
+   "chan_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.es",
+   "popularity": 192
+ },
+ {
+   "chan_name": "MTV Rocks",
+   "epg_code": "MTVRocks.es",
+   "popularity": 469
+ },
+ {
+   "chan_name": "Multideporte 1",
+   "epg_code": "Multideporte1.es",
+   "popularity": 5139
+ },
+ {
+   "chan_name": "My Zen TV",
+   "epg_code": "MyZen.es",
+   "popularity": 1101
+ },
+ {
+   "chan_name": "Nat Geo HD",
+   "epg_code": "NatGeoHD.sp",
+   "popularity": 3766
+ },
+ {
+   "chan_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.sp",
+   "popularity": 10978
+ },
+ {
+   "chan_name": "National Geographic",
+   "epg_code": "NationalGeographic.sp",
+   "popularity": 9434
+ },
+ {
+   "chan_name": "Neox",
+   "epg_code": "Neox.sp",
+   "popularity": 18333
+ },
+ {
+   "chan_name": "NHK World",
+   "epg_code": "NHKWorld.es",
+   "popularity": 7
+ },
+ {
+   "chan_name": "Nick Jr",
+   "epg_code": "NickJunior.sp",
+   "popularity": 3264
+ },
+ {
+   "chan_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.sp",
+   "popularity": 9683
+ },
+ {
+   "chan_name": "Nova",
+   "epg_code": "Nova.sp",
+   "popularity": 11668
+ },
+ {
+   "chan_name": "Nuestra Tele",
+   "epg_code": "NuestraTele.es",
+   "popularity": 34
+ },
+ {
+   "chan_name": "Odisea",
+   "epg_code": "Odisea.sp",
+   "popularity": 11184
+ },
+ {
+   "chan_name": "Paramount Channel",
+   "epg_code": "Paramount.es",
+   "popularity": 6622
+ },
+ {
+   "chan_name": "Playboy TV",
+   "epg_code": "PlayboyTV.es",
+   "popularity": 4572
+ },
+ {
+   "chan_name": "Real Madrid TV",
+   "epg_code": "RealMadridTV.sp",
+   "popularity": 9305
+ },
+ {
+   "chan_name": "RT Español",
+   "epg_code": "RTEspanol.es",
+   "popularity": 446
+ },
+ {
+   "chan_name": "Russia Today",
+   "epg_code": "RT.es",
+   "popularity": 35
+ },
+ {
+   "chan_name": "Sevilla FC TV",
+   "epg_code": "SFCTV.es",
+   "popularity": 178
+ },
+ {
+   "chan_name": "Sky News",
+   "epg_code": "SkyNews.es",
+   "popularity": 6
+ },
+ {
+   "chan_name": "Sol Musica",
+   "epg_code": "SolMusica.sp",
+   "popularity": 143
+ },
+ {
+   "chan_name": "Somos",
+   "epg_code": "Somos.sp",
+   "popularity": 5626
+ },
+ {
+   "chan_name": "Sundance",
+   "epg_code": "Sundance.es",
+   "popularity": 4383
+ },
+ {
+   "chan_name": "Super 3/33",
+   "epg_code": "Super3.es",
+   "popularity": 66
+ },
+ {
+   "chan_name": "Surf Channel",
+   "epg_code": "SurfChannel.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Syfy",
+   "epg_code": "Scifi.sp",
+   "popularity": 8685
+ },
+ {
+   "chan_name": "Taroteame TV",
+   "epg_code": "Taroteame.es",
+   "popularity": 10
+ },
+ {
+   "chan_name": "TCM",
+   "epg_code": "TCM.sp",
+   "popularity": 10723
+ },
+ {
+   "chan_name": "Telecinco",
+   "epg_code": "Telecinco.sp",
+   "popularity": 182091
+ },
+ {
+   "chan_name": "Teledeporte",
+   "epg_code": "Teledeporte.sp",
+   "popularity": 10038
+ },
+ {
+   "chan_name": "Telefe Internacional",
+   "epg_code": "TelefeInternacional.es",
+   "popularity": 30
+ },
+ {
+   "chan_name": "Telemadrid",
+   "epg_code": "Telemadrid.es",
+   "popularity": 400
+ },
+ {
+   "chan_name": "Telesur",
+   "epg_code": "Telesur.es",
+   "popularity": 12371
+ },
+ {
+   "chan_name": "Ten",
+   "epg_code": "Ten.es",
+   "popularity": 4779
+ },
+ {
+   "chan_name": "TNT",
+   "epg_code": "TNT.sp",
+   "popularity": 11294
+ },
+ {
+   "chan_name": "TPA",
+   "epg_code": "TPA.es",
+   "popularity": 2
+ },
+ {
+   "chan_name": "TPA 7",
+   "epg_code": "TPA7.es",
+   "popularity": 89
+ },
+ {
+   "chan_name": "TPA8",
+   "epg_code": "TPA8.es",
+   "popularity": 35
+ },
+ {
+   "chan_name": "Trece",
+   "epg_code": "Trece.es",
+   "popularity": 4559
+ },
+ {
+   "chan_name": "TV Canaria",
+   "epg_code": "TvCanaria.sp",
+   "popularity": 299
+ },
+ {
+   "chan_name": "TV Chile",
+   "epg_code": "TVChile.es",
+   "popularity": 1
+ },
+ {
+   "chan_name": "TV Colombia",
+   "epg_code": "TVColombia.es",
+   "popularity": 1
+ },
+ {
+   "chan_name": "TV Galicia",
+   "epg_code": "TVGalicia.es",
+   "popularity": 938
+ },
+ {
+   "chan_name": "TV Record",
+   "epg_code": "TVRecord.sp",
+   "popularity": 1593
+ },
+ {
+   "chan_name": "TV3",
+   "epg_code": "TV3.es",
+   "popularity": 1020
+ },
+ {
+   "chan_name": "TV3 Cat",
+   "epg_code": "TV3cat.sp",
+   "popularity": 401
+ },
+ {
+   "chan_name": "TV5MONDE",
+   "epg_code": "TV5MONDE.es",
+   "popularity": 4
+ },
+ {
+   "chan_name": "TVE",
+   "epg_code": "TVE.sp",
+   "popularity": 22
+ },
+ {
+   "chan_name": "TVG",
+   "epg_code": "TVG.es",
+   "popularity": 160
+ },
+ {
+   "chan_name": "TVG - TV Galicia",
+   "epg_code": "TVG-TVGalicia.es",
+   "popularity": 0
+ },
+ {
+   "chan_name": "tvG2",
+   "epg_code": "tvG2.es",
+   "popularity": 14
+ },
+ {
+   "chan_name": "VE PLUS TV",
+   "epg_code": "VePlusTV.es",
+   "popularity": 11
+ },
+ {
+   "chan_name": "VH1",
+   "epg_code": "VH1.sp",
+   "popularity": 655
+ },
+ {
+   "chan_name": "Viajar",
+   "epg_code": "Viajar.es",
+   "popularity": 6591
+ },
+ {
+   "chan_name": "XTRM",
+   "epg_code": "XTRM.es",
+   "popularity": 3414
+ }
+]

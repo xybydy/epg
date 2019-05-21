@@ -1,0 +1,3727 @@
+[
+ {
+   "channel_name": "5StarMAX HD",
+   "epg_code": "5StarMAXHD.us",
+   "popularity": 799
+ },
+ {
+   "channel_name": "60s Revolution",
+   "epg_code": "60sRevolution.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "70s Hits",
+   "epg_code": "70sHits.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "8-Tracks",
+   "epg_code": "8-Tracks.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "80s Hits",
+   "epg_code": "80sHits.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "88 Films",
+   "epg_code": "88Films.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "88 TV",
+   "epg_code": "88TV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "90s Hits",
+   "epg_code": "90sHits.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "A Wealth of Entertainment",
+   "epg_code": "AWealthofEntertainment.us",
+   "popularity": 347
+ },
+ {
+   "channel_name": "A Wealth of Entertainment HD",
+   "epg_code": "AWealthofEntertainmentHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "A&E",
+   "epg_code": "A-E.us",
+   "popularity": 1851
+ },
+ {
+   "channel_name": "A&E HD",
+   "epg_code": "A-EHD.us",
+   "popularity": 2058
+ },
+ {
+   "channel_name": "ABS-CBN News Channel",
+   "epg_code": "ABS-CBNNewsChannel.us",
+   "popularity": 250
+ },
+ {
+   "channel_name": "ABS-CBN Sports + Action",
+   "epg_code": "ABS-CBNSports+Action.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ActionMax HD",
+   "epg_code": "ActionMaxHD.us",
+   "popularity": 2340
+ },
+ {
+   "channel_name": "Adult All Access Pass Ch.",
+   "epg_code": "AdultAllAccessPassCh.us",
+   "popularity": 26995
+ },
+ {
+   "channel_name": "Adult Alternative",
+   "epg_code": "AdultAlternative.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Adult Billboard IPPV Ch",
+   "epg_code": "AdultBillboardIPPVCh.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Adult Contemporary",
+   "epg_code": "AdultContemporary.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AFN Atlantic",
+   "epg_code": "AFNAtlantic.us",
+   "popularity": 18
+ },
+ {
+   "channel_name": "AFN Family",
+   "epg_code": "AFNFamily.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AFN Movie",
+   "epg_code": "AFNMovie.us",
+   "popularity": 25
+ },
+ {
+   "channel_name": "AFN News",
+   "epg_code": "AFNNews.us",
+   "popularity": 6
+ },
+ {
+   "channel_name": "AFN Pacific",
+   "epg_code": "AFNPacific.us",
+   "popularity": 16
+ },
+ {
+   "channel_name": "AFN Spectrum",
+   "epg_code": "AFNSpectrum.us",
+   "popularity": 3927
+ },
+ {
+   "channel_name": "AFN Sport",
+   "epg_code": "AFNSport.us",
+   "popularity": 357
+ },
+ {
+   "channel_name": "AFN Sport 2",
+   "epg_code": "AFNSport2.us",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Alternative",
+   "epg_code": "Alternative.us",
+   "popularity": 179
+ },
+ {
+   "channel_name": "Altitude Sports",
+   "epg_code": "AltitudeSports.us",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Altitude Sports HD",
+   "epg_code": "AltitudeSportsHD.us",
+   "popularity": 30
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.us",
+   "popularity": 8152
+ },
+ {
+   "channel_name": "AMC HD",
+   "epg_code": "AMCHD.us",
+   "popularity": 10
+ },
+ {
+   "channel_name": "American Heroes Channel",
+   "epg_code": "AmericanHeroesChannel.us",
+   "popularity": 1624
+ },
+ {
+   "channel_name": "Americas Auction",
+   "epg_code": "AmericasAuction.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.us",
+   "popularity": 3276
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "AnimalPlanetHD.us",
+   "popularity": 1282
+ },
+ {
+   "channel_name": "Aqui",
+   "epg_code": "Aqui.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Arirang TV",
+   "epg_code": "ArirangTV.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "ASPIRE (HD)",
+   "epg_code": "ASPIREHD.us",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Atres Series",
+   "epg_code": "AtresSeries.us",
+   "popularity": 317
+ },
+ {
+   "channel_name": "AVC (Infomercial)",
+   "epg_code": "AVCInfomercial.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AXS TV",
+   "epg_code": "AXSTV.us",
+   "popularity": 1290
+ },
+ {
+   "channel_name": "Azteca",
+   "epg_code": "Azteca.us",
+   "popularity": 540
+ },
+ {
+   "channel_name": "Baby First",
+   "epg_code": "BabyFirst.us",
+   "popularity": 242
+ },
+ {
+   "channel_name": "BabyTV",
+   "epg_code": "BabyTV.us",
+   "popularity": 58
+ },
+ {
+   "channel_name": "Bailamos!",
+   "epg_code": "Bailamos.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bandamax",
+   "epg_code": "Bandamax.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Bang U",
+   "epg_code": "BangU.us",
+   "popularity": 19840
+ },
+ {
+   "channel_name": "BBC America",
+   "epg_code": "BBCAmerica.us",
+   "popularity": 2635
+ },
+ {
+   "channel_name": "BBC America HD",
+   "epg_code": "BBCAmericaHD.us",
+   "popularity": 827
+ },
+ {
+   "channel_name": "BBC World News HD",
+   "epg_code": "BBCWorldNewsHD.us",
+   "popularity": 460
+ },
+ {
+   "channel_name": "Be-Tween",
+   "epg_code": "Be-Tween.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Beauty iQ Channel",
+   "epg_code": "BeautyiQChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "beIN SPORTS",
+   "epg_code": "beINSPORTS.us",
+   "popularity": 17809
+ },
+ {
+   "channel_name": "beIN SPORTS en espanol",
+   "epg_code": "beINSPORTSenespanol.us",
+   "popularity": 15376
+ },
+ {
+   "channel_name": "beIN SPORTS en espanol HD",
+   "epg_code": "beINSPORTSenespanolHD.us",
+   "popularity": 48
+ },
+ {
+   "channel_name": "beIN SPORTS HD",
+   "epg_code": "beINSPORTSHD.us",
+   "popularity": 5731
+ },
+ {
+   "channel_name": "BEST Channel",
+   "epg_code": "BESTChannel.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "BET",
+   "epg_code": "BET.us",
+   "popularity": 3868
+ },
+ {
+   "channel_name": "BET HD",
+   "epg_code": "BETHD.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Big Band/Swing",
+   "epg_code": "BigBand-Swing.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bloomberg TV",
+   "epg_code": "BloombergTV.us",
+   "popularity": 1700
+ },
+ {
+   "channel_name": "Bloomberg TV HD",
+   "epg_code": "BloombergTVHD.us",
+   "popularity": 8925
+ },
+ {
+   "channel_name": "Bluegrass",
+   "epg_code": "Bluegrass.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Blues",
+   "epg_code": "Blues.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.us",
+   "popularity": 1435
+ },
+ {
+   "channel_name": "Bravo",
+   "epg_code": "Bravo.us",
+   "popularity": 5126
+ },
+ {
+   "channel_name": "Bravo HD",
+   "epg_code": "BravoHD.us",
+   "popularity": 1485
+ },
+ {
+   "channel_name": "BraZZers TV",
+   "epg_code": "BraZZersTV.us",
+   "popularity": 30877
+ },
+ {
+   "channel_name": "BraZZers TV Monthly Offer",
+   "epg_code": "BraZZersTVMonthlyOffer.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Brigham Young University",
+   "epg_code": "BYU.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "BTN",
+   "epg_code": "BTN.us",
+   "popularity": 488
+ },
+ {
+   "channel_name": "BTN HD",
+   "epg_code": "BTNHD.us",
+   "popularity": 305
+ },
+ {
+   "channel_name": "BUZZ TV",
+   "epg_code": "BUZZTV.us",
+   "popularity": 92
+ },
+ {
+   "channel_name": "BUZZ TV (288)",
+   "epg_code": "BUZZTV288.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "BYUtv",
+   "epg_code": "BYUtv.us",
+   "popularity": 99
+ },
+ {
+   "channel_name": "C1RW",
+   "epg_code": "C1RW.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Canal 22 Mexico Internacional",
+   "epg_code": "Canal22MexicoInternacional.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Caracol TV",
+   "epg_code": "CaracolTV.us",
+   "popularity": 623
+ },
+ {
+   "channel_name": "Carnaval Brasileiro",
+   "epg_code": "CarnavalBrasileiro.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Carousel",
+   "epg_code": "Carousel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.us",
+   "popularity": 3237
+ },
+ {
+   "channel_name": "Cartoon Network HD",
+   "epg_code": "CartoonNetworkHD.us",
+   "popularity": 783
+ },
+ {
+   "channel_name": "Cartoon Network West",
+   "epg_code": "CartoonNetworkWest.us",
+   "popularity": 206
+ },
+ {
+   "channel_name": "CASH (HD)",
+   "epg_code": "CASHHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CBO",
+   "epg_code": "CBO.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CBS Sports Network",
+   "epg_code": "CBSSportsNetwork.us",
+   "popularity": 2277
+ },
+ {
+   "channel_name": "CBS Sports Network HD",
+   "epg_code": "CBSSportsNetworkHD.us",
+   "popularity": 492
+ },
+ {
+   "channel_name": "CCTV-4",
+   "epg_code": "CCTV-4.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Celebrity Shopping TV",
+   "epg_code": "CelebrityShoppingTV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Centric",
+   "epg_code": "Centric.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Centroamerica TV",
+   "epg_code": "CentroamericaTV.us",
+   "popularity": 10
+ },
+ {
+   "channel_name": "CGTN",
+   "epg_code": "CGTN.us",
+   "popularity": 247
+ },
+ {
+   "channel_name": "Charming China",
+   "epg_code": "CharmingChina.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Charming China (119)",
+   "epg_code": "CharmingChina119.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Chiller",
+   "epg_code": "Chiller.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Christian Television Net",
+   "epg_code": "ChristianTelevisionNet.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cine Estelar",
+   "epg_code": "CineEstelar.us",
+   "popularity": 166
+ },
+ {
+   "channel_name": "Cine Mexicano",
+   "epg_code": "CineMexicano.us",
+   "popularity": 187
+ },
+ {
+   "channel_name": "Cine Nostalgia",
+   "epg_code": "CineNostalgia.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Cine Sony",
+   "epg_code": "CineSony.us",
+   "popularity": 758
+ },
+ {
+   "channel_name": "CINE4K",
+   "epg_code": "CINE4K.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cinelatino",
+   "epg_code": "Cinelatino.us",
+   "popularity": 282
+ },
+ {
+   "channel_name": "Cinema One Global",
+   "epg_code": "CinemaOneGlobal.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CinemÄx",
+   "epg_code": "CinemÄx.us",
+   "popularity": 753
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "CinemaxEast.us",
+   "popularity": 1733
+ },
+ {
+   "channel_name": "Cinemax East HD",
+   "epg_code": "CinemaxEastHD.us",
+   "popularity": 4173
+ },
+ {
+   "channel_name": "Cinemax West",
+   "epg_code": "CinemaxWest.us",
+   "popularity": 76
+ },
+ {
+   "channel_name": "Cinemax West HD",
+   "epg_code": "CinemaxWestHD.us",
+   "popularity": 313
+ },
+ {
+   "channel_name": "Classic Hits Blend",
+   "epg_code": "ClassicHitsBlend.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Classic Jazz Vocal...",
+   "epg_code": "ClassicJazzVocal.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Classic R&B",
+   "epg_code": "ClassicR-B.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Classic Rock",
+   "epg_code": "ClassicRock.us",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Classic Rock Workout",
+   "epg_code": "ClassicRockWorkout.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CMT",
+   "epg_code": "CMT.us",
+   "popularity": 1295
+ },
+ {
+   "channel_name": "CMT HD",
+   "epg_code": "CMTHD.us",
+   "popularity": 1381
+ },
+ {
+   "channel_name": "CNBC",
+   "epg_code": "CNBC.us",
+   "popularity": 16119
+ },
+ {
+   "channel_name": "CNBC HD",
+   "epg_code": "CNBCHD.us",
+   "popularity": 1360
+ },
+ {
+   "channel_name": "CNBC World",
+   "epg_code": "CNBCWorld.us",
+   "popularity": 1148
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNN.us",
+   "popularity": 69329
+ },
+ {
+   "channel_name": "CNN en Espanol",
+   "epg_code": "CNNenEspanol.us",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Coffeehouse Rock",
+   "epg_code": "CoffeehouseRock.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "College Rock",
+   "epg_code": "CollegeRock.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet Chicago",
+   "epg_code": "ComcastSportsNetChicago.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet Chicago HD",
+   "epg_code": "ComcastSportsNetChicagoHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet Mid-Atlantic",
+   "epg_code": "ComcastSportsNetMid-Atlantic.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet Mid-Atlantic HD",
+   "epg_code": "ComcastSportsNetMid-AtlanticHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet New England",
+   "epg_code": "ComcastSportsNetNewEngland.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comcast SportsNet New England HD",
+   "epg_code": "ComcastSportsNetNewEnglandHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.us",
+   "popularity": 4159
+ },
+ {
+   "channel_name": "Comedy Central HD",
+   "epg_code": "ComedyCentralHD.us",
+   "popularity": 1173
+ },
+ {
+   "channel_name": "Comedy TV HD",
+   "epg_code": "ComedyTVHD.us",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Contemporary Instrum.",
+   "epg_code": "ContemporaryInstrum.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cooking Channel",
+   "epg_code": "CookingChannel.us",
+   "popularity": 2963
+ },
+ {
+   "channel_name": "Cooking Channel HD",
+   "epg_code": "CookingChannelHD.us",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Crime & Investigation HD",
+   "epg_code": "Crime-InvestigationHD.us",
+   "popularity": 301
+ },
+ {
+   "channel_name": "CSPAN",
+   "epg_code": "CSPAN.us",
+   "popularity": 1226
+ },
+ {
+   "channel_name": "CSPAN 2",
+   "epg_code": "CSPAN2.us",
+   "popularity": 982
+ },
+ {
+   "channel_name": "CTI",
+   "epg_code": "CTI.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CTI TV (Zhong Tian)",
+   "epg_code": "CTITVZhongTian.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CTS",
+   "epg_code": "CTS.us",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Dance",
+   "epg_code": "Dance.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Daystar",
+   "epg_code": "Daystar.us",
+   "popularity": 86
+ },
+ {
+   "channel_name": "De Pelicula",
+   "epg_code": "DePelicula.us",
+   "popularity": 96
+ },
+ {
+   "channel_name": "De Pelicula Clasico",
+   "epg_code": "DePeliculaClasico.us",
+   "popularity": 155
+ },
+ {
+   "channel_name": "Destination America",
+   "epg_code": "DestinationAmerica.us",
+   "popularity": 4712
+ },
+ {
+   "channel_name": "Destination America HD",
+   "epg_code": "DestinationAmericaHD.us",
+   "popularity": 492
+ },
+ {
+   "channel_name": "DIRECTV Active",
+   "epg_code": "DIRECTVActive.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "DIRECTV Channel",
+   "epg_code": "DIRECTVChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery",
+   "epg_code": "Discovery.us",
+   "popularity": 5057
+ },
+ {
+   "channel_name": "Discovery en Espanol",
+   "epg_code": "DiscoveryenEspanol.us",
+   "popularity": 178
+ },
+ {
+   "channel_name": "Discovery Familia",
+   "epg_code": "DiscoveryFamilia.us",
+   "popularity": 1073
+ },
+ {
+   "channel_name": "Discovery Family Channel",
+   "epg_code": "DiscoveryFamilyChannel.us",
+   "popularity": 7938
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.us",
+   "popularity": 3146
+ },
+ {
+   "channel_name": "Discovery Life",
+   "epg_code": "DiscoveryLife.us",
+   "popularity": 975
+ },
+ {
+   "channel_name": "Disney Channel (East)",
+   "epg_code": "DisneyChannelEast.us",
+   "popularity": 5830
+ },
+ {
+   "channel_name": "Disney Channel (West)",
+   "epg_code": "DisneyChannelWest.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Disney Channel HD",
+   "epg_code": "DisneyChannelHD.us",
+   "popularity": 905
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.us",
+   "popularity": 1787
+ },
+ {
+   "channel_name": "Disney Junior HD",
+   "epg_code": "DisneyJuniorHD.us",
+   "popularity": 623
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.us",
+   "popularity": 3231
+ },
+ {
+   "channel_name": "Disney XD HD",
+   "epg_code": "DisneyXDHD.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "DIY Network HD",
+   "epg_code": "DIYNetworkHD.us",
+   "popularity": 4667
+ },
+ {
+   "channel_name": "Do It Yourself Network",
+   "epg_code": "DoItYourselfNetwork.us",
+   "popularity": 232
+ },
+ {
+   "channel_name": "Dog TV (354)",
+   "epg_code": "DogTV354.us",
+   "popularity": 6489
+ },
+ {
+   "channel_name": "Dom Kino",
+   "epg_code": "DomKino.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "DTV Cinema 3D (103)",
+   "epg_code": "DTVCinema3D103.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "DTV4K",
+   "epg_code": "DTV4K.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "DZMM",
+   "epg_code": "DZMM.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "E!",
+   "epg_code": "E.us",
+   "popularity": 4357
+ },
+ {
+   "channel_name": "E! HD",
+   "epg_code": "EHD.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "EBS",
+   "epg_code": "EBS.us",
+   "popularity": 145
+ },
+ {
+   "channel_name": "Ecuador TV",
+   "epg_code": "EcuadorTV.us",
+   "popularity": 45
+ },
+ {
+   "channel_name": "Ecuavisa Internacional",
+   "epg_code": "EcuavisaInternacional.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "El Rey",
+   "epg_code": "ElRey.us",
+   "popularity": 943
+ },
+ {
+   "channel_name": "Eleven Sports Network HD",
+   "epg_code": "ElevenSportsNetworkHD.us",
+   "popularity": 44
+ },
+ {
+   "channel_name": "Enlace",
+   "epg_code": "Enlace.us",
+   "popularity": 512
+ },
+ {
+   "channel_name": "EPL HD",
+   "epg_code": "EPLHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ESPN Buzzer Beater",
+   "epg_code": "ESPNBuzzerBeater.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ESPN Classic",
+   "epg_code": "ESPNClassic.us",
+   "popularity": 38
+ },
+ {
+   "channel_name": "ESPN College Extra",
+   "epg_code": "ESPNCollegeExtra.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "ESPN College Extra HD",
+   "epg_code": "ESPNCollegeExtraHD.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "ESPN Deportes",
+   "epg_code": "ESPNDeportes.us",
+   "popularity": 3995
+ },
+ {
+   "channel_name": "ESPN Deportes HD",
+   "epg_code": "ESPNDeportesHD.us",
+   "popularity": 703
+ },
+ {
+   "channel_name": "ESPN HD",
+   "epg_code": "ESPNHD.us",
+   "popularity": 11580
+ },
+ {
+   "channel_name": "ESPN2",
+   "epg_code": "ESPN2.us",
+   "popularity": 24640
+ },
+ {
+   "channel_name": "ESPNews",
+   "epg_code": "ESPNews.us",
+   "popularity": 7773
+ },
+ {
+   "channel_name": "ESPNU",
+   "epg_code": "ESPNU.us",
+   "popularity": 5018
+ },
+ {
+   "channel_name": "Estrella TV",
+   "epg_code": "EstrellaTV.us",
+   "popularity": 780
+ },
+ {
+   "channel_name": "EVINE",
+   "epg_code": "EVINE.us",
+   "popularity": 11
+ },
+ {
+   "channel_name": "EVINE (73)",
+   "epg_code": "EVINE73.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "EWTN",
+   "epg_code": "EWTN.us",
+   "popularity": 76
+ },
+ {
+   "channel_name": "Familiar Fav.",
+   "epg_code": "FamiliarFav.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Familiar Favorites",
+   "epg_code": "FamiliarFavorites.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Featured Group",
+   "epg_code": "FeaturedGroup.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fiesta Tropical",
+   "epg_code": "FiestaTropical.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Flashback/New Wave",
+   "epg_code": "Flashback-NewWave.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Flix",
+   "epg_code": "Flix.us",
+   "popularity": 10
+ },
+ {
+   "channel_name": "FM HD",
+   "epg_code": "FMHD.us",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Folk Rock",
+   "epg_code": "FolkRock.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.us",
+   "popularity": 3487
+ },
+ {
+   "channel_name": "Food Network HD",
+   "epg_code": "FoodNetworkHD.us",
+   "popularity": 1202
+ },
+ {
+   "channel_name": "FOROtv",
+   "epg_code": "FOROtv.us",
+   "popularity": 137
+ },
+ {
+   "channel_name": "Fox Business Network",
+   "epg_code": "FoxBusinessNetwork.us",
+   "popularity": 1391
+ },
+ {
+   "channel_name": "Fox Business Network HD",
+   "epg_code": "FoxBusinessNetworkHD.us",
+   "popularity": 3158
+ },
+ {
+   "channel_name": "FOX College Sports Alt.",
+   "epg_code": "FOXCollegeSportsAlt.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "FOX Deportes",
+   "epg_code": "FOXDeportes.us",
+   "popularity": 1181
+ },
+ {
+   "channel_name": "FOX Deportes HD",
+   "epg_code": "FOXDeportesHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FOX Life",
+   "epg_code": "FOXLife.us",
+   "popularity": 657
+ },
+ {
+   "channel_name": "FOX News Channel",
+   "epg_code": "FOXNewsChannel.us",
+   "popularity": 30254
+ },
+ {
+   "channel_name": "FOX News Channel HD",
+   "epg_code": "FOXNewsChannelHD.us",
+   "popularity": 527
+ },
+ {
+   "channel_name": "FOX Soccer Plus",
+   "epg_code": "FOXSoccerPlus.us",
+   "popularity": 4348
+ },
+ {
+   "channel_name": "FOX Sports 1",
+   "epg_code": "FOXSports1.us",
+   "popularity": 10456
+ },
+ {
+   "channel_name": "FOX Sports 1 HD",
+   "epg_code": "FOXSports1HD.us",
+   "popularity": 1128
+ },
+ {
+   "channel_name": "FOX Sports 2",
+   "epg_code": "FOXSports2.us",
+   "popularity": 3652
+ },
+ {
+   "channel_name": "FOX Sports 2 HD",
+   "epg_code": "FOXSports2HD.us",
+   "popularity": 646
+ },
+ {
+   "channel_name": "Fox Sports Southeast",
+   "epg_code": "FoxSportsSoutheast.us",
+   "popularity": 258
+ },
+ {
+   "channel_name": "Fox Sports Southeast HD",
+   "epg_code": "FoxSportsSoutheastHD.us",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Fox Sports Sun",
+   "epg_code": "FoxSportsSun.us",
+   "popularity": 175
+ },
+ {
+   "channel_name": "Fox Sports Sun HD",
+   "epg_code": "FoxSportsSunHD.us",
+   "popularity": 81
+ },
+ {
+   "channel_name": "Free Speech TV",
+   "epg_code": "FreeSpeechTV.us",
+   "popularity": 233
+ },
+ {
+   "channel_name": "Freeform",
+   "epg_code": "Freeform.us",
+   "popularity": 1204
+ },
+ {
+   "channel_name": "Freeform HD",
+   "epg_code": "FreeformHD.us",
+   "popularity": 822
+ },
+ {
+   "channel_name": "FSN Arizona",
+   "epg_code": "FSNArizona.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "FSN Arizona HD",
+   "epg_code": "FSNArizonaHD.us",
+   "popularity": 8
+ },
+ {
+   "channel_name": "FSN Cincinnati",
+   "epg_code": "FSNCincinnati.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN Cincinnati HD",
+   "epg_code": "FSNCincinnatiHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN Detroit",
+   "epg_code": "FSNDetroit.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "FSN Detroit HD",
+   "epg_code": "FSNDetroitHD.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Florida",
+   "epg_code": "FSNFlorida.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Florida HD",
+   "epg_code": "FSNFloridaHD.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "FSN Midwest",
+   "epg_code": "FSNMidwest.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Midwest HD",
+   "epg_code": "FSNMidwestHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN North",
+   "epg_code": "FSNNorth.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN North HD",
+   "epg_code": "FSNNorthHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN Ohio",
+   "epg_code": "FSNOhio.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Ohio HD",
+   "epg_code": "FSNOhioHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN Oklahoma",
+   "epg_code": "FSNOklahoma.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Oklahoma HD",
+   "epg_code": "FSNOklahomaHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN San Diego",
+   "epg_code": "FSNSanDiego.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN San Diego HD",
+   "epg_code": "FSNSanDiegoHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN South",
+   "epg_code": "FSNSouth.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN South HD",
+   "epg_code": "FSNSouthHD.us",
+   "popularity": 69
+ },
+ {
+   "channel_name": "FSN Southwest",
+   "epg_code": "FSNSouthwest.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Southwest HD",
+   "epg_code": "FSNSouthwestHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FSN West",
+   "epg_code": "FSNWest.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN West HD",
+   "epg_code": "FSNWestHD.us",
+   "popularity": 30
+ },
+ {
+   "channel_name": "FSN Wisconsin",
+   "epg_code": "FSNWisconsin.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "FSN Wisconsin HD",
+   "epg_code": "FSNWisconsinHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Full Metal Jacket",
+   "epg_code": "FullMetalJacket.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fuse",
+   "epg_code": "Fuse.us",
+   "popularity": 769
+ },
+ {
+   "channel_name": "Fuse HD",
+   "epg_code": "FuseHD.us",
+   "popularity": 274
+ },
+ {
+   "channel_name": "Fusion HD",
+   "epg_code": "FusionHD.us",
+   "popularity": 186
+ },
+ {
+   "channel_name": "FX",
+   "epg_code": "FX.us",
+   "popularity": 7600
+ },
+ {
+   "channel_name": "FX HD",
+   "epg_code": "FXHD.us",
+   "popularity": 1488
+ },
+ {
+   "channel_name": "FX Movie",
+   "epg_code": "FXMovie.us",
+   "popularity": 2354
+ },
+ {
+   "channel_name": "FXX",
+   "epg_code": "FXX.us",
+   "popularity": 4150
+ },
+ {
+   "channel_name": "FXX HD",
+   "epg_code": "FXXHD.us",
+   "popularity": 2896
+ },
+ {
+   "channel_name": "FYI",
+   "epg_code": "FYI.us",
+   "popularity": 1137
+ },
+ {
+   "channel_name": "FYI HD",
+   "epg_code": "FYIHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Galavision",
+   "epg_code": "Galavision.us",
+   "popularity": 1892
+ },
+ {
+   "channel_name": "Galavision HD",
+   "epg_code": "GalavisionHD.us",
+   "popularity": 268
+ },
+ {
+   "channel_name": "GEB America",
+   "epg_code": "GEBAmerica.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "GEM Shopping Network",
+   "epg_code": "GEMShoppingNetwork.us",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Get IT Infomercial",
+   "epg_code": "GetITInfomercial.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "GMA Life",
+   "epg_code": "GMALife.us",
+   "popularity": 51
+ },
+ {
+   "channel_name": "GMA Pinoy TV",
+   "epg_code": "GMAPinoyTV.us",
+   "popularity": 12
+ },
+ {
+   "channel_name": "GO4IT",
+   "epg_code": "GO4IT.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "GO4IT (92)",
+   "epg_code": "GO4IT92.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "God TV",
+   "epg_code": "GodTV.us",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Golf Channel",
+   "epg_code": "GolfChannel.us",
+   "popularity": 4341
+ },
+ {
+   "channel_name": "Golf Channel HD",
+   "epg_code": "GolfChannelHD.us",
+   "popularity": 61
+ },
+ {
+   "channel_name": "GolTV",
+   "epg_code": "GolTV.us",
+   "popularity": 945
+ },
+ {
+   "channel_name": "Gospel Glory",
+   "epg_code": "GospelGlory.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Great American Country",
+   "epg_code": "GreatAmericanCountry.us",
+   "popularity": 284
+ },
+ {
+   "channel_name": "Great Standards",
+   "epg_code": "GreatStandards.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Groove Lounge",
+   "epg_code": "GrooveLounge.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "GSN",
+   "epg_code": "GSN.us",
+   "popularity": 821
+ },
+ {
+   "channel_name": "GSN HD",
+   "epg_code": "GSNHD.us",
+   "popularity": 1158
+ },
+ {
+   "channel_name": "GZ Television",
+   "epg_code": "GZTelevision.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hair Guitar",
+   "epg_code": "HairGuitar.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hallelujah",
+   "epg_code": "Hallelujah.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hallmark",
+   "epg_code": "Hallmark.us",
+   "popularity": 4436
+ },
+ {
+   "channel_name": "Hallmark Channel HD",
+   "epg_code": "HallmarkChannelHD.us",
+   "popularity": 2495
+ },
+ {
+   "channel_name": "Hallmark Movies & Mysteries",
+   "epg_code": "HallmarkMovies-Mysteries.us",
+   "popularity": 2922
+ },
+ {
+   "channel_name": "HAPPY Channel",
+   "epg_code": "HAPPYChannel.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "HAVAS Channel",
+   "epg_code": "HAVASChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HBO 2 East",
+   "epg_code": "HBO2East.us",
+   "popularity": 4032
+ },
+ {
+   "channel_name": "HBO 2 West",
+   "epg_code": "HBO2West.us",
+   "popularity": 428
+ },
+ {
+   "channel_name": "HBO Comedy HD",
+   "epg_code": "HBOComedyHD.us",
+   "popularity": 2705
+ },
+ {
+   "channel_name": "HBO East",
+   "epg_code": "HBOEast.us",
+   "popularity": 9166
+ },
+ {
+   "channel_name": "HBO Family East",
+   "epg_code": "HBOFamilyEast.us",
+   "popularity": 5171
+ },
+ {
+   "channel_name": "HBO Family East HD",
+   "epg_code": "HBOFamilyEastHD.us",
+   "popularity": 16
+ },
+ {
+   "channel_name": "HBO Family West",
+   "epg_code": "HBOFamilyWest.us",
+   "popularity": 245
+ },
+ {
+   "channel_name": "HBO HD East",
+   "epg_code": "HBOHDEast.us",
+   "popularity": 3230
+ },
+ {
+   "channel_name": "HBO Latino",
+   "epg_code": "HBOLatino.us",
+   "popularity": 2196
+ },
+ {
+   "channel_name": "HBO Latino HD",
+   "epg_code": "HBOLatinoHD.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "HBO Signature",
+   "epg_code": "HBOSignature.us",
+   "popularity": 14289
+ },
+ {
+   "channel_name": "HBO Signature HD East",
+   "epg_code": "HBOSignatureHDEast.us",
+   "popularity": 148
+ },
+ {
+   "channel_name": "HBO West",
+   "epg_code": "HBOWest.us",
+   "popularity": 987
+ },
+ {
+   "channel_name": "HBO West HD",
+   "epg_code": "HBOWestHD.us",
+   "popularity": 510
+ },
+ {
+   "channel_name": "HBO Zone HD",
+   "epg_code": "HBOZoneHD.us",
+   "popularity": 8683
+ },
+ {
+   "channel_name": "HBO2 HD East",
+   "epg_code": "HBO2HDEast.us",
+   "popularity": 741
+ },
+ {
+   "channel_name": "HBO2 West HD",
+   "epg_code": "HBO2WestHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HDNET MOVIES",
+   "epg_code": "HDNETMOVIES.us",
+   "popularity": 756
+ },
+ {
+   "channel_name": "HGTV",
+   "epg_code": "HGTV.us",
+   "popularity": 20402
+ },
+ {
+   "channel_name": "HGTV HD",
+   "epg_code": "HGTVHD.us",
+   "popularity": 2797
+ },
+ {
+   "channel_name": "History",
+   "epg_code": "History.us",
+   "popularity": 2080
+ },
+ {
+   "channel_name": "History en Espanol",
+   "epg_code": "HistoryenEspanol.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.us",
+   "popularity": 1288
+ },
+ {
+   "channel_name": "Hit Country",
+   "epg_code": "HitCountry.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HITN",
+   "epg_code": "HITN.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HLN",
+   "epg_code": "HLN.us",
+   "popularity": 1789
+ },
+ {
+   "channel_name": "Hola TV",
+   "epg_code": "HolaTV.us",
+   "popularity": 612
+ },
+ {
+   "channel_name": "Holidays",
+   "epg_code": "Holidays.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Holidays & Happenings",
+   "epg_code": "Holidays-Happenings.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Home Shopping Network",
+   "epg_code": "HomeShoppingNetwork.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Honky Tonk Tavern",
+   "epg_code": "HonkyTonkTavern.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HONVIETV",
+   "epg_code": "HONVIETV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hope Channel",
+   "epg_code": "HopeChannel.us",
+   "popularity": 48
+ },
+ {
+   "channel_name": "Hot Jamz",
+   "epg_code": "HotJamz.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hottest Hits",
+   "epg_code": "HottestHits.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hurbano",
+   "epg_code": "Hurbano.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hustler & Playboy TV Offers",
+   "epg_code": "Hustler-PlayboyTVOffers.us",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Hustler Monthly Offer",
+   "epg_code": "HustlerMonthlyOffer.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hustler TV",
+   "epg_code": "HustlerTV.us",
+   "popularity": 67199
+ },
+ {
+   "channel_name": "Hype",
+   "epg_code": "Hype.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "i-CABLE",
+   "epg_code": "i-CABLE.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "iCable Financial Info News",
+   "epg_code": "iCableFinancialInfoNews.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "IDEA Channel",
+   "epg_code": "IDEAChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "IFC",
+   "epg_code": "IFC.us",
+   "popularity": 2395
+ },
+ {
+   "channel_name": "IFC HD",
+   "epg_code": "IFCHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "iHeartRADIO",
+   "epg_code": "iHeartRADIO.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "IMPACT TV",
+   "epg_code": "IMPACTTV.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "INCTV",
+   "epg_code": "INCTV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Infomercial",
+   "epg_code": "Infomercial.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Infomercial (Secret)",
+   "epg_code": "InfomercialSecret.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Infomercial Ch",
+   "epg_code": "InfomercialCh.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Infomerical SECRET",
+   "epg_code": "InfomericalSECRET.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Inkd",
+   "epg_code": "Inkd.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "INSP",
+   "epg_code": "INSP.us",
+   "popularity": 271
+ },
+ {
+   "channel_name": "Interactive Advertising Channel HD",
+   "epg_code": "InteractiveAdvertisingChannelHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.us",
+   "popularity": 3668
+ },
+ {
+   "channel_name": "Investigation Discovery HD",
+   "epg_code": "InvestigationDiscoveryHD.us",
+   "popularity": 3255
+ },
+ {
+   "channel_name": "ION Television",
+   "epg_code": "IONTelevision.us",
+   "popularity": 453
+ },
+ {
+   "channel_name": "ION Television East HD",
+   "epg_code": "IONTelevisionEastHD.us",
+   "popularity": 41
+ },
+ {
+   "channel_name": "ION Television West",
+   "epg_code": "IONTelevisionWest.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Irish",
+   "epg_code": "Irish.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Italian Bistro",
+   "epg_code": "ItalianBistro.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Italian Bistro Blend",
+   "epg_code": "ItalianBistroBlend.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Italian Contemp",
+   "epg_code": "ItalianContemp.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Italian Contemporary",
+   "epg_code": "ItalianContemporary.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "IVC Net",
+   "epg_code": "IVCNet.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Jazz",
+   "epg_code": "Jazz.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "JBS",
+   "epg_code": "JBS.us",
+   "popularity": 120
+ },
+ {
+   "channel_name": "Jewelry Television",
+   "epg_code": "JewelryTelevision.us",
+   "popularity": 39
+ },
+ {
+   "channel_name": "Jewelry Television (72)",
+   "epg_code": "JewelryTelevision72.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Jewish Life TV",
+   "epg_code": "JewishLifeTV.us",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Jiangsu Satellite TV",
+   "epg_code": "JiangsuSatelliteTV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Justice Central HD",
+   "epg_code": "JusticeCentralHD.us",
+   "popularity": 91
+ },
+ {
+   "channel_name": "KABC (Los Angeles) ABC HD West",
+   "epg_code": "KABCLosAngelesABCHDWest.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "KABC (Los Angeles) ABC West",
+   "epg_code": "KABCLosAngelesABCWest.us",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Kapatid TV5",
+   "epg_code": "KapatidTV5.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "KBS World",
+   "epg_code": "KBSWorld.us",
+   "popularity": 38
+ },
+ {
+   "channel_name": "KCBS (Los Angeles) CBS HD West",
+   "epg_code": "KCBSLosAngelesCBSHDWest.us",
+   "popularity": 89
+ },
+ {
+   "channel_name": "KCBS (Los Angeles) CBS West",
+   "epg_code": "KCBSLosAngelesCBSWest.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "KNBC (Los Angeles) NBC HD West",
+   "epg_code": "KNBCLosAngelesNBCHDWest.us",
+   "popularity": 762
+ },
+ {
+   "channel_name": "KNBC (Los Angeles) NBC West",
+   "epg_code": "KNBCLosAngelesNBCWest.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "KTTV (Los Angeles) FOX HD West",
+   "epg_code": "KTTVLosAngelesFOXHDWest.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "KTTV (Los Angeles) FOX West",
+   "epg_code": "KTTVLosAngelesFOXWest.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Latin Hits",
+   "epg_code": "LatinHits.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Latin Jazz",
+   "epg_code": "LatinJazz.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Launch Pad Channel",
+   "epg_code": "LaunchPadChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Lifestyle Network",
+   "epg_code": "LifestyleNetwork.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Lifetime",
+   "epg_code": "Lifetime.us",
+   "popularity": 2085
+ },
+ {
+   "channel_name": "Lifetime HD",
+   "epg_code": "LifetimeHD.us",
+   "popularity": 1149
+ },
+ {
+   "channel_name": "Light Classical",
+   "epg_code": "LightClassical.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "LinkTV",
+   "epg_code": "LinkTV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Little Saigon Radio Channel",
+   "epg_code": "LittleSaigonRadioChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "LIVE4K",
+   "epg_code": "LIVE4K.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "LMN",
+   "epg_code": "LMN.us",
+   "popularity": 101
+ },
+ {
+   "channel_name": "LMN HD",
+   "epg_code": "LMNHD.us",
+   "popularity": 207
+ },
+ {
+   "channel_name": "Logo",
+   "epg_code": "Logo.us",
+   "popularity": 337
+ },
+ {
+   "channel_name": "Longhorn Network HD",
+   "epg_code": "LonghornNetworkHD.us",
+   "popularity": 260
+ },
+ {
+   "channel_name": "LOOK Network",
+   "epg_code": "LOOKNetwork.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Love Songs",
+   "epg_code": "LoveSongs.us",
+   "popularity": 6
+ },
+ {
+   "channel_name": "M1: Music Entertainment",
+   "epg_code": "M1-MusicEntertainment.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Madison Square Garden",
+   "epg_code": "MadisonSquareGarden.us",
+   "popularity": 189
+ },
+ {
+   "channel_name": "Madison Square Garden HD",
+   "epg_code": "MadisonSquareGardenHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Malt Shop Oldies",
+   "epg_code": "MaltShopOldies.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mariachi",
+   "epg_code": "Mariachi.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MASN",
+   "epg_code": "MASN.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "MASN HD",
+   "epg_code": "MASNHD.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "MAVTV",
+   "epg_code": "MAVTV.us",
+   "popularity": 222
+ },
+ {
+   "channel_name": "MBC",
+   "epg_code": "MBC.us",
+   "popularity": 47
+ },
+ {
+   "channel_name": "MBC Drama HD",
+   "epg_code": "MBCDramaHD.us",
+   "popularity": 190
+ },
+ {
+   "channel_name": "MBC Every1",
+   "epg_code": "MBCEvery1.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "MBN",
+   "epg_code": "MBN.us",
+   "popularity": 13
+ },
+ {
+   "channel_name": "MegaTV",
+   "epg_code": "MegaTV.us",
+   "popularity": 177
+ },
+ {
+   "channel_name": "MegaTV HD",
+   "epg_code": "MegaTVHD.us",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Mercury Media Channel",
+   "epg_code": "MercuryMediaChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Metro Blend",
+   "epg_code": "MetroBlend.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MGM HD",
+   "epg_code": "MGMHD.us",
+   "popularity": 160
+ },
+ {
+   "channel_name": "MHz Worldview",
+   "epg_code": "MHzWorldview.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MLB Extra Innings",
+   "epg_code": "MLBExtraInnings.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MLB Extra Innings HD",
+   "epg_code": "MLBExtraInningsHD.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "MLB Extra Innngs",
+   "epg_code": "MLBExtraInnngs.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MLB Mix HD",
+   "epg_code": "MLBMixHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MLB Network",
+   "epg_code": "MLBNetwork.us",
+   "popularity": 1941
+ },
+ {
+   "channel_name": "Modern Country",
+   "epg_code": "ModernCountry.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Modern Workout",
+   "epg_code": "ModernWorkout.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MOR 101.9",
+   "epg_code": "MOR1019.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MoreMAX",
+   "epg_code": "MoreMAX.us",
+   "popularity": 1620
+ },
+ {
+   "channel_name": "MoreMAX HD",
+   "epg_code": "MoreMAXHD.us",
+   "popularity": 1459
+ },
+ {
+   "channel_name": "MovieMAX",
+   "epg_code": "MovieMAX.us",
+   "popularity": 301
+ },
+ {
+   "channel_name": "MSG Plus",
+   "epg_code": "MSGPlus.us",
+   "popularity": 94
+ },
+ {
+   "channel_name": "MSG Plus HD",
+   "epg_code": "MSGPlusHD.us",
+   "popularity": 33
+ },
+ {
+   "channel_name": "MSNBC",
+   "epg_code": "MSNBC.us",
+   "popularity": 25783
+ },
+ {
+   "channel_name": "MSNBC HD",
+   "epg_code": "MSNBCHD.us",
+   "popularity": 8522
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.us",
+   "popularity": 1187
+ },
+ {
+   "channel_name": "MTV Classic",
+   "epg_code": "MTVClassic.us",
+   "popularity": 570
+ },
+ {
+   "channel_name": "MTV HD",
+   "epg_code": "MTVHD.us",
+   "popularity": 1161
+ },
+ {
+   "channel_name": "MTV Live",
+   "epg_code": "MTVLive.us",
+   "popularity": 1596
+ },
+ {
+   "channel_name": "MTV2",
+   "epg_code": "MTV2.us",
+   "popularity": 588
+ },
+ {
+   "channel_name": "MTV2 HD",
+   "epg_code": "MTV2HD.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Multimedios",
+   "epg_code": "Multimedios.us",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Music of the Americas",
+   "epg_code": "MusicoftheAmericas.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Myx",
+   "epg_code": "Myx.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NASA",
+   "epg_code": "NASA.us",
+   "popularity": 936
+ },
+ {
+   "channel_name": "NASA TV",
+   "epg_code": "NASATV.us",
+   "popularity": 3431
+ },
+ {
+   "channel_name": "Nat Geo WILD",
+   "epg_code": "NatGeoWILD.us",
+   "popularity": 1422
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWildHD.us",
+   "popularity": 150
+ },
+ {
+   "channel_name": "NatGeo Mundo",
+   "epg_code": "NatGeoMundo.us",
+   "popularity": 437
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.us",
+   "popularity": 1504
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "NationalGeographicHD.us",
+   "popularity": 669
+ },
+ {
+   "channel_name": "National Geographic Korea",
+   "epg_code": "NationalGeographicKorea.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NBC Sports Bay Area",
+   "epg_code": "NBCSportsBayArea.us",
+   "popularity": 285
+ },
+ {
+   "channel_name": "NBC Sports Bay Area HD",
+   "epg_code": "NBCSportsBayAreaHD.us",
+   "popularity": 115
+ },
+ {
+   "channel_name": "NBC Sports California",
+   "epg_code": "NBCSportsCalifornia.us",
+   "popularity": 257
+ },
+ {
+   "channel_name": "NBC Sports California HD",
+   "epg_code": "NBCSportsCaliforniaHD.us",
+   "popularity": 105
+ },
+ {
+   "channel_name": "NBC Sports Network",
+   "epg_code": "NBCSportsNetwork.us",
+   "popularity": 3230
+ },
+ {
+   "channel_name": "NBC Sports Network HD",
+   "epg_code": "NBCSportsNetworkHD.us",
+   "popularity": 759
+ },
+ {
+   "channel_name": "NESN",
+   "epg_code": "NESN.us",
+   "popularity": 295
+ },
+ {
+   "channel_name": "NESN HD",
+   "epg_code": "NESNHD.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Network Simulcast",
+   "epg_code": "NetworkSimulcast.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "New Age",
+   "epg_code": "NewAge.us",
+   "popularity": 7
+ },
+ {
+   "channel_name": "NEW Channel",
+   "epg_code": "NEWChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NHL Network",
+   "epg_code": "NHLNetwork.us",
+   "popularity": 1603
+ },
+ {
+   "channel_name": "Nick Jr.",
+   "epg_code": "NickJr.us",
+   "popularity": 1289
+ },
+ {
+   "channel_name": "Nick Jr. HD",
+   "epg_code": "NickJrHD.us",
+   "popularity": 7221
+ },
+ {
+   "channel_name": "Nickelodeon East",
+   "epg_code": "NickelodeonEast.us",
+   "popularity": 1159
+ },
+ {
+   "channel_name": "Nickelodeon East HD",
+   "epg_code": "NickelodeonEastHD.us",
+   "popularity": 411
+ },
+ {
+   "channel_name": "Nickelodeon West",
+   "epg_code": "NickelodeonWest.us",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.us",
+   "popularity": 1515
+ },
+ {
+   "channel_name": "NRB",
+   "epg_code": "NRB.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "NTN24",
+   "epg_code": "NTN24.us",
+   "popularity": 232
+ },
+ {
+   "channel_name": "NTV America",
+   "epg_code": "NTVAmerica.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nuestra Tele",
+   "epg_code": "NuestraTele.us",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Old School Funk",
+   "epg_code": "OldSchoolFunk.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Once TV Mexico",
+   "epg_code": "OnceTVMexico.us",
+   "popularity": 14
+ },
+ {
+   "channel_name": "One America News Network",
+   "epg_code": "OneAmericaNewsNetwork.us",
+   "popularity": 98
+ },
+ {
+   "channel_name": "One America News Network HD",
+   "epg_code": "OneAmericaNewsNetworkHD.us",
+   "popularity": 132
+ },
+ {
+   "channel_name": "Outdoor Channel",
+   "epg_code": "OutdoorChannel.us",
+   "popularity": 965
+ },
+ {
+   "channel_name": "Ovation",
+   "epg_code": "Ovation.us",
+   "popularity": 304
+ },
+ {
+   "channel_name": "Ovation HD",
+   "epg_code": "OvationHD.us",
+   "popularity": 19
+ },
+ {
+   "channel_name": "OWN",
+   "epg_code": "OWN.us",
+   "popularity": 1097
+ },
+ {
+   "channel_name": "OWN HD",
+   "epg_code": "OWNHD.us",
+   "popularity": 418
+ },
+ {
+   "channel_name": "Oxygen",
+   "epg_code": "Oxygen.us",
+   "popularity": 3418
+ },
+ {
+   "channel_name": "Oxygen HD",
+   "epg_code": "OxygenHD.us",
+   "popularity": 437
+ },
+ {
+   "channel_name": "Pac-12 Arizona HDTV",
+   "epg_code": "Pac-12Arizona.us",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Pac-12 Bay Area HDTV",
+   "epg_code": "Pac-12BayArea.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Pac-12 Los Angeles HDTV",
+   "epg_code": "Pac-12LosAngeles.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Pac-12 Mountain HDTV",
+   "epg_code": "Pac-12Mountain.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Pac-12 Network HDTV",
+   "epg_code": "Pac-12Network.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Pac-12 Oregon HDTV",
+   "epg_code": "Pac-12Oregon.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Pac-12 Washington HDTV",
+   "epg_code": "Pac-12Washington.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Paid Programming",
+   "epg_code": "PaidProgramming.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WSYX ABC A3 HD (Virt)",
+   "epg_code": "ParkersburgWSYXABCA3HDVirt.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WV WIYE CBS A3 HD",
+   "epg_code": "ParkersburgWVWIYECBSA3HD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WV WOVA FOX A3 HD",
+   "epg_code": "ParkersburgWVWOVAFOXA3HD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WV WTAP NBC A3 HD",
+   "epg_code": "ParkersburgWVWTAPNBCA3HD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WV WTAPDT2 MNT A3 SD",
+   "epg_code": "ParkersburgWVWTAPDT2MNTA3SD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Parkersburg WWHO CW A3 HD (Virt)",
+   "epg_code": "ParkersburgWWHOCWA3HDVirt.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Pasiones",
+   "epg_code": "Pasiones.us",
+   "popularity": 1101
+ },
+ {
+   "channel_name": "PBS (Virt)",
+   "epg_code": "PBSVirt.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "PBSNET",
+   "epg_code": "PBSNET.us",
+   "popularity": 756
+ },
+ {
+   "channel_name": "Penthouse TV",
+   "epg_code": "PenthouseTV.us",
+   "popularity": 13758
+ },
+ {
+   "channel_name": "Penthouse TV Monthly Offer",
+   "epg_code": "PenthouseTVMonthlyOffer.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Peru Magico",
+   "epg_code": "PeruMagico.us",
+   "popularity": 562
+ },
+ {
+   "channel_name": "PFC (Portugese)",
+   "epg_code": "PFCPortugese.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Phoenix",
+   "epg_code": "Phoenix.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Phoenix Hong Kong Channel",
+   "epg_code": "PhoenixHongKongChannel.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Phoenix Info News",
+   "epg_code": "PhoenixInfoNews.us",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Phoenix TV",
+   "epg_code": "PhoenixTV.us",
+   "popularity": 110
+ },
+ {
+   "channel_name": "Piano",
+   "epg_code": "Piano.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Playboy 2",
+   "epg_code": "Playboy2.us",
+   "popularity": 28
+ },
+ {
+   "channel_name": "Playboy 2 (577)",
+   "epg_code": "Playboy2577.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Playboy en Espanol",
+   "epg_code": "PlayboyenEspanol.us",
+   "popularity": 448
+ },
+ {
+   "channel_name": "Playboy en Espanol (578)",
+   "epg_code": "PlayboyenEspanol578.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Playboy TV HD",
+   "epg_code": "PlayboyTVHD.us",
+   "popularity": 164
+ },
+ {
+   "channel_name": "Playboy TV HD (589)",
+   "epg_code": "PlayboyTVHD589.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Playboy TV Monthly Offer",
+   "epg_code": "PlayboyTVMonthlyOffer.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "POP",
+   "epg_code": "POP.us",
+   "popularity": 345
+ },
+ {
+   "channel_name": "Prime Ticket",
+   "epg_code": "PrimeTicket.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Prime Ticket HD",
+   "epg_code": "PrimeTicketHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "PUMP!",
+   "epg_code": "PUMP.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Pursuit Channel HD",
+   "epg_code": "PursuitChannelHD.us",
+   "popularity": 50
+ },
+ {
+   "channel_name": "QVC",
+   "epg_code": "QVC.us",
+   "popularity": 1898
+ },
+ {
+   "channel_name": "QVC (70)",
+   "epg_code": "QVC70.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "QVC Channel",
+   "epg_code": "QVCChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "QVC HD",
+   "epg_code": "QVCHD.us",
+   "popularity": 55
+ },
+ {
+   "channel_name": "QVC HD (317)",
+   "epg_code": "QVCHD317.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "QVC HD (70)",
+   "epg_code": "QVCHD70.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "QVC2",
+   "epg_code": "QVC2.us",
+   "popularity": 82
+ },
+ {
+   "channel_name": "QVC2 (76)",
+   "epg_code": "QVC276.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "QVC2 (79)",
+   "epg_code": "QVC279.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Radio Korea",
+   "epg_code": "RadioKorea.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rat Pack",
+   "epg_code": "RatPack.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Real Shopping",
+   "epg_code": "RealShopping.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Reality Bites",
+   "epg_code": "RealityBites.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Reality Kings",
+   "epg_code": "RealityKings.us",
+   "popularity": 42208
+ },
+ {
+   "channel_name": "Red Rock and Blues",
+   "epg_code": "RedRockandBlues.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ReelzChannel",
+   "epg_code": "ReelzChannel.us",
+   "popularity": 443
+ },
+ {
+   "channel_name": "ReelzChannel HD",
+   "epg_code": "ReelzChannelHD.us",
+   "popularity": 267
+ },
+ {
+   "channel_name": "Reggae",
+   "epg_code": "Reggae.us",
+   "popularity": 35
+ },
+ {
+   "channel_name": "Regional Mexican",
+   "epg_code": "RegionalMexican.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Retro Disco",
+   "epg_code": "RetroDisco.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Revolt HD",
+   "epg_code": "RevoltHD.us",
+   "popularity": 283
+ },
+ {
+   "channel_name": "RFD-TV",
+   "epg_code": "RFD-TV.us",
+   "popularity": 21
+ },
+ {
+   "channel_name": "Rock en Espanol",
+   "epg_code": "RockenEspanol.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rock Workout",
+   "epg_code": "RockWorkout.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Northwest",
+   "epg_code": "ROOTSPORTSNorthwest.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "ROOT SPORTS Northwest HD",
+   "epg_code": "ROOTSPORTSNorthwestHD.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "ROOT SPORTS Northwest Plus",
+   "epg_code": "ROOTSPORTSNorthwestPlus.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Northwest Plus HD",
+   "epg_code": "ROOTSPORTSNorthwestPlusHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Pittsburgh",
+   "epg_code": "ROOTSPORTSPittsburgh.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Pittsburgh HD",
+   "epg_code": "ROOTSPORTSPittsburghHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Rocky Mountain",
+   "epg_code": "ROOTSPORTSRockyMountain.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Rocky Mountain HD",
+   "epg_code": "ROOTSPORTSRockyMountainHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Rocky Mountain Plus",
+   "epg_code": "ROOTSPORTSRockyMountainPlus.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Rocky Mtn. Plus HD",
+   "epg_code": "ROOTSPORTSRockyMtnPlusHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Southwest",
+   "epg_code": "ROOTSPORTSSouthwest.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROOT SPORTS Southwest HD",
+   "epg_code": "ROOTSPORTSSouthwestHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rossiya 24",
+   "epg_code": "Rossiya24.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "RTR Planeta",
+   "epg_code": "RTRPlaneta.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTVI",
+   "epg_code": "RTVI.us",
+   "popularity": 9
+ },
+ {
+   "channel_name": "SALE Network",
+   "epg_code": "SALENetwork.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Salsa",
+   "epg_code": "Salsa.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Save (Infomercial)",
+   "epg_code": "SaveInfomercial.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SBS",
+   "epg_code": "SBS.us",
+   "popularity": 50
+ },
+ {
+   "channel_name": "SBS HD",
+   "epg_code": "SBSHD.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "SBS Plus",
+   "epg_code": "SBSPlus.us",
+   "popularity": 43
+ },
+ {
+   "channel_name": "SBTN",
+   "epg_code": "SBTN.us",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Science",
+   "epg_code": "Science.us",
+   "popularity": 830
+ },
+ {
+   "channel_name": "Science HD",
+   "epg_code": "ScienceHD.us",
+   "popularity": 1586
+ },
+ {
+   "channel_name": "SEC Network",
+   "epg_code": "SECNetwork.us",
+   "popularity": 519
+ },
+ {
+   "channel_name": "SEC Network HD",
+   "epg_code": "SECNetworkHD.us",
+   "popularity": 163
+ },
+ {
+   "channel_name": "Shop LC",
+   "epg_code": "ShopLC.us",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Shorts TV HD",
+   "epg_code": "ShortsTVHD.us",
+   "popularity": 123
+ },
+ {
+   "channel_name": "SHOTLInk Channel",
+   "epg_code": "SHOTLInkChannel.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Showtime (E)",
+   "epg_code": "ShowtimeE.us",
+   "popularity": 2561
+ },
+ {
+   "channel_name": "Showtime (W)",
+   "epg_code": "ShowtimeW.us",
+   "popularity": 1350
+ },
+ {
+   "channel_name": "SHOWTIME 2",
+   "epg_code": "SHOWTIME2.us",
+   "popularity": 2213
+ },
+ {
+   "channel_name": "SHOWTIME 2 HD",
+   "epg_code": "SHOWTIME2HD.us",
+   "popularity": 1099
+ },
+ {
+   "channel_name": "Showtime Beyond HD",
+   "epg_code": "ShowtimeBeyondHD.us",
+   "popularity": 1414
+ },
+ {
+   "channel_name": "Showtime Extreme",
+   "epg_code": "ShowtimeExtreme.us",
+   "popularity": 3853
+ },
+ {
+   "channel_name": "Showtime Extreme HD",
+   "epg_code": "ShowtimeExtremeHD.us",
+   "popularity": 995
+ },
+ {
+   "channel_name": "Showtime HD East",
+   "epg_code": "ShowtimeHDEast.us",
+   "popularity": 2501
+ },
+ {
+   "channel_name": "Showtime HD West",
+   "epg_code": "ShowtimeHDWest.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Showtime Next HD",
+   "epg_code": "ShowtimeNextHD.us",
+   "popularity": 1914
+ },
+ {
+   "channel_name": "Showtime Showcase",
+   "epg_code": "ShowtimeShowcase.us",
+   "popularity": 2645
+ },
+ {
+   "channel_name": "Showtime Showcase HD",
+   "epg_code": "ShowtimeShowcaseHD.us",
+   "popularity": 928
+ },
+ {
+   "channel_name": "Showtime Women HD",
+   "epg_code": "ShowtimeWomenHD.us",
+   "popularity": 370
+ },
+ {
+   "channel_name": "Showtunes",
+   "epg_code": "Showtunes.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Silky Soul",
+   "epg_code": "SilkySoul.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Silver Screen",
+   "epg_code": "SilverScreen.us",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Singer-Songwriters",
+   "epg_code": "Singer-Songwriters.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Smithsonian Channel HD",
+   "epg_code": "SmithsonianChannelHD.us",
+   "popularity": 4534
+ },
+ {
+   "channel_name": "Smooth Jazz",
+   "epg_code": "SmoothJazz.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Soft Hits",
+   "epg_code": "SoftHits.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SonLife (344)",
+   "epg_code": "SonLife344.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sony Movie Channel HD",
+   "epg_code": "SonyMovieChannelHD.us",
+   "popularity": 853
+ },
+ {
+   "channel_name": "Spectrum Deportes",
+   "epg_code": "SpectrumDeportes.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Spectrum Deportes HD",
+   "epg_code": "SpectrumDeportesHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Spectrum SportsNet",
+   "epg_code": "SpectrumSportsNet.us",
+   "popularity": 188
+ },
+ {
+   "channel_name": "Spectrum SportsNet HD",
+   "epg_code": "SpectrumSportsNetHD.us",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Spike",
+   "epg_code": "Spike.us",
+   "popularity": 401
+ },
+ {
+   "channel_name": "Spike HD",
+   "epg_code": "SpikeHD.us",
+   "popularity": 178
+ },
+ {
+   "channel_name": "Sports IPPV Ordering Ch.",
+   "epg_code": "SportsIPPVOrderingCh.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SPORTS MIX HD (205)",
+   "epg_code": "SPORTSMIXHD205.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SPORTS MIX HD (600)",
+   "epg_code": "SPORTSMIXHD600.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sportsman Channel",
+   "epg_code": "SportsmanChannel.us",
+   "popularity": 502
+ },
+ {
+   "channel_name": "SportsNet New York",
+   "epg_code": "SportsNetNewYork.us",
+   "popularity": 198
+ },
+ {
+   "channel_name": "SportsNet New York HD",
+   "epg_code": "SportsNetNewYorkHD.us",
+   "popularity": 8
+ },
+ {
+   "channel_name": "SportsTime Ohio",
+   "epg_code": "SportsTimeOhio.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "SportsTime Ohio HD",
+   "epg_code": "SportsTimeOhioHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sprout",
+   "epg_code": "Sprout.us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Starz Cinema HD",
+   "epg_code": "StarzCinemaHD.us",
+   "popularity": 4715
+ },
+ {
+   "channel_name": "Starz Comedy HD",
+   "epg_code": "StarzComedyHD.us",
+   "popularity": 7947
+ },
+ {
+   "channel_name": "Starz East",
+   "epg_code": "StarzEast.us",
+   "popularity": 6230
+ },
+ {
+   "channel_name": "Starz East HD",
+   "epg_code": "StarzEastHD.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Starz Edge",
+   "epg_code": "StarzEdge.us",
+   "popularity": 7285
+ },
+ {
+   "channel_name": "Starz Edge HD",
+   "epg_code": "StarzEdgeHD.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Starz Encore",
+   "epg_code": "StarzEncore.us",
+   "popularity": 5408
+ },
+ {
+   "channel_name": "Starz Encore Action",
+   "epg_code": "StarzEncoreAction.us",
+   "popularity": 1921
+ },
+ {
+   "channel_name": "Starz Encore Action HD",
+   "epg_code": "StarzEncoreActionHD.us",
+   "popularity": 743
+ },
+ {
+   "channel_name": "Starz Encore Black",
+   "epg_code": "StarzEncoreBlack.us",
+   "popularity": 1592
+ },
+ {
+   "channel_name": "Starz Encore Classic",
+   "epg_code": "StarzEncoreClassic.us",
+   "popularity": 904
+ },
+ {
+   "channel_name": "Starz Encore Family",
+   "epg_code": "StarzEncoreFamily.us",
+   "popularity": 1256
+ },
+ {
+   "channel_name": "Starz Encore HD",
+   "epg_code": "StarzEncoreHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Starz Encore Suspense",
+   "epg_code": "StarzEncoreSuspense.us",
+   "popularity": 2060
+ },
+ {
+   "channel_name": "Starz Encore West",
+   "epg_code": "StarzEncoreWest.us",
+   "popularity": 501
+ },
+ {
+   "channel_name": "Starz Encore Westerns",
+   "epg_code": "StarzEncoreWesterns.us",
+   "popularity": 2604
+ },
+ {
+   "channel_name": "Starz in Black",
+   "epg_code": "StarzinBlack.us",
+   "popularity": 1873
+ },
+ {
+   "channel_name": "Starz in Black HD",
+   "epg_code": "StarzinBlackHD.us",
+   "popularity": 404
+ },
+ {
+   "channel_name": "Starz Kids & Family HD",
+   "epg_code": "StarzKids-FamilyHD.us",
+   "popularity": 2028
+ },
+ {
+   "channel_name": "Starz West",
+   "epg_code": "StarzWest.us",
+   "popularity": 632
+ },
+ {
+   "channel_name": "Starz West HD",
+   "epg_code": "StarzWestHD.us",
+   "popularity": 262
+ },
+ {
+   "channel_name": "SubTerranean",
+   "epg_code": "SubTerranean.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SundanceTV",
+   "epg_code": "SundanceTV.us",
+   "popularity": 1568
+ },
+ {
+   "channel_name": "SundanceTV HD",
+   "epg_code": "SundanceTVHD.us",
+   "popularity": 91
+ },
+ {
+   "channel_name": "SUR Peru",
+   "epg_code": "SURPeru.us",
+   "popularity": 49
+ },
+ {
+   "channel_name": "Syfy",
+   "epg_code": "Syfy.us",
+   "popularity": 3042
+ },
+ {
+   "channel_name": "Syfy HD",
+   "epg_code": "SyfyHD.us",
+   "popularity": 1901
+ },
+ {
+   "channel_name": "Symphonic",
+   "epg_code": "Symphonic.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Tai Seng Vietnam",
+   "epg_code": "TaiSengVietnam.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TAN",
+   "epg_code": "TAN.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TBS HD",
+   "epg_code": "TBSHD.us",
+   "popularity": 8342
+ },
+ {
+   "channel_name": "TBS Superstation",
+   "epg_code": "TBSSuperstation.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCM.us",
+   "popularity": 5108
+ },
+ {
+   "channel_name": "TCM HD",
+   "epg_code": "TCMHD.us",
+   "popularity": 416
+ },
+ {
+   "channel_name": "TCT Network",
+   "epg_code": "TCTNetwork.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "TeenNick",
+   "epg_code": "TeenNick.us",
+   "popularity": 916
+ },
+ {
+   "channel_name": "TeleCentro",
+   "epg_code": "TeleCentro.us",
+   "popularity": 252
+ },
+ {
+   "channel_name": "Telefe",
+   "epg_code": "Telefe.us",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Telemundo East",
+   "epg_code": "TelemundoEast.us",
+   "popularity": 7334
+ },
+ {
+   "channel_name": "Telemundo West",
+   "epg_code": "TelemundoWest.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Television Dominicana",
+   "epg_code": "TelevisionDominicana.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Tennis Channel",
+   "epg_code": "TennisChannel.us",
+   "popularity": 3371
+ },
+ {
+   "channel_name": "Tennis Channel HD",
+   "epg_code": "TennisChannelHD.us",
+   "popularity": 549
+ },
+ {
+   "channel_name": "TFC - The Filipino Channel",
+   "epg_code": "TFC-TheFilipinoChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Boombox",
+   "epg_code": "TheBoombox.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Hillsong Channel",
+   "epg_code": "TheHillsongChannel.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "The Learning Channel HD",
+   "epg_code": "TheLearningChannelHD.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "The Movie Channel East",
+   "epg_code": "TheMovieChannelEast.us",
+   "popularity": 404
+ },
+ {
+   "channel_name": "The Movie Channel East HD",
+   "epg_code": "TheMovieChannelEastHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Movie Channel West",
+   "epg_code": "TheMovieChannelWest.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Movie Channel Xtra HD",
+   "epg_code": "TheMovieChannelXtraHD.us",
+   "popularity": 60
+ },
+ {
+   "channel_name": "The PGA TOUR Mix Channel",
+   "epg_code": "ThePGATOURMixChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Playground",
+   "epg_code": "ThePlayground.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "The Spirit",
+   "epg_code": "TheSpirit.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Weather Channel",
+   "epg_code": "TheWeatherChannel.us",
+   "popularity": 1000
+ },
+ {
+   "channel_name": "The Weather Channel HD",
+   "epg_code": "TheWeatherChannelHD.us",
+   "popularity": 439
+ },
+ {
+   "channel_name": "The WORD Network",
+   "epg_code": "TheWORDNetwork.us",
+   "popularity": 25
+ },
+ {
+   "channel_name": "ThrillerMAX HD",
+   "epg_code": "ThrillerMAXHD.us",
+   "popularity": 2704
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.us",
+   "popularity": 8460
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNT.us",
+   "popularity": 4304
+ },
+ {
+   "channel_name": "TNT HD",
+   "epg_code": "TNTHD.us",
+   "popularity": 956
+ },
+ {
+   "channel_name": "Todays Hits",
+   "epg_code": "TodaysHits.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Tr3s",
+   "epg_code": "Tr3s.us",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Traditional Country",
+   "epg_code": "TraditionalCountry.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Tranquility",
+   "epg_code": "Tranquility.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.us",
+   "popularity": 1969
+ },
+ {
+   "channel_name": "Travel Channel HD",
+   "epg_code": "TravelChannelHD.us",
+   "popularity": 95
+ },
+ {
+   "channel_name": "Trinity Broadcast Network",
+   "epg_code": "TrinityBroadcastNetwork.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "truTV",
+   "epg_code": "truTV.us",
+   "popularity": 1580
+ },
+ {
+   "channel_name": "truTV HD",
+   "epg_code": "truTVHD.us",
+   "popularity": 246
+ },
+ {
+   "channel_name": "TV Chile",
+   "epg_code": "TVChile.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Globo",
+   "epg_code": "TVGlobo.us",
+   "popularity": 1837
+ },
+ {
+   "channel_name": "TV Land",
+   "epg_code": "TVLand.us",
+   "popularity": 802
+ },
+ {
+   "channel_name": "TV Land HD",
+   "epg_code": "TVLandHD.us",
+   "popularity": 759
+ },
+ {
+   "channel_name": "TV One",
+   "epg_code": "TVOne.us",
+   "popularity": 688
+ },
+ {
+   "channel_name": "TV Venezuela",
+   "epg_code": "TVVenezuela.us",
+   "popularity": 47
+ },
+ {
+   "channel_name": "TVE",
+   "epg_code": "TVE.us",
+   "popularity": 23
+ },
+ {
+   "channel_name": "TVG",
+   "epg_code": "TVG.us",
+   "popularity": 463
+ },
+ {
+   "channel_name": "TViet Network",
+   "epg_code": "TVietNetwork.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TVN",
+   "epg_code": "TVN.us",
+   "popularity": 47
+ },
+ {
+   "channel_name": "TyC Sports",
+   "epg_code": "TyCSports.us",
+   "popularity": 163
+ },
+ {
+   "channel_name": "UniMas",
+   "epg_code": "UniMas.us",
+   "popularity": 7240
+ },
+ {
+   "channel_name": "UniMas West HD",
+   "epg_code": "UniMasWestHD.us",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Universal (HD)",
+   "epg_code": "UniversalHD.us",
+   "popularity": 209
+ },
+ {
+   "channel_name": "UNIVERSO",
+   "epg_code": "UNIVERSO.us",
+   "popularity": 325
+ },
+ {
+   "channel_name": "Universo HD",
+   "epg_code": "UniversoHD.us",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Univision Deportes Network",
+   "epg_code": "UnivisionDeportesNetwork.us",
+   "popularity": 205
+ },
+ {
+   "channel_name": "Univision Deportes Network HD",
+   "epg_code": "UnivisionDeportesNetworkHD.us",
+   "popularity": 76
+ },
+ {
+   "channel_name": "Univision East",
+   "epg_code": "UnivisionEast.us",
+   "popularity": 3125
+ },
+ {
+   "channel_name": "Univision East HD",
+   "epg_code": "UnivisionEastHD.us",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Univision tlnovelas",
+   "epg_code": "Univisiontlnovelas.us",
+   "popularity": 311
+ },
+ {
+   "channel_name": "Univision West",
+   "epg_code": "UnivisionWest.us",
+   "popularity": 333
+ },
+ {
+   "channel_name": "UP",
+   "epg_code": "UP.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Uplift",
+   "epg_code": "Uplift.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "USA Network",
+   "epg_code": "USANetwork.us",
+   "popularity": 13312
+ },
+ {
+   "channel_name": "USA Network HD",
+   "epg_code": "USANetworkHD.us",
+   "popularity": 12
+ },
+ {
+   "channel_name": "VALU",
+   "epg_code": "VALU.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VALU Ch.",
+   "epg_code": "VALUCh.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Velocity",
+   "epg_code": "Velocity.us",
+   "popularity": 1092
+ },
+ {
+   "channel_name": "VGN TV",
+   "epg_code": "VGNTV.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.us",
+   "popularity": 2036
+ },
+ {
+   "channel_name": "VH1 HD",
+   "epg_code": "VH1HD.us",
+   "popularity": 663
+ },
+ {
+   "channel_name": "Viceland",
+   "epg_code": "Viceland.us",
+   "popularity": 1518
+ },
+ {
+   "channel_name": "Viceland HD",
+   "epg_code": "VicelandHD.us",
+   "popularity": 227
+ },
+ {
+   "channel_name": "Videorola",
+   "epg_code": "Videorola.us",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Vien Thao",
+   "epg_code": "VienThao.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ViendoMovies",
+   "epg_code": "ViendoMovies.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VietFace",
+   "epg_code": "VietFace.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Vivid TV",
+   "epg_code": "VividTV.us",
+   "popularity": 22999
+ },
+ {
+   "channel_name": "Vivid TV Monthly Offer",
+   "epg_code": "VividTVMonthlyOffer.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Vme",
+   "epg_code": "Vme.us",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Vremya: Retro Channel",
+   "epg_code": "Vremya-RetroChannel.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WABC (New York) ABC East",
+   "epg_code": "WABCNewYorkABCEast.us",
+   "popularity": 7917
+ },
+ {
+   "channel_name": "WABC (New York) ABC HD East",
+   "epg_code": "WABCNewYorkABCHDEast.us",
+   "popularity": 545
+ },
+ {
+   "channel_name": "WAPA America",
+   "epg_code": "WAPAAmerica.us",
+   "popularity": 27
+ },
+ {
+   "channel_name": "WCBS (New York) CBS East",
+   "epg_code": "WCBSNewYorkCBSEast.us",
+   "popularity": 5197
+ },
+ {
+   "channel_name": "WCBS (New York) CBS HD East",
+   "epg_code": "WCBSNewYorkCBSHDEast.us",
+   "popularity": 153
+ },
+ {
+   "channel_name": "WDCW (Washington D.C.) CW",
+   "epg_code": "WDCWWashingtonDCCW.us",
+   "popularity": 1549
+ },
+ {
+   "channel_name": "WE tv",
+   "epg_code": "WEtv.us",
+   "popularity": 681
+ },
+ {
+   "channel_name": "WE tv HD",
+   "epg_code": "WEtvHD.us",
+   "popularity": 260
+ },
+ {
+   "channel_name": "WeatherNation",
+   "epg_code": "WeatherNation.us",
+   "popularity": 177
+ },
+ {
+   "channel_name": "WeatherNation HD",
+   "epg_code": "WeatherNationHD.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WGAL (NBC)",
+   "epg_code": "WGAL(NBC).us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WGN",
+   "epg_code": "WGN.us",
+   "popularity": 1024
+ },
+ {
+   "channel_name": "WGN America HD",
+   "epg_code": "WGNAmericaHD.us",
+   "popularity": 7
+ },
+ {
+   "channel_name": "WHP (CBS)",
+   "epg_code": "WHP(CBS).us",
+   "popularity": 3
+ },
+ {
+   "channel_name": "WHPDT3 (CW)",
+   "epg_code": "WHPDT3(CW).us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WHTMDT (ABC)",
+   "epg_code": "WHTMDT(ABC).us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WHVL-LP (My9)",
+   "epg_code": "My9.us",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Willow Cricket",
+   "epg_code": "WillowCricket.us",
+   "popularity": 5946
+ },
+ {
+   "channel_name": "Willow Cricket Important Information",
+   "epg_code": "WillowCricketImportantInformation.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "WNBC (New York) NBC East",
+   "epg_code": "WNBCNewYorkNBCEast.us",
+   "popularity": 4860
+ },
+ {
+   "channel_name": "WNBC (New York) NBC HD East",
+   "epg_code": "WNBCNewYorkNBCHDEast.us",
+   "popularity": 69
+ },
+ {
+   "channel_name": "WNYW (New York) FOX East",
+   "epg_code": "WNYWNewYorkFOXEast.us",
+   "popularity": 785
+ },
+ {
+   "channel_name": "WNYW (New York) FOX HD East",
+   "epg_code": "WNYWNewYorkFOXHDEast.us",
+   "popularity": 2081
+ },
+ {
+   "channel_name": "World Harvest Television",
+   "epg_code": "WorldHarvestTelevision.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WOW TV",
+   "epg_code": "WOWTV.us",
+   "popularity": 1140
+ },
+ {
+   "channel_name": "WPMT (FOX)",
+   "epg_code": "WPMT(FOX).us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "WPSU (PBS)",
+   "epg_code": "WPSU(PBS).us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "XETV (San Diego) CW West",
+   "epg_code": "XETVSanDiegoCWWest.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "XTRA (99)",
+   "epg_code": "XTRA99.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "XTRA Network",
+   "epg_code": "XTRANetwork.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Y2k Hits",
+   "epg_code": "Y2kHits.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Yankee Ent. & Sports (YES)",
+   "epg_code": "YankeeEnt-SportsYES.us",
+   "popularity": 4
+ },
+ {
+   "channel_name": "YES HD",
+   "epg_code": "YESHD.us",
+   "popularity": 158
+ },
+ {
+   "channel_name": "YTN",
+   "epg_code": "YTN.us",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Zen",
+   "epg_code": "Zen.us",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ZooMoo",
+   "epg_code": "ZooMoo.us",
+   "popularity": 27
+ }
+]

@@ -1,0 +1,867 @@
+[
+ {
+   "channel_name": "1+1",
+   "epg_code": "1+1.ru",
+   "popularity": 6
+ },
+ {
+   "channel_name": "1+1 international",
+   "epg_code": "1+1international.il",
+   "popularity": 1
+ },
+ {
+   "channel_name": "5+ GOLD",
+   "epg_code": "5GoldPlus.il",
+   "popularity": 32
+ },
+ {
+   "channel_name": "5+ LIVE HD",
+   "epg_code": "5LivePlus.il",
+   "popularity": 266
+ },
+ {
+   "channel_name": "Aljazeera English",
+   "epg_code": "AljazeeraEng.il",
+   "popularity": 40111
+ },
+ {
+   "channel_name": "Almustakbal",
+   "epg_code": "Almustakbal.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.il",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Angel TV",
+   "epg_code": "AngelTV.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Arabic Local Channel",
+   "epg_code": "HalaTV.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Arutz HaYeladim",
+   "epg_code": "ArutzHaYeladim.il",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Baby",
+   "epg_code": "Baby.il",
+   "popularity": 254
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "BBCEntertainment.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "BFM SD",
+   "epg_code": "BFMSD.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Big Brother",
+   "epg_code": "BigBrother.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bloomberg",
+   "epg_code": "Bloomberg.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Blue Hustler",
+   "epg_code": "Hustler.il",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Bollywood",
+   "epg_code": "HotBOLLYWOOD.il",
+   "popularity": 554
+ },
+ {
+   "channel_name": "CBS Drama",
+   "epg_code": "CBSDrama.il",
+   "popularity": 291
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.il",
+   "popularity": 28
+ },
+ {
+   "channel_name": "Channel 1",
+   "epg_code": "Channel1.il",
+   "popularity": 48
+ },
+ {
+   "channel_name": "Channel 10",
+   "epg_code": "Channel10.il",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Channel 11",
+   "epg_code": "Channel11.il",
+   "popularity": 1224
+ },
+ {
+   "channel_name": "Channel 12",
+   "epg_code": "Channel12.il",
+   "popularity": 2077
+ },
+ {
+   "channel_name": "Channel 13",
+   "epg_code": "Channel13.il",
+   "popularity": 1320
+ },
+ {
+   "channel_name": "Channel 14",
+   "epg_code": "Channel14.il",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Channel 2",
+   "epg_code": "Channel2.il",
+   "popularity": 57
+ },
+ {
+   "channel_name": "Channel 20",
+   "epg_code": "Channel20.il",
+   "popularity": 250
+ },
+ {
+   "channel_name": "Channel 23",
+   "epg_code": "Channel23.il",
+   "popularity": 1357
+ },
+ {
+   "channel_name": "Channel 33",
+   "epg_code": "Channel33.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Channel 8",
+   "epg_code": "Channel8.il",
+   "popularity": 366
+ },
+ {
+   "channel_name": "Channel 9",
+   "epg_code": "Channel9.il",
+   "popularity": 2904
+ },
+ {
+   "channel_name": "Channel Mikan",
+   "epg_code": "ChannelMikan.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Channel One Russia",
+   "epg_code": "ChannelOneRussia.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNN.il",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Connect",
+   "epg_code": "Connect.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery",
+   "epg_code": "Discovery.il",
+   "popularity": 75
+ },
+ {
+   "channel_name": "Disney",
+   "epg_code": "Disney.il",
+   "popularity": 60
+ },
+ {
+   "channel_name": "Dom Kino",
+   "epg_code": "DomKINO.ru",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Dubai",
+   "epg_code": "Dubai.il",
+   "popularity": 1560
+ },
+ {
+   "channel_name": "DUNA TV",
+   "epg_code": "DunaTV.il",
+   "popularity": 150
+ },
+ {
+   "channel_name": "E! Entertainment",
+   "epg_code": "E.il",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Ego",
+   "epg_code": "Ego.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ego Total",
+   "epg_code": "EgoTotal.il",
+   "popularity": 147
+ },
+ {
+   "channel_name": "Enjoy Every Moment",
+   "epg_code": "EnjoyEveryMoment.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "EUROSPORT HD",
+   "epg_code": "EuroSportHD.il",
+   "popularity": 1404
+ },
+ {
+   "channel_name": "Extreme",
+   "epg_code": "ExtremeSports.il",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Food Channel",
+   "epg_code": "FoodChannel.il",
+   "popularity": 39
+ },
+ {
+   "channel_name": "Fox news",
+   "epg_code": "FoxNews.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FOX SPORT HD",
+   "epg_code": "FoxSportHD.il",
+   "popularity": 80
+ },
+ {
+   "channel_name": "France 24",
+   "epg_code": "France24.il",
+   "popularity": 12
+ },
+ {
+   "channel_name": "FTV HD",
+   "epg_code": "FTV.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Galis",
+   "epg_code": "Galis.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Galis Channel",
+   "epg_code": "GalisChannel.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Good Life",
+   "epg_code": "GoodLife.il",
+   "popularity": 56
+ },
+ {
+   "channel_name": "GTV",
+   "epg_code": "gtv.il",
+   "popularity": 312
+ },
+ {
+   "channel_name": "Health Channel",
+   "epg_code": "HealthChannel.il",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Hidabrut",
+   "epg_code": "Hidabrut.il",
+   "popularity": 24
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChannel.il",
+   "popularity": 111
+ },
+ {
+   "channel_name": "Home Plus",
+   "epg_code": "HomePlus.il",
+   "popularity": 62
+ },
+ {
+   "channel_name": "Hop",
+   "epg_code": "Hop.il",
+   "popularity": 134
+ },
+ {
+   "channel_name": "Hop Israel",
+   "epg_code": "HopIsrael.il",
+   "popularity": 17
+ },
+ {
+   "channel_name": "HOP! Childhood",
+   "epg_code": "HopChildhood.il",
+   "popularity": 22
+ },
+ {
+   "channel_name": "HOT Action",
+   "epg_code": "HotAction.il",
+   "popularity": 143
+ },
+ {
+   "channel_name": "HOT Bombay",
+   "epg_code": "HOTBombay.il",
+   "popularity": 60
+ },
+ {
+   "channel_name": "HOT Drama",
+   "epg_code": "HotDrama.il",
+   "popularity": 105
+ },
+ {
+   "channel_name": "HOT Films",
+   "epg_code": "hotFilms.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "HOT Fun",
+   "epg_code": "HotFun.il",
+   "popularity": 116
+ },
+ {
+   "channel_name": "HOT GOLD",
+   "epg_code": "HotGOLD.il",
+   "popularity": 97
+ },
+ {
+   "channel_name": "HOT Israeli Entertainment",
+   "epg_code": "HOTIsraeliEntertaiment.il",
+   "popularity": 57
+ },
+ {
+   "channel_name": "HOT Lulli",
+   "epg_code": "HOTlulli.il",
+   "popularity": 134
+ },
+ {
+   "channel_name": "HOT Prime",
+   "epg_code": "HotPrime.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HOT VOD Russian",
+   "epg_code": "HOTVodRussian.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HOT VOD Young",
+   "epg_code": "HOTVodYoung.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HOT Zone",
+   "epg_code": "HotZone.il",
+   "popularity": 220
+ },
+ {
+   "channel_name": "HOT3",
+   "epg_code": "hot3.il",
+   "popularity": 2866
+ },
+ {
+   "channel_name": "ietv",
+   "epg_code": "ietv.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ILand",
+   "epg_code": "ILand.il",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Inter+",
+   "epg_code": "Inter+.ru",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Israeli Cinema",
+   "epg_code": "yesIsraeliCinema.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Jim Jam",
+   "epg_code": "JimJam.il",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Jordan 1",
+   "epg_code": "Jordan1.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Junior",
+   "epg_code": "Junior.il",
+   "popularity": 55
+ },
+ {
+   "channel_name": "Kabala",
+   "epg_code": "Kabala.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Karusel International",
+   "epg_code": "Carusel.ru",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Kazakh TV",
+   "epg_code": "Kazakh.il",
+   "popularity": 16
+ },
+ {
+   "channel_name": "LBC",
+   "epg_code": "lbc.il",
+   "popularity": 11100
+ },
+ {
+   "channel_name": "Lifetime",
+   "epg_code": "Lifetime.il",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Logi",
+   "epg_code": "Logi.il",
+   "popularity": 73
+ },
+ {
+   "channel_name": "MEDIASET",
+   "epg_code": "MEDIASET.il",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Meir TV",
+   "epg_code": "MeirTV.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "metv",
+   "epg_code": "metv.il",
+   "popularity": 91
+ },
+ {
+   "channel_name": "MEZZO",
+   "epg_code": "Mezzo.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "MGM",
+   "epg_code": "MGM.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MGM HD",
+   "epg_code": "MGMHD.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.il",
+   "popularity": 27
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance(HOT).il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV HD",
+   "epg_code": "MTVHD.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "MUSIC 24",
+   "epg_code": "Music24.il",
+   "popularity": 131
+ },
+ {
+   "channel_name": "MusicBox",
+   "epg_code": "RussianMusicBox.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nase kino",
+   "epg_code": "NasheKino.ru",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NAT GEO WILD",
+   "epg_code": "NGWild.il",
+   "popularity": 23
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "NatGeoHD.il",
+   "popularity": 100
+ },
+ {
+   "channel_name": "New in HOT",
+   "epg_code": "NewInHOT.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NHKWorld",
+   "epg_code": "NHKWorld.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nick Junior",
+   "epg_code": "NickJr.il",
+   "popularity": 106
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.il",
+   "popularity": 162
+ },
+ {
+   "channel_name": "ONE HD",
+   "epg_code": "OneHD.il",
+   "popularity": 155
+ },
+ {
+   "channel_name": "Only in HOT",
+   "epg_code": "OnlyInHOT.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Outdoor Channel",
+   "epg_code": "Outdoor.ru",
+   "popularity": 6
+ },
+ {
+   "channel_name": "PRO TV",
+   "epg_code": "proTV.il",
+   "popularity": 4170
+ },
+ {
+   "channel_name": "Rai Italia",
+   "epg_code": "RaiItalia.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rain",
+   "epg_code": "Rain.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Red Sea Radio",
+   "epg_code": "RedSeaRadio.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ROTANA CINEMA",
+   "epg_code": "RotanaCinema.il",
+   "popularity": 31784
+ },
+ {
+   "channel_name": "ROTANA Music",
+   "epg_code": "RotanaMusic.il",
+   "popularity": 8776
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTL.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTM",
+   "epg_code": "rtm.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTR Planeta",
+   "epg_code": "RTRPlaneta.ru",
+   "popularity": 1
+ },
+ {
+   "channel_name": "RTVi",
+   "epg_code": "RTVi.ru",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Ru TV",
+   "epg_code": "RUTV.ru",
+   "popularity": 68
+ },
+ {
+   "channel_name": "Russian Travel Guide",
+   "epg_code": "RussianTravelGuide.ru",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SAT1",
+   "epg_code": "SAT1.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "SAT3",
+   "epg_code": "SAT3.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Saudi",
+   "epg_code": "Saudi.il",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Shanson TV",
+   "epg_code": "ShansonTV.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Shopping Channel",
+   "epg_code": "Shoppingchannel.il",
+   "popularity": 26
+ },
+ {
+   "channel_name": "Sky News",
+   "epg_code": "SkyNews.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sport 1 HD",
+   "epg_code": "Sport1HD.il",
+   "popularity": 597
+ },
+ {
+   "channel_name": "Sport 2",
+   "epg_code": "Sport2.il",
+   "popularity": 547
+ },
+ {
+   "channel_name": "Sport 3 HD",
+   "epg_code": "Sport3HD.il",
+   "popularity": 193
+ },
+ {
+   "channel_name": "Sport 4 HD",
+   "epg_code": "Sport4HD.il",
+   "popularity": 195
+ },
+ {
+   "channel_name": "Sport 5",
+   "epg_code": "Sport5.il",
+   "popularity": 915
+ },
+ {
+   "channel_name": "Sport 5 Gold",
+   "epg_code": "Sport5Gold.il",
+   "popularity": 44
+ },
+ {
+   "channel_name": "Sport 5 HD",
+   "epg_code": "Sport5HD.il",
+   "popularity": 362
+ },
+ {
+   "channel_name": "Sport 5+",
+   "epg_code": "Sport5Plus.il",
+   "popularity": 272
+ },
+ {
+   "channel_name": "Sport One",
+   "epg_code": "SportOne.il",
+   "popularity": 16
+ },
+ {
+   "channel_name": "STS-CTC",
+   "epg_code": "CTC.ru",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Style",
+   "epg_code": "Lifestyle.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Syria",
+   "epg_code": "Syria.il",
+   "popularity": 11636
+ },
+ {
+   "channel_name": "Telecafe",
+   "epg_code": "Telecafe.ru",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Teleclub",
+   "epg_code": "Teleclub.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TF1 HD",
+   "epg_code": "TF1HD.il",
+   "popularity": 1
+ },
+ {
+   "channel_name": "The Knesset Channel",
+   "epg_code": "TheKnessetChannel.il",
+   "popularity": 6
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNT.ru",
+   "popularity": 451
+ },
+ {
+   "channel_name": "Touch",
+   "epg_code": "Touch.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.il",
+   "popularity": 84
+ },
+ {
+   "channel_name": "Tunis",
+   "epg_code": "Tunis.il",
+   "popularity": 12
+ },
+ {
+   "channel_name": "TV vremia",
+   "epg_code": "Vremya.ru",
+   "popularity": 1
+ },
+ {
+   "channel_name": "TVCi",
+   "epg_code": "TVCi.ru",
+   "popularity": 1
+ },
+ {
+   "channel_name": "TVE",
+   "epg_code": "TVE.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VH-1",
+   "epg_code": "VH1.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VH-1 CLASSIC",
+   "epg_code": "VH-1Classic.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viva",
+   "epg_code": "Viva.il",
+   "popularity": 179
+ },
+ {
+   "channel_name": "Viva Plus",
+   "epg_code": "VivaPlus.il",
+   "popularity": 244
+ },
+ {
+   "channel_name": "Voice of Hope",
+   "epg_code": "VoiceOfHope.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "yes Action HD",
+   "epg_code": "yesActionHD.il",
+   "popularity": 96
+ },
+ {
+   "channel_name": "yes docu HD",
+   "epg_code": "yesDocu.il",
+   "popularity": 55
+ },
+ {
+   "channel_name": "yes Drama HD",
+   "epg_code": "yesDrama.il",
+   "popularity": 49
+ },
+ {
+   "channel_name": "yes News",
+   "epg_code": "yesNews.il",
+   "popularity": 0
+ },
+ {
+   "channel_name": "yes Oh",
+   "epg_code": "yesOh.il",
+   "popularity": 20
+ },
+ {
+   "channel_name": "yes stars Comedy",
+   "epg_code": "yesComedy.il",
+   "popularity": 172
+ },
+ {
+   "channel_name": "yes1 HD",
+   "epg_code": "yes1.il",
+   "popularity": 5821
+ },
+ {
+   "channel_name": "yes2 HD",
+   "epg_code": "yes2.il",
+   "popularity": 549
+ },
+ {
+   "channel_name": "yes3 HD",
+   "epg_code": "yes3.il",
+   "popularity": 283
+ },
+ {
+   "channel_name": "yes4 HD",
+   "epg_code": "yes4.il",
+   "popularity": 460
+ },
+ {
+   "channel_name": "yes5 HD",
+   "epg_code": "yes5.il",
+   "popularity": 267
+ },
+ {
+   "channel_name": "Zee TV",
+   "epg_code": "ZeeTV.il",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Zoom",
+   "epg_code": "Zoom.il",
+   "popularity": 127
+ },
+ {
+   "channel_name": "Zoom HOT",
+   "epg_code": "Zoom(HOT).il",
+   "popularity": 11
+ },
+ {
+   "channel_name": "דיסני ג'וניור",
+   "epg_code": "DisneyJunior.il",
+   "popularity": 146
+ },
+ {
+   "channel_name": "ערוץ הילדים",
+   "epg_code": "ChildrensChannel.il",
+   "popularity": 0
+ }
+]

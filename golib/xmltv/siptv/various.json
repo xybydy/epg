@@ -1,0 +1,567 @@
+[
+ {
+   "channel_name": "24 Horas",
+   "epg_code": "Canal24Horas.es",
+   "popularity": 2379
+ },
+ {
+   "channel_name": "2M Maroc",
+   "epg_code": "2MMaroc.ma",
+   "popularity": 241584
+ },
+ {
+   "channel_name": "ACM",
+   "epg_code": "ACM.me",
+   "popularity": 98
+ },
+ {
+   "channel_name": "Al Aoula (France)",
+   "epg_code": "AlAoula.ma",
+   "popularity": 67038
+ },
+ {
+   "channel_name": "Al Arabiya",
+   "epg_code": "AlArabiya.nws",
+   "popularity": 32368
+ },
+ {
+   "channel_name": "Al Jazeera Arabe",
+   "epg_code": "AlJazeeraArabe.nws",
+   "popularity": 32662
+ },
+ {
+   "channel_name": "Al Jazeera English",
+   "epg_code": "AlJazeera.nws",
+   "popularity": 133331
+ },
+ {
+   "channel_name": "Al Maghribia",
+   "epg_code": "AlMaghribia.ma",
+   "popularity": 93385
+ },
+ {
+   "channel_name": "Arirang TV World 1",
+   "epg_code": "ArirangTv.kr",
+   "popularity": 11433
+ },
+ {
+   "channel_name": "Arrabiaa",
+   "epg_code": "Arrabiaa.ma",
+   "popularity": 31285
+ },
+ {
+   "channel_name": "Assadissa",
+   "epg_code": "Assadissa.ma",
+   "popularity": 44259
+ },
+ {
+   "channel_name": "Auto Motor und Sport Channel HD",
+   "epg_code": "AutoMotorundSportChannel.eu",
+   "popularity": 118
+ },
+ {
+   "channel_name": "BBC Earth",
+   "epg_code": "BBCEarth.nordic",
+   "popularity": 3411
+ },
+ {
+   "channel_name": "BBC News",
+   "epg_code": "BBCNews.nws",
+   "popularity": 40532
+ },
+ {
+   "channel_name": "BBC World News",
+   "epg_code": "BBCWorldNews.nws",
+   "popularity": 4747
+ },
+ {
+   "channel_name": "Bloomberg TV",
+   "epg_code": "Bloomberg.nws",
+   "popularity": 3762
+ },
+ {
+   "channel_name": "Brava HD",
+   "epg_code": "StingrayBrava.en",
+   "popularity": 231
+ },
+ {
+   "channel_name": "BVN",
+   "epg_code": "BVN.be",
+   "popularity": 1621
+ },
+ {
+   "channel_name": "C Music",
+   "epg_code": "CMusic.eu",
+   "popularity": 43
+ },
+ {
+   "channel_name": "CCTV News",
+   "epg_code": "CGTN.cn",
+   "popularity": 26
+ },
+ {
+   "channel_name": "CCTV-9 Doco",
+   "epg_code": "CGTNDoco.cn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CGTN Francais",
+   "epg_code": "CGTNFrancais.cn",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Channel 44",
+   "epg_code": "Channel44.nws",
+   "popularity": 1029
+ },
+ {
+   "channel_name": "CLASSICA",
+   "epg_code": "Classica.eu",
+   "popularity": 830
+ },
+ {
+   "channel_name": "CLASSICA",
+   "epg_code": "ClassicaNight.eu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Clubbing TV HD",
+   "epg_code": "ClubbingTV.eu",
+   "popularity": 131
+ },
+ {
+   "channel_name": "CNBC Europe",
+   "epg_code": "CNBC.nws",
+   "popularity": 1786
+ },
+ {
+   "channel_name": "CNBC UK",
+   "epg_code": "CNBC.uk",
+   "popularity": 3380
+ },
+ {
+   "channel_name": "CNC World",
+   "epg_code": "CNCWorld.nws",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CNN International",
+   "epg_code": "CNN.nws",
+   "popularity": 43391
+ },
+ {
+   "channel_name": "DEUTSCHE WELLE (Deutsch)",
+   "epg_code": "DeutscheWelleDE.de",
+   "popularity": 116
+ },
+ {
+   "channel_name": "Deutsche Welle (English)",
+   "epg_code": "DeutscheWelleEN.de",
+   "popularity": 244
+ },
+ {
+   "channel_name": "DOCUBOX HD",
+   "epg_code": "Docubox.eu",
+   "popularity": 1515
+ },
+ {
+   "channel_name": "Dubai One",
+   "epg_code": "DubaiOne.ae",
+   "popularity": 1262
+ },
+ {
+   "channel_name": "eSportsTV HD",
+   "epg_code": "eSportsTV.eu",
+   "popularity": 21
+ },
+ {
+   "channel_name": "euronews",
+   "epg_code": "Euronews.nws",
+   "popularity": 36708
+ },
+ {
+   "channel_name": "euronews DE",
+   "epg_code": "EuronewsDE.nws",
+   "popularity": 4479
+ },
+ {
+   "channel_name": "euronews FR",
+   "epg_code": "EuronewsFR.nws",
+   "popularity": 2358
+ },
+ {
+   "channel_name": "euronews IT",
+   "epg_code": "EuronewsIT.nws",
+   "popularity": 464
+ },
+ {
+   "channel_name": "Eurosport HD",
+   "epg_code": "Eurosport.int",
+   "popularity": 245
+ },
+ {
+   "channel_name": "Eurosport2 Int",
+   "epg_code": "Eurosport2.int",
+   "popularity": 12
+ },
+ {
+   "channel_name": "EWTN Catholic",
+   "epg_code": "EWTNCatholic.eu",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Extreme Sports Channel",
+   "epg_code": "ExtremeSports.eu",
+   "popularity": 451
+ },
+ {
+   "channel_name": "Fashion One",
+   "epg_code": "FashionOne.eu",
+   "popularity": 53
+ },
+ {
+   "channel_name": "Fashion One 4k",
+   "epg_code": "FashionOne4k.eu",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.eu",
+   "popularity": 474
+ },
+ {
+   "channel_name": "Fashion TV SD",
+   "epg_code": "FashionTVSD.eu",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Fast&Fun Box",
+   "epg_code": "FastFunBox.hr",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Fine Living Network",
+   "epg_code": "FineLiving.eu",
+   "popularity": 183
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.eu",
+   "popularity": 5129
+ },
+ {
+   "channel_name": "FOX News",
+   "epg_code": "FOXNews.uk",
+   "popularity": 19991
+ },
+ {
+   "channel_name": "Fox Sports",
+   "epg_code": "FoxSports.tr",
+   "popularity": 1061
+ },
+ {
+   "channel_name": "FRANCE 24",
+   "epg_code": "France24fr.fr",
+   "popularity": 30120
+ },
+ {
+   "channel_name": "France 24 Arabe",
+   "epg_code": "France24Arabe.nws",
+   "popularity": 2402
+ },
+ {
+   "channel_name": "GOD Channel",
+   "epg_code": "GODChannel.eu",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Gospel Channel",
+   "epg_code": "GospelChannel.eu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "gotv",
+   "epg_code": "go.tv",
+   "popularity": 886
+ },
+ {
+   "channel_name": "Hillsong",
+   "epg_code": "Hillsong.uk",
+   "popularity": 433
+ },
+ {
+   "channel_name": "HRT International",
+   "epg_code": "HRTInt.hr",
+   "popularity": 585
+ },
+ {
+   "channel_name": "i24News",
+   "epg_code": "i24News.fr",
+   "popularity": 3305
+ },
+ {
+   "channel_name": "i24News",
+   "epg_code": "i24News.en.nws",
+   "popularity": 3360
+ },
+ {
+   "channel_name": "iConcerts",
+   "epg_code": "StingrayIconcerts.eu",
+   "popularity": 187
+ },
+ {
+   "channel_name": "Insight HD",
+   "epg_code": "Insight.eu",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Insight UHD",
+   "epg_code": "InsightUHD.eu",
+   "popularity": 310
+ },
+ {
+   "channel_name": "KBS World",
+   "epg_code": "KBSWorld.kr",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Kerrang!",
+   "epg_code": "Kerrang.uk",
+   "popularity": 4359
+ },
+ {
+   "channel_name": "KICC TV",
+   "epg_code": "KICCTV.uk",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Love Nature",
+   "epg_code": "LoveNature.eu",
+   "popularity": 944
+ },
+ {
+   "channel_name": "Luxe TV",
+   "epg_code": "LuxeTV.eu",
+   "popularity": 267
+ },
+ {
+   "channel_name": "Magic",
+   "epg_code": "Magic.uk",
+   "popularity": 8809
+ },
+ {
+   "channel_name": "MBC 2",
+   "epg_code": "MBC2.ae",
+   "popularity": 21351
+ },
+ {
+   "channel_name": "Mediaset Italia",
+   "epg_code": "MediasetItalia.int",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Motorvision TV",
+   "epg_code": "MotorVision.eu",
+   "popularity": 178
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.eu",
+   "popularity": 1082
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.eu",
+   "popularity": 1376
+ },
+ {
+   "channel_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.eu",
+   "popularity": 8642
+ },
+ {
+   "channel_name": "MTV Music",
+   "epg_code": "MTVMusic.eu",
+   "popularity": 1212
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "MTVRocks.eu",
+   "popularity": 5906
+ },
+ {
+   "channel_name": "Museum",
+   "epg_code": "Museum.fr",
+   "popularity": 6951
+ },
+ {
+   "channel_name": "myZen.tv",
+   "epg_code": "myZen.tv",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NGCWild.eu",
+   "popularity": 4903
+ },
+ {
+   "channel_name": "NAUTICAL CHANNEL",
+   "epg_code": "Nautical.eu",
+   "popularity": 548
+ },
+ {
+   "channel_name": "NHK world",
+   "epg_code": "NHKworld.jp",
+   "popularity": 479
+ },
+ {
+   "channel_name": "Outdoor Channel",
+   "epg_code": "OutdoorChannel.eu",
+   "popularity": 953
+ },
+ {
+   "channel_name": "PCNE Chinese",
+   "epg_code": "PCNEChinese.uk",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Press TV",
+   "epg_code": "PressTV.uk",
+   "popularity": 489
+ },
+ {
+   "channel_name": "Record TV",
+   "epg_code": "RecordTV.eu",
+   "popularity": 401
+ },
+ {
+   "channel_name": "RT Documentary",
+   "epg_code": "RTDocumentary.pl",
+   "popularity": 185
+ },
+ {
+   "channel_name": "RT español",
+   "epg_code": "RTespanol.nws",
+   "popularity": 242
+ },
+ {
+   "channel_name": "rtgtv.ru",
+   "epg_code": "rtgtv.ru",
+   "popularity": 23
+ },
+ {
+   "channel_name": "RTPi",
+   "epg_code": "RTPi.pt",
+   "popularity": 3426
+ },
+ {
+   "channel_name": "Russia Today",
+   "epg_code": "RussiaToday.uk",
+   "popularity": 4190
+ },
+ {
+   "channel_name": "Sky News",
+   "epg_code": "SkyNews.uk",
+   "popularity": 39932
+ },
+ {
+   "channel_name": "SkyNws Arabia",
+   "epg_code": "SkyNwsArabia.nws",
+   "popularity": 154
+ },
+ {
+   "channel_name": "Sport24 TV",
+   "epg_code": "Sport24.eu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Thai TV Global Network",
+   "epg_code": "ThaiTVGlobalNetwork.nws",
+   "popularity": 89
+ },
+ {
+   "channel_name": "the QYOU HD",
+   "epg_code": "QYOU.nl",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Trace Urban HD",
+   "epg_code": "TraceUrban.eu",
+   "popularity": 1509
+ },
+ {
+   "channel_name": "Travel Channel HD",
+   "epg_code": "TravelChannelHD.eu",
+   "popularity": 5711
+ },
+ {
+   "channel_name": "Travel XP",
+   "epg_code": "TravelXP.eu",
+   "popularity": 420
+ },
+ {
+   "channel_name": "TRT International",
+   "epg_code": "TRTInternational",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TRT TURK",
+   "epg_code": "TRTturk.tr",
+   "popularity": 77024
+ },
+ {
+   "channel_name": "TRTworld",
+   "epg_code": "TRTworld.nws",
+   "popularity": 80
+ },
+ {
+   "channel_name": "TV5MONDE Europe",
+   "epg_code": "TV5MondeEurope.fr",
+   "popularity": 14949
+ },
+ {
+   "channel_name": "TV5MONDE France Belgique Suisse (FBS)",
+   "epg_code": "TV5MondeFBS.fr",
+   "popularity": 18690
+ },
+ {
+   "channel_name": "TV5MONDE Maghreb-Orient",
+   "epg_code": "TV5MONDEMaghreb-Orient.fr",
+   "popularity": 50
+ },
+ {
+   "channel_name": "TVE Internacional",
+   "epg_code": "TVEi.nws",
+   "popularity": 1908
+ },
+ {
+   "channel_name": "VH 1 classic",
+   "epg_code": "VH1Classic.eu",
+   "popularity": 3707
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.eu",
+   "popularity": 181
+ },
+ {
+   "channel_name": "Voice of America (DOS)",
+   "epg_code": "DOS.com",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Voice of America (VOA)",
+   "epg_code": "VOA.com",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Wness TV",
+   "epg_code": "Wness.tv",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Word Network",
+   "epg_code": "WordNetwork.uk",
+   "popularity": 19
+ }
+]

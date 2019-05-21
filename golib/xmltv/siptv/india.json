@@ -1,0 +1,1662 @@
+[
+ {
+   "channel_name": "& Pictures",
+   "epg_code": "Pictures.in",
+   "popularity": 2080
+ },
+ {
+   "channel_name": "&prive HD",
+   "epg_code": "priveHD.in",
+   "popularity": 636
+ },
+ {
+   "channel_name": "7 S Music",
+   "epg_code": "7SMusic.in",
+   "popularity": 99
+ },
+ {
+   "channel_name": "9X",
+   "epg_code": "9X.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "9X Jalwa",
+   "epg_code": "9XJalwa.in",
+   "popularity": 2108
+ },
+ {
+   "channel_name": "9X Jhakaas",
+   "epg_code": "9XJhakaas.in",
+   "popularity": 417
+ },
+ {
+   "channel_name": "9X Tashan",
+   "epg_code": "9XTashan.in",
+   "popularity": 422
+ },
+ {
+   "channel_name": "9XM",
+   "epg_code": "9XM.in",
+   "popularity": 1277
+ },
+ {
+   "channel_name": "9xO",
+   "epg_code": "9xO.in",
+   "popularity": 26
+ },
+ {
+   "channel_name": "A2Z News",
+   "epg_code": "A2ZNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Aaj Tak",
+   "epg_code": "AajTak.in",
+   "popularity": 1523
+ },
+ {
+   "channel_name": "Aalami Sahara",
+   "epg_code": "AalamiSahara.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ABN Telugu News",
+   "epg_code": "ABNTeluguNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Adhyatma TV",
+   "epg_code": "AdhyatmaTV.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Adithya TV",
+   "epg_code": "AdithyaTV.in",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Akash Bangla",
+   "epg_code": "AkashBangla.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Amrita Tv",
+   "epg_code": "AmritaTv.in",
+   "popularity": 120
+ },
+ {
+   "channel_name": "Angel Tv",
+   "epg_code": "AngelTv.in",
+   "popularity": 39
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.in",
+   "popularity": 270
+ },
+ {
+   "channel_name": "Animax",
+   "epg_code": "Animax.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Anjan Tv",
+   "epg_code": "AnjanTv.in",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Arihant Tv",
+   "epg_code": "ArihantTv.in",
+   "popularity": 47
+ },
+ {
+   "channel_name": "Aryan",
+   "epg_code": "Aryan.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Aseervatham TV",
+   "epg_code": "AseervathamTV.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Asianet",
+   "epg_code": "Asianet.in",
+   "popularity": 626
+ },
+ {
+   "channel_name": "Asianet Movies",
+   "epg_code": "AsianetMovies.in",
+   "popularity": 393
+ },
+ {
+   "channel_name": "Asianet News",
+   "epg_code": "AsianetNews.in",
+   "popularity": 376
+ },
+ {
+   "channel_name": "Asianet Plus",
+   "epg_code": "AsianetPlus.in",
+   "popularity": 418
+ },
+ {
+   "channel_name": "Asianet Suvarna",
+   "epg_code": "AsianetSuvarna.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Australia Network",
+   "epg_code": "AustraliaNetwork.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.in",
+   "popularity": 49
+ },
+ {
+   "channel_name": "B4U Movies",
+   "epg_code": "B4UMovies.in",
+   "popularity": 8786
+ },
+ {
+   "channel_name": "B4U Music",
+   "epg_code": "B4UMusic.in",
+   "popularity": 2090
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.in",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Bansal News",
+   "epg_code": "BansalNews.in",
+   "popularity": 10
+ },
+ {
+   "channel_name": "BBC World News",
+   "epg_code": "BBCWorldNews.in",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Bhakti TV",
+   "epg_code": "BhaktiTV.in",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Big CBS Love",
+   "epg_code": "BigCBSLove.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Big CBS Prime",
+   "epg_code": "BigCBSPrime.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Big Magic",
+   "epg_code": "BigMagic.in",
+   "popularity": 106
+ },
+ {
+   "channel_name": "BIG RTL Thrill",
+   "epg_code": "BIGRTLThrill.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bindass",
+   "epg_code": "Bindass.in",
+   "popularity": 216
+ },
+ {
+   "channel_name": "Bindass Play",
+   "epg_code": "BindassPlay.in",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Bizz News",
+   "epg_code": "BizzNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Captain News",
+   "epg_code": "CaptainNews.in",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.in",
+   "popularity": 95
+ },
+ {
+   "channel_name": "Channel [V]",
+   "epg_code": "ChannelV.in",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Channel 10",
+   "epg_code": "Channel10.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Chintu Tv",
+   "epg_code": "ChintuTv.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Chirithira",
+   "epg_code": "Chirithira.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Chutti TV",
+   "epg_code": "ChuttiTV.in",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Cinema TV",
+   "epg_code": "CinemaTV.in",
+   "popularity": 228
+ },
+ {
+   "channel_name": "CNBC AWAAZ",
+   "epg_code": "CNBCAWAAZ.in",
+   "popularity": 213
+ },
+ {
+   "channel_name": "CNBC Bajar",
+   "epg_code": "CNBCBajar.in",
+   "popularity": 28
+ },
+ {
+   "channel_name": "CNBC TV18",
+   "epg_code": "CNBCTV18.in",
+   "popularity": 140
+ },
+ {
+   "channel_name": "CNBC TV18 Prime HD",
+   "epg_code": "CNBCTV18PrimeHD.in",
+   "popularity": 37
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNN.in",
+   "popularity": 32
+ },
+ {
+   "channel_name": "CNN-News18",
+   "epg_code": "CNN-IBN.in",
+   "popularity": 430
+ },
+ {
+   "channel_name": "Colors",
+   "epg_code": "Colors.in",
+   "popularity": 15331
+ },
+ {
+   "channel_name": "Colors Infinity",
+   "epg_code": "ColorsInfinity.in",
+   "popularity": 159
+ },
+ {
+   "channel_name": "Colors Kannada",
+   "epg_code": "EtvKannada.in",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Colors Marathi",
+   "epg_code": "EtvMarathi.in",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Colors Super",
+   "epg_code": "ColorsSuper.in",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.in",
+   "popularity": 33
+ },
+ {
+   "channel_name": "D Sport",
+   "epg_code": "DSport.in",
+   "popularity": 70
+ },
+ {
+   "channel_name": "Dabangg TV",
+   "epg_code": "DabanggTV.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "DD Bharati",
+   "epg_code": "DDBharati.in",
+   "popularity": 108
+ },
+ {
+   "channel_name": "DD India",
+   "epg_code": "DDIndia.in",
+   "popularity": 263
+ },
+ {
+   "channel_name": "DD National",
+   "epg_code": "DDNational.in",
+   "popularity": 128
+ },
+ {
+   "channel_name": "DD News",
+   "epg_code": "DDNews.in",
+   "popularity": 222
+ },
+ {
+   "channel_name": "DD Sports",
+   "epg_code": "DDSports.in",
+   "popularity": 386
+ },
+ {
+   "channel_name": "DD Urdu",
+   "epg_code": "DDUrdu.in",
+   "popularity": 26
+ },
+ {
+   "channel_name": "Dhamaal TV",
+   "epg_code": "DhamaalTV.in",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Dhoom Music",
+   "epg_code": "DhoomMusic.in",
+   "popularity": 90
+ },
+ {
+   "channel_name": "Dilli Aaj Tak",
+   "epg_code": "DilliAajTak.in",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.in",
+   "popularity": 84
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.in",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Discovery ID",
+   "epg_code": "DiscoveryID.in",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Discovery Kids",
+   "epg_code": "DiscoveryKids.in",
+   "popularity": 107
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.in",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Discovery Tamil",
+   "epg_code": "DiscoveryTamil.in",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Discovery Turbo",
+   "epg_code": "DiscoveryTurbo.in",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.in",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Disney International HD",
+   "epg_code": "DisneyInternationalHD.in",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.in",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Divya Tv",
+   "epg_code": "DivyaTv.in",
+   "popularity": 91
+ },
+ {
+   "channel_name": "DY 365",
+   "epg_code": "DY365.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "E 24",
+   "epg_code": "E24.in",
+   "popularity": 203
+ },
+ {
+   "channel_name": "EPIC",
+   "epg_code": "EPIC.in",
+   "popularity": 231
+ },
+ {
+   "channel_name": "Etv",
+   "epg_code": "Etv.in",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Etv 2",
+   "epg_code": "Etv2.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Etv Bangla",
+   "epg_code": "EtvBangla.in",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Etv Bihar",
+   "epg_code": "EtvBihar.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Etv Gujarati",
+   "epg_code": "EtvGujarati.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Etv MP",
+   "epg_code": "EtvMP.in",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Etv Oriya",
+   "epg_code": "EtvOriya.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Etv Rajasthan",
+   "epg_code": "EtvRajasthan.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Etv UP",
+   "epg_code": "EtvUP.in",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Etv Urdu",
+   "epg_code": "EtvUrdu.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "FILMY",
+   "epg_code": "FILMY.in",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Firangi",
+   "epg_code": "Firangi.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Focus Tv",
+   "epg_code": "FocusTv.in",
+   "popularity": 140
+ },
+ {
+   "channel_name": "Food Food",
+   "epg_code": "FoodFood.in",
+   "popularity": 720
+ },
+ {
+   "channel_name": "Fox Crime",
+   "epg_code": "FoxCrime.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FoxLife.in",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Fox Life HD",
+   "epg_code": "FoxLifeHD.in",
+   "popularity": 17
+ },
+ {
+   "channel_name": "FTV",
+   "epg_code": "FTV.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FX",
+   "epg_code": "FX.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Gemini Movies",
+   "epg_code": "GeminiMovies.in",
+   "popularity": 336
+ },
+ {
+   "channel_name": "Gemini Music",
+   "epg_code": "GeminiMusic.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Gemini Tv",
+   "epg_code": "GeminiTv.in",
+   "popularity": 134
+ },
+ {
+   "channel_name": "Gemini Tv HD",
+   "epg_code": "GeminiTvHD.in",
+   "popularity": 72
+ },
+ {
+   "channel_name": "GNN News",
+   "epg_code": "GNNNews.in",
+   "popularity": 57
+ },
+ {
+   "channel_name": "God Tv",
+   "epg_code": "GodTv.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBO.in",
+   "popularity": 365
+ },
+ {
+   "channel_name": "HBO Defined",
+   "epg_code": "HBODefined.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HBO HD",
+   "epg_code": "HBOHits.in",
+   "popularity": 321
+ },
+ {
+   "channel_name": "Headlines Today",
+   "epg_code": "HeadlinesToday.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "History Tv 18",
+   "epg_code": "HistoryTv18.in",
+   "popularity": 31
+ },
+ {
+   "channel_name": "HomeShop 18",
+   "epg_code": "HomeShop18.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Hungama TV",
+   "epg_code": "HungamaTV.in",
+   "popularity": 3
+ },
+ {
+   "channel_name": "IBN Lokmat",
+   "epg_code": "IBNLokmat.in",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Imayam Tv",
+   "epg_code": "ImayamTv.in",
+   "popularity": 22
+ },
+ {
+   "channel_name": "India News",
+   "epg_code": "IndiaNews.in",
+   "popularity": 242
+ },
+ {
+   "channel_name": "India Talkies",
+   "epg_code": "IndiaTalkies.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "India TV",
+   "epg_code": "IndiaTV.in",
+   "popularity": 839
+ },
+ {
+   "channel_name": "Indiavision",
+   "epg_code": "Indiavision.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ishwar Tv",
+   "epg_code": "IshwarTv.in",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Jalsha Movies",
+   "epg_code": "JalshaMovies.in",
+   "popularity": 117
+ },
+ {
+   "channel_name": "Jan TV",
+   "epg_code": "JanTV.in",
+   "popularity": 73
+ },
+ {
+   "channel_name": "Janasri News",
+   "epg_code": "JanasriNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Jaya Max",
+   "epg_code": "JayaMax.in",
+   "popularity": 144
+ },
+ {
+   "channel_name": "Jaya Movie",
+   "epg_code": "JayaMovie.in",
+   "popularity": 297
+ },
+ {
+   "channel_name": "Jaya Plus",
+   "epg_code": "JayaPlus.in",
+   "popularity": 212
+ },
+ {
+   "channel_name": "Jaya Tv",
+   "epg_code": "JayaTv.in",
+   "popularity": 261
+ },
+ {
+   "channel_name": "Jeevan Tv",
+   "epg_code": "JeevanTv.in",
+   "popularity": 128
+ },
+ {
+   "channel_name": "Kairali People TV",
+   "epg_code": "KairaliPeopleTV.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kairali Tv",
+   "epg_code": "KairaliTv.in",
+   "popularity": 320
+ },
+ {
+   "channel_name": "Kalaignar Chithiram",
+   "epg_code": "KalaignarChithiram.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Kalaignar Isai Aruvi",
+   "epg_code": "KalaignarIsaiAruvi.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Kalaignar Murasu",
+   "epg_code": "KalaignarMurasu.in",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Kalaignar Sirippoli",
+   "epg_code": "KalaignarSirippoli.in",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Kalaignar Tv",
+   "epg_code": "KalaignarTv.in",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Kasthuri TV",
+   "epg_code": "KasthuriTV.in",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Khushboo Tv",
+   "epg_code": "KhushbooTv.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kochu Tv",
+   "epg_code": "KochuTv.in",
+   "popularity": 32
+ },
+ {
+   "channel_name": "Kolkata TV",
+   "epg_code": "KolkataTV.in",
+   "popularity": 41
+ },
+ {
+   "channel_name": "KTV",
+   "epg_code": "KTV.in",
+   "popularity": 151
+ },
+ {
+   "channel_name": "Ktv HD",
+   "epg_code": "KtvHD.in",
+   "popularity": 39883
+ },
+ {
+   "channel_name": "Kushi Tv",
+   "epg_code": "KushiTv.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Lemon News",
+   "epg_code": "LemonNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Life Ok HD",
+   "epg_code": "LifeOkHD.in",
+   "popularity": 510
+ },
+ {
+   "channel_name": "Maa Music",
+   "epg_code": "MaaMusic.in",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Mahuaa News",
+   "epg_code": "MahuaaNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mahuaa Tv",
+   "epg_code": "MahuaaTv.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mastiii",
+   "epg_code": "Mastiii.in",
+   "popularity": 334
+ },
+ {
+   "channel_name": "Mathrubhumi News",
+   "epg_code": "MathrubhumiNews.in",
+   "popularity": 66
+ },
+ {
+   "channel_name": "Mazhavil Manorama",
+   "epg_code": "MazhavilManorama.in",
+   "popularity": 149
+ },
+ {
+   "channel_name": "Mega Musiq",
+   "epg_code": "MegaMusiq.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mega TV",
+   "epg_code": "MegaTV.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "MGM",
+   "epg_code": "MGM.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MH1 News",
+   "epg_code": "MH1News.in",
+   "popularity": 49
+ },
+ {
+   "channel_name": "Mi Marathi",
+   "epg_code": "MiMarathi.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Movies Now",
+   "epg_code": "MoviesNow.in",
+   "popularity": 471
+ },
+ {
+   "channel_name": "Movies Now HD",
+   "epg_code": "MoviesNowHD.in",
+   "popularity": 82
+ },
+ {
+   "channel_name": "Mtunes",
+   "epg_code": "Mtunes.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mtunes HD",
+   "epg_code": "MtunesHD.in",
+   "popularity": 58
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.in",
+   "popularity": 496
+ },
+ {
+   "channel_name": "Music India",
+   "epg_code": "MusicIndia.in",
+   "popularity": 723
+ },
+ {
+   "channel_name": "Music Xpress",
+   "epg_code": "MusicXpress.in",
+   "popularity": 11
+ },
+ {
+   "channel_name": "MY TV",
+   "epg_code": "MYTV.in",
+   "popularity": 49
+ },
+ {
+   "channel_name": "Nat Geo Music",
+   "epg_code": "NatGeoMusic.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Nat Geo People",
+   "epg_code": "NatGeoPeople.in",
+   "popularity": 6572
+ },
+ {
+   "channel_name": "Nat Geo People HD",
+   "epg_code": "NatGeoPeopleHD.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.in",
+   "popularity": 111
+ },
+ {
+   "channel_name": "National Geographic Channel",
+   "epg_code": "NationalGeographicChannel.in",
+   "popularity": 54
+ },
+ {
+   "channel_name": "National Geographic Channel HD",
+   "epg_code": "NationalGeographicChannelHD.in",
+   "popularity": 6
+ },
+ {
+   "channel_name": "NDTV 24X7",
+   "epg_code": "NDTV24X7.in",
+   "popularity": 242
+ },
+ {
+   "channel_name": "NDTV Good Times",
+   "epg_code": "NDTVGoodTimes.in",
+   "popularity": 18
+ },
+ {
+   "channel_name": "NDTV India",
+   "epg_code": "NDTVIndia.in",
+   "popularity": 567
+ },
+ {
+   "channel_name": "NDTV Profit",
+   "epg_code": "NDTVProfit.in",
+   "popularity": 151
+ },
+ {
+   "channel_name": "Neo Prime",
+   "epg_code": "NeoPrime.in",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Neo Sports",
+   "epg_code": "NeoSports.in",
+   "popularity": 6
+ },
+ {
+   "channel_name": "News 24",
+   "epg_code": "News24.in",
+   "popularity": 648
+ },
+ {
+   "channel_name": "News Express",
+   "epg_code": "NewsExpress.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "News Time",
+   "epg_code": "NewsTime.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "News18 India",
+   "epg_code": "IBN7.in",
+   "popularity": 293
+ },
+ {
+   "channel_name": "NewsX",
+   "epg_code": "NewsX.in",
+   "popularity": 83
+ },
+ {
+   "channel_name": "Nick Junior",
+   "epg_code": "NickJunior.in",
+   "popularity": 84
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.in",
+   "popularity": 120
+ },
+ {
+   "channel_name": "Om Bangla",
+   "epg_code": "OmBangla.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Orissa Tv",
+   "epg_code": "OrissaTv.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "POGO",
+   "epg_code": "POGO.in",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Polimer Tv",
+   "epg_code": "PolimerTv.in",
+   "popularity": 42
+ },
+ {
+   "channel_name": "PTC Chak De",
+   "epg_code": "PTCChakDe.in",
+   "popularity": 469
+ },
+ {
+   "channel_name": "PTC News",
+   "epg_code": "PTCNews.in",
+   "popularity": 295
+ },
+ {
+   "channel_name": "Raj Digital Plus",
+   "epg_code": "RajDigitalPlus.in",
+   "popularity": 186
+ },
+ {
+   "channel_name": "Raj Music Karnataka",
+   "epg_code": "RajMusicKarnataka.in",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Raj Musix",
+   "epg_code": "RajMusix.in",
+   "popularity": 195
+ },
+ {
+   "channel_name": "Raj Musix Telugu",
+   "epg_code": "RajMusixTelugu.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Raj News 24x7",
+   "epg_code": "RajNews24x7.in",
+   "popularity": 71
+ },
+ {
+   "channel_name": "Raj News Malyalam",
+   "epg_code": "RajNewsMalyalam.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Raj Tv",
+   "epg_code": "RajTv.in",
+   "popularity": 179
+ },
+ {
+   "channel_name": "Rishtey",
+   "epg_code": "Rishtey.in",
+   "popularity": 708
+ },
+ {
+   "channel_name": "Romedy Now",
+   "epg_code": "RomedyNow.in",
+   "popularity": 278
+ },
+ {
+   "channel_name": "Ruposhi Bangla",
+   "epg_code": "RuposhiBangla.in",
+   "popularity": 110
+ },
+ {
+   "channel_name": "Saam TV",
+   "epg_code": "SaamTV.in",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Sada Channel",
+   "epg_code": "SadaChannel.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sahara One",
+   "epg_code": "SaharaOne.in",
+   "popularity": 73
+ },
+ {
+   "channel_name": "Sahara UP",
+   "epg_code": "SaharaUP.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Samaya TV",
+   "epg_code": "SamayaTV.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sandesh News DNN",
+   "epg_code": "SandeshNewsDNN.in",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Sangeet Bangla",
+   "epg_code": "SangeetBangla.in",
+   "popularity": 117
+ },
+ {
+   "channel_name": "Sangeet Bhojpuri",
+   "epg_code": "SangeetBhojpuri.in",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Sea News",
+   "epg_code": "SeaNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Seithigal",
+   "epg_code": "Seithigal.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Soham TV",
+   "epg_code": "SohamTV.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sonic",
+   "epg_code": "Sonic.in",
+   "popularity": 112
+ },
+ {
+   "channel_name": "Sony Entertainment TV",
+   "epg_code": "SonyEntertainmentTV.in",
+   "popularity": 856
+ },
+ {
+   "channel_name": "Sony ESPN",
+   "epg_code": "SonyESPN.in",
+   "popularity": 306
+ },
+ {
+   "channel_name": "Sony ESPN HD",
+   "epg_code": "SonyESPNHD.in",
+   "popularity": 73
+ },
+ {
+   "channel_name": "SONY Le Plex",
+   "epg_code": "SonyLePlex.in",
+   "popularity": 85
+ },
+ {
+   "channel_name": "Sony MAX",
+   "epg_code": "SonyMAX.in",
+   "popularity": 3879
+ },
+ {
+   "channel_name": "Sony Max 2",
+   "epg_code": "SonyMax2.in",
+   "popularity": 1787
+ },
+ {
+   "channel_name": "Sony Mix",
+   "epg_code": "SonyMix.in",
+   "popularity": 832
+ },
+ {
+   "channel_name": "Sony Pal",
+   "epg_code": "SonyPal.in",
+   "popularity": 2147
+ },
+ {
+   "channel_name": "Sony PIX",
+   "epg_code": "SonyPIX.in",
+   "popularity": 1465
+ },
+ {
+   "channel_name": "SONY ROX",
+   "epg_code": "SonyRox.in",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Sony SAB",
+   "epg_code": "SonySAB.in",
+   "popularity": 1731
+ },
+ {
+   "channel_name": "Sony Six",
+   "epg_code": "SonySix.in",
+   "popularity": 785
+ },
+ {
+   "channel_name": "Sony Six HD",
+   "epg_code": "SonySixHD.in",
+   "popularity": 1169
+ },
+ {
+   "channel_name": "Sony Ten 1",
+   "epg_code": "TenSports.in",
+   "popularity": 690
+ },
+ {
+   "channel_name": "Sony Ten 1 HD",
+   "epg_code": "TenHD.in",
+   "popularity": 861
+ },
+ {
+   "channel_name": "Sony Ten 2",
+   "epg_code": "TenAction.in",
+   "popularity": 667
+ },
+ {
+   "channel_name": "Sony Ten 3",
+   "epg_code": "TenCricket.in",
+   "popularity": 830
+ },
+ {
+   "channel_name": "Sony Ten Golf HD",
+   "epg_code": "TenGolf.in",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Sony TV HD",
+   "epg_code": "SonyTVHD.in",
+   "popularity": 4288
+ },
+ {
+   "channel_name": "SS Music",
+   "epg_code": "SSMusic.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Star Bharat",
+   "epg_code": "LifeOk.in",
+   "popularity": 1986
+ },
+ {
+   "channel_name": "Star Gold",
+   "epg_code": "StarGold.in",
+   "popularity": 2819
+ },
+ {
+   "channel_name": "Star Gold Select HD",
+   "epg_code": "StarGoldHD.in",
+   "popularity": 4193
+ },
+ {
+   "channel_name": "Star Gold Select SD",
+   "epg_code": "MoviesOk.in",
+   "popularity": 1131
+ },
+ {
+   "channel_name": "Star Jalsha",
+   "epg_code": "StarJalsha.in",
+   "popularity": 483
+ },
+ {
+   "channel_name": "Star Maa",
+   "epg_code": "MaaTv.in",
+   "popularity": 99
+ },
+ {
+   "channel_name": "Star Maa Gold",
+   "epg_code": "MaaGold.in",
+   "popularity": 167
+ },
+ {
+   "channel_name": "Star Maa Movies",
+   "epg_code": "MaaMovies.in",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Star Movies",
+   "epg_code": "StarMovies.in",
+   "popularity": 2065
+ },
+ {
+   "channel_name": "Star Movies Action",
+   "epg_code": "StarMoviesAction.in",
+   "popularity": 137
+ },
+ {
+   "channel_name": "Star Movies HD",
+   "epg_code": "StarMoviesHD.in",
+   "popularity": 2403
+ },
+ {
+   "channel_name": "Star Plus",
+   "epg_code": "StarPlus.in",
+   "popularity": 3321
+ },
+ {
+   "channel_name": "Star Plus HD",
+   "epg_code": "StarPlusHD.in",
+   "popularity": 1427
+ },
+ {
+   "channel_name": "Star Pravah",
+   "epg_code": "StarPravah.in",
+   "popularity": 452
+ },
+ {
+   "channel_name": "Star Select 1",
+   "epg_code": "StarSelect1.in",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Star Select 2",
+   "epg_code": "StarSelect2.in",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Star Sports 1",
+   "epg_code": "StarSports1.in",
+   "popularity": 833
+ },
+ {
+   "channel_name": "Star Sports 1 Hindi",
+   "epg_code": "StarSports3.in",
+   "popularity": 334
+ },
+ {
+   "channel_name": "Star Sports 1 Tamil",
+   "epg_code": "StarSports1Tamil.in",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Star Sports 2",
+   "epg_code": "StarSports2.in",
+   "popularity": 676
+ },
+ {
+   "channel_name": "Star Sports 3 HD",
+   "epg_code": "StarSportsHD3.in",
+   "popularity": 286
+ },
+ {
+   "channel_name": "Star Sports 4",
+   "epg_code": "StarSports4.in",
+   "popularity": 123
+ },
+ {
+   "channel_name": "Star Sports HD 1",
+   "epg_code": "StarSportsHD1.in",
+   "popularity": 778
+ },
+ {
+   "channel_name": "Star Sports HD 2",
+   "epg_code": "StarSportsHD2.in",
+   "popularity": 742
+ },
+ {
+   "channel_name": "Star Sports Hindi HD 1",
+   "epg_code": "StarSportsHindiHD1.in",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Star Sports Select 1",
+   "epg_code": "StarSportsSelect1.in",
+   "popularity": 178
+ },
+ {
+   "channel_name": "Star Sports Select 2",
+   "epg_code": "StarSportsSelect2.in",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Star Sports Select HD 1",
+   "epg_code": "StarSportsSelectHD1.in",
+   "popularity": 308
+ },
+ {
+   "channel_name": "Star Sports Select HD 2",
+   "epg_code": "StarSportsSelectHD2.in",
+   "popularity": 271
+ },
+ {
+   "channel_name": "Star Utsav",
+   "epg_code": "StarUtsav.in",
+   "popularity": 497
+ },
+ {
+   "channel_name": "Star Vijay",
+   "epg_code": "StarVijay.in",
+   "popularity": 373
+ },
+ {
+   "channel_name": "Star World",
+   "epg_code": "StarWorld.in",
+   "popularity": 1251
+ },
+ {
+   "channel_name": "Star World HD",
+   "epg_code": "StarWorldHD.in",
+   "popularity": 1008
+ },
+ {
+   "channel_name": "Star World Premier HD",
+   "epg_code": "StarWorldPremierHD.in",
+   "popularity": 1920
+ },
+ {
+   "channel_name": "Studio N",
+   "epg_code": "StudioN.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Sun Music",
+   "epg_code": "SunMusic.in",
+   "popularity": 708
+ },
+ {
+   "channel_name": "Sun News",
+   "epg_code": "SunNews.in",
+   "popularity": 73
+ },
+ {
+   "channel_name": "Sun Tv",
+   "epg_code": "SunTv.in",
+   "popularity": 452
+ },
+ {
+   "channel_name": "Sun Tv HD",
+   "epg_code": "SunTvHD.in",
+   "popularity": 422
+ },
+ {
+   "channel_name": "Surya Movies",
+   "epg_code": "KiranTv.in",
+   "popularity": 309
+ },
+ {
+   "channel_name": "Surya Tv",
+   "epg_code": "SuryaTv.in",
+   "popularity": 189
+ },
+ {
+   "channel_name": "Suvarna News 24x7",
+   "epg_code": "SuvarnaNews24x7.in",
+   "popularity": 85
+ },
+ {
+   "channel_name": "Suvarna Plus",
+   "epg_code": "SuvarnaPlus.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Tarang Music",
+   "epg_code": "TarangMusic.in",
+   "popularity": 94
+ },
+ {
+   "channel_name": "Tez",
+   "epg_code": "Tez.in",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Times Now",
+   "epg_code": "TimesNow.in",
+   "popularity": 827
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.in",
+   "popularity": 53
+ },
+ {
+   "channel_name": "Topper TV",
+   "epg_code": "TopperTV.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Travel XP",
+   "epg_code": "TravelXP.in",
+   "popularity": 1722
+ },
+ {
+   "channel_name": "TV9 Kannada",
+   "epg_code": "TV9Kannada.in",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Udaya",
+   "epg_code": "Udaya.in",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Udaya Comedy",
+   "epg_code": "UdayaComedy.in",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Udaya Movies",
+   "epg_code": "UdayaMovies.in",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Udaya Music",
+   "epg_code": "UdayaMusic.in",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Udaya News",
+   "epg_code": "UdayaNews.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "UTV Action",
+   "epg_code": "UTVAction.in",
+   "popularity": 138
+ },
+ {
+   "channel_name": "UTV Movies",
+   "epg_code": "UTVMovies.in",
+   "popularity": 841
+ },
+ {
+   "channel_name": "V6 News",
+   "epg_code": "V6News.in",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Vh1",
+   "epg_code": "Vh1.in",
+   "popularity": 82
+ },
+ {
+   "channel_name": "WB",
+   "epg_code": "WB.in",
+   "popularity": 177
+ },
+ {
+   "channel_name": "World Movies",
+   "epg_code": "WorldMovies.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Z etc",
+   "epg_code": "Zetc.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee 24 Gantalu",
+   "epg_code": "Zee24Gantalu.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee 24 Ghanta",
+   "epg_code": "Zee24Ghanta.in",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Zee 24 Ghante MP",
+   "epg_code": "Zee24GhanteMP.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee 24 Taas",
+   "epg_code": "Zee24Taas.in",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Zee Action",
+   "epg_code": "ZeeAction.in",
+   "popularity": 2739
+ },
+ {
+   "channel_name": "Zee Bangla",
+   "epg_code": "ZeeBangla.in",
+   "popularity": 1565
+ },
+ {
+   "channel_name": "Zee Business",
+   "epg_code": "ZeeBusiness.in",
+   "popularity": 789
+ },
+ {
+   "channel_name": "Zee Cafe",
+   "epg_code": "ZeeCafe.in",
+   "popularity": 504
+ },
+ {
+   "channel_name": "Zee Cinema",
+   "epg_code": "ZeeCinema.in",
+   "popularity": 8656
+ },
+ {
+   "channel_name": "Zee Classic",
+   "epg_code": "ZeeClassic.in",
+   "popularity": 2897
+ },
+ {
+   "channel_name": "Zee Kannada",
+   "epg_code": "ZeeKannada.in",
+   "popularity": 84
+ },
+ {
+   "channel_name": "Zee Khana Khazana",
+   "epg_code": "ZeeKhanaKhazana.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee Marathi",
+   "epg_code": "ZeeMarathi.in",
+   "popularity": 984
+ },
+ {
+   "channel_name": "Zee News",
+   "epg_code": "ZeeNews.in",
+   "popularity": 1166
+ },
+ {
+   "channel_name": "Zee News UP",
+   "epg_code": "ZeeNewsUP.in",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Zee PHH",
+   "epg_code": "ZeePHH.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee Premier",
+   "epg_code": "ZeePremier.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee Punjab Haryana Himachal",
+   "epg_code": "ZeePunjabHaryanaHimachal.in",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Zee Sangam",
+   "epg_code": "ZeeSangam.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zee Smile",
+   "epg_code": "ZeeSmile.in",
+   "popularity": 298
+ },
+ {
+   "channel_name": "Zee Studio",
+   "epg_code": "ZeeStudio.in",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Zee Studio HD",
+   "epg_code": "ZeeStudioHD.in",
+   "popularity": 46
+ },
+ {
+   "channel_name": "Zee Talkies",
+   "epg_code": "ZeeTalkies.in",
+   "popularity": 776
+ },
+ {
+   "channel_name": "Zee Telugu",
+   "epg_code": "ZeeTelugu.in",
+   "popularity": 342
+ },
+ {
+   "channel_name": "Zee Trendz",
+   "epg_code": "ZeeTrendz.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ZEE TV",
+   "epg_code": "ZEETV.in",
+   "popularity": 909
+ },
+ {
+   "channel_name": "Zee TV HD",
+   "epg_code": "ZeeTVHD.in",
+   "popularity": 2815
+ },
+ {
+   "channel_name": "Zee Variasi",
+   "epg_code": "ZeeVariasi.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ZeeQ",
+   "epg_code": "ZeeQ.in",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Zindagi",
+   "epg_code": "Zindagi.in",
+   "popularity": 283
+ },
+ {
+   "channel_name": "Zing",
+   "epg_code": "Zing.in",
+   "popularity": 871
+ },
+ {
+   "channel_name": "Zoom",
+   "epg_code": "Zoom.in",
+   "popularity": 659
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+   "channel_name": "24 Вести",
+   "epg_code": "24Vesti.mk",
+   "popularity": 13180
+ },
+ {
+   "channel_name": "ERA",
+   "epg_code": "ERA.mk",
+   "popularity": 7156
+ },
+ {
+   "channel_name": "KOHA",
+   "epg_code": "Koha.mk",
+   "popularity": 35
+ },
+ {
+   "channel_name": "MENADA",
+   "epg_code": "Menada.mk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTM",
+   "epg_code": "MTM.mk",
+   "popularity": 1685
+ },
+ {
+   "channel_name": "SKY NET",
+   "epg_code": "SkyNet.mk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "АЛФА",
+   "epg_code": "Alfa.mk",
+   "popularity": 2505
+ },
+ {
+   "channel_name": "КАНАЛ 5",
+   "epg_code": "Kanal5.mk",
+   "popularity": 25291
+ },
+ {
+   "channel_name": "КАНАЛ 5+",
+   "epg_code": "Kanal5Plus.mk",
+   "popularity": 32
+ },
+ {
+   "channel_name": "КИСС",
+   "epg_code": "Kiss.mk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "МТВ 1",
+   "epg_code": "MTV1.mk",
+   "popularity": 123
+ },
+ {
+   "channel_name": "МТВ 2",
+   "epg_code": "MTV2.mk",
+   "popularity": 8398
+ },
+ {
+   "channel_name": "НАША ТВ",
+   "epg_code": "NashaTV.mk",
+   "popularity": 1481
+ },
+ {
+   "channel_name": "СИТЕЛ",
+   "epg_code": "Sitel.mk",
+   "popularity": 49131
+ },
+ {
+   "channel_name": "ТВ Визија",
+   "epg_code": "TVVizija.mk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ТВ СОНЦЕ",
+   "epg_code": "TVSonce.mk",
+   "popularity": 724
+ },
+ {
+   "channel_name": "ТВМ",
+   "epg_code": "TVM.mk",
+   "popularity": 3
+ },
+ {
+   "channel_name": "ТЕЛМА",
+   "epg_code": "Telma.mk",
+   "popularity": 17955
+ }
+]

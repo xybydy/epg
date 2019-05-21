@@ -1,0 +1,1357 @@
+[
+ {
+   "channel_name": "13th Street",
+   "epg_code": "13thStreet.de",
+   "popularity": 115835
+ },
+ {
+   "channel_name": "3+",
+   "epg_code": "3plus.ch",
+   "popularity": 8885
+ },
+ {
+   "channel_name": "3sat",
+   "epg_code": "3sat.de",
+   "popularity": 91396
+ },
+ {
+   "channel_name": "4+ HD",
+   "epg_code": "4plus.ch",
+   "popularity": 2136
+ },
+ {
+   "channel_name": "5+ HD",
+   "epg_code": "5plus.ch",
+   "popularity": 3692
+ },
+ {
+   "channel_name": "6+ HD",
+   "epg_code": "6plus.ch",
+   "popularity": 370
+ },
+ {
+   "channel_name": "A and E",
+   "epg_code": "AandE.de",
+   "popularity": 18803
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.de",
+   "popularity": 53411
+ },
+ {
+   "channel_name": "Anixe HD",
+   "epg_code": "AnixeHD.de",
+   "popularity": 34331
+ },
+ {
+   "channel_name": "ANIXE SD",
+   "epg_code": "Anixe.de",
+   "popularity": 2038
+ },
+ {
+   "channel_name": "ANIXE Serie HD",
+   "epg_code": "AnixeSerie.de",
+   "popularity": 6441
+ },
+ {
+   "channel_name": "ard-alpha",
+   "epg_code": "ARD-alpha.de",
+   "popularity": 23479
+ },
+ {
+   "channel_name": "ARTE",
+   "epg_code": "ARTE.de",
+   "popularity": 104065
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "ATV.de",
+   "popularity": 55256
+ },
+ {
+   "channel_name": "ATV2",
+   "epg_code": "ATV2.at",
+   "popularity": 11437
+ },
+ {
+   "channel_name": "Augsburg TV (a.tv)",
+   "epg_code": "a.tv.de",
+   "popularity": 57
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.de",
+   "popularity": 35872
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "BBCEntertainment.de",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Bibel TV",
+   "epg_code": "BibelTV.de",
+   "popularity": 3344
+ },
+ {
+   "channel_name": "Bon Gusto HDTV (Germany)",
+   "epg_code": "BonGusto.de",
+   "popularity": 2222
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.de",
+   "popularity": 62448
+ },
+ {
+   "channel_name": "BR Fernsehen Süd",
+   "epg_code": "BR.de",
+   "popularity": 12975
+ },
+ {
+   "channel_name": "Canal Alpha JU",
+   "epg_code": "CanalAlphaJU.ch",
+   "popularity": 312
+ },
+ {
+   "channel_name": "Canal Alpha NE",
+   "epg_code": "CanalAlphaNE.ch",
+   "popularity": 140
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.de",
+   "popularity": 60519
+ },
+ {
+   "channel_name": "Comedy Central VIVA",
+   "epg_code": "ComedyCentralVIVA.at",
+   "popularity": 2179
+ },
+ {
+   "channel_name": "Comedy HD/VIVA HD",
+   "epg_code": "ComedyVIVA.ch",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Das Erste",
+   "epg_code": "ARD.de",
+   "popularity": 255222
+ },
+ {
+   "channel_name": "DAZN",
+   "epg_code": "DAZN1BarHD.de",
+   "popularity": 147784
+ },
+ {
+   "channel_name": "DELUXE MUSIC",
+   "epg_code": "DeLuxeMusic.de",
+   "popularity": 26409
+ },
+ {
+   "channel_name": "deutsches-musik-fernsehen",
+   "epg_code": "DeutschesMusikFernsehen.de",
+   "popularity": 4106
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.de",
+   "popularity": 66531
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.de",
+   "popularity": 48819
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "disneychannel.de",
+   "popularity": 92729
+ },
+ {
+   "channel_name": "Disney Cinemagic",
+   "epg_code": "DisneyCinemagic.de",
+   "popularity": 28766
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.de",
+   "popularity": 52355
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.de",
+   "popularity": 20715
+ },
+ {
+   "channel_name": "DMAX",
+   "epg_code": "DMAX.ch",
+   "popularity": 3796
+ },
+ {
+   "channel_name": "DMAX",
+   "epg_code": "DMax.de",
+   "popularity": 131973
+ },
+ {
+   "channel_name": "Duck TV",
+   "epg_code": "DuckTV.day",
+   "popularity": 1071
+ },
+ {
+   "channel_name": "E! Entertainm.",
+   "epg_code": "EEntertainment.de",
+   "popularity": 33334
+ },
+ {
+   "channel_name": "Energy TV HD",
+   "epg_code": "Energy.ch",
+   "popularity": 9
+ },
+ {
+   "channel_name": "eoTV",
+   "epg_code": "eoTV.de",
+   "popularity": 178
+ },
+ {
+   "channel_name": "eSports1",
+   "epg_code": "eSports1.de",
+   "popularity": 890
+ },
+ {
+   "channel_name": "Eurosport 2 HD Xtra",
+   "epg_code": "Eurosport2Xtra.de",
+   "popularity": 11997
+ },
+ {
+   "channel_name": "Eurosport1 - Deutschland",
+   "epg_code": "Eurosport1.de",
+   "popularity": 40696
+ },
+ {
+   "channel_name": "Eurosport2 - Deutschland",
+   "epg_code": "Eurosport2.de",
+   "popularity": 32562
+ },
+ {
+   "channel_name": "EWTN",
+   "epg_code": "EWTN.de",
+   "popularity": 3310
+ },
+ {
+   "channel_name": "Extreme Sports Chl",
+   "epg_code": "ExtremeSports.de",
+   "popularity": 230
+ },
+ {
+   "channel_name": "Family TV",
+   "epg_code": "FamilyTV.de",
+   "popularity": 936
+ },
+ {
+   "channel_name": "Fix & Foxi",
+   "epg_code": "FixFoxi.de",
+   "popularity": 5275
+ },
+ {
+   "channel_name": "Folx.TV",
+   "epg_code": "FolxTV.de",
+   "popularity": 1784
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "Fox.de",
+   "popularity": 116273
+ },
+ {
+   "channel_name": "Fox Serie",
+   "epg_code": "FoxSerie.de",
+   "popularity": 1659
+ },
+ {
+   "channel_name": "Franken TV",
+   "epg_code": "FrankenTV.de",
+   "popularity": 149
+ },
+ {
+   "channel_name": "GEO",
+   "epg_code": "GEO.de",
+   "popularity": 1466
+ },
+ {
+   "channel_name": "Goldstar TV",
+   "epg_code": "GoldstarTV.de",
+   "popularity": 987
+ },
+ {
+   "channel_name": "Gute Laune TV",
+   "epg_code": "GuteLauneTV.de",
+   "popularity": 690
+ },
+ {
+   "channel_name": "Health",
+   "epg_code": "Health.de",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Heimatkanal",
+   "epg_code": "Heimatkanal.de",
+   "popularity": 25433
+ },
+ {
+   "channel_name": "HGTV",
+   "epg_code": "HGTV.de",
+   "popularity": 4566
+ },
+ {
+   "channel_name": "HH 1",
+   "epg_code": "Hamburg1.de",
+   "popularity": 10
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "History.de",
+   "popularity": 39043
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.de",
+   "popularity": 55204
+ },
+ {
+   "channel_name": "HOPE Channel (Deutschland)",
+   "epg_code": "HopeChannel.de",
+   "popularity": 332
+ },
+ {
+   "channel_name": "hr-fernsehen",
+   "epg_code": "HR.de",
+   "popularity": 24527
+ },
+ {
+   "channel_name": "HSE24",
+   "epg_code": "HSE24.de",
+   "popularity": 2820
+ },
+ {
+   "channel_name": "Joiz HD",
+   "epg_code": "Joiz.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Jukebox",
+   "epg_code": "Jukebox.de",
+   "popularity": 9706
+ },
+ {
+   "channel_name": "Junior",
+   "epg_code": "Junior.de",
+   "popularity": 20974
+ },
+ {
+   "channel_name": "K-TV",
+   "epg_code": "KTV.de",
+   "popularity": 1643
+ },
+ {
+   "channel_name": "Kabel 1 Austria",
+   "epg_code": "Kabel1.at",
+   "popularity": 2344
+ },
+ {
+   "channel_name": "kabel eins",
+   "epg_code": "Kabel.de",
+   "popularity": 225491
+ },
+ {
+   "channel_name": "kabel eins class",
+   "epg_code": "KabelEinsClassic.de",
+   "popularity": 51995
+ },
+ {
+   "channel_name": "kabel eins Doku",
+   "epg_code": "KabelEinsDoku.de",
+   "popularity": 38794
+ },
+ {
+   "channel_name": "KIKA",
+   "epg_code": "Kika.de",
+   "popularity": 67339
+ },
+ {
+   "channel_name": "KinoweltTV",
+   "epg_code": "Kinowelt.de",
+   "popularity": 54554
+ },
+ {
+   "channel_name": "Lust Pur",
+   "epg_code": "LustPur.de",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Marco Polo TV",
+   "epg_code": "MarcoPoloTV.de",
+   "popularity": 241
+ },
+ {
+   "channel_name": "MDR S-Anhalt",
+   "epg_code": "MDRS-Anhalt.de",
+   "popularity": 2229
+ },
+ {
+   "channel_name": "Melodie TV",
+   "epg_code": "MelodieTV.at",
+   "popularity": 931
+ },
+ {
+   "channel_name": "Motors TV",
+   "epg_code": "MotorTV.de",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Motorvision",
+   "epg_code": "MotorVision.de",
+   "popularity": 15223
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTVGermany.de",
+   "popularity": 17321
+ },
+ {
+   "channel_name": "MTV Base",
+   "epg_code": "MTVBase.de",
+   "popularity": 113
+ },
+ {
+   "channel_name": "MTV Swiss",
+   "epg_code": "MTV.ch",
+   "popularity": 1921
+ },
+ {
+   "channel_name": "München TV",
+   "epg_code": "MunchenTV.de",
+   "popularity": 2883
+ },
+ {
+   "channel_name": "MYSPORTS1D",
+   "epg_code": "MYSPORTS1D.ch",
+   "popularity": 205
+ },
+ {
+   "channel_name": "MYSPORTS2D",
+   "epg_code": "MYSPORTS2D.ch",
+   "popularity": 182
+ },
+ {
+   "channel_name": "MYSPORTS3D",
+   "epg_code": "MYSPORTS3D.ch",
+   "popularity": 28
+ },
+ {
+   "channel_name": "MYSPORTS4D",
+   "epg_code": "MYSPORTS4D.ch",
+   "popularity": 109
+ },
+ {
+   "channel_name": "MYSPORTS5D",
+   "epg_code": "MYSPORTS5D.ch",
+   "popularity": 103
+ },
+ {
+   "channel_name": "MYSPORTS6D",
+   "epg_code": "MYSPORTS6D.ch",
+   "popularity": 13
+ },
+ {
+   "channel_name": "MYSPORTS7D",
+   "epg_code": "MYSPORTS7D.ch",
+   "popularity": 28
+ },
+ {
+   "channel_name": "MYSPORTS8D",
+   "epg_code": "MYSPORTS8D.ch",
+   "popularity": 37
+ },
+ {
+   "channel_name": "MYSPORTSD",
+   "epg_code": "MYSPORTSD.ch",
+   "popularity": 220
+ },
+ {
+   "channel_name": "n-tv",
+   "epg_code": "ntv.de",
+   "popularity": 188414
+ },
+ {
+   "channel_name": "N24 Doku",
+   "epg_code": "N24Doku.de",
+   "popularity": 35525
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.de",
+   "popularity": 130809
+ },
+ {
+   "channel_name": "Nat Geographic HD",
+   "epg_code": "NatGeoHD.de",
+   "popularity": 78793
+ },
+ {
+   "channel_name": "NDR Fernsehen NDS",
+   "epg_code": "ndr.de",
+   "popularity": 57747
+ },
+ {
+   "channel_name": "Nick - MTV+",
+   "epg_code": "Nick_MTV+.de",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Nick Jr.",
+   "epg_code": "NickJr.de",
+   "popularity": 23475
+ },
+ {
+   "channel_name": "Nick/ComCentral",
+   "epg_code": "Nick.de",
+   "popularity": 1923
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.de",
+   "popularity": 57215
+ },
+ {
+   "channel_name": "Nickelodeon AT",
+   "epg_code": "Nickelodeon.at",
+   "popularity": 472
+ },
+ {
+   "channel_name": "NickToons",
+   "epg_code": "Nicktoons.de",
+   "popularity": 6676
+ },
+ {
+   "channel_name": "NTV",
+   "epg_code": "ntv.at",
+   "popularity": 9187
+ },
+ {
+   "channel_name": "OKTO",
+   "epg_code": "OKTO.at",
+   "popularity": 235
+ },
+ {
+   "channel_name": "One",
+   "epg_code": "One.de",
+   "popularity": 26637
+ },
+ {
+   "channel_name": "ORF 2",
+   "epg_code": "ORF2.at",
+   "popularity": 42341
+ },
+ {
+   "channel_name": "ORF 2 Europe",
+   "epg_code": "ORF2europe.at",
+   "popularity": 9
+ },
+ {
+   "channel_name": "ORF eins",
+   "epg_code": "ORF1.at",
+   "popularity": 54927
+ },
+ {
+   "channel_name": "ORF III",
+   "epg_code": "ORF3.at",
+   "popularity": 9712
+ },
+ {
+   "channel_name": "ORF Sport+",
+   "epg_code": "ORFSport.at",
+   "popularity": 7683
+ },
+ {
+   "channel_name": "phoenix",
+   "epg_code": "phoenix.de",
+   "popularity": 49574
+ },
+ {
+   "channel_name": "PLANET",
+   "epg_code": "PLANET.de",
+   "popularity": 27420
+ },
+ {
+   "channel_name": "Pro7 Schweiz",
+   "epg_code": "Pro7.ch",
+   "popularity": 23655
+ },
+ {
+   "channel_name": "ProSieben",
+   "epg_code": "Pro7.at",
+   "popularity": 3263
+ },
+ {
+   "channel_name": "ProSieben",
+   "epg_code": "Pro7.de",
+   "popularity": 413784
+ },
+ {
+   "channel_name": "ProSieben Fun",
+   "epg_code": "ProSiebenFun.de",
+   "popularity": 56522
+ },
+ {
+   "channel_name": "ProSieben Maxx",
+   "epg_code": "ProSiebenMaxx.de",
+   "popularity": 155670
+ },
+ {
+   "channel_name": "PULS 4",
+   "epg_code": "Puls4.at",
+   "popularity": 22964
+ },
+ {
+   "channel_name": "Puls 8 HD",
+   "epg_code": "Puls8.ch",
+   "popularity": 3462
+ },
+ {
+   "channel_name": "PULS24",
+   "epg_code": "Puls24.at",
+   "popularity": 75
+ },
+ {
+   "channel_name": "QVC",
+   "epg_code": "QVC.de",
+   "popularity": 6662
+ },
+ {
+   "channel_name": "QVC Plus",
+   "epg_code": "QVCPlus.de",
+   "popularity": 196
+ },
+ {
+   "channel_name": "QVC Style",
+   "epg_code": "QVCStyle.de",
+   "popularity": 103
+ },
+ {
+   "channel_name": "R9 Österreich HD",
+   "epg_code": "R9Osterreich.at",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Radio Bremen TV",
+   "epg_code": "RadioBremen.de",
+   "popularity": 1064
+ },
+ {
+   "channel_name": "rbb Berlin",
+   "epg_code": "rbbBerlin.de",
+   "popularity": 27587
+ },
+ {
+   "channel_name": "Regionalfernsehen Oberbayern (RFO)",
+   "epg_code": "Oberbayern.de",
+   "popularity": 437
+ },
+ {
+   "channel_name": "Rhein-Neckar Fernsehen",
+   "epg_code": "RNF.de",
+   "popularity": 956
+ },
+ {
+   "channel_name": "rheinmaintv",
+   "epg_code": "rheinmaintv.de",
+   "popularity": 58
+ },
+ {
+   "channel_name": "RiC",
+   "epg_code": "RiC.de",
+   "popularity": 624
+ },
+ {
+   "channel_name": "RMC Sport Access 1",
+   "epg_code": "TCRMCSportAccess1.ch",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Romance TV",
+   "epg_code": "Romance.de",
+   "popularity": 65626
+ },
+ {
+   "channel_name": "RSI La1 HD",
+   "epg_code": "RSILa1.ch",
+   "popularity": 47540
+ },
+ {
+   "channel_name": "RSI La1 HD",
+   "epg_code": "RSILa2.ch",
+   "popularity": 68666
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTL.de",
+   "popularity": 711445
+ },
+ {
+   "channel_name": "RTL 9",
+   "epg_code": "RTL9.ch",
+   "popularity": 48
+ },
+ {
+   "channel_name": "RTL Crime",
+   "epg_code": "RTLCrime.de",
+   "popularity": 142449
+ },
+ {
+   "channel_name": "RTL II",
+   "epg_code": "RTL2.de",
+   "popularity": 506709
+ },
+ {
+   "channel_name": "RTL Living",
+   "epg_code": "RTLLiving.de",
+   "popularity": 119310
+ },
+ {
+   "channel_name": "RTL Nitro",
+   "epg_code": "RTLNitro.de",
+   "popularity": 123576
+ },
+ {
+   "channel_name": "RTL Passion",
+   "epg_code": "RTLPassion.de",
+   "popularity": 157307
+ },
+ {
+   "channel_name": "RTL Plus",
+   "epg_code": "RTLPlus.de",
+   "popularity": 64835
+ },
+ {
+   "channel_name": "RTS Deux",
+   "epg_code": "RTSDeux.ch",
+   "popularity": 20172
+ },
+ {
+   "channel_name": "RTS Un",
+   "epg_code": "RTSUn.ch",
+   "popularity": 39158
+ },
+ {
+   "channel_name": "S1 HD",
+   "epg_code": "S1.ch",
+   "popularity": 239
+ },
+ {
+   "channel_name": "Sat.1",
+   "epg_code": "Sat1.de",
+   "popularity": 357946
+ },
+ {
+   "channel_name": "Sat.1 AT",
+   "epg_code": "Sat1.at",
+   "popularity": 3514
+ },
+ {
+   "channel_name": "Sat1 Emotions",
+   "epg_code": "Sat1Comedy.de",
+   "popularity": 27309
+ },
+ {
+   "channel_name": "Sat1 Gold",
+   "epg_code": "Sat1Gold.de",
+   "popularity": 68032
+ },
+ {
+   "channel_name": "Sat1 Schweiz",
+   "epg_code": "Sat1.ch",
+   "popularity": 102
+ },
+ {
+   "channel_name": "Schweiz 5",
+   "epg_code": "SCHWEIZ5.ch",
+   "popularity": 62
+ },
+ {
+   "channel_name": "Servus TV",
+   "epg_code": "ServusTV.at",
+   "popularity": 9649
+ },
+ {
+   "channel_name": "ServusTV",
+   "epg_code": "ServusHD.de",
+   "popularity": 30017
+ },
+ {
+   "channel_name": "SILVERLINE",
+   "epg_code": "Silverline.de",
+   "popularity": 11695
+ },
+ {
+   "channel_name": "sixx",
+   "epg_code": "Sixx.de",
+   "popularity": 107336
+ },
+ {
+   "channel_name": "Sixx Austria",
+   "epg_code": "SixxAustria.at",
+   "popularity": 1035
+ },
+ {
+   "channel_name": "Sky 1",
+   "epg_code": "Sky1.de",
+   "popularity": 37614
+ },
+ {
+   "channel_name": "Sky Action",
+   "epg_code": "SkyAction.de",
+   "popularity": 169336
+ },
+ {
+   "channel_name": "Sky Atlantic HD",
+   "epg_code": "SkyAtlanticHD.de",
+   "popularity": 80414
+ },
+ {
+   "channel_name": "Sky Atlantic HD +1",
+   "epg_code": "SkyAtlanticPlus1.de",
+   "popularity": 6378
+ },
+ {
+   "channel_name": "Sky Bundesliga 2",
+   "epg_code": "SkyBundesliga2.de",
+   "popularity": 51058
+ },
+ {
+   "channel_name": "Sky Bundesliga 3",
+   "epg_code": "SkyBundesliga3.de",
+   "popularity": 39224
+ },
+ {
+   "channel_name": "Sky Bundesliga 4",
+   "epg_code": "SkyBundesliga4.de",
+   "popularity": 11136
+ },
+ {
+   "channel_name": "Sky Bundesliga 5",
+   "epg_code": "SkyBundesliga5.de",
+   "popularity": 18559
+ },
+ {
+   "channel_name": "Sky Bundesliga 6",
+   "epg_code": "SkyBundesliga6.de",
+   "popularity": 10105
+ },
+ {
+   "channel_name": "Sky Bundesliga 7",
+   "epg_code": "SkyBundesliga7.de",
+   "popularity": 13928
+ },
+ {
+   "channel_name": "Sky Bundesliga 8",
+   "epg_code": "SkyBundesliga8.de",
+   "popularity": 5719
+ },
+ {
+   "channel_name": "Sky Bundesliga 9",
+   "epg_code": "SkyBundesliga9.de",
+   "popularity": 18812
+ },
+ {
+   "channel_name": "Sky Cinema",
+   "epg_code": "SkyCinema.de",
+   "popularity": 114139
+ },
+ {
+   "channel_name": "Sky Cinema +1",
+   "epg_code": "SkyCinemaPlus1.de",
+   "popularity": 31768
+ },
+ {
+   "channel_name": "Sky Cinema +24",
+   "epg_code": "SkyCinemaPlus24.de",
+   "popularity": 60950
+ },
+ {
+   "channel_name": "Sky Cinema Classics",
+   "epg_code": "SkyCinemaClassics.de",
+   "popularity": 7713
+ },
+ {
+   "channel_name": "Sky Cinema Family",
+   "epg_code": "SkyCinemaFamily.de",
+   "popularity": 132704
+ },
+ {
+   "channel_name": "Sky Cinema Hits",
+   "epg_code": "SkyCinemaHits.de",
+   "popularity": 72039
+ },
+ {
+   "channel_name": "Sky Cinema Special HD",
+   "epg_code": "SkyCinemaSpecial.de",
+   "popularity": 24043
+ },
+ {
+   "channel_name": "Sky Cinema Thriller HD",
+   "epg_code": "SkyCinemaThriller.de",
+   "popularity": 42397
+ },
+ {
+   "channel_name": "Sky Comedy",
+   "epg_code": "SkyComedy.de",
+   "popularity": 53055
+ },
+ {
+   "channel_name": "Sky Emotion",
+   "epg_code": "SkyEmotion.de",
+   "popularity": 36606
+ },
+ {
+   "channel_name": "Sky Fusball Bundesliga 1",
+   "epg_code": "SkyBundesliga1.de",
+   "popularity": 20460
+ },
+ {
+   "channel_name": "Sky Krimi",
+   "epg_code": "SkyKrimi.de",
+   "popularity": 51027
+ },
+ {
+   "channel_name": "Sky Nostalgie",
+   "epg_code": "SkyNostalgie.de",
+   "popularity": 39493
+ },
+ {
+   "channel_name": "Sky Select",
+   "epg_code": "SkySelect.de",
+   "popularity": 26345
+ },
+ {
+   "channel_name": "Sky Select 1",
+   "epg_code": "SkySelect1.de",
+   "popularity": 88674
+ },
+ {
+   "channel_name": "Sky Select 2",
+   "epg_code": "SkySelect2.de",
+   "popularity": 88803
+ },
+ {
+   "channel_name": "Sky Select 3",
+   "epg_code": "SkySelect3.de",
+   "popularity": 56967
+ },
+ {
+   "channel_name": "Sky Select 4",
+   "epg_code": "SkySelect4.de",
+   "popularity": 69374
+ },
+ {
+   "channel_name": "Sky Select 5",
+   "epg_code": "SkySelect5.de",
+   "popularity": 50662
+ },
+ {
+   "channel_name": "Sky Select 6",
+   "epg_code": "SkySelect6.de",
+   "popularity": 42524
+ },
+ {
+   "channel_name": "Sky Select 7",
+   "epg_code": "SkySelect7.de",
+   "popularity": 40087
+ },
+ {
+   "channel_name": "Sky Select 8",
+   "epg_code": "SkySelect8.de",
+   "popularity": 38142
+ },
+ {
+   "channel_name": "Sky Select 9",
+   "epg_code": "SkySelect9.de",
+   "popularity": 20112
+ },
+ {
+   "channel_name": "Sky Sport 1",
+   "epg_code": "SkySport1.de",
+   "popularity": 498909
+ },
+ {
+   "channel_name": "Sky Sport 2",
+   "epg_code": "SkySport2.de",
+   "popularity": 238210
+ },
+ {
+   "channel_name": "Sky Sport Austria",
+   "epg_code": "SkySportAustria.de",
+   "popularity": 51783
+ },
+ {
+   "channel_name": "Sky Sport News HD",
+   "epg_code": "SkySportNewsHD.de",
+   "popularity": 88013
+ },
+ {
+   "channel_name": "sonnenklar.TV",
+   "epg_code": "SonnenKlar.de",
+   "popularity": 1015
+ },
+ {
+   "channel_name": "Sony Entertainment TV",
+   "epg_code": "SonyEntertainmentTV.de",
+   "popularity": 9334
+ },
+ {
+   "channel_name": "Spiegel Geschichte",
+   "epg_code": "SpiegelGeschichte.de",
+   "popularity": 52233
+ },
+ {
+   "channel_name": "Spiegel TV Digital",
+   "epg_code": "SpiegelTV.de",
+   "popularity": 21848
+ },
+ {
+   "channel_name": "Spiegel TV Wissen",
+   "epg_code": "SpiegelTVWissen.de",
+   "popularity": 6509
+ },
+ {
+   "channel_name": "Sport Digital",
+   "epg_code": "sportdigital.de",
+   "popularity": 27524
+ },
+ {
+   "channel_name": "SPORT1",
+   "epg_code": "Sport1HD.de",
+   "popularity": 53686
+ },
+ {
+   "channel_name": "SPORT1+",
+   "epg_code": "SPORT1plus.de",
+   "popularity": 14894
+ },
+ {
+   "channel_name": "SR Fernsehen",
+   "epg_code": "SRFernsehen.de",
+   "popularity": 2229
+ },
+ {
+   "channel_name": "SRF 1",
+   "epg_code": "SRF1.ch",
+   "popularity": 23093
+ },
+ {
+   "channel_name": "SRF info HD",
+   "epg_code": "SRFinfo.ch",
+   "popularity": 4945
+ },
+ {
+   "channel_name": "SRF zwei",
+   "epg_code": "SRF2.ch",
+   "popularity": 15037
+ },
+ {
+   "channel_name": "Star TV HD",
+   "epg_code": "StarTV.ch",
+   "popularity": 12799
+ },
+ {
+   "channel_name": "Super RTL",
+   "epg_code": "SuperRTL.de",
+   "popularity": 118265
+ },
+ {
+   "channel_name": "Swiss 1 HD",
+   "epg_code": "Swiss1.ch",
+   "popularity": 251
+ },
+ {
+   "channel_name": "Switzerland5",
+   "epg_code": "Switzerland5.ch",
+   "popularity": 12
+ },
+ {
+   "channel_name": "SWR Fernsehen BW",
+   "epg_code": "SWR.de",
+   "popularity": 27853
+ },
+ {
+   "channel_name": "SWR Fernsehen RP",
+   "epg_code": "SWR-rp.de",
+   "popularity": 299
+ },
+ {
+   "channel_name": "Syfy HD",
+   "epg_code": "SciFi.de",
+   "popularity": 66324
+ },
+ {
+   "channel_name": "tagesschau24",
+   "epg_code": "tagesschau24.de",
+   "popularity": 48533
+ },
+ {
+   "channel_name": "TC Action",
+   "epg_code": "TCAction.ch",
+   "popularity": 809
+ },
+ {
+   "channel_name": "TC Cinema",
+   "epg_code": "TCCinema.ch",
+   "popularity": 609
+ },
+ {
+   "channel_name": "TC Emotion",
+   "epg_code": "TCEmotion.ch",
+   "popularity": 271
+ },
+ {
+   "channel_name": "TC Zoom",
+   "epg_code": "TCZoom.ch",
+   "popularity": 35
+ },
+ {
+   "channel_name": "Tele 5",
+   "epg_code": "Tele5.de",
+   "popularity": 60014
+ },
+ {
+   "channel_name": "TELE 5 Austria",
+   "epg_code": "Tele5.at",
+   "popularity": 1359
+ },
+ {
+   "channel_name": "Tele Barn",
+   "epg_code": "TeleBarn.ch",
+   "popularity": 787
+ },
+ {
+   "channel_name": "Tele M1 HD",
+   "epg_code": "TeleM1.ch",
+   "popularity": 700
+ },
+ {
+   "channel_name": "Teleclub Action",
+   "epg_code": "TeleclubAction.de",
+   "popularity": 9181
+ },
+ {
+   "channel_name": "Teleclub Cinema",
+   "epg_code": "TeleclubCinema.de",
+   "popularity": 10001
+ },
+ {
+   "channel_name": "Teleclub City",
+   "epg_code": "TCCity.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Teleclub Emotion",
+   "epg_code": "TeleclubEmotion.de",
+   "popularity": 8180
+ },
+ {
+   "channel_name": "Teleclub Retro",
+   "epg_code": "TCRetro.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Teleclub Sport 1",
+   "epg_code": "TCSport1.ch",
+   "popularity": 17293
+ },
+ {
+   "channel_name": "Teleclub Sport 2",
+   "epg_code": "TCSport2.ch",
+   "popularity": 15314
+ },
+ {
+   "channel_name": "Teleclub Sport 3",
+   "epg_code": "TCSport3.ch",
+   "popularity": 91
+ },
+ {
+   "channel_name": "Teleclub Star",
+   "epg_code": "TCStar.ch",
+   "popularity": 181
+ },
+ {
+   "channel_name": "Teleclub Zoom D",
+   "epg_code": "TeleclubZoom.de",
+   "popularity": 3807
+ },
+ {
+   "channel_name": "Teleclub Zoom D",
+   "epg_code": "TeleclubZoomD.ch",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Teleclub Zoom F",
+   "epg_code": "TeleclubZoomF.ch",
+   "popularity": 8240
+ },
+ {
+   "channel_name": "TeleTicino HD",
+   "epg_code": "TeleTicino.ch",
+   "popularity": 3166
+ },
+ {
+   "channel_name": "TeleZüri HD",
+   "epg_code": "TeleZuri.ch",
+   "popularity": 1387
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.de",
+   "popularity": 71898
+ },
+ {
+   "channel_name": "TNT Comedy",
+   "epg_code": "TNTGlitz.de",
+   "popularity": 138535
+ },
+ {
+   "channel_name": "TNT Film",
+   "epg_code": "TNTFilm.de",
+   "popularity": 147758
+ },
+ {
+   "channel_name": "TNT Serie",
+   "epg_code": "TNTSerie.de",
+   "popularity": 71011
+ },
+ {
+   "channel_name": "TOGGOplus",
+   "epg_code": "TOGGOplus.de",
+   "popularity": 51767
+ },
+ {
+   "channel_name": "Trace Sport",
+   "epg_code": "TraceSportStars.de",
+   "popularity": 3
+ },
+ {
+   "channel_name": "TravelXP 4k",
+   "epg_code": "TravelXP4k.de",
+   "popularity": 59
+ },
+ {
+   "channel_name": "TV Oberfranken",
+   "epg_code": "tvo.de",
+   "popularity": 566
+ },
+ {
+   "channel_name": "TV.BERLIN",
+   "epg_code": "TVBerlin.de",
+   "popularity": 29
+ },
+ {
+   "channel_name": "TV24 HD",
+   "epg_code": "TV24.ch",
+   "popularity": 296
+ },
+ {
+   "channel_name": "TV25 HD",
+   "epg_code": "TV25.ch",
+   "popularity": 175
+ },
+ {
+   "channel_name": "TVO",
+   "epg_code": "TVO.ch",
+   "popularity": 1401
+ },
+ {
+   "channel_name": "UHD1",
+   "epg_code": "UHD1.de",
+   "popularity": 1050
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "Universal.de",
+   "popularity": 53144
+ },
+ {
+   "channel_name": "VIVA",
+   "epg_code": "Viva.de",
+   "popularity": 377
+ },
+ {
+   "channel_name": "VIVA/COMEDY CENTRAL",
+   "epg_code": "ComedyCentralVIVA.de",
+   "popularity": 17466
+ },
+ {
+   "channel_name": "VOX",
+   "epg_code": "Vox.de",
+   "popularity": 279680
+ },
+ {
+   "channel_name": "VOXup",
+   "epg_code": "VOXup.de",
+   "popularity": 8657
+ },
+ {
+   "channel_name": "W24",
+   "epg_code": "W24.at",
+   "popularity": 307
+ },
+ {
+   "channel_name": "W9",
+   "epg_code": "W9.ch",
+   "popularity": 61
+ },
+ {
+   "channel_name": "WDR Fernsehen",
+   "epg_code": "WDR.de",
+   "popularity": 73308
+ },
+ {
+   "channel_name": "WELT",
+   "epg_code": "WELT.de",
+   "popularity": 18125
+ },
+ {
+   "channel_name": "Welt der wunder",
+   "epg_code": "WeltDerWunder.de",
+   "popularity": 13789
+ },
+ {
+   "channel_name": "Wetter Fernsehen",
+   "epg_code": "Wetterfernsehen.de",
+   "popularity": 4
+ },
+ {
+   "channel_name": "ZDF",
+   "epg_code": "ZDF.de",
+   "popularity": 337608
+ },
+ {
+   "channel_name": "ZDFinfokanal",
+   "epg_code": "ZDFinfo.de",
+   "popularity": 88484
+ },
+ {
+   "channel_name": "ZDFneo",
+   "epg_code": "ZDFneo.de",
+   "popularity": 102580
+ },
+ {
+   "channel_name": "ZDFneo",
+   "epg_code": "ZDFneoNight.de",
+   "popularity": 545
+ },
+ {
+   "channel_name": "Zee One",
+   "epg_code": "ZeeOne.de",
+   "popularity": 40829
+ }
+]

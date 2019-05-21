@@ -1,0 +1,957 @@
+[
+ {
+   "channel_name": "24kitchen",
+   "epg_code": "24Kitchen.bg",
+   "popularity": 328
+ },
+ {
+   "channel_name": "360 TuneBox HD",
+   "epg_code": "360TuneBox.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "7/8 TV",
+   "epg_code": "7/8TV",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Action Plus HD",
+   "epg_code": "ActionPlus.bg",
+   "popularity": 323
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.bg",
+   "popularity": 404
+ },
+ {
+   "channel_name": "AMS HD",
+   "epg_code": "AMS.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.bg",
+   "popularity": 149
+ },
+ {
+   "channel_name": "Antena 3",
+   "epg_code": "Antena3.bg",
+   "popularity": 19
+ },
+ {
+   "channel_name": "ARD",
+   "epg_code": "ARD.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.bg",
+   "popularity": 19520
+ },
+ {
+   "channel_name": "AXN Black",
+   "epg_code": "AXNBlack.bg",
+   "popularity": 96
+ },
+ {
+   "channel_name": "AXN White",
+   "epg_code": "AXNWhite.bg",
+   "popularity": 119
+ },
+ {
+   "channel_name": "B1B Action",
+   "epg_code": "B1BActionTV.bg",
+   "popularity": 266
+ },
+ {
+   "channel_name": "BabyTV",
+   "epg_code": "BabyTV.bg",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Balkanika MTV",
+   "epg_code": "Balkanika.bg",
+   "popularity": 10101
+ },
+ {
+   "channel_name": "Barely Legal",
+   "epg_code": "BarelyLegal.bg",
+   "popularity": 26240
+ },
+ {
+   "channel_name": "BGMusicChannel",
+   "epg_code": "BGMusicChannel.bg",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Bloomberg TV Bulgaria",
+   "epg_code": "BloombergTVBG.bg",
+   "popularity": 18
+ },
+ {
+   "channel_name": "BNT1",
+   "epg_code": "BNT1.bg",
+   "popularity": 2242
+ },
+ {
+   "channel_name": "BNT2",
+   "epg_code": "BNT2.bg",
+   "popularity": 619
+ },
+ {
+   "channel_name": "BNT3",
+   "epg_code": "BNT3.bg",
+   "popularity": 291
+ },
+ {
+   "channel_name": "BNT4",
+   "epg_code": "BNT4.bg",
+   "popularity": 287
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.bg",
+   "popularity": 82
+ },
+ {
+   "channel_name": "BoxTV",
+   "epg_code": "Box.bg",
+   "popularity": 11
+ },
+ {
+   "channel_name": "BSTV",
+   "epg_code": "BSTV.bg",
+   "popularity": 22
+ },
+ {
+   "channel_name": "bTV",
+   "epg_code": "bTV.bg",
+   "popularity": 5032
+ },
+ {
+   "channel_name": "bTV Action",
+   "epg_code": "bTVAction.bg",
+   "popularity": 4243
+ },
+ {
+   "channel_name": "bTV Cinema",
+   "epg_code": "bTVCinema.bg",
+   "popularity": 2121
+ },
+ {
+   "channel_name": "bTV Comedy",
+   "epg_code": "bTVComedy.bg",
+   "popularity": 2938
+ },
+ {
+   "channel_name": "bTV Lady",
+   "epg_code": "bTVLady.bg",
+   "popularity": 1506
+ },
+ {
+   "channel_name": "Bulgaria24",
+   "epg_code": "Bulgaria24.bg",
+   "popularity": 68
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CN.bg",
+   "popularity": 222
+ },
+ {
+   "channel_name": "CBS Drama",
+   "epg_code": "CBSDrama.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.bg",
+   "popularity": 20
+ },
+ {
+   "channel_name": "CinemaPlus",
+   "epg_code": "CinemaPlus.bg",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "Cinemax.bg",
+   "popularity": 336
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.bg",
+   "popularity": 283
+ },
+ {
+   "channel_name": "City TV",
+   "epg_code": "CityTV.bg",
+   "popularity": 10149
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNN.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.bg",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Comedy Plus",
+   "epg_code": "ComedyPlus.bg",
+   "popularity": 255
+ },
+ {
+   "channel_name": "Crime + Investigation",
+   "epg_code": "CrimeInvestigation.bg",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Crime and Investigation",
+   "epg_code": "CI.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Da Vinci Learning",
+   "epg_code": "DaVinciLearning.bg",
+   "popularity": 60
+ },
+ {
+   "channel_name": "Destination BG",
+   "epg_code": "DestinationBG.bg",
+   "popularity": 481
+ },
+ {
+   "channel_name": "Diema Sport",
+   "epg_code": "DiemaSport.bg",
+   "popularity": 197
+ },
+ {
+   "channel_name": "Diema Sport 1",
+   "epg_code": "DiemaSport1.bg",
+   "popularity": 289
+ },
+ {
+   "channel_name": "Diema Sport 2",
+   "epg_code": "DiemaSport2.bg",
+   "popularity": 736
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.bg",
+   "popularity": 415
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.bg",
+   "popularity": 141
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.bg",
+   "popularity": 36
+ },
+ {
+   "channel_name": "Discovery Showcase HD",
+   "epg_code": "DiscoveryShowcaseHD.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "Disney.bg",
+   "popularity": 264
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.bg",
+   "popularity": 40
+ },
+ {
+   "channel_name": "DM Sat",
+   "epg_code": "DMSat.bg",
+   "popularity": 12201
+ },
+ {
+   "channel_name": "DocuBox",
+   "epg_code": "DocuBox.bg",
+   "popularity": 8
+ },
+ {
+   "channel_name": "DSTV",
+   "epg_code": "DSTV.bg",
+   "popularity": 152
+ },
+ {
+   "channel_name": "DuckTV",
+   "epg_code": "DuckTV.bg",
+   "popularity": 22
+ },
+ {
+   "channel_name": "EDGE Sport",
+   "epg_code": "EdgeSport.bg",
+   "popularity": 8
+ },
+ {
+   "channel_name": "EKids",
+   "epg_code": "EKids.bg",
+   "popularity": 155
+ },
+ {
+   "channel_name": "EnglishClubTV",
+   "epg_code": "EnglishClubTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Epic Drama",
+   "epg_code": "EpicDrama.bg",
+   "popularity": 28
+ },
+ {
+   "channel_name": "EurochannelFR",
+   "epg_code": "EurochannelFR.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport.bg",
+   "popularity": 219
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.bg",
+   "popularity": 649
+ },
+ {
+   "channel_name": "Eurosport HD",
+   "epg_code": "EurosportHD.bg",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Evrokom NCTV",
+   "epg_code": "EvrokomNCTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FAN TV",
+   "epg_code": "FANTV.bg",
+   "popularity": 1086
+ },
+ {
+   "channel_name": "FastnFunBoxHD",
+   "epg_code": "FastnFunBox.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fen Folk TV",
+   "epg_code": "FenFolkTV.bg",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Fight Network",
+   "epg_code": "FightNetwork.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FightBox",
+   "epg_code": "FightBox.bg",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Film Plus 2",
+   "epg_code": "FilmPlus2.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Film+",
+   "epg_code": "FilmPlus.bg",
+   "popularity": 110
+ },
+ {
+   "channel_name": "FilmBox",
+   "epg_code": "FilmBox.bg",
+   "popularity": 159
+ },
+ {
+   "channel_name": "FilmBox ArtHouse HD",
+   "epg_code": "FilmboxArthouse.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FilmBox ArtHouse HD",
+   "epg_code": "FilmboxArthouse.ww",
+   "popularity": 76
+ },
+ {
+   "channel_name": "FilmBox Extra HD",
+   "epg_code": "FilmBoxExtra.bg",
+   "popularity": 109
+ },
+ {
+   "channel_name": "FilmBox Plus",
+   "epg_code": "FilmBoxPlus.bg",
+   "popularity": 10
+ },
+ {
+   "channel_name": "FilmBox+",
+   "epg_code": "FilmBox+.bg",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Fine Living Network",
+   "epg_code": "FineLiving.bg",
+   "popularity": 65
+ },
+ {
+   "channel_name": "Folklor TV",
+   "epg_code": "FolklorTV.bg",
+   "popularity": 317
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.bg",
+   "popularity": 160
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "FOX.bg",
+   "popularity": 525
+ },
+ {
+   "channel_name": "FOX Crime",
+   "epg_code": "FOXCrime.bg",
+   "popularity": 529
+ },
+ {
+   "channel_name": "FOX Life",
+   "epg_code": "FOXLife.bg",
+   "popularity": 336
+ },
+ {
+   "channel_name": "FPlus",
+   "epg_code": "FPlus.bg",
+   "popularity": 24
+ },
+ {
+   "channel_name": "Gametoon HD",
+   "epg_code": "Gametoon.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.bg",
+   "popularity": 12
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBO.bg",
+   "popularity": 578
+ },
+ {
+   "channel_name": "HBO2",
+   "epg_code": "HBO2.bg",
+   "popularity": 356
+ },
+ {
+   "channel_name": "HBO3",
+   "epg_code": "HBO3.bg",
+   "popularity": 368
+ },
+ {
+   "channel_name": "History",
+   "epg_code": "HistoryChannel.bg",
+   "popularity": 220
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.bg",
+   "popularity": 205
+ },
+ {
+   "channel_name": "HitMix",
+   "epg_code": "HitMix.bg",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Hobby lov",
+   "epg_code": "HobbyLov.bg",
+   "popularity": 1082
+ },
+ {
+   "channel_name": "ID Xtra",
+   "epg_code": "IDXtra.bg",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "ID.bg",
+   "popularity": 182
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.bg",
+   "popularity": 118
+ },
+ {
+   "channel_name": "JukeBoxDE",
+   "epg_code": "JukeBox.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Kabel 1",
+   "epg_code": "Kabel1.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Kanal4",
+   "epg_code": "Kanal4.bg",
+   "popularity": 4
+ },
+ {
+   "channel_name": "KinoNova",
+   "epg_code": "KinoNova.bg",
+   "popularity": 2261
+ },
+ {
+   "channel_name": "Kitchen TV",
+   "epg_code": "KitchenTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Magic TV",
+   "epg_code": "MagicTV.bg",
+   "popularity": 65
+ },
+ {
+   "channel_name": "Max Sport 1",
+   "epg_code": "MAXSport1.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Max Sport 2",
+   "epg_code": "MAXSport2.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Max Sport 3",
+   "epg_code": "MAXSport3.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Max Sport 4",
+   "epg_code": "MAXSport4.bg",
+   "popularity": 1
+ },
+ {
+   "channel_name": "MCM",
+   "epg_code": "MCM.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MGM",
+   "epg_code": "MGM.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Motors TV",
+   "epg_code": "MotorsTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Movie Star",
+   "epg_code": "MovieStar.bg",
+   "popularity": 170
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.bg",
+   "popularity": 12
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "MTVRocks.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NGWild.bg",
+   "popularity": 426
+ },
+ {
+   "channel_name": "National Geographic Channel",
+   "epg_code": "NGC.bg",
+   "popularity": 658
+ },
+ {
+   "channel_name": "News7",
+   "epg_code": "News7.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nick HD",
+   "epg_code": "Nick.bg",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Nick Jr.",
+   "epg_code": "NickJr.bg",
+   "popularity": 140
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.bg",
+   "popularity": 426
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.bg",
+   "popularity": 186
+ },
+ {
+   "channel_name": "NTV Mir",
+   "epg_code": "NTVMir.bg",
+   "popularity": 4
+ },
+ {
+   "channel_name": "PTP Planeta",
+   "epg_code": "Planeta.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Public Television of Armenia",
+   "epg_code": "PublicTelevisionArmenia.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ribalka i ohota",
+   "epg_code": "RibalkaOhota.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ring BG",
+   "epg_code": "RINGBG.bg",
+   "popularity": 651
+ },
+ {
+   "channel_name": "Rodina",
+   "epg_code": "Rodina.bg",
+   "popularity": 14
+ },
+ {
+   "channel_name": "RTDoc",
+   "epg_code": "RTDoc.bg",
+   "popularity": 1
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTL.bg",
+   "popularity": 23
+ },
+ {
+   "channel_name": "RTL II",
+   "epg_code": "RTL2.bg",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Russia24",
+   "epg_code": "Russia24.bg",
+   "popularity": 5
+ },
+ {
+   "channel_name": "SAT 1",
+   "epg_code": "SAT1.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sky Sports",
+   "epg_code": "SkySports.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sport Plus HD",
+   "epg_code": "SportPlusHD.bg",
+   "popularity": 55
+ },
+ {
+   "channel_name": "Sundance",
+   "epg_code": "Sundance.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Voice",
+   "epg_code": "TheVoice.bg",
+   "popularity": 129
+ },
+ {
+   "channel_name": "TheWorld",
+   "epg_code": "TheWorld.bg",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Tiankov Folk",
+   "epg_code": "TiankovTV.bg",
+   "popularity": 215
+ },
+ {
+   "channel_name": "TLC Balkans",
+   "epg_code": "TLC.bg",
+   "popularity": 349
+ },
+ {
+   "channel_name": "Travel",
+   "epg_code": "Travel.bg",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Travel TV",
+   "epg_code": "TravelTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV 3",
+   "epg_code": "TV3.bg",
+   "popularity": 7
+ },
+ {
+   "channel_name": "TV+",
+   "epg_code": "TVPlus.bg",
+   "popularity": 1545
+ },
+ {
+   "channel_name": "TV1",
+   "epg_code": "TV1.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV7",
+   "epg_code": "TV7.bg",
+   "popularity": 351
+ },
+ {
+   "channel_name": "TVT",
+   "epg_code": "TVT.bg",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.bg",
+   "popularity": 311
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.bg",
+   "popularity": 160
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.bg",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Viasat TV 1000",
+   "epg_code": "ViasatTV1000Balkan.bg",
+   "popularity": 211
+ },
+ {
+   "channel_name": "VIVACOM Arena HD",
+   "epg_code": "VivacomArena.bg",
+   "popularity": 8
+ },
+ {
+   "channel_name": "VOX",
+   "epg_code": "VOX.bg",
+   "popularity": 10
+ },
+ {
+   "channel_name": "VTK",
+   "epg_code": "VTK.bg",
+   "popularity": 63
+ },
+ {
+   "channel_name": "VTV",
+   "epg_code": "VTV.bg",
+   "popularity": 75
+ },
+ {
+   "channel_name": "Wness TV",
+   "epg_code": "Wness.bg",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Агро",
+   "epg_code": "Agro.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Алфа",
+   "epg_code": "AlfaTV.bg",
+   "popularity": 2035
+ },
+ {
+   "channel_name": "БНТ Свят",
+   "epg_code": "BNTWorld.bg",
+   "popularity": 121
+ },
+ {
+   "channel_name": "БХТВ",
+   "epg_code": "BHTV.bg",
+   "popularity": 211
+ },
+ {
+   "channel_name": "БЪЛГАРЕ",
+   "epg_code": "Bulgare.bg",
+   "popularity": 2
+ },
+ {
+   "channel_name": "България Он Ер",
+   "epg_code": "BulgariaOnAir.bg",
+   "popularity": 574
+ },
+ {
+   "channel_name": "Враца",
+   "epg_code": "Vraca.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Диема",
+   "epg_code": "Diema.bg",
+   "popularity": 1546
+ },
+ {
+   "channel_name": "Диема Фемили",
+   "epg_code": "DiemaFamily.bg",
+   "popularity": 1141
+ },
+ {
+   "channel_name": "Евроком НКТВ",
+   "epg_code": "Evrokom.bg",
+   "popularity": 208
+ },
+ {
+   "channel_name": "Европа",
+   "epg_code": "TVEvropa.bg",
+   "popularity": 490
+ },
+ {
+   "channel_name": "Канал 3",
+   "epg_code": "Kanal3.bg",
+   "popularity": 2209
+ },
+ {
+   "channel_name": "Нова Спорт",
+   "epg_code": "NOVAsport.bg",
+   "popularity": 6463
+ },
+ {
+   "channel_name": "Нова телевизия",
+   "epg_code": "NOVA.bg",
+   "popularity": 6489
+ },
+ {
+   "channel_name": "НТВ Право",
+   "epg_code": "NTVPravo.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "НТВ Сериал",
+   "epg_code": "NTVSerie.bg",
+   "popularity": 1
+ },
+ {
+   "channel_name": "НТВ Стил",
+   "epg_code": "NTVStyle.bg",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Первий канал России",
+   "epg_code": "PerviyKanal.bg",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Планета",
+   "epg_code": "PlanetaTV.bg",
+   "popularity": 1079
+ },
+ {
+   "channel_name": "Планета HD",
+   "epg_code": "PlanetaHD.bg",
+   "popularity": 289
+ },
+ {
+   "channel_name": "Планета Фолк",
+   "epg_code": "PlanetaFolk.bg",
+   "popularity": 188
+ },
+ {
+   "channel_name": "Римекс",
+   "epg_code": "Rimeks.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "СКАТ",
+   "epg_code": "SkatTV.bg",
+   "popularity": 155
+ },
+ {
+   "channel_name": "СКАТ+",
+   "epg_code": "SkatPlus.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Супер 7",
+   "epg_code": "Super7.bg",
+   "popularity": 236
+ },
+ {
+   "channel_name": "Телекабел",
+   "epg_code": "Telekabel.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Фиеста ТВ",
+   "epg_code": "FiestaTV.bg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Хоби HD",
+   "epg_code": "HobbyTVHD.bg",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Хоби ТВ",
+   "epg_code": "HobbyHD.bg",
+   "popularity": 331
+ },
+ {
+   "channel_name": "Хоби ТВ",
+   "epg_code": "HobbyTV.bg",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Черно море",
+   "epg_code": "BlackSea.bg",
+   "popularity": 0
+ }
+]

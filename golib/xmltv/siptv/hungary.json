@@ -1,0 +1,902 @@
+[
+ {
+   "channel_name": "9.Tv",
+   "epg_code": "9tv.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Al Jazeera (English)",
+   "epg_code": "Aljazeeraenglish.hu",
+   "popularity": 35
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.hu",
+   "popularity": 13091
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.hu",
+   "popularity": 3808
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "Animalplanethd.hu",
+   "popularity": 1238
+ },
+ {
+   "channel_name": "Arena 4",
+   "epg_code": "Arena4.hu",
+   "popularity": 155
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "MagyarATV.hu",
+   "popularity": 9393
+ },
+ {
+   "channel_name": "ATV Spirit",
+   "epg_code": "ATVSpirit.hu",
+   "popularity": 1525
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.hu",
+   "popularity": 7125
+ },
+ {
+   "channel_name": "AXN Black",
+   "epg_code": "AXNBlack.hu",
+   "popularity": 438
+ },
+ {
+   "channel_name": "Baby TV (English)",
+   "epg_code": "Babytvenglish.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Babyfirst (English)",
+   "epg_code": "Babyfirstenglish.hu",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Balaton TV",
+   "epg_code": "Balaton.hu",
+   "popularity": 30
+ },
+ {
+   "channel_name": "BBC Earth",
+   "epg_code": "BBCEarth.hu",
+   "popularity": 266
+ },
+ {
+   "channel_name": "BBC World",
+   "epg_code": "Bbcworld.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bloomberg (English)",
+   "epg_code": "Bloombergenglish.hu",
+   "popularity": 56
+ },
+ {
+   "channel_name": "Bonum TV",
+   "epg_code": "Bonumtv.hu",
+   "popularity": 384
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.hu",
+   "popularity": 4876
+ },
+ {
+   "channel_name": "Brazzers TV Europe",
+   "epg_code": "Brazzerstveurope.hu",
+   "popularity": 3471
+ },
+ {
+   "channel_name": "Budapest Europa Televizio",
+   "epg_code": "Budapesteuropatv.hu",
+   "popularity": 7
+ },
+ {
+   "channel_name": "C8",
+   "epg_code": "C8.hu",
+   "popularity": 70
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetworkTCM.hu",
+   "popularity": 4045
+ },
+ {
+   "channel_name": "Cartoon Network / TCM (3-21)",
+   "epg_code": "CartoonNetworkTCM(3-21).hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cartoon Network TV",
+   "epg_code": "CartoonNetwork.hu",
+   "popularity": 32
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "Cbsreality.hu",
+   "popularity": 3820
+ },
+ {
+   "channel_name": "Channel One Russia (Russian)",
+   "epg_code": "Channelonerussia.hu",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "Cinemax.hu",
+   "popularity": 7295
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.hu",
+   "popularity": 9683
+ },
+ {
+   "channel_name": "CNBC",
+   "epg_code": "Cnbc.hu",
+   "popularity": 34
+ },
+ {
+   "channel_name": "CNN (English)",
+   "epg_code": "Cnnenglish.hu",
+   "popularity": 156
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.hu",
+   "popularity": 15354
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.hu",
+   "popularity": 326
+ },
+ {
+   "channel_name": "Comedy Central Family",
+   "epg_code": "ComedyCentralFamily.hu",
+   "popularity": 5645
+ },
+ {
+   "channel_name": "Cool",
+   "epg_code": "Cool.hu",
+   "popularity": 23490
+ },
+ {
+   "channel_name": "D1 TV",
+   "epg_code": "D1tv.hu",
+   "popularity": 150
+ },
+ {
+   "channel_name": "Da Vinci",
+   "epg_code": "DaVinciLearning.hu",
+   "popularity": 1501
+ },
+ {
+   "channel_name": "DIGI Animal World",
+   "epg_code": "DigiAnimalWorld.hu",
+   "popularity": 7511
+ },
+ {
+   "channel_name": "DIGI Life",
+   "epg_code": "DigiLife.hu",
+   "popularity": 2384
+ },
+ {
+   "channel_name": "DIGI Sport 1",
+   "epg_code": "DigiSport1.hu",
+   "popularity": 31990
+ },
+ {
+   "channel_name": "DIGI Sport 2",
+   "epg_code": "DigiSport2.hu",
+   "popularity": 23955
+ },
+ {
+   "channel_name": "DIGI Sport 3",
+   "epg_code": "DigiSport3.hu",
+   "popularity": 3416
+ },
+ {
+   "channel_name": "DIGI World",
+   "epg_code": "DigiWorld.hu",
+   "popularity": 5810
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.hu",
+   "popularity": 7417
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "DiscoveryHDShowcase.hu",
+   "popularity": 6408
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.hu",
+   "popularity": 4373
+ },
+ {
+   "channel_name": "Discovery Turbo Xtra",
+   "epg_code": "DTX.hu",
+   "popularity": 2939
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.hu",
+   "popularity": 124
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.hu",
+   "popularity": 3284
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJr.hu",
+   "popularity": 528
+ },
+ {
+   "channel_name": "DOQ",
+   "epg_code": "DOQ.hu",
+   "popularity": 95
+ },
+ {
+   "channel_name": "Duck TV",
+   "epg_code": "DuckTV.hu",
+   "popularity": 4023
+ },
+ {
+   "channel_name": "DUNA Televízió",
+   "epg_code": "Duna.hu",
+   "popularity": 11707
+ },
+ {
+   "channel_name": "Duna World",
+   "epg_code": "Duna2.hu",
+   "popularity": 4201
+ },
+ {
+   "channel_name": "Echo TV",
+   "epg_code": "EchoTV.hu",
+   "popularity": 142
+ },
+ {
+   "channel_name": "Epic Drama TV",
+   "epg_code": "EpicDrama.hu",
+   "popularity": 1645
+ },
+ {
+   "channel_name": "Erdely TV",
+   "epg_code": "Erdelytv.hu",
+   "popularity": 249
+ },
+ {
+   "channel_name": "Euronews",
+   "epg_code": "Euronews.hu",
+   "popularity": 1823
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport1.hu",
+   "popularity": 4848
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.hu",
+   "popularity": 3816
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.hu",
+   "popularity": 1185
+ },
+ {
+   "channel_name": "Fehervar TV",
+   "epg_code": "Fehervartv.hu",
+   "popularity": 15
+ },
+ {
+   "channel_name": "FEM3",
+   "epg_code": "Fem3.hu",
+   "popularity": 5623
+ },
+ {
+   "channel_name": "Film Mánia",
+   "epg_code": "FilmMania.hu",
+   "popularity": 8719
+ },
+ {
+   "channel_name": "Film Now",
+   "epg_code": "DigiFilm.hu",
+   "popularity": 15113
+ },
+ {
+   "channel_name": "Film+",
+   "epg_code": "FilmPlus.hu",
+   "popularity": 35631
+ },
+ {
+   "channel_name": "Film+2",
+   "epg_code": "FilmPlus2.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Film4",
+   "epg_code": "Film4.hu",
+   "popularity": 10699
+ },
+ {
+   "channel_name": "Filmbox",
+   "epg_code": "Filmbox.hu",
+   "popularity": 5484
+ },
+ {
+   "channel_name": "Filmbox Extra",
+   "epg_code": "FilmboxExtra.hu",
+   "popularity": 71
+ },
+ {
+   "channel_name": "Filmbox Extra HD",
+   "epg_code": "FilmboxExtraHD.hu",
+   "popularity": 2326
+ },
+ {
+   "channel_name": "Filmbox Family",
+   "epg_code": "FilmboxFamily.hu",
+   "popularity": 5140
+ },
+ {
+   "channel_name": "Filmbox Plus",
+   "epg_code": "FilmboxPlus.hu",
+   "popularity": 5370
+ },
+ {
+   "channel_name": "Filmbox Premium",
+   "epg_code": "FilmboxPremium.hu",
+   "popularity": 5913
+ },
+ {
+   "channel_name": "Filmcafe",
+   "epg_code": "FilmCafe.hu",
+   "popularity": 27491
+ },
+ {
+   "channel_name": "Fine Living",
+   "epg_code": "FineLiving.hu",
+   "popularity": 1571
+ },
+ {
+   "channel_name": "Fishing & Hunting",
+   "epg_code": "FishingHunting.hu",
+   "popularity": 4477
+ },
+ {
+   "channel_name": "Fit HD",
+   "epg_code": "Fithd.hu",
+   "popularity": 202
+ },
+ {
+   "channel_name": "Fix",
+   "epg_code": "Fix.hu",
+   "popularity": 1152
+ },
+ {
+   "channel_name": "Fonix TV",
+   "epg_code": "FonixTV.hu",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.hu",
+   "popularity": 3380
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "Fox.hu",
+   "popularity": 84
+ },
+ {
+   "channel_name": "Galaxy4",
+   "epg_code": "Galaxy.hu",
+   "popularity": 4249
+ },
+ {
+   "channel_name": "Gotthard TV",
+   "epg_code": "Gotthardtv.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Gyongyosi TV",
+   "epg_code": "Gyongyositv.hu",
+   "popularity": 3
+ },
+ {
+   "channel_name": "H!T Music Channel",
+   "epg_code": "Htmusicchannel.hu",
+   "popularity": 600
+ },
+ {
+   "channel_name": "Hatoscsatorna",
+   "epg_code": "Hatoscsatorna.hu",
+   "popularity": 73
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBO.hu",
+   "popularity": 56502
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBO2.hu",
+   "popularity": 7910
+ },
+ {
+   "channel_name": "HBO 3",
+   "epg_code": "HBO3.hu",
+   "popularity": 13933
+ },
+ {
+   "channel_name": "HBO Comedy",
+   "epg_code": "HBOComedy.hu",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Heti TV",
+   "epg_code": "Hetitv.hu",
+   "popularity": 2227
+ },
+ {
+   "channel_name": "Hír TV",
+   "epg_code": "HirTV.hu",
+   "popularity": 6601
+ },
+ {
+   "channel_name": "HISTORY",
+   "epg_code": "HISTORY.hu",
+   "popularity": 8347
+ },
+ {
+   "channel_name": "HISTORY HD",
+   "epg_code": "Historyhd.hu",
+   "popularity": 3096
+ },
+ {
+   "channel_name": "ID Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.hu",
+   "popularity": 1122
+ },
+ {
+   "channel_name": "ID Xtra",
+   "epg_code": "IDExtra.hu",
+   "popularity": 469
+ },
+ {
+   "channel_name": "IDX",
+   "epg_code": "IDXtra.hu",
+   "popularity": 1825
+ },
+ {
+   "channel_name": "Izaura TV",
+   "epg_code": "IzauraTV.hu",
+   "popularity": 5904
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.hu",
+   "popularity": 5869
+ },
+ {
+   "channel_name": "Jocky TV",
+   "epg_code": "JockyTV.hu",
+   "popularity": 4971
+ },
+ {
+   "channel_name": "Kecskemeti Televizio",
+   "epg_code": "Kecskemetitv.hu",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Kereszturi Televizio",
+   "epg_code": "Kereszturitv.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "LiChi TV",
+   "epg_code": "ChiliTV.hu",
+   "popularity": 3894
+ },
+ {
+   "channel_name": "Life TV",
+   "epg_code": "LifeTV.hu",
+   "popularity": 1738
+ },
+ {
+   "channel_name": "LifeNetwork",
+   "epg_code": "Lifenetwork.hu",
+   "popularity": 960
+ },
+ {
+   "channel_name": "m1",
+   "epg_code": "m1.hu",
+   "popularity": 23109
+ },
+ {
+   "channel_name": "m2 / Petőfi TV",
+   "epg_code": "m2.hu",
+   "popularity": 13829
+ },
+ {
+   "channel_name": "m3",
+   "epg_code": "m3.hu",
+   "popularity": 274
+ },
+ {
+   "channel_name": "M4 Sport",
+   "epg_code": "M4Sport.hu",
+   "popularity": 17896
+ },
+ {
+   "channel_name": "M5",
+   "epg_code": "m5.hu",
+   "popularity": 9906
+ },
+ {
+   "channel_name": "MCM Pop",
+   "epg_code": "Mcmpop.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MCM Top",
+   "epg_code": "Mcmtop.hu",
+   "popularity": 172
+ },
+ {
+   "channel_name": "Megamax",
+   "epg_code": "Megamax.hu",
+   "popularity": 2451
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.hu",
+   "popularity": 1244
+ },
+ {
+   "channel_name": "Minimax",
+   "epg_code": "Minimax.hu",
+   "popularity": 5405
+ },
+ {
+   "channel_name": "Miskolc TV",
+   "epg_code": "Miskolctv.hu",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Mozi+",
+   "epg_code": "MoziPlus.hu",
+   "popularity": 26246
+ },
+ {
+   "channel_name": "Moziverzum",
+   "epg_code": "Moziverzum.hu",
+   "popularity": 13781
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTVHungary.hu",
+   "popularity": 492
+ },
+ {
+   "channel_name": "Music Channel",
+   "epg_code": "MusicChannel.hu",
+   "popularity": 2086
+ },
+ {
+   "channel_name": "Musicmix",
+   "epg_code": "Musicmix.hu",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Muzsika TV",
+   "epg_code": "MuzsikaTV.hu",
+   "popularity": 4005
+ },
+ {
+   "channel_name": "Nat Geo HD",
+   "epg_code": "NationalGeographicHD.hu",
+   "popularity": 1494
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.hu",
+   "popularity": 4847
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWildHD.hu",
+   "popularity": 2184
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.hu",
+   "popularity": 4134
+ },
+ {
+   "channel_name": "New Tang Dynasty (English)",
+   "epg_code": "Newtangdynastyen.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nick Jr.",
+   "epg_code": "NickJr.hu",
+   "popularity": 1015
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.hu",
+   "popularity": 6196
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.hu",
+   "popularity": 2714
+ },
+ {
+   "channel_name": "Ozone TV",
+   "epg_code": "OzoneNetwork.hu",
+   "popularity": 3562
+ },
+ {
+   "channel_name": "Paramount Channel",
+   "epg_code": "ParamountChannel.hu",
+   "popularity": 10478
+ },
+ {
+   "channel_name": "PAX Tv",
+   "epg_code": "PAXTV.hu",
+   "popularity": 687
+ },
+ {
+   "channel_name": "Prime",
+   "epg_code": "Prime.hu",
+   "popularity": 9826
+ },
+ {
+   "channel_name": "Romance TV",
+   "epg_code": "RomanceTV.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTL Gold",
+   "epg_code": "RTLGold.hu",
+   "popularity": 19140
+ },
+ {
+   "channel_name": "RTL II",
+   "epg_code": "RTL2.hu",
+   "popularity": 34290
+ },
+ {
+   "channel_name": "RTL Klub",
+   "epg_code": "RTLKlub.hu",
+   "popularity": 81981
+ },
+ {
+   "channel_name": "RTL Spike",
+   "epg_code": "RTLSpike.hu",
+   "popularity": 12375
+ },
+ {
+   "channel_name": "RTL+",
+   "epg_code": "RTLplus.hu",
+   "popularity": 14499
+ },
+ {
+   "channel_name": "Sky News (English)",
+   "epg_code": "Skynewsenglish.hu",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Sláger TV",
+   "epg_code": "SlagerTV.hu",
+   "popularity": 5349
+ },
+ {
+   "channel_name": "Smile of a child (English)",
+   "epg_code": "Smileofachildeng.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sony Max",
+   "epg_code": "SonyMax.hu",
+   "popularity": 6604
+ },
+ {
+   "channel_name": "Sony Movie",
+   "epg_code": "SonyMovie.hu",
+   "popularity": 5076
+ },
+ {
+   "channel_name": "Sony Movie Channel TV",
+   "epg_code": "SonyMovieChannel.hu",
+   "popularity": 418
+ },
+ {
+   "channel_name": "Sorozat+",
+   "epg_code": "Sorozat.hu",
+   "popularity": 6792
+ },
+ {
+   "channel_name": "Soundtrack Channel",
+   "epg_code": "Soundtrackchannel.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Spektrum",
+   "epg_code": "Spektrum.hu",
+   "popularity": 10831
+ },
+ {
+   "channel_name": "Spektrum Home",
+   "epg_code": "SpektrumHome.hu",
+   "popularity": 6267
+ },
+ {
+   "channel_name": "Spiler TV",
+   "epg_code": "SpilerTV.hu",
+   "popularity": 3281
+ },
+ {
+   "channel_name": "Spiler TV 2",
+   "epg_code": "SpilerTV2.hu",
+   "popularity": 1376
+ },
+ {
+   "channel_name": "Sport1",
+   "epg_code": "Sport1.hu",
+   "popularity": 7301
+ },
+ {
+   "channel_name": "Sport2",
+   "epg_code": "Sport2.hu",
+   "popularity": 6145
+ },
+ {
+   "channel_name": "SportM",
+   "epg_code": "SportM.hu",
+   "popularity": 150
+ },
+ {
+   "channel_name": "STORY4",
+   "epg_code": "STORY4.hu",
+   "popularity": 6013
+ },
+ {
+   "channel_name": "STORY5",
+   "epg_code": "STORY5.hu",
+   "popularity": 1355
+ },
+ {
+   "channel_name": "Sundance TV",
+   "epg_code": "Sundancechannel.hu",
+   "popularity": 3878
+ },
+ {
+   "channel_name": "SuperTV2",
+   "epg_code": "SuperTV2.hu",
+   "popularity": 36902
+ },
+ {
+   "channel_name": "Szeged Televizio",
+   "epg_code": "SzegedTV.hu",
+   "popularity": 2
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.hu",
+   "popularity": 11944
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.hu",
+   "popularity": 4777
+ },
+ {
+   "channel_name": "TV Paprika",
+   "epg_code": "TVPaprika.hu",
+   "popularity": 5594
+ },
+ {
+   "channel_name": "TV2",
+   "epg_code": "tv2.hu",
+   "popularity": 58051
+ },
+ {
+   "channel_name": "TV2 Comedy",
+   "epg_code": "Humor+.hu",
+   "popularity": 4215
+ },
+ {
+   "channel_name": "TV2 Kids",
+   "epg_code": "KiwiTV.hu",
+   "popularity": 6079
+ },
+ {
+   "channel_name": "TV4 TV",
+   "epg_code": "TV4.hu",
+   "popularity": 6737
+ },
+ {
+   "channel_name": "TV5MONDE",
+   "epg_code": "Tv5monde.hu",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "UniversalChannel.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Vasarhelyi Televizio",
+   "epg_code": "Vasarhelyitv.hu",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.hu",
+   "popularity": 634
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.hu",
+   "popularity": 2796
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.hu",
+   "popularity": 5842
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.hu",
+   "popularity": 3041
+ },
+ {
+   "channel_name": "Viasat Nature/History HD",
+   "epg_code": "Viasatnature2.hu",
+   "popularity": 28
+ },
+ {
+   "channel_name": "VIASAT3",
+   "epg_code": "Viasat3.hu",
+   "popularity": 15653
+ },
+ {
+   "channel_name": "VIASAT6",
+   "epg_code": "VIASAT6.hu",
+   "popularity": 15692
+ },
+ {
+   "channel_name": "VIVA",
+   "epg_code": "VivaTV.hu",
+   "popularity": 528
+ },
+ {
+   "channel_name": "Zenebutik",
+   "epg_code": "Zenebutik.hu",
+   "popularity": 3771
+ },
+ {
+   "channel_name": "Zone Reality",
+   "epg_code": "ZoneReality.hu",
+   "popularity": 242
+ }
+]
