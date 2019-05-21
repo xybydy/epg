@@ -2,11 +2,15 @@ package xmltv
 
 import (
 	"encoding/xml"
+	"fmt"
 	"io/ioutil"
+	"os"
+	"regexp"
 	"time"
 )
 
 const timefmt = "20060102150405 -0700"
+const encodingre = `encoding=".*"`
 
 type Tv struct {
 	XMLName           xml.Name     `xml:"tv"`
@@ -30,19 +34,40 @@ func NewXMLTVFile() *Tv {
 type Channel struct {
 	Id   string `xml:"id,attr"`
 	Name string `xml:"display-name"`
+	Icon Icon   `xml:"icon"`
+}
+
+type Icon struct {
+	Src    string `xml:"src,attr"`
+	Width  string `xml:"width,attr,omitempty"`
+	Height string `xml:"height,attr,omitempty"`
 }
 
 type Programme struct {
+	Id       string   `xml:"id,attr,omitempty"`
 	Start    string   `xml:"start,attr"`
 	Stop     string   `xml:"stop,attr"`
 	Channel  string   `xml:"channel,attr"`
 	Title    string   `xml:"title,omitempty"`
 	SubTitle string   `xml:"sub-title,omitempty"`
 	Desc     string   `xml:"desc,omitempty"`
-	Credits  string   `xml:"credits,omitempty"`
+	Credits  Credits  `xml:"credits,omitempty"`
 	Date     string   `xml:"date,omitempty"`
 	Category []string `xml:"category,omitempty"`
 	Rating   string   `xml:"rating>value,omitempty"`
+}
+
+type Credits struct {
+	Director    string `xml:"director,omitempty"`
+	Actor       string `xml:"actor,omitempty"`
+	Writer      string `xml:"writer,omitempty"`
+	Adapter     string `xml:"adapter,omitempty"`
+	Producer    string `xml:"producer,omitempty"`
+	Composer    string `xml:"composer,omitempty"`
+	Editor      string `xml:"editor,omitempty"`
+	Presenter   string `xml:"presenter,omitempty"`
+	Commentator string `xml:"commentator,omitempty"`
+	Guest       string `xml:"guest,omitempty"`
 }
 
 func ParseTime(t string) (time.Time, error) {
@@ -69,11 +94,16 @@ func Unmarshal(data []byte, v interface{}) error {
 }
 
 func ReadFile(path string) (*Tv, error) {
+	if _, err := os.Stat(path); err != nil {
+		fmt.Errorf("%v", err)
+	}
+
 	data, err := ioutil.ReadFile(path)
 	if err != nil {
 		return nil, err
 	}
 
+	data = stripEncoding(data)
 	xmltvf := NewXMLTVFile()
 
 	err = Unmarshal(data, xmltvf)
@@ -88,15 +118,10 @@ func WriteFile(path string, data []byte) error {
 	return ioutil.WriteFile(path, data, 0644)
 }
 
-func Demo() *Tv {
-	xmltvf := NewXMLTVFile()
-	xmltvf.Channel = append(xmltvf.Channel, &Channel{Id: "0", Name: "AAAA"})
-	xmltvf.Channel = append(xmltvf.Channel, &Channel{Id: "1", Name: "BBBB"})
+func stripEncoding(str []byte) []byte {
+	reg := regexp.MustCompile(encodingre)
 
-	xmltvf.Programme = append(xmltvf.Programme, &Programme{
-		Start: TimeString(time.Now()), Stop: TimeString(time.Now().Add(30 * time.Minute)), Channel: "0", Title: "aaaaa title", Date: "asdasd"})
-	xmltvf.Programme = append(xmltvf.Programme, &Programme{
-		Start: TimeString(time.Now()), Stop: TimeString(time.Now().Add(30 * time.Minute)), Channel: "1", Title: "bbbbb title", Date: "asdasd"})
+	res := reg.ReplaceAllString(string(str), "")
 
-	return xmltvf
+	return []byte(res)
 }
