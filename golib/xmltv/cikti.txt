@@ -1,0 +1,6683 @@
+#0-SP
+0111 Heart-UK
+1-2-3.tv HD-DE
+101 BBC One Lon-UK
+102 BBC Two Eng-UK
+103 ITV-UK
+104 Channel 4-UK
+105 Channel 5-UK
+106 Sky One-UK
+109 W-UK
+110 GOLD-UK
+112 ComedyCentral-UK
+113 Universal-UK
+114 SYFY-UK
+116 BBC Four-UK
+117 London Live-UK
+118 ITV2-UK
+119 ITV3-UK
+119 TV3-UK
+120 ITV4-UK
+121 SkySp Mix-UK
+122 Sky Arts-UK
+124 FOX-UK
+125 TLC-UK
+126 MTV-UK
+128 ComedyXtra-UK
+12: SBS Sydney-AUL
+13 TV ES
+13 TV-SP
+13 Ulica HD PL
+13 Ulica-PL
+132 alibi-UK
+133 Good Food-UK
+134 S4C-UK
+136 E4-UK
+138 More4-UK
+13: Fox Footy HD-AUL
+13eme RUE-FR
+13eme Rue HD FR
+13th Street DE
+140 4seven-UK
+142 BBC ALBA-UK
+144 QUEST-UK
+145 Challenge-UK
+146 CBS Reality-UK
+147 CBS Drama-UK
+149 ITVBe-UK
+151 E!-UK
+152 Pick-UK
+153 VICELAND-UK
+155 Really-UK
+156 Lifetime-UK
+157 Sony Crime-UK
+158 Drama-UK
+161 Discovery Shed-UK
+162 Quest Red-UK
+163 Sky Two-UK
+167 Home & Health-UK
+172 Real Lives-UK
+175 5SELECT-UK
+176 5STAR-UK
+192 AMC from BT-UK
+192TV BE
+192TV NL
+192TV-NL
+196 Home-UK
+199 YourTV-UK
+20 Mediaset-IT
+21 Junior AL
+21 Junior-AL
+21 Popullore AL
+21 Popullore-AL
+214 Dave ja vu-UK
+232 AIT Intl-UK
+24 Ghanta TV-IN
+24 Horas-SP
+24 Kitchen BG
+24 Kitchen HD NL
+24 Kitchen PT
+24 Kitchen ex-Yu
+24 Kitchen-AL
+24 Kitchen-BG
+24 TR
+24 TV HD-TR
+241 DMAX-UK
+248 Food Network-UK
+249 Travel Channel-UK
+24KITCHEN-0xa
+24Kitchen HD-POR
+24Kitchen-EXYU
+24Kitchen-NL
+24Kitchen-TR
+24TV-0xa
+24Док-RU
+2: ABC News-AUL
+2: Bloomberg Television-AUL
+2BE-BL
+2M Maroc ARB
+2M Monde ARB
+2х2-RU
+3 24-SP
+3 HD-SWZ
+3 HD-TH
+3 Plus-AL
+3 Sat-DE
+301 Sky Premiere-UK
+303 Sky ScFi/Horror-UK
+304 Sky Greats-UK
+305 Sky Disney-UK
+305 Sky Family-UK
+306 Sky Animation-UK
+307 Sky Action-UK
+307 Sky Comedy-UK
+308 Sky Comedy-UK
+309 Sky Greats-UK
+309 Sky Thriller-UK
+310 Sky Drama-UK
+310 Sky ScFi/Horror-UK
+311 Sky Hits-UK
+311 Sky Select-UK
+315 Film4-UK
+317 TCM-UK
+319 horror channel-UK
+323 Sony Movies-UK
+325 movies4men-UK
+327 Movies 24-UK
+329 Nollywood-UK
+343 TalkingPictures-UK
+350 MTV MUSIC-UK
+351 MTV BASE-UK
+352 MTV HITS-UK
+353 MTV OMG-UK
+354 Club MTV-UK
+355 MTV ROCKS-UK
+356 MTV CLASSIC-UK
+359 Box Upfront-UK
+360 TR
+360 TV HD-TR
+360TUNE-0xa
+360TV-0xa
+361 Box Hits-UK
+363 KISS-UK
+365 Chart Show TV-UK
+378 NOW 80s-UK
+389 Keep It Country-UK
+3: Fox Sports News-AUL
+3: SKY Racing 2-AUL
+3: SKY Racing-AUL
+3FAMILY-TH
+3e UK
+3e-UK
+3sat DE
+3sat-DK
+4 HD-SWZ
+401 SkySpMainEv-UK
+402 SkySp PL-UK
+404 SkySpCricket-UK
+405 SkySp Golf-UK
+406 SkySp F1-UK
+407 SkySp Action-UK
+408 SkySp Arena-UK
+409 SkySp News-UK
+410 Eurosport 1-UK
+411 Eurosport 2-UK
+413 BT Sport 1-UK
+414 BT Sport 2-UK
+415 At The Races-UK
+417 BT Sport 3-UK
+418 UTV-UK
+424 FreeSports-UK
+426 BT Sport//ESPN-UK
+432 Racing UK-UK
+437 BoxNation-UK
+455 LFCTV HD-UK
+455 Showcase-UK
+462 Premier Sports-UK
+492 SkySpBoxOffHD-UK
+4E GR
+4FUN DANCE PL
+4FUN GOLD HITS PL
+4Fun TV PL
+4Music UK
+4Music-UK
+4e-GR
+4fun Fit&Dance-PL
+4fun Hits-PL
+4fun.tv-PL
+4seven UK
+5 HD-SWZ
+5 StarMAX Eastern US
+5 USA-UK
+5 star max eastern-US
+5+ Gold-IS
+5+ Live-IS
+501 Sky News-UK
+503 BBC NEWS-UK
+504 BBC Parliament-UK
+505 CNBC-UK
+506 CNN-UK
+508 Euronews-UK
+512 RT-UK
+519 Arise News-UK
+519 TRT World-UK
+523 Animal Planet-UK
+526 Nat Geo-UK
+528 Nat Geo Wild-UK
+529 History-UK
+532 Eden-UK
+534 PBS America-UK
+537 YESTERDAY-UK
+553 Crime+Inv-UK
+565 BLAZE-UK
+580 GOD Channel-UK
+582 TBN UK-UK
+595 Hillsong-UK
+5: 7Flix NSW-AUL
+5: 9Gem Sydney-AUL
+5: 9Go! Sydney-AUL
+5: 9Life Sydney-AUL
+5: SBS Food NSW-AUL
+5: SBS VICELAND-AUL
+5: TVSN-AUL
+5SPORT 4K-IS
+5STAR UK
+5STARS-IS
+5Spike (28)-NL
+5Spike+1-UK
+5Spike-UK
+5USA UK
+6'eren DK
+601 Cartoon Netwrk-UK
+604 Nickelodeon-UK
+606 Nicktoons-UK
+607 Disney XD-UK
+609 Disney Chnl-UK
+611 Disney Junior-UK
+614 CBeebies-UK
+615 Nick Jr.-UK
+616 POP-UK
+617 Tiny Pop-UK
+619 Cartoonito-UK
+620 Nick Jr Too-UK
+620 Nick Jr.Peppa-UK
+621 CITV-UK
+623 BabyTV-UK
+627 POP Max-UK
+650 QVC-UK
+653 QVC Style-UK
+6ter FR
+6ter-FR
+6’eren-DK
+7 HD-TH
+7 RACING-AUL
+7 TWO-AUL
+748 Sikh Channel-UK
+782 SONY TV-UK
+783 Star Bharat-UK
+784 Star Plus-UK
+786 COLORS-UK
+797 RishteyCine-UK
+798 SONY MAX-UK
+799 HUM Europe-UK
+7mate Sydney-AUL
+8 Mont-Blanc-FR
+8 tv ES
+806 Islam Channel-UK
+809 Star GOLD-UK
+810 SONY SAB-UK
+822 Rishtey-UK
+824 Brit Asia TV-UK
+843 Akaal Channel-UK
+845 Sky Disney HD-UK
+9X Music IN
+9X Tashan IN
+9X Tashan-IN
+9XM-IN
+9x Jhakaas-IN
+A And E-SP
+A BOLA TV-POR
+A Bola TV PT
+A HABER-TR
+A Haber TR
+A News HD-TR
+A PARA-TR
+A SPOR-TR
+A Spor TR
+A and E US - Eastern Feed-US
+A and E-DE
+A+ International France-FR
+A2
+A2 TR
+A2TV-0xa
+AB Moteurs FR
+AB1 HD FR
+AB1-FR
+AB3-BL
+AB3-FR
+ABC (KOMO) Seattle, WA-CA
+ABC (WKBW) Buffalo, NY-CA
+ABC Eastern US
+ABC HD Los Angeles-US
+ABC HD New York-US
+ABC News AL
+ABC News-AL
+ABC Spark-CA
+ABP News ARB
+ABP News India IN
+ABP News India-IN
+ABP News-IN
+ABS CBN Sports+Action ARB
+ABS TFC ARB
+ABS-CBN News ARB
+ABS-CBN News-PH
+ACTION-FR
+ACTIONPLUS-BG
+AD Sports 3 HD ARB
+AD Sports 4 HD ARB
+AD Sports 5 HD ARB
+AD Sports 6 HD ARB
+AHABER-0xa
+AKILLI-0xa
+AKIT-0xa
+AL Rai ARB
+ALATOO24-0xa
+ALJAZEERA-0xa
+ALPHA GR
+ALPHA Κύπρου-GR
+AMARIN-TH
+AMC - Canada HD-CA
+AMC - Eastern Feed-US
+AMC ES
+AMC HD-CZ
+AMC HD-POR
+AMC NL
+AMC PL
+AMC PT
+AMC RO
+AMC US
+AMC from BT UK
+AMC-BG
+AMC-HU
+AMC-PL
+AMC-SP
+ANB ARB
+ANC-PH
+ANEWS-0xa
+ANIMAL PLANET-TR
+ANIMALPLANET-0xa
+ANIMAUX-0xa
+ANIXE DE
+ANT1 CY
+ANT1 GR
+ANT1-GR
+APARA-0xa
+ARD ARB
+ARD-DE
+ARD-DK
+ARD-alpha DE
+ARIRANG-0xa
+ART Aflam 1 ARB
+ART Aflam 2 ARB
+ART Cinema ARB
+ART GR
+ART Hekayat 1 ARB
+ART Hekayat 2 ARB
+ART TV-GR
+ARTE ARB
+ARTE-FR
+ARTV PT
+ARTV-CA
+ARTV-POR
+ARY Digital ARB
+ARY Musik ARB
+ARY News ARB
+ARY QTV ARB
+ARY Zauq ARB
+AS TV SI
+ASIA NEWS-PH
+ASIANET IN
+ASIANET News IN
+ASPOR-0xa
+AT5 NL
+AT5-NL
+ATG Live-SE
+ATM Rozrywka PL
+ATM Rozrywka-PL
+ATV Avrupa TR
+ATV HD AT
+ATV HD-TR
+ATV TR
+ATV-0xa
+ATV-AT
+ATV-DE
+ATV-HU
+ATV2-AT
+AUTOMOTO-0xa
+AVTV-0xa
+AXELWOS TV-GR
+AXN BG
+AXN Black PL
+AXN Black PT
+AXN Black RO
+AXN Black-BG
+AXN Black-HU
+AXN Black-PL
+AXN Black-POR
+AXN Black-RO
+AXN ES
+AXN HD DE
+AXN PL
+AXN PT
+AXN RO
+AXN Spin PL
+AXN Spin-EXYU
+AXN Spin-PL
+AXN Spin-RO
+AXN White ES
+AXN White PL
+AXN White PT
+AXN White RO
+AXN White-BG
+AXN White-HU
+AXN White-PL
+AXN White-POR
+AXN White-RO
+AXN White-SP
+AXN ex-Yu
+AXN-BG
+AXN-CZ
+AXN-DE
+AXN-EXYU
+AXN-HU
+AXN-PH
+AXN-PL
+AXN-POR
+AXN-RO
+AXN-SP
+AXN-TH
+AZTV-0xa
+Aaj News ARB
+Aaj Tak International IN
+Aaj Tak-IN
+AandE DE
+AandE ES
+AandE PT
+AandE US
+Abu Dhabi 1 ARB
+Abu Dhabi Drama ARB
+Abu Dhabi DramaPlus HD ARB
+Abu Dhabi Sports 2 ARB
+Abu Dhabi Sports 3 ARB
+Abu Dhabi Sports 4 ARB
+Abu Dhabi Sports 5 ARB
+Abu Dhabi Sports 6 ARB
+Abu Dhabi Sports 7 HD ARB
+Abu Dhabi Sports ARB
+Abu Dhabi TV ARB
+Acasa Gold RO
+Acasa TV RO
+Action - East-CA
+Action 24 GR
+Action FR
+Action24-GR
+ActionMAX Eastern US
+ActionMax HD (AMAXHD)-US
+Active Family PL
+Active Family-PL
+Addik TV-CA
+Adelaide44-AUL
+Adventure PL
+Adventure-PL
+Africa 24 FR
+Afro Music PT
+Afro Music-POR
+Agro TV-RO
+Ajman TV ARB
+Ajyal TV ARB
+Al Aan ARB
+Al Ahly ARB
+Al Ahly Club ARB
+Al Amaken Drama ARB
+Al Aoula Tv ARB
+Al Arabiya ARB
+Al Arabiya Al Hadath ARB
+Al Araby ARB
+Al Bahrain TV ARB
+Al Bedaya ARB
+Al Dafrah TV ARB
+Al Dawri Wa al Kass ARB
+Al Ekhbariya ARB
+Al Emarat TV ARB
+Al Fath Quran ARB
+Al Ghad Al Arabi HD ARB
+Al Ghad Al Mushreq ARB
+Al Hayat 1 ARB
+Al Hayat 2 ARB
+Al Hayat Musalsalat ARB
+Al Hurra ARB
+Al Hurra Iraq ARB
+Al Iraqiya TV ARB
+Al Jazeera Arabic ARB
+Al Jazeera Balkans ex-Yu
+Al Jazeera Balkans-EXYU
+Al Jazeera Documentary ARB
+Al Jazeera English ARB
+Al Jazeera Mubasher ARB
+Al Jazeera-EXYU
+Al Kahera Wal Nass 1 ARB
+Al Kahera Wal Nass 2 ARB
+Al Kass Eight ARB
+Al Kass Extra 1 HD ARB
+Al Kass Extra 2 HD ARB
+Al Kass HD ARB
+Al Kass One ARB
+Al Kass Seven ARB
+Al Kass Six HD ARB
+Al Kass Three HD ARB
+Al Kass Two ARB
+Al Maghribia ARB
+Al Majd ARB
+Al Majd Hadeeth Nabawy ARB
+Al Majd Quran ARB
+Al Majd Tabeiya ARB
+Al Majd Wathaeqia ARB
+Al Masriya ARB
+Al Mehwar ARB
+Al Mustakillah ARB
+Al Nahar Drama ARB
+Al Nahar Drama Plus2 ARB
+Al Nahar One ARB
+Al Nahar One Plus2 ARB
+Al Nahar TV ARB
+Al Rasoul TV ARB
+Al Rayan ARB
+Al Rayyan 2 ARB
+Al Resalah TV ARB
+Al Riyadiah Satellite ARB
+Al Safwa ARB
+Al Sharqiya ARB
+Al Shorooq ARB
+Al Sunnah Al Nabawiyah TV HD ARB
+Al Waha TV ARB
+Al Wousta from Al Dhaid ARB
+Al Yawm HD ARB
+Ale kinoPlus PL
+Alex Berlin DE
+Alfa TV BG
+Alfa TV-BG
+AlfaTV-FIN
+Alibi UK
+Alice IT
+Alice-IT
+Alpha CY
+Alpha-GR
+Alsace 20 FR
+Alsace 20-FR
+Alsat M AL
+Alsat-M-AL
+Alsumaria ARB
+Altice Studio FR
+Altice Studio-FR
+Amedia 1-RU
+Amedia Hit-RU
+American Heroes Channel-CA
+Amrita TV ARB
+And Pictures
+And Pictures HD-IN
+And TV HD-IN
+AndPictures HD IN
+AndTV HD IN
+AndTV HD UK
+Andalucia TV ES
+AniPlus HD-PH
+Animal Family HD-RU
+Animal Planet BG
+Animal Planet Canada-CA
+Animal Planet DE
+Animal Planet DK
+Animal Planet EE
+Animal Planet GR
+Animal Planet HD ARB
+Animal Planet HD PL
+Animal Planet HD-NO
+Animal Planet HD-PL
+Animal Planet HD-RU
+Animal Planet HD-SWZ
+Animal Planet HD/Animal Planet HD-TH
+Animal Planet IL
+Animal Planet IT
+Animal Planet NL
+Animal Planet RO
+Animal Planet SE
+Animal Planet TR
+Animal Planet UK
+Animal Planet US
+Animal Planet US - East-US
+Animal Planet ex-Yu
+Animal Planet-BG
+Animal Planet-CZ
+Animal Planet-DE
+Animal Planet-DK
+Animal Planet-EXYU
+Animal Planet-GR
+Animal Planet-HU
+Animal Planet-NL
+Animal Planet-PH
+Animal Planet-RO
+Animal Planet-SE
+Animaux FR
+Animaux-FR
+Animax-PH
+Anixe HD-DE
+Antena 1 RO
+Antena 1-RO
+Antena 3 ES
+Antena 3 RO
+Antena 3-RO
+Antena 3-SP
+Antena Stars RO
+Antena Stars-RO
+Aplus International FR
+Arabic Series Channel ARB
+Arabic Series Plus2 ARB
+Arabica Music ARB
+Aragon TV ES
+Aragón TV Int-SP
+Arena Sport 1 ex-Yu
+Arena Sport 1-EXYU
+Arena Sport 2 ex-Yu
+Arena Sport 2-EXYU
+Arena Sport 3 ex-Yu
+Arena Sport 3-EXYU
+Arena Sport 4 ex-Yu
+Arena Sport 4-EXYU
+Arena Sport 5 ex-Yu
+Arena Sport 5-EXYU
+Arirang TV ARB
+Arte 1 [Brazil]
+Arte FR
+Arte-DK
+Asian Food Channel-PH
+Asianet Middle East ARB
+Asianet Movies HD-IN
+Asianet News ARB
+Asianet News-IN
+Asianet Plus HD-IN
+Asianet-IN
+Astro TV DE
+AstroTV-DE
+Attessia TV ARB
+Atv Avrupa-TR
+Augsburg TV DE
+Auto Motor Sport BG
+Auto Motor und Sport DE
+Automoto TV-IT
+Axess TV-SE
+Azhari ARB
+Azteca 13
+B1 RO
+B1 TV-RO
+B4U Aflam ARB
+B4U Aflam IN
+B4U Movies IN
+B4U Movies-IN
+B4U Music IN
+B4U Music-IN
+B4U Plus ARB
+B92 ex-Yu
+B92-EXYU
+BABY TV-TR
+BABYFIRST-POR
+BABYTV-0xa
+BBC 1 Scotland-UK
+BBC ALBA UK
+BBC Arabic ARB
+BBC Brit-DK
+BBC Brit-NO
+BBC Brit-PL
+BBC Brit-SE
+BBC CBeebies-PL
+BBC EARTH HD-TR
+BBC Earth PL
+BBC Earth SE
+BBC Earth-DK
+BBC Earth-PL
+BBC Earth-SE
+BBC Entertainment ARB
+BBC Entertainment NL
+BBC Entertainment PT
+BBC Entertainment-POR
+BBC Entertainment-UK
+BBC First-NL
+BBC Four UK
+BBC HD PL
+BBC HD-PL
+BBC Lifestyle ARB
+BBC Lifestyle-PL
+BBC News UK
+BBC News-UK
+BBC One CI UK
+BBC One HD UK
+BBC One NI HD UK
+BBC One Oxford UK
+BBC One Scot UK
+BBC One Wales UK
+BBC One Yorks UK
+BBC Parliament UK
+BBC Persian IR
+BBC Two Scotland UK
+BBC Two UK
+BBC World HD-CA
+BBC World News ARB
+BBC World News UK
+BBC World News-POR
+BBC World PT
+BBC World Service-UK
+BBC World-DK
+BBCEARTH-0xa
+BBCENT-0xa
+BBCFIRST-0xa
+BBCNEWS-0xa
+BBF-AL
+BE 1 BE
+BEIN SPORTS 1-FR
+BEIN SPORTS 2-FR
+BEIN1-EN
+BEIN1-TH
+BEIN2-EN
+BEIN2-TH
+BEIN3-EN
+BEIN3-TH
+BEIN4-EN
+BEIN4-TH
+BEINACTION-0xa
+BEINACTION2-0xa
+BEINFAMILY-0xa
+BEINGURME-0xa
+BEINHD-0xa
+BEINHOME-0xa
+BEINIZ-0xa
+BEINPREMIERE-0xa
+BEINPREMIERE2-0xa
+BEINSCIFI-0xa
+BEINSCOMEDY-0xa
+BEINSDRAMA-0xa
+BEINSPORTS1-0xa
+BEINSPORTS2-0xa
+BEINSPORTS3-0xa
+BEINSPORTS4-0xa
+BEINSPORTSHBR-0xa
+BEINSPORTSMAX1-0xa
+BEINSPORTSMAX2-0xa
+BEINSTARS-0xa
+BEINSVICE-0xa
+BEINTURK-0xa
+BENGU TURK-TR
+BENGUTURK-0xa
+BESTFM-0xa
+BET - Canada-CA
+BET HD FR
+BET UK
+BET-FR
+BEYAZ TV HD-TR
+BEYAZTV-0xa
+BEYKENT-0xa
+BFM Business FR
+BFM Business-FR
+BFM Sport FR
+BFM TV FR
+BFM TV-FR
+BFMTV-FR
+BG Music Channel BG
+BG Music Channel-BG
+BHT 1-EXYU
+BHT1 ex-Yu
+BIZIMEV-0xa
+BJK TV HD-TR
+BLOOMBERG HT-TR
+BLOOMBERG TV-TR
+BLOOMBERG-0xa
+BN Music BG
+BN Music-EXYU
+BN SAT ex-Yu
+BN Sat BG
+BN Sat HD-EXYU
+BN TV-EXYU
+BN Televizija-EXYU
+BN ex-Yu
+BNN - Business News Network-CA
+BNT 1-BG
+BNT 2 BG
+BNT 2-BG
+BNT BG
+BNT HD BG
+BNT HD-BG
+BNT World BG
+BNT World-BG
+BOING-FR
+BOOMERANG HD-TR
+BOOMERANG-0xa
+BOOMERANG-FR
+BOXOFF1-0xa
+BOXOFF2-0xa
+BOXOFF3-0xa
+BR Fernsehen Nord DE
+BR Fernsehen-DE
+BRIO SI
+BRIO-SL
+BRT 1-TR
+BRT1-0xa
+BT Sport 1 UK
+BT Sport 2 UK
+BT Sport 3 UK
+BT Sport ESPN UK
+BT Sport Extra 1 UK
+BT Sport Extra 2 UK
+BT Sport Extra 3 UK
+BT Sport Extra 4 UK
+BT Sport Extra 4-UK
+BT Sport Extra 5 UK
+BT Sport//ESPN HD-UK
+BTSports1 HD-UK
+BTSports2 HD-UK
+BTSports3 HD-UK
+BTV 1 HD PT
+BTV 1 PT
+BTV1-POR
+BULGARIA ON AIR-BG
+BVN ARB
+BX1
+BYU (Brigham Young University) HD-US
+Baby TV ARB
+Baby TV BG
+Baby TV DE
+Baby TV ES
+Baby TV GR
+Baby TV IT
+Baby TV NL
+Baby TV PT
+Baby TV TR
+Baby TV UK
+Baby TV ex-Yu
+Baby TV-AL
+Baby TV-BG
+Baby TV-EXYU
+Baby TV-NL
+Baby TV-PL
+Baby TV-POR
+Baby TV-SP
+Baby-IS
+BabyFirst PT
+Babytv-GR
+Bahrain Sport 1 ARB
+Bahrain Sport 2 ARB
+Balkanika BG
+Balkanika-BG
+Balkanika-EXYU
+Band Sports [Brazil]
+Bang Bang AL
+Bang Bang-AL
+Baraem ARB
+Barca TV ES
+Barnkanalen SE
+Barça TV-SP
+Bayern-DE
+Be 1-BL
+Be Ciné-BL
+Be Curious TV HD-FR
+Be Séries-BL
+Behar TV Sarajevo-EXYU
+Bein LaLiga-SP
+Benfica TV 2-POR
+Benfica TV-POR
+Beyaz TV HD TR
+BiT BG
+BiT-BG
+Bibel TV HD DE
+Bike Channel HD-IT
+Bike UK
+Bindass ARB
+Bindass Play IN
+Bindass-IN
+Blaze HD IT
+Blaze HD-POR
+Blaze UK
+Bloomberg BG
+Bloomberg HT TR
+Bloomberg TV TR
+Bloomberg TV UK
+Bloomberg TV USA-US
+Bloomberg-UK
+Blue Ant Entertainment-PH
+Blue Nile Channel ARB
+Blue Sky GR
+Body in Balance GR
+Boing ES
+Boing IT
+Boing-IT
+Boing-SP
+Bonum TV-HU
+Book Television-CA
+Boomerang BG
+Boomerang DE
+Boomerang FR
+Boomerang IT
+Boomerang NL
+Boomerang PL
+Boomerang SE
+Boomerang UK
+Boomerang-CZ
+Boomerang-DE
+Boomerang-DK
+Boomerang-HU
+Boomerang-NL
+Boomerang-PL
+Boomerang-RO
+Boomerang-SE
+Boomerang-UK
+Boomerang-US
+Box Hits UK
+Box TV BG
+Box TV-BG
+Box Upfront UK
+BoxNation UK
+Brava HDTV-CZ
+Bravo Canada-CA
+Bravo US
+Bravo USA - Eastern Feed-US
+Brazzers TV Adult
+Bulgaria On Air BG
+C More Extreme-NO
+C More First DK
+C More First SE
+C More First-DK
+C More First-SE
+C More Fotboll SE
+C More Fotboll-SE
+C More Golf HD SE
+C More Golf-SE
+C More Hits DK
+C More Hits HD-SE
+C More Hits SE
+C More Hits-DK
+C More Hockey HD-SE
+C More Hockey SE
+C More Juniori-FIN
+C More Live 2 SE
+C More Live 2-SE
+C More Live 3 SE
+C More Live 3-SE
+C More Live 4 SE
+C More Live 4-SE
+C More Live 5 SE
+C More Live 5-SE
+C More Live SE
+C More Live-SE
+C More MAX-FIN
+C More Series DK
+C More Series SE
+C More Series-DK
+C More Series-SE
+C More Sport 1-FIN
+C More Sport 2-FIN
+C More Sport SE
+C More Sport SF-Kanalen-SE
+C More Stars SE
+C More Stars-SE
+C More Tennis SE
+C Music TV-POR
+C+ CINEMA-FR
+C+ DECALE-FR
+C+ FAMILY-FR
+C+ SERIES-FR
+C-Music PT
+C-Span 1 US
+C-Span 2 US
+C-Span 3 US
+C8-FR
+CA-A&E Canada-CA
+CA-BBC Kids
+CA-BBC World
+CA-BNN Bloomberg
+CA-CBC (CBMT) Montreal,QC
+CA-CITY Toronto, ON-CA
+CA-CITY Vancouver, BC-CA
+CA-CITY Winnipeg, MB-CA
+CA-CTV (CKCO) Kitchener, ON-CA
+CA-CTV Montreal (CFCF), QC-CA
+CA-CTV Two Ottawa, ON
+CA-CTV Two Vancouver Island. BC DV
+CA-Canal Savoir
+CA-Cooking Channel Canada-CA
+CA-Discovery Velocity
+CA-Do It Yourself Network (Canada)-CA
+CA-Game Show Network - East-CA
+CA-Global (CIII-DT-41) Toronto HD-CA
+CA-Global BC-CA
+CA-HBO Canada 1
+CA-HBO Canada 2
+CA-HIFI
+CA-Oprah Winfrey Network Canada-CA
+CA-Paramount Network Canada-CA
+CA-SRC (CBFT) Montreal, QC-CA
+CA-W (WTN) - East-CA
+CACCIA IT
+CANAL J-FR
+CANAL+ Discovery-PL
+CANAL+ Sport 2-PL
+CANAL+-FR
+CANAL9-DK
+CANALPlus 1 PL
+CANALPlus Cinema FR
+CANALPlus Decale FR
+CANALPlus Discovery PL
+CANALPlus FR
+CANALPlus Family FR
+CANALPlus Family PL
+CANALPlus Film PL
+CANALPlus PL
+CANALPlus Seriale PL
+CANALPlus Series FR
+CANALPlus Sport 2 PL
+CANALPlus Sport FR
+CANALPlus Sport PL
+CAPITAL TV UK
+CARTOON NETWORK-FR
+CARTOON NETWORK-TR
+CARTOONITO DTT IT
+CARTOONNET-0xa
+CASA HD-CA
+CAZ
+CAZ BE
+CBBC HD UK
+CBC (CBLT) Toronto, ON-CA
+CBC (CBOT) Ottawa, ON-CA
+CBC (CBRT) Calgary, AB-CA
+CBC (CBUT) Vancouver, BC-CA
+CBC (CBWT) Winnipeg, MB-CA
+CBC (CBXT) Edmonton, AB-CA
+CBC ARB
+CBC Drama ARB
+CBC News Network-CA
+CBC Sofra ARB
+CBEEBIES HD-TR
+CBEEBIES-0xa
+CBS Action PL
+CBS Action UK
+CBS Drama UK
+CBS Eastern US
+CBS Europa PL
+CBS Europa-PL
+CBS HD New York-US
+CBS Justice-UK
+CBS REALITY-IS
+CBS Reality IL
+CBS Reality PL
+CBS Reality PT
+CBS Reality RO
+CBS Reality UK
+CBS Reality-HU
+CBS Reality-NL
+CBS Reality-PL
+CBS Reality-POR
+CBS Sports Network USA-US
+CBeebies PL
+CBeebies UK
+CCTV 4 ARB
+CEM TV-TR
+CEMTV-0xa
+CGTN Russian ARB
+CGTN-0xa
+CGTN-A ARB
+CH8
+CHASSE PECHE-FR
+CHASSEPECHE-0xa
+CHCH Hamilton, ON-CA
+CI Crime Investigation IT
+CI Crime+ Investigation-IT
+CIFTCITV-0xa
+CINEMAPLUS-BG
+CINEMAX-TH
+CITV UK
+CLASSICA DE
+CMC - Croatian Music Channel-EXYU
+CMC ex-Yu
+CMT Canada-CA
+CMTV PT
+CMTV-POR
+CNBC Arabiya ARB
+CNBC Canada-CA
+CNBC US
+CNBC USA-US
+CNBC-TH
+CNEWS-FR
+CNN HD US
+CNN International ARB
+CNN International North America-CA
+CNN Philippines-PH
+CNN TURK TR
+CNN TÜRK HD-TR
+CNN UK
+CNN-CA
+CNN-DK
+CNN-NL
+CNN-US
+CNNINT-0xa
+CNNTURK-0xa
+COCUKSMART-0xa
+COMEDYPLUS-BG
+COSMO-SP
+COSMOTE CINEMA 1HD-GR
+COSMOTE CINEMA 2 HD-GR
+COSMOTE CINEMA 3-GR
+COSMOTE CINEMA 4HD-GR
+COSMOTE Cinema 1 HD GR
+COSMOTE Cinema 2 HD GR
+COSMOTE Cinema 3 GR
+COSMOTE Cinema 4 HD GR
+COSMOTE HISTORY HD-GR
+COSMOTE History GR
+COSMOTE SPORT 1HD-GR
+COSMOTE SPORT 2HD-GR
+COSMOTE SPORT 3HD-GR
+COSMOTE SPORT 4HD-GR
+COSMOTE SPORT 5HD-GR
+COSMOTE SPORT 6HD-GR
+COSMOTE SPORT 7HD-GR
+COSMOTE SPORT 8HD-GR
+COSMOTE Sport 1 HD GR
+COSMOTE Sport 2 HD GR
+COSMOTE Sport 3 HD GR
+COSMOTE Sport 4 HD GR
+COSMOTE Sport 5 HD GR
+COSMOTE Sport 6 HD GR
+COSMOTE Sport 7 HD GR
+COSMOTE Sport 8 HD GR
+CP24 (CablePulse 24)-CA
+CPAC (Francais)-CA
+CSPAN 2-US
+CSPAN-US
+CSTAR-FR
+CSfilm-CZ
+CTC International ARB
+CTV (CFTO) Toronto, ON-CA
+CTV News Channel-CA
+CTV Two Toronto, ON-CA
+CTV Vancouver, BC-CA
+Caca Vision PT
+Caca e Pesca PT
+Caccia e Pesca-IT
+Cairo Cinema ARB
+Cairo Drama ARB
+Calle 13 ES
+Calle 13-SP
+Canal 8 FR
+Canal 9 DK
+Canal Algerie ARB
+Canal Alpha JU HD-FR
+Canal Cocina ES
+Canal Cocina-SP
+Canal D-CA
+Canal Decasa ES
+Canal Decasa-SP
+Canal Extremadura ES
+Canal Hollywood-POR
+Canal J FR
+Canal News FR
+Canal Orbe 21 ES
+Canal Orbe 21-SP
+Canal Panda ES
+Canal Panda PT
+Canal Panda-POR
+Canal Panda-SP
+Canal Q PT
+Canal Q-POR
+Canal Star FR
+Canal Sur Andalucía-SP
+Canal Sur ES
+Canal Vie-CA
+Canal de las Estrellas ES
+Canal de las Estrellas-SP
+Canal do Boi [Brazil]
+Canal+ 1-PL
+Canal+ Family-PL
+Canal+ Film-PL
+Canal+ Seriale-PL
+Canal+ Sport-FR
+Canal+ Sport-PL
+Canal+-PL
+Canal24 Horas ARB
+Canale 20 HD IT
+Canale 5 HD IT
+Canale 5-IT
+Cancao Nova PT
+Canvas
+Canvas BE
+Canção Nova-POR
+Capital TV CY
+Capital TV-UK
+Carli TV SI
+Carousel International ARB
+Cartoon Club-TH
+Cartoon Network Arabic ARB
+Cartoon Network BE
+Cartoon Network BG
+Cartoon Network Canada-CA
+Cartoon Network DE
+Cartoon Network DK
+Cartoon Network FR
+Cartoon Network HD-PH
+Cartoon Network IT
+Cartoon Network NL
+Cartoon Network PL
+Cartoon Network PT
+Cartoon Network RO
+Cartoon Network SE
+Cartoon Network TR
+Cartoon Network UK
+Cartoon Network US
+Cartoon Network USA - Eastern Feed-US
+Cartoon Network-BG
+Cartoon Network-GR
+Cartoon Network-HU
+Cartoon Network-IT
+Cartoon Network-NL
+Cartoon Network-NO
+Cartoon Network-PL
+Cartoon Network-POR
+Cartoon Network-RO
+Cartoon Network-SE
+Cartoon network-RU
+Cartoon-DK
+Cartoonito UK
+Cartoonito-IT
+Caza y Pesca ES
+Caza y Pesca-SP
+Caça Vision-POR
+Caça e Pesca-POR
+Celestial Classic Movies-PH
+Ch09 IL
+Ch11 Kan TV IL
+Ch12 IL
+Ch13 IL
+Ch20 Arutz IL
+Challenge UK
+Channel 11 Kan-IS
+Channel 11-IS
+Channel 12 Keshet-IS
+Channel 13 Reshet-IS
+Channel 20-IS
+Channel 4 UK
+Channel 5 UK
+Channel 7-AUL
+Channel 9 IL
+Channel 9-IS
+Channel 98-IS
+Channel AKA UK
+Channel News Asia ARB
+Channel One ARB
+Channel V China ARB
+Chardikla Time TV-IN
+Chart Show Dance UK
+Chart Show TV UK
+Chasse et peche FR
+Check-Inn TV ARB
+Chelsea TV HD UK
+Chelsea TV-UK
+Cherie 25 FR
+Chérie 25-FR
+Cielo-IT
+Cima ARB
+Cine FX FR
+Cine Polar FR
+Cine34 IT
+CineMAX Eastern US
+CineMAX-RO
+CinePlus Classic FR
+CinePlus Club HD FR
+CinePlus Emotion HD FR
+CinePlus Famiz HD FR
+CinePlus Frisson HD FR
+CinePlus Premier HD FR
+CineStar TV Action-EXYU
+CineStar TV Fantasy-EXYU
+CineStar TV-EXYU
+Cinema 1 ARB
+Cinema 2 ARB
+Cinema One Global ARB
+Cinemania-EXYU
+Cinemax - Eastern Feed-US
+Cinemax 1 BG
+Cinemax 1 HD-EXYU
+Cinemax 1 ex-Yu
+Cinemax 2 BG
+Cinemax 2 ex-Yu
+Cinemax 2-BG
+Cinemax 2-EXYU
+Cinemax 2-PL
+Cinemax 2-RO
+Cinemax PL
+Cinemax RO
+Cinemax-BG
+Cinemax-HU
+Cinemax-PL
+Cinemax2 PL
+Cinemundo PT
+Cinemundo-POR
+Cinestar Action and Thriller ex-Yu
+Cinestar Premiere 1 HD-EXYU
+Cinestar Premiere 1 ex-Yu
+Cinestar Premiere 2 HD-EXYU
+Cinestar Premiere 2 ex-Yu
+Cinestar TV ex-Yu
+Ciné+ Classic-FR
+Ciné+ Club-FR
+Ciné+ Emotion-FR
+Ciné+ Famiz-FR
+Ciné+ Frisson-FR
+Ciné+ Premier-FR
+Citruss TV ARB
+City Saskatchewan-CA
+City TV BG
+City TV-BG
+City TV-EXYU
+Clan TVE ES
+Clan TVE-SP
+Classica ES
+Classica HD IT
+Classica-DE
+Classica-SP
+Click TV-AL
+Club RTL BE
+Club RTL HD
+Colors ARB
+Colors HD IN
+Colors HD-IN
+Colors Rishtey Europe-IN
+ComediePlus FR
+Comedy Central (US) - Eastern Feed-US
+Comedy Central DK
+Comedy Central ES
+Comedy Central Extra NL
+Comedy Central Extra UK
+Comedy Central Extra-NL
+Comedy Central Family NL
+Comedy Central Family PL
+Comedy Central Family-PL
+Comedy Central HD Eastern US
+Comedy Central HD NL
+Comedy Central HD-PH
+Comedy Central IT
+Comedy Central PL
+Comedy Central SE
+Comedy Central UK
+Comedy Central-DE
+Comedy Central-DK
+Comedy Central-HU
+Comedy Central-NL
+Comedy Central-PL
+Comedy Central-RO
+Comedy Central-SE
+Comedy Central-SP
+Comedy HD - VIVA HD CH
+Comedy HDVIVA HD-SWZ
+Comedy Network - East-CA
+Comedy Network - West-CA
+Comédie+-FR
+Cool-HU
+Cosmote Sport 2 HD-GR
+Cosmote Sport 3 HD-GR
+Cosmote Sport 4 HD-GR
+Cosmote Sport 5 HD-GR
+Cosmote Sport 6 HD-GR
+Cosmote Sport 7 HD-GR
+Cosmote Sport 8 HD-GR
+Crime & Investigation -EXYU
+Crime + Investigation-NL
+Crime District FR
+Crime District-FR
+Crime and Investigation ARB
+Crime and Investigation Network USA-US
+Crime and Investigation-GR
+Crime and Investigation-PH
+CrimeandInvestigation ex-Yu
+Crimen + Investigación-SP
+Crimen e Investigacion ES
+CrimeplusInvestigation NL
+CrimeplusInvestigation UK
+Cuatro ES
+Cuatro-SP
+Cufo TV AL
+Cufo TV-AL
+DA VINCI LEARNING HD-TR
+DAVINCI-0xa
+DAZN DE
+DAZN1 IT
+DD Bangla-IN
+DD India-IN
+DD News-IN
+DD Punjabi-IN
+DE-ARD alpha
+DE-Auto Motor Sport
+DE-Baby TV
+DE-Bibel TV
+DE-Comedy Central
+DE-Eurosport 1
+DE-Fix and Foxi-DE
+DE-History HD
+DE-N24 Doku
+DE-ORF SPORT +
+DE-RTL
+DE-SPORT1 US
+DE-Sky Arts HD
+DE-Sky Select 1
+DE-Sky Select 2
+DE-Sky Select 3
+DE-Sky Select 4
+DE-Sky Select 5
+DE-Sky Select 6
+DE-Sky Select 7
+DE-Sky Select 8
+DE-Sky Select 9
+DE-Sky Sport 10 HD
+DE-Sky Sport 3 HD
+DE-Sky Sport 4 HD
+DE-Sky Sport 5 HD
+DE-Sky Sport 6 HD
+DE-Sky Sport 7 HD
+DE-Sky Sport 8 HD
+DE-Sky Sport 9 HD
+DE-Sky Sport Austria HD
+DE-Sky Sport HD 1
+DE-Sky Sport HD 2
+DE-Sony Entertainment Television
+DE-TNT Comedy
+DE-Universal Channel HD
+DE-XITE HD
+DE-ZDFinfo
+DE-ZDFneo
+DE-euronews
+DE-tagesschau24
+DELUXE MUSIC HD-DE
+DIGI Film-HU
+DIGI Sport -HU
+DIGI Sport 1-HU
+DIGI Sport 2-HU
+DIGI Sport 3-HU
+DIGI World-HU
+DISCOVERY CHANNEL HD-TR
+DISCOVERY-0xa
+DISCOVERY-TH
+DISCSCIENCE-0xa
+DISCSHOWCASE-0xa
+DISNEY CHANNEL-TR
+DIVA-EXYU
+DIVA-TH
+DIY US
+DJAZZ NL
+DK4 DK
+DKISS ES
+DKISS-SP
+DM SAT-EXYU
+DM Sat BG
+DM Sat ex-Yu
+DMAX DE
+DMAX HD-DE
+DMAX HD-IT
+DMAX HD-SWZ
+DMAX HD-TR
+DMAX IT
+DMAX Plus1 IT
+DMAX UK
+DMAX-0xa
+DMAX-DE
+DOBBIT TV-BL
+DOCUBOX-0xa
+DR K DK
+DR K-DK
+DR Ramasjang DK
+DR Ramasjang-DK
+DR Ultra DK
+DR Ultra-DK
+DR1 DK
+DR1-DK
+DR2 DK
+DR2-DK
+DR3 DK
+DR3-DK
+DREAM TV-TR
+DREAMTURK-0xa
+DREAMTV-0xa
+DSNYCHANNEL-0xa
+DSNYJUNIOR-0xa
+DSNYXD-0xa
+DSTV-BG
+DTX HD PL
+DTX-0xa
+DTX-PL
+DUCKTV-0xa
+DUNA Televízió-HU
+DW (Europe)-DE
+DW Arabia ARB
+DW DE
+DW english-US
+DW-UK
+DWDE-0xa
+DWEN-0xa
+DZMM Teleradyo ARB
+DZMM Teleradyo-PH
+DZSMRTMAX-0xa
+DZSMRTPRE-0xa
+Da Vinci Learning PL
+Da Vinci Learning RO
+Da Vinci Learning-PL
+Da Vinci Tv-HU
+DanceTrippin HD-NL
+Dantoto DK
+Das Erste DE
+Das Erste HD-SWZ
+Das Erste-DE
+Dave UK
+Dave ja vu UK
+Dawn News ARB
+Daystar  - Network-US
+DeAJunior IT
+DeAKids IT
+DeAKids-IT
+Deejay TV IT
+Deja View-CA
+Deluxe Music DE
+Demain TV FR
+Der Aktionar TV DE
+Desi Channel-IN
+Destination BG-BG
+Detski Mir TV ARB
+Deutsche Welle TV US
+Deutsches Musik Fernsehen DE
+Dhoom Music-IN
+Diema BG
+Diema Family BG
+Diema Family-BG
+Diema Sport 1 HD BG
+Diema Sport 2 HD BG
+Diema Sport 2-BG
+Diema Sport HD-BG
+Diema-BG
+Digi 24 HD-RO
+Digi 24-RO
+Digi Animal World RO
+Digi Animal World-RO
+Digi Film RO
+Digi Film-RO
+Digi Gold AL
+Digi Gold-AL
+Digi Life RO
+Digi Life-RO
+Digi Sport 1 RO
+Digi Sport 1-RO
+Digi Sport 2 RO
+Digi Sport 2-RO
+Digi Sport 3 RO
+Digi Sport 3-RO
+Digi Sport 4 RO
+Digi Sport 4-RO
+Digi World RO
+Digi World-RO
+Digi24 RO
+Disco Polo Music PL
+Disco Polo Music-PL
+Discovery Asia/Discovery Asia-TH
+Discovery Channel (DE)-PL
+Discovery Channel BG
+Discovery Channel DK
+Discovery Channel EE
+Discovery Channel ES
+Discovery Channel FI
+Discovery Channel FR
+Discovery Channel GR
+Discovery Channel HD ARB
+Discovery Channel HD DE
+Discovery Channel HD NL
+Discovery Channel IT
+Discovery Channel PL
+Discovery Channel PT
+Discovery Channel RO
+Discovery Channel SE
+Discovery Channel SI
+Discovery Channel TR
+Discovery Channel US
+Discovery Channel [Brazil]
+Discovery Channel ex-Yu
+Discovery Channel-BG
+Discovery Channel-DE
+Discovery Channel-DK
+Discovery Channel-FIN
+Discovery Channel-FR
+Discovery Channel-GR
+Discovery Channel-IT
+Discovery Channel-NL
+Discovery Channel-NO
+Discovery Channel-POR
+Discovery Channel-RO
+Discovery Channel-RU
+Discovery Channel-SE
+Discovery Channel-SL
+Discovery Family Channel-US
+Discovery HD IL
+Discovery HD Showcase-NL
+Discovery HD Showcase-POR
+Discovery HD-SWZ
+Discovery Hd Showcase-TR
+Discovery Historia PL
+Discovery Historia-PL
+Discovery History +1-UK
+Discovery History UK
+Discovery History-UK
+Discovery Home and Health UK
+Discovery ID ARB
+Discovery ID XTRA EE
+Discovery Investigation FR
+Discovery Investigation-FR
+Discovery LIFE-PL
+Discovery Life PL
+Discovery Science (HD)-HU
+Discovery Science Canada-CA
+Discovery Science FR
+Discovery Science GR
+Discovery Science HD ARB
+Discovery Science HD-EXYU
+Discovery Science HD-IT
+Discovery Science HD-TR
+Discovery Science IT
+Discovery Science PL
+Discovery Science RO
+Discovery Science SE
+Discovery Science TR
+Discovery Science UK
+Discovery Science US
+Discovery Science ex-Yu
+Discovery Science-DK
+Discovery Science-FR
+Discovery Science-GR
+Discovery Science-NL
+Discovery Science-PL
+Discovery Science-RO
+Discovery Science-RU
+Discovery Science-SE
+Discovery Science-UK
+Discovery Shed UK
+Discovery Showcase HD GR
+Discovery Showcase HD NL
+Discovery Showcase HD PT
+Discovery Showcase HD SE
+Discovery Showcase HD TR
+Discovery Showcase HD-GR
+Discovery Turbo HD-EXYU
+Discovery Turbo UK
+Discovery Turbo Xtra PL
+Discovery Turbo Xtra-HU
+Discovery Turbo [Brazil]
+Discovery Turbo-UK
+Discovery UK
+Discovery Velocity US
+Discovery World SE
+Discovery World TV-HU 
+Discovery World-DK
+Discovery World-NO
+Discovery-CZ
+Discovery-PH
+Discovery-SP
+Discovery-UK
+Disney - Pacific Feed-US
+Disney Channel +1-FR
+Disney Channel ARB
+Disney Channel BG
+Disney Channel CH
+Disney Channel DE
+Disney Channel DK
+Disney Channel ES
+Disney Channel FR
+Disney Channel GR
+Disney Channel IL
+Disney Channel IT
+Disney Channel NL
+Disney Channel PL
+Disney Channel PT
+Disney Channel Plus1 FR
+Disney Channel RO
+Disney Channel SE
+Disney Channel TR
+Disney Channel UK
+Disney Channel sca.-DK
+Disney Channel-BG
+Disney Channel-CZ
+Disney Channel-DE
+Disney Channel-FIN
+Disney Channel-FR
+Disney Channel-GR
+Disney Channel-HU
+Disney Channel-IT
+Disney Channel-NL
+Disney Channel-NO
+Disney Channel-PH
+Disney Channel-PL
+Disney Channel-POR
+Disney Channel-RO
+Disney Channel-SE
+Disney Channel-SP
+Disney Channel-SWZ
+Disney Cinema HD FR
+Disney Cinema-FR
+Disney Cinemagic DE
+Disney Cinemagic-DE
+Disney Junior ARB
+Disney Junior DE
+Disney Junior DK
+Disney Junior ES
+Disney Junior FR
+Disney Junior GR
+Disney Junior IL
+Disney Junior IT
+Disney Junior NL
+Disney Junior PL
+Disney Junior PT
+Disney Junior RO
+Disney Junior SE
+Disney Junior TR
+Disney Junior UK
+Disney Junior USA - East-US
+Disney Junior-BG
+Disney Junior-DE
+Disney Junior-DK
+Disney Junior-FR
+Disney Junior-GR
+Disney Junior-IS
+Disney Junior-IT
+Disney Junior-NL
+Disney Junior-NO
+Disney Junior-PH
+Disney Junior-PL
+Disney Junior-POR
+Disney Junior-RO
+Disney Junior-SE
+Disney Junior-SP
+Disney Junior-TR
+Disney XD ARB
+Disney XD DE
+Disney XD DK
+Disney XD ES
+Disney XD FR
+Disney XD GR
+Disney XD IT
+Disney XD PL
+Disney XD SE
+Disney XD TR
+Disney XD UK
+Disney XD USA - Eastern Feed-US
+Disney XD-DE
+Disney XD-DK
+Disney XD-FR
+Disney XD-GR
+Disney XD-IT
+Disney XD-NL
+Disney XD-NO
+Disney XD-PL
+Disney XD-SE
+Disney XD-SP
+Disney XD-TR
+Disney-IS
+Diva Universal RO
+Dizi Premium HD-TR
+Dizi Smart Max-TR
+DoQ RO
+DocuBox BG
+DocuBox HD ARB
+Docubox-EXYU
+Dolce Sport-RO
+Doma TV ex-Yu
+Doma TV-EXYU
+Doma-CZ
+Domo+-PL
+DomoPlus PL
+Drama UK
+Dream TV ARB
+Dream TV TR
+Dream Turk TR
+Dream Türk-TR
+Dubai Al Oula ARB
+Dubai One ARB
+Dubai Racing ARB
+Dubai Sports 1 ARB
+Dubai Sports 2 ARB
+Duck TV BG
+Duck TV NL
+Duck TV-BG
+Duck TV-HU
+Duna World-HU
+Dunya News ARB
+Dvojka-CZ
+DİYANET TV-TR
+E Kids BG
+E ex-Yu
+E! Canada-CA
+E! ENTERTAINMENT HD-DE
+E! Entertainment DE
+E! Entertainment IL
+E! Entertainment IL
+E! Entertainment USA - Eastern Feed-US
+E! Entertainment-CZ
+E! Entertainment-EXYU
+E! Entertainment-FR
+E! Entertainment-NL
+E! Entertainment-PL
+E! Entertainment-POR
+E! FR
+E! HD GR
+E! HD NL
+E! HD PL
+E! HD-EXYU
+E! PT
+E! SE
+E! UK
+E! US
+E!-IS
+E!-SE
+E24-IN
+E4 UK
+EBAILKOKUL-0xa
+EBALISE-0xa
+EBAORTAOKUL-0xa
+EDGESPORT HD-NL
+EDGESPORT-0xa
+EDGEsport HD GR
+EKOTURK-0xa
+EKOTÜRK-TR
+EKids-BG
+EM TV-TR
+EMTV-0xa
+EN-FOXActionMovies English
+EN-FOXFamilyMovies English
+EN-FOXHD English
+EN-FOXMovies English
+EN-HD1 English
+EN-HD2 English
+EN-HD3 English
+EN-HD4 English
+EN-HD5 English
+EN-HD6 English
+EN-HD7 English
+EN-HD8 English
+EN-HD9 English
+EN-Jeem English
+EN-MoviesHD1 English
+EN-MoviesHD2 English
+EN-MoviesHD3 English
+EN-MoviesHD4 English
+EN-News_ar English
+EN-OlympicChannel English
+EN-SeriesHD1 English
+EN-SportsHD11 English
+EN-SportsHD12 English
+EN-beJUNIOR English
+EN-gourmet English
+ENGLISHCLUB-0xa
+EPICDRAMA-0xa
+EQUIDIA-FR
+ERT HD GR
+ERT1 GR
+ERT2 GR
+ERT3 GR
+ES: Vamos-SP
+ESPN 1 US
+ESPN 2 US
+ESPN Classic Canada-CA
+ESPN Deportes
+ESPN News-US
+ESPN U-US
+ESPN  HD [Brazil]
+ESPN-US
+ESPN2-US
+ET Now-IN
+ETV EE
+ETV+ EE
+ETV2 EE
+EUROD-0xa
+EURONEWS-0xa
+EUROSPORT 1 HD-TR
+EUROSPORT 2 TR HD-TR
+EUROSPORT1-0xa
+EUROSPORT2-0xa
+EXP Histori-AL
+EXP Natyra-AL
+EXP Shkence-AL
+EXPO-AUL
+Eden UK
+Edge Sport HD NL
+Ege TV TR
+Ego IL
+Ego IL
+Ego Total IL
+Ego Total IL
+Ego Total-IS
+Ekin Tv-TR
+El Rey Network-US
+Eleven Extra HD PL
+Eleven HD PL
+Eleven HD Sports PL
+Eleven Sports 1 HD-PL
+Eleven Sports 1-POR
+Eleven Sports 2 HD-PL
+Eleven Sports 3 HD-PL
+Eleven Sports 4
+Eleven Sports-US
+ElleGirl FR
+Elrodi TV-AL
+Energy ES
+Energy-SP
+English Club TV-RU
+Epeiros TV1 GR
+Epic Drama-PL
+Epsilon TV GR
+Epsilon TV-GR
+Equidia Life HD FR
+Equidia Live HD FR
+Eska Rock TV PL
+Eska TV Extra PL
+Eska TV Extra-PL
+Eska TV PL
+Eska TV-PL
+Esperanza TV-SP
+Etisalat Arabic Series Channel HD ARB
+Etisalat Cartoon Network Arabic ARB
+Etisalat Dubai Racing 2 ARB
+Etisalat Dubai Racing HD ARB
+Etisalat Dubai Sports HD ARB
+Etisalat Dubai Zaman TV ARB
+Etno RO
+Etno TV-RO
+Euro Star-TR
+EuroSport-AL
+EuroSport1-GR
+EuroSport2-GR
+Eurod-TR
+Euronews ES
+Euronews Greek GR
+Euronews PT
+Euronews-FR
+Euronews-GR
+Euronews-POR
+Euronews-SP
+Eurosport 1 DE
+Eurosport 1 DK
+Eurosport 1 EE
+Eurosport 1 ES
+Eurosport 1 FR
+Eurosport 1 GR
+Eurosport 1 HD NL
+Eurosport 1 HD PL
+Eurosport 1 HD-BG
+Eurosport 1 HD-CZ
+Eurosport 1 HD-SE
+Eurosport 1 PT
+Eurosport 1 RO
+Eurosport 1 SE
+Eurosport 1 TR
+Eurosport 1 UK
+Eurosport 1 ex-Yu
+Eurosport 1-DK
+Eurosport 1-EXYU
+Eurosport 1-FR
+Eurosport 1-HU
+Eurosport 1-NL
+Eurosport 1-PL
+Eurosport 1-POR
+Eurosport 1-RO
+Eurosport 1-SP
+Eurosport 2 BG
+Eurosport 2 DE
+Eurosport 2 DK
+Eurosport 2 EE
+Eurosport 2 ES
+Eurosport 2 FR
+Eurosport 2 GR
+Eurosport 2 HD NL
+Eurosport 2 HD PL
+Eurosport 2 HD Xtra-DE
+Eurosport 2 HD-BG
+Eurosport 2 HD-CZ
+Eurosport 2 IT
+Eurosport 2 PT
+Eurosport 2 RO
+Eurosport 2 SE
+Eurosport 2 TR
+Eurosport 2 UK
+Eurosport 2 ex-Yu
+Eurosport 2-BG
+Eurosport 2-DE
+Eurosport 2-DK
+Eurosport 2-EXYU
+Eurosport 2-FR
+Eurosport 2-HU
+Eurosport 2-NL
+Eurosport 2-NO
+Eurosport 2-PL
+Eurosport 2-POR
+Eurosport 2-RO
+Eurosport 2-SE
+Eurosport 2-SP
+Eurosport 2HD-IT
+Eurosport Asia-PH
+Eurosport BG
+Eurosport HD-IT
+Eurosport IT
+Eurosport News PT
+Eurosport News-POR
+Eurosport Pluss 1-NO
+Eurosport Pluss 2-NO
+Eurosport Pluss 3-NO
+Eurosport Pluss 4-NO
+Eurosport-BG
+Eurosport-NO
+Evrokom NCTV BG
+Evrokom NCTV-BG
+Explorer Histori AL
+Explorer Natyra AL
+Explorer Shkence AL
+Express News
+Expressen TV-SE
+Extra GR
+Extra News ARB
+Extra-GR
+Extreme IL
+Extreme IL
+Extreme Sports Channel HD PL
+Extreme Sports Channel-PL
+Extreme Sports NL
+Extreme Sports-HU
+Extreme Sports-NL
+Extreme sports-RU
+FASHIONTV-0xa
+FASHIONTVHD-POR
+FASTFUN-0xa
+FB TV HD-TR
+FB TV TR
+FBTV-0xa
+FC Bayern TV DE
+FDF ES
+FEM-NO
+FEM3-HU
+FENERBAHÇE TV-TR
+FIGHTBOX-0xa
+FIGHTNETWORK-0xa
+FILMBOX HD-TR
+FILMBOX-0xa
+FILMBOXARTHOUSE-0xa
+FILMBOXEXTRA-0xa
+FILMZONE EE
+FILMZONE+ EE
+FM TV ARB
+FOX (WUTV) Buffalo, NY-CA
+FOX ARB
+FOX CRIME HD-TR
+FOX Comedy PL
+FOX Comedy PT
+FOX Comedy-POR
+FOX Crime HD TR
+FOX Crime IT
+FOX Crime PT
+FOX Crime ex-Yu
+FOX Crime-AL
+FOX Crime-EXYU
+FOX Crime-POR
+FOX EE
+FOX ES
+FOX FI
+FOX HD DE
+FOX HD GR
+FOX HD NL
+FOX HD PL
+FOX HD US
+FOX HD-NO
+FOX IT
+FOX LIFE HD-TR
+FOX Life EE
+FOX Life ES
+FOX Life HD GR
+FOX Life HD TR
+FOX Life PT
+FOX Life ex-Yu
+FOX Life-AL
+FOX Life-EXYU
+FOX Life-GR
+FOX Life-POR
+FOX Movies ARB
+FOX Movies PT
+FOX Movies ex-Yu
+FOX Movies-EXYU
+FOX Movies-POR
+FOX News ES
+FOX News PT
+FOX News UK
+FOX News US
+FOX PT
+FOX Plus1 IT
+FOX SE
+FOX SPORTS 3/FOX SPORTS 3-TH
+FOX SPORTS HD/FOX SPORTS HD-TH
+FOX Soccer Plus-US
+FOX Sports 1 Eredivisie HD NL
+FOX Sports 1 US
+FOX Sports 2 HD NL
+FOX Sports 2 US
+FOX Sports 3 Eredivisie HD NL
+FOX Sports 4 HD NL
+FOX Sports 5 Eredivisie HD NL
+FOX Sports 5 Eredivisie-NL
+FOX Sports 5 HD-NL
+FOX Sports 6 HD NL
+FOX Sports 6 HD-NL
+FOX THAI-TH
+FOX TR
+FOX UK
+FOX ex-Yu
+FOX-AL
+FOX-EXYU
+FOX-POR
+FOX-SE
+FOX-TR
+FOXCRIME-0xa
+FOXLIFE-0xa
+FOXTV-0xa
+FRANCE 2-FR
+FRANCE 24 FRANCAIS-FR
+FRANCE 3-FR
+FRANCE 4-FR
+FRANCE 5-FR
+FRANCE24-0xa
+FTV ex-Yu
+FTV-EXYU
+FUNBOX-0xa
+FUSE TV - Eastern feed-US
+FX HD-TR
+FX Networks East Coast-US
+FX US
+FXHD-0xa
+FXX Canada-CA
+FXX US
+FXX USA - Eastern-US
+Face TV-EXYU
+Factoría de Ficción-SP
+Family CHRGD-CA
+Family Channel Canada - East-CA
+Family HD-AL
+Family7-NL
+Fan TV-TH
+Fann ARB
+Fashion IL
+Fashion One-RU
+Fashion TV BG
+Fashion TV PT
+Fashion TV-POR
+Fashion Television US
+Fatafeat ARB
+Favorit RO
+Favorit-RO
+Federalna TV-EXYU
+Fen Folk TV BG
+Fen TV BG
+Fen TV-BG
+Fight Channel HD PT
+Fight Channel-EXYU
+Fight Network Canada-CA
+Fight Network US
+Fight Sports SE
+Fight Sports-SE
+Fight Sports-TH
+FightBox HD ARB
+FightBox HD PL
+FightBox-PL
+Fightklub HD PL
+Fil TV TR
+Film 1 Drama-NL
+Film 1 Premiere-NL
+Film Aksion AL
+Film Aksion-AL
+Film Drame AL
+Film Drame-AL
+Film Dy HD AL
+Film Dy HD-AL
+Film Europe HD NL
+Film Hits +1 AL
+Film Hits-AL
+Film Komedi AL
+Film Komedi-AL
+Film Nje HD AL
+Film Nje HD-AL
+Film Plus BG
+Film Thriller AL
+Film Thriller-AL
+Film klub-EXYU
+Film+-BG
+Film+-CZ
+Film1 Action HD NL
+Film1 Action-NL
+Film1 Drama HD NL
+Film1 Family HD NL
+Film1 Family-NL
+Film1 Premiere HD NL
+Film1 Sundance HD NL
+Film4 UK
+FilmBox Action PL
+FilmBox Action-PL
+FilmBox Arthouse PL
+FilmBox Arthouse-CZ
+FilmBox Arthouse-PL
+FilmBox Extra BG
+FilmBox Extra HD PL
+FilmBox Extra HD-PL
+FilmBox Extra-BG
+FilmBox Family PL
+FilmBox Family-PL
+FilmBox PL
+FilmBox Premium PL
+FilmBox Premium-PL
+FilmBox-PL
+FilmNow-HU
+Filmbox Extra HD-CZ
+Filmbox Extra-EXYU
+Filmbox Family-CZ
+Filmbox Family-HU
+Filmbox Plus TV -HU
+Filmbox Plus-CZ
+Filmbox Plus-EXYU
+Filmbox Premium-CZ
+Filmbox Premium-HU
+Filmbox TR
+Filmbox Turkiye-TR
+Filmbox-CZ
+Filmcafe RO
+Filmcafe-HU
+Fine Living IT
+Fine Living Network HD-MLT
+Fine Living Network-CZ
+Fine Living RO
+Fine Living-EXYU
+Fishing & Hunting-HU
+Fishing and Hunting RO
+Fishing and Hunting-CZ
+Fishtv
+Fix and Foxi DE
+Flash TV TR
+Flash Tv-TR
+Flava UK
+Focus IT
+Focus-IT
+Fokus TV PL
+Fokus TV-PL
+Folk Plus-AL
+Folklor TV BG
+Folklor TV-BG
+Food Channel-IS
+Food Food-IN
+Food IL
+Food IL
+Food Network Asia-PH
+Food Network Canada-CA
+Food Network HD ARB
+Food Network HD BG
+Food Network HD IT
+Food Network HD US
+Food Network HD-BG
+Food Network HD-EXYU
+Food Network UK
+Food Network USA - Eastern Feed-US
+Food Network Россия-RU
+Food Network-HU
+Food Network-PL
+Foot+ 24/24-FR
+FootPlus 2424 FR
+Forces TV UK
+Fox +1-IT
+Fox Animation-IT
+Fox BG
+Fox Business IT
+Fox Business-US
+Fox College Sports Atlantic-US
+Fox College Sports Central-US
+Fox College Sports Pacific-US
+Fox Comedy-IT
+Fox Comedy-PL
+Fox Crime BG
+Fox Crime HD-IT
+Fox Crime-BG
+Fox Deportes-US
+Fox HD-BG
+Fox HD-DE
+Fox HD-IT
+Fox Life BG
+Fox Life HD-IT
+Fox Life-BG
+Fox Life-SP
+Fox News-CA
+Fox News-SP
+Fox News-US
+Fox Seattle(KCPQ)-CA
+Fox Sport 2-NL
+Fox Sport 3-NL
+Fox Sport 4-NL
+Fox Sports 1-NL
+Fox Sports 1-US
+Fox Sports 2 HD/Fox Sports 2 HD-TH
+Fox Sports 2 [Brazil]
+Fox Sports 2-US
+Fox Sports Arizona-US
+Fox Sports Carolinas-US
+Fox Sports Detroit-US
+Fox Sports Florida-US
+Fox Sports Midwest-US
+Fox Sports North-US
+Fox Sports Ohio-US
+Fox Sports SUN-US
+Fox Sports San Diego-US
+Fox Sports South-US
+Fox Sports Southeast Tennessee-US
+Fox Sports Southeast-US
+Fox Sports Southwest-US
+Fox Sports West-US
+Fox Sports Wisconsin-US
+Fox Sports [Brazil]
+Fox-BG
+Fox-GR
+Fox-NL
+Fox-PL
+Fox-SP
+France 2 FR
+France 24 Arabic ARB
+France 24 FR
+France 24 French ARB
+France 24-TH
+France 24-UK
+France 3 FR
+France 4 FR
+France 5 FR
+France Info-FR
+France O FR
+France Ô-FR
+FranceInfo FR
+Freeform - East Feed-US
+Freeform US
+Frisbee IT
+Frisbee-IT
+Fuel TV PT
+Fuel TV-POR
+Fujairah TV ARB
+Funoon TV ARB
+Fusion-US
+Future TV ARB
+GAME ONE-FR
+GAMETOON-0xa
+GEM Life HD IR
+GEM TV IR
+GEMINI MOVIES IN
+GENC TV TR
+GEO News UK
+GINX eSports TV UK
+GMA Life ARB
+GMA News ARB
+GMA Pinoy ARB
+GMM CHANNEL-TH
+GNT [Brazil]
+GOL ES
+GOL-SP
+GOLD UK
+GS TV HD-TR
+GS TV TR
+GSTV-0xa
+Galavision - Eastern Feed-US
+Galaxy-HU
+Gambero Rosso HD-IT
+Gambero Rosso IT
+Game One FR
+Game Show Network - East-US
+Game TV HD-CA
+Gemini Comedy-IN
+Gemini Movies HD-IN
+Gemini TV ARB
+Geo News ARB
+Geo TV ARB
+Giallo IT
+Giallo-IT
+Ginx eSports TV ARB
+Girondins TV FR
+Global BC US
+Global BC-CA
+Global Calgary US
+Global Edmonton US
+Global Sanjh-IN
+Global US
+Globo - SP [Brazil]
+Globo News [Brazil]
+Globo Now HD-POR
+Globo TV PT
+Globo TV Premium PT
+Globo-POR
+Globosat
+Gloob [Brazil]
+Goldstar TV DE
+Golf Channel Canada-CA
+Golf Channel FR
+Golf Channel HD PL
+Golf Channel HD-CZ
+Golf Channel US
+Golf Channel-PL
+Golf+-FR
+GolfPlus FR
+Gong FR
+Gong Max-FR
+Good Food UK
+Good life-IS
+Grand TV 1 ex-Yu
+Grand TV 2 ex-Yu
+Grand TV-EXYU
+Greek Cinema-GR
+Grit Network-US
+Gulli FR
+Gulli-FR
+H!T Music RO
+H2 HD PL
+H2 SE
+H2 UK
+H2 US
+H2 ex-Yu
+H2-PL
+H2-SE
+HABER GLOBAL HD-TR
+HABERGLOBAL-0xa
+HABERTURK TR
+HABERTURK-0xa
+HABERTÜRK-TR
+HALKTV-0xa
+HAYATOVCI-EXYU
+HAYATPLUS-0xa
+HBO - Eastern Feed-US
+HBO - Pacific Feed-US
+HBO 1 US
+HBO 2 - Eastern Feed-US
+HBO 2 - Pacific Feed-US
+HBO 2 BG
+HBO 2 HD-SL
+HBO 2 SI
+HBO 2 US
+HBO 2 [Brazil]
+HBO 2-BG
+HBO 2-EXYU
+HBO 2-HU
+HBO 2-RO
+HBO 3 BG
+HBO 3 RO
+HBO 3 SI
+HBO 3-BG
+HBO 3-EXYU
+HBO 3-PL
+HBO 3-RO
+HBO 3-SL
+HBO BG
+HBO Comedy - East-US
+HBO Comedy HD-EXYU
+HBO Comedy US
+HBO East US
+HBO Family - Eastern Feed-US
+HBO Family US
+HBO Family [Brazil]
+HBO HD PL
+HBO HD-BG
+HBO HD-CZ
+HBO HD-SL
+HBO HD-TH
+HBO On Demand-CA
+HBO Plus [Brazil]
+HBO RO
+HBO SI
+HBO Signature (HBO 3) - Eastern-US
+HBO Signature US
+HBO Signature [Brazil]
+HBO Zone - East-US
+HBO Zone US
+HBO-BG
+HBO-EXYU
+HBO-HU
+HBO-PL
+HBO-RO
+HBO-SL
+HBO-UK
+HBO1 ex-Yu
+HBO2 HD PL
+HBO2 HD-CZ
+HBO2 ex-Yu
+HBO2-PL
+HBO3 HD PL
+HBO3 HD-CZ
+HBO3 ex-Yu
+HGTV Canada-CA
+HGTV PL
+HGTV US
+HGTV USA - Eastern Feed-US
+HGTV-PL
+HIFI US
+HIP HOP TV PL
+HIP HOP-PL
+HISTORY HD NL
+HISTORY-0xa
+HISTORY-DK
+HISTORY-HU
+HISTORY-NL
+HISTORY-TH
+HLN-CA
+HNTV-EXYU
+HOT Action IL
+HOT Action IL
+HOT Action-IS
+HOT Adult
+HOT Bollywood IL
+HOT Bollywood IL
+HOT Bombay IL
+HOT Bombay IL
+HOT Bombay-IS
+HOT Comedy Central-IS
+HOT Drama IL
+HOT Drama IL
+HOT Drama-IS
+HOT Fun IL
+HOT Fun IL
+HOT Fun-IS
+HOT GOLD IL
+HOT GOLD IL
+HOT Gold-IS
+HOT HD IL
+HOT HD IL
+HOT Lollie-IS
+HOT Prime IL
+HOT Zone IL
+HOT Zone IL
+HOT3 IL
+HOT3 IL
+HOT3-IS
+HR HD DE
+HRT 1 ex-Yu
+HRT 1-EXYU
+HRT 2 ex-Yu
+HRT 2-EXYU
+HRT 3 ex-Yu
+HRT 3-EXYU
+HRT 4 ex-Yu
+HRT 4-EXYU
+HRT 5-EXYU
+HSE24 DE
+HSN  - Home Shopping Network-US
+Hala TV IL
+Halk TV TR
+Halk Tv-TR
+Hallmark - Eastern Feed-US
+Hallmark Channel US
+Hallmark Movies & Mysteries - Eastern-US
+Hannibal TV ARB
+Happy Channel-RO
+Happy TV ex-Yu
+Happy TV-EXYU
+Hawacom ARB
+Hawas TV ARB
+Hayat Folk-EXYU
+Hayat Music-EXYU
+Hayat Plus-EXYU
+Hayat TV ex-Yu
+Hayat-EXYU
+Health Channel-IS
+Health TV IL
+Heimatkanal DE
+Heimatkanal-DE
+Hidabroot Channel-IS
+Hillsong UK
+Histoire FR
+Histoire-FR
+Historia ES
+Historia PT
+Historia-SP
+History BG
+History Canada East-CA
+History Channel ARB
+History Channel US - Eastern Feed-US
+History Channel [Brazil]
+History Channel ex-Yu
+History Channel-BG
+History Channel-DE
+History Channel-IS
+History Channel-PH
+History DE
+History EE
+History East US
+History HD TR
+History HD-TR
+History IL
+History IT
+History Lab-IT
+History PL
+History RO
+History SE
+History UK
+History-CZ
+History-EXYU
+History-GR
+History-PL
+History-RO
+History-SE
+História-POR
+Hit Mix BG
+Hits-PH
+Hobby TV HD-BG
+Hobby TV-BG
+Hobby lov-BG
+Hollywood ES
+Hollywood PT
+Hollywood-SP
+Home +-IS
+Home Plus Bayit IL
+Home UK
+Hop Childhood IL
+Hop IL
+Hop! - Tiny IL
+Hop! Childhood IL
+Horror Channel UK
+Horse & Country (28)-NL
+Horse & Country TV-SE
+Hot Zone-IS
+Huda ARB
+Hustler HD Adult
+Hír TV-HU
+I24news FR
+I24news-FR
+ICI (CBVT) Quebec, QC - Digital-CA
+ID Investigation Discover-RU
+ID X TR
+ID Xtra (Европа)-RU
+ID Xtra BG
+ID Xtra HD-EXYU
+ID Xtra ex-Yu
+ID Xtra-BG
+ID Xtra-HU
+ID-EXYU
+IDF1 FR
+IDHD-0xa
+IDJTV HD-EXYU
+IDX GR
+IL: Reshet 13 HD-IS
+IL: Reshet 13-IS
+INDIEplex Eastern-US
+INSIGHT-0xa
+IONIAN CHANNEL-GR
+IR-Abadan
+IR-Aftab
+IR-Aiofilm
+IR-Aiosport
+IR-Aiotoon
+IR-Al-Alam
+IR-Alborz
+IR-Amoozesh
+IR-Atrak
+IR-Baran
+IR-Dena
+IR-Eshragh
+IR-Fars
+IR-Hamedan
+IR-IRINN
+IR-Ilam
+IR-Iran Kala
+IR-Isfahan
+IR-Jahanbin
+IR-Kerman
+IR-Khalij-e Fars
+IR-Khavaran
+IR-Khouzestan
+IR-Mahabad
+IR-Mostanad
+IR-Namayesh
+IR-Nasim
+IR-Nour
+IR-Ofogh
+IR-Omid
+IR-Pooya
+IR-PressTV
+IR-Qazvin
+IR-Quran
+IR-Razavi Khorasan
+IR-Razavi TV
+IR-Sabalan
+IR-Sabz
+IR-Sahand
+IR-Salamat
+IR-Semnan
+IR-Shoma
+IR-TV1
+IR-TV2
+IR-TV3
+IR-TV4
+IR-TV5
+IR-Tamasha
+IR-Varzesh
+IR-West Azerbaijan
+IR-Zagros
+IR-iFilm
+IRIB Amoozesh IR
+IRIB Jame Jam IR
+IRIB Mostanad IR
+IRIB Namayesh IR
+IRIB Nasim IR
+IRIB Press TV IR
+IRIB Quran IR
+IRIB Salamat IR
+IRIB TV1 IR
+IRIB TV1 IR
+IRIB TV2 IR
+IRIB TV2 IR
+IRIB TV3 IR
+IRIB TV3 IR
+IRIB TV4 IR
+IRIB TV5 IR
+IRIB Varzesh IR
+IRIB iFilm English IR
+IRIB iFilm IR
+IRINN IR
+ITV Box Off HD-UK
+ITV Channel UK
+ITV Choice ARB
+ITV Encore UK
+ITV HD UK
+ITV Shopping-MLT
+ITV2 HD UK
+ITV2 UK
+ITV3 HD UK
+ITV3 UK
+ITV4 HD UK
+ITV4 UK
+ITVBe UK
+Iberalia TV ES
+Iberalia TV-SP
+Imagine Movies ARB
+India TV-IN
+India Today-IN
+Indo CCTV News ARB
+Infosport+-FR
+InfosportPlus FR
+Inter Channel IT
+Inter TV HD-IT
+Inter+-RU
+Investigacao Discovery
+Investigation Discovery DK
+Investigation Discovery HD PL
+Investigation Discovery NL
+Investigation Discovery SE
+Investigation Discovery UK
+Investigation Discovery USA - Eastern-US
+Investigation Discovery ex-Yu
+Investigation Discovery-DK
+Investigation Discovery-NL
+Investigation Discovery-PL
+Investigation Discovery-SE
+Ionian TV GR
+Iqra ARB
+Iris IT
+Iris-IT
+Israel Plus IL
+Israel Plus IL
+Italia 1 HD-IT
+Italia 1 IT
+Italia 2-IT
+Italian Fishing-IT
+Izaura TV-HU
+J-One FR
+J-One-FR
+JAK Zee Smile ARB
+JAK Zee Smile-IN
+JAYA MAX USA IN
+JIM-FIN
+JIMJAM2-IS
+JOJ Family-CZ
+JOJ Plus-CZ
+JOY TV-CA
+Jabuka TV-EXYU
+Jaihind TV ARB
+JameJam 1 IR
+Jaya Max-IN
+Jaya Plus-IN
+Jaya TV ARB
+Jaya TV HD-IN
+Jaya TV-IN
+Jazeera Live ARB
+Jednotka-CZ
+Jeem TV ARB
+Jeevan TV ARB
+Jim FI
+Jim Jam BG
+Jim Jam-BG
+JimJam IL
+JimJam IL
+JimJam NL
+JimJam PT
+JimJam-HU
+JimJam-IS
+JimJam-POR
+Jolly HD-AL
+Jordan ARB
+Jordan Sports ARB
+Jugoton TV-EXYU
+Jukebox DE
+Jukebox-DE
+Junior DE
+Junior IL
+Junior IL
+Junior TV-AL
+Junior-DE
+Junior-IS
+Juventus TV IT
+Juwelo TV HD-SWZ
+K2 IT
+K2-IT
+K::CN 1-EXYU
+KADET-BL
+KANAL 26-TR
+KANAL 7-TR
+KANAL D-TR
+KANAL RI-EXYU
+KANAL7-0xa
+KANALB-0xa
+KANALD-0xa
+KAZAKH-0xa
+KBS World HD/KBS World HD-TH
+KBS-TH
+KBSTV-0xa
+KCN 1 ex-Yu
+KCN 2 ex-Yu
+KCN 3 ex-Yu
+KIBRIS GENC TV-TR
+KIBRISGENC-0xa
+KIDZ IL
+KISS UK
+KLASIK TV-EXYU
+KOMBAT SPORT-POR
+KON TV-TR
+KONTV-0xa
+KOYTV-0xa
+KRALFM-0xa
+KRALPOP-0xa
+KRT TV-TR
+KRT-0xa
+KTN
+KTO FR
+KTO-FR
+KTV 1 ARB
+KTV 2 ARB
+KTV AL
+KTV HD-IN
+KTV IN
+KTV Sport ARB
+KTV-AL
+Kabel 1 Classics-DE
+Kabel 1 Doku-DE
+Kabel 1-DE
+Kabel eins CLASSICS DE
+Kairali People TV-IN
+Kairali TV ARB
+Kairali TV IN
+Kan 11-IS
+Kanal 11 EE
+Kanal 11 SE
+Kanal 11-SE
+Kanal 12 EE
+Kanal 3 BG
+Kanal 3-BG
+Kanal 4 DK
+Kanal 4-DK
+Kanal 5 DK
+Kanal 5 SE
+Kanal 5-DK
+Kanal 5-SE
+Kanal 7 Int TR
+Kanal 7 TR
+Kanal 9 SE
+Kanal 9-SE
+Kanal A SI
+Kanal A-SL
+Kanal D HD-RO
+Kanal D RO
+Kanal D TR
+Kanal Hovedstaden-DK
+Kanal2 EE
+Kanali 7-AL
+Kantipur ARB
+Kapatid TV5 ARB
+Kapatid TV5-PH
+Kappa TV ARB
+Karameesh ARB
+Kazakh TV ARB
+Kerrang! TV UK
+Keshet 12-IS
+Keshet IL
+Keshet IL
+Ketnet / één+ / Canvas+-NL
+Ketnet BE
+Ketnet NL
+Ketnet-BL
+Khyber News ARB
+Khyber TV ARB
+KiKA HD-DE
+KiKa DE
+Kidz Animez TV TR
+Kidzone TV EE
+Kino HD-SL
+Kino Nova BG
+Kino Nova-BG
+Kino Polska Muzyka PL
+Kino Polska Muzyka-PL
+Kino Polska PL
+Kino Polska-PL
+Kino SI
+Kino TV PL
+Kino TV-PL
+Kino-SL
+KinoNova-BG
+KinoSvět-CZ
+KinoTV HD-EXYU
+Kinowelt TV DE
+Kinowelt.tv-DE
+Kiss TV RO
+Kiss TV-RO
+Kix UK
+Klan Kosova AL
+Klan Kosova-AL
+Klan Plus-AL
+Klan TV AL
+Klan TV HD AL
+Klan TV HD-AL
+Klape i tambure TV-EXYU
+Klasik TV ex-Yu
+Knesset Channel-IS
+Knowledge Kids-CA
+Kohavision-AL
+Kombat Sport PT
+Kontra Channel GR
+Kontra Channel-GR
+Kral FM-TR
+Kral Pop Radyo-TR
+Kral Pop TR
+Kral TV TR
+Krete TV GR
+KuchniaPlus PL
+Kunskapskanalen SE
+Kuwait Al Qareen ARB
+L'Equipe-FR
+L1 TV NL
+L1 TV-NL
+LA 1 ES
+LA 1-SP
+LA 2 ES
+LA 2-SP
+LBC ARB
+LBC International ARB
+LCI - La Chaîne Info-FR
+LCN-CA
+LCP FR
+LDC ARB
+LEquipe 21 FR
+LFC TV UK
+LIFE OK HD IN
+LIFETIME-TH
+LINETV-0xa
+LOL-EXYU
+LOOK PLUS-RO
+LOVENATURE-0xa
+La 5-IT
+La Chaine Normande TV FR
+La Deux
+La Deux BE
+La Deux FR
+La Sexta ES
+La Sexta-SP
+La Trois BE
+La Trois FR
+La Trois-BL
+La Une BE
+La Une FR
+La Une HD-BL
+La Une-FR
+La5 IT
+La7 IT
+La7-IT
+La7D IT
+LaEffe IT
+LaLigaTVBAR-SP
+Laudato TV-EXYU
+Lazio Style Channel IT
+Lazio Style Channel-IT
+Lei IT
+Libertas TV-EXYU
+Lifetime HD PL
+Lifetime HD-PH
+Lifetime Movies - East-US
+Lifetime Network US - Eastern Feed-CA
+Lifetime Network US - Eastern Feed-US
+Lifetime-PL
+Light Channel Transylvania-HU
+Liv FI
+Liv-FIN
+Liverpool FC TV-UK
+Living Foodz-IN
+Living HD-AL
+LocalVisao TV HD PT
+Localvisão TV HD-POR
+Look TV RO
+Lorry-DK
+Lov i Ribolov-EXYU
+Lov i ribolov ex-Yu
+Luxe TV HD ARB
+M Tune IN
+M1 Film-EXYU
+M4 Sport-HU
+M5-HU
+M6 Boutique & Co-FR
+M6 Boutique FR
+M6 FR
+M6 Music FR
+M6-FR
+M6MUSIC-FR
+MAD CY
+MAD GR
+MAD Hits-GR
+MAD TV-GR
+MADcy-GR
+MAN-GA IT
+MAX International ARB
+MAX Sport 1 HD-BG
+MAX Sport 2 HD-BG
+MAX-NO
+MBC 1 ARB
+MBC 2 ARB
+MBC 3 ARB
+MBC 4 ARB
+MBC Action ARB
+MBC Bollywood ARB
+MBC Drama ARB
+MBC Masr 1 ARB
+MBC Masr 2 ARB
+MBC Max ARB
+MBC PRO SPORTS 1 ARB
+MBC PRO SPORTS 2 ARB
+MCM HD FR
+MCM POP PT
+MCM POP-POR
+MCM Pop-POR
+MCM TOP PT
+MCM Top HD FR
+MCM Top-FR
+MCM Top-POR
+MCM-FR
+MCMTOP-0xa
+MCOT HD-TH
+MCOTFAM-TH
+MCS LifeStyle PT
+MDR DE
+MDR Fernsehen HD-DE
+MEGA GR
+MEGA-GR
+METRO PL
+METRO-PL
+MEZZO IL
+MEZZO LIVE HD
+MEZZO full IL
+MEZZO full IL
+MEZZOHD-0xa
+MFM-AL
+MH1 News-IN
+MH1-IN
+MIFA HD ARB
+MILYON-0xa
+MINIKACOCUK-0xa
+MINIKAGO-0xa
+MLB Network US
+MLB Network-US
+MONO-TH
+MOVIES BEST HD-GR
+MOVSMACTION-0xa
+MOVSMCLASSIC-0xa
+MOVSMFAMILY-0xa
+MOVSMFEST-0xa
+MOVSMGOLD-0xa
+MOVSMPLATIN-0xa
+MOVSMPLATIN2-0xa
+MOVSMPREMIUM-0xa
+MOVSMPREMIUM2-0xa
+MOVSMTURK-0xa
+MSNBC Canada HD-CA
+MSNBC HD US
+MSNBC USA-US
+MTV 2 IL
+MTV 2 IL
+MTV 90s UK
+MTV Base UK
+MTV Base-FR
+MTV Brand New DE
+MTV Brand New NL
+MTV Brand New-DE
+MTV Brand new-NL
+MTV DK
+MTV Dance DE
+MTV Dance IL
+MTV Dance IL
+MTV Dance PL
+MTV Dance UK
+MTV Dance-PL
+MTV Dance-UK
+MTV ES
+MTV Fakta FI
+MTV HD DE
+MTV HD FR
+MTV HD NL
+MTV Hits DE
+MTV Hits HD FR
+MTV Hits IL
+MTV Hits IL
+MTV Hits UK
+MTV Hits-DE
+MTV Hits-FR
+MTV IL
+MTV IL
+MTV IT
+MTV Igman-EXYU
+MTV India IN
+MTV International ARB
+MTV Juniori FI
+MTV Lebanon ARB
+MTV Live HD IL
+MTV Live HD NL
+MTV Live HD PL
+MTV Live HD-PL
+MTV Live-PL
+MTV MAX FI
+MTV MUSIC-IS
+MTV Music 24 NL
+MTV Music 24-NL
+MTV Music IL
+MTV Music IL
+MTV Music IT
+MTV Music UK
+MTV Music UK FR
+MTV Next IT
+MTV PT
+MTV Polska PL
+MTV Polska-PL
+MTV Portugal-POR
+MTV ROCKS ES
+MTV Rocks PL
+MTV Rocks-DE
+MTV SE
+MTV Sport 1 FI
+MTV Sport 2 FI
+MTV UK
+MTV USA - Eastern Feed-US
+MTV [Brazil]
+MTV-CZ
+MTV-DE
+MTV-DK
+MTV-FR
+MTV-IN
+MTV-NO
+MTV-SE
+MTV-SP
+MTV3 FI
+MTV3-FIN
+MTVAsia-PH
+MTVHITS-0xa
+MTVLIVE-0xa
+MTVLIVE-PH
+MTVN HD IL
+MTVN HD IL
+MUTV UK
+MUTV-UK
+Maa Gold HD-IN
+Made In Bristol UK
+Made In Cardiff UK
+Madison Square Garden HD (MSGHD)-US
+Magic TV BG
+Magic TV-BG
+Majid Kids TV ARB
+Makan IL
+Makedonia TV GR
+Makkah TV ARB
+Mangas FR
+Mangas-FR
+Manorama News-IN
+Manoranjan Movies-IN
+Manoto TV IR
+Marco Polo TV DE
+Marcopolo IT
+Markíza International-CZ
+Massive R and B-UK
+MavTV USA-US
+Mazhavil Manorama International ARB
+Mazzika ARB
+Medi 1 TV ARB
+Medi1 TV ARB
+Media One TV-IN
+MediaOne ARB
+Mediaset Extra IT
+Mediaset Extra-IT
+Mediaset Italia Due IT
+Mediaset TGCOM24 IT
+Mega ES
+Mega-SP
+Megapix [Brazil]
+Melody FR
+Meteo-Media-CA
+Mezzo ES
+Mezzo Live HD ES
+Mezzo Live HD FR
+Mezzo Live HD-SP
+Mezzo PT
+Mezzo-POR
+Mikan-IS
+Milan Channel IT
+Milan TV-IT
+Mini TV-EXYU
+Mini Ultra TV ex-Yu
+Mini Ultra TV-EXYU
+MiniMini+-PL
+MiniMiniPlus HD PL
+Minika Cocuk TR
+Minika GO TR
+Minika Çocuk-TR
+MinikaGO-TR
+Minimax RO
+Minimax-CZ
+Minimax-HU
+Minimax-RO
+Miracle Network-CA
+Moi et compagnie-CA
+More4 UK
+MoreMAX Eastern US
+MoreMax  Eastern-US
+Motor Trend HD IT
+Motor Trend HD-IT
+MotorVision HD PT
+Motors TV UK
+Motorsport TV HD NL
+Motorsport TV-FR
+Motorsport.TV PT
+Motorsport.tv-UK
+Motorvision Channel HD GR
+Motorvision HD-POR
+Motorvision TV DE
+Motorvision TV SE
+Motorvision-DE
+Motowizja PL
+Motowizja TV-PL
+Movie Star BG
+Movie Star-BG
+MovieSmart Action HD TR
+MovieSmart Action HD-TR
+MovieSmart Classic HD TR
+MovieSmart Classic HD-TR
+MovieSmart Family HD TR
+MovieSmart Family HD-TR
+MovieSmart Fest HD TR
+MovieSmart Fest HD-TR
+MovieSmart Fest HD-TR-TR
+MovieSmart Gold HD TR
+MovieSmart Gold HD-TR
+MovieSmart Platin 2 HD TR
+MovieSmart Platin 2 HD-TR
+MovieSmart Platin HD TR
+MovieSmart Platin HD-TR
+MovieSmart Premium 2 HD TR
+MovieSmart Premium 2 HD-TR
+MovieSmart Premium HD TR
+MovieSmart Premium HD-TR
+MovieSmart Turk HD TR
+MovieSmart Türk HD-TR
+Moviemax Premier-TR
+Moviemax Türk-TR
+Movies 24 UK
+Movies 24plus UK
+Movies ARB
+Movies OK HD-IN
+Movies OK IN
+Movies4Men UK
+Movistar Accion ES
+Movistar Acción-SP
+Movistar Cine Espanol ES
+Movistar Comedia ES
+Movistar Comedia-SP
+Movistar DCine ES
+Movistar DCine-SP
+Movistar Deportes 1 ES
+Movistar Deportes 1-SP
+Movistar Deportes 2 ES
+Movistar Deportes 2-SP
+Movistar Disney ES
+Movistar Estrenos ES
+Movistar Estrenos-SP
+Movistar Formula 1 ES
+Movistar Futbol ES
+Movistar Fórmula 1-SP
+Movistar Fútbol-SP
+Movistar Golf ES
+Movistar Golf-SP
+Movistar Moto GP ES
+Movistar Moto GP-SP
+Movistar Partidazo ES
+Movistar Partidazo-SP
+Movistar Series ES
+Movistar Series Xtra ES
+Movistar Series Xtra-SP
+Movistar Series-SP
+Movistar Xtra ES
+Movistar Xtra-SP
+Mozaic 2 Al Kass Sports Channel ARB
+Mozaic Abu Dhabi TV ARB
+Mozaic Al Arabiya ARB
+Mozaic Al Emarat TV ARB
+Mozaic Al Jazeera Arabic ARB
+Mozaic Al Jazeera Mubasher ARB
+Mozaic Al Rayan ARB
+Mozaic Al Safwa ARB
+Mozaic Al Yawm ARB
+Mozaic Oman TV ARB
+Mozaic Sky News Arabic ARB
+MrežaZG-EXYU
+Much Music-CA
+Muse-AL
+Music 24 IL
+Music 24 IL
+Music 24-IS
+Music Box RU-RU
+Music Channel RO
+Music Channel-RO
+Music India IN
+Music India-IN
+Music Now ARB
+Music Plus ARB
+Muzsika TV-HU
+My 5-UK
+My Cuisine FR
+My Cuisine-FR
+My Music AL
+My5 UK
+MyHits EE
+MySports  FR
+MySports 1 CH
+MySports 1 FR
+MySports 1 FR
+MySports 2 CH
+MySports 2 FR
+MySports 2 FR
+MySports 2Sky 2-SWZ
+MySports 3 CH
+MySports 3 FR
+MySports 3 FR
+MySports 3Sky 3-SWZ
+MySports 4 CH
+MySports 4 FR
+MySports 4 FR
+MySports 4Sky 4-SWZ
+MySports 5 CH
+MySports 5 FR
+MySports 5 FR
+MySports 5Sky 5-SWZ
+MySports 6 CH
+MySports 6 FR
+MySports 6 FR
+MySports 6Sky 6-SWZ
+MySports 7Sky 7-SWZ
+MySports 8Sky 8-SWZ
+MySports 9Sky 9-SWZ
+MySports CH
+MySports FR
+MySports One-SWZ
+N-TV-DE
+N1 ex-Yu
+N1-EXYU
+N24 DE
+N24-DE
+N4-FIN
+NAT GEO HD-TH
+NAT GEO PEOPLE HD-TR
+NAT GEO WILD IL
+NAT GEO WILD IL
+NAT GEO WILD-IS
+NAT GEO people-DE
+NATGEO-0xa
+NATGEOWILD-0xa
+NATIONAL GEOGRAPHIC WILD-TR
+NATIONAL GEOGRAPHIC-IS
+NATIONAL GEOGRAPHIC-TR
+NATIONAL GEOGRAPHICSD-IS
+NBA TV Canada-CA
+NBA TV HD-POR
+NBA TV HD-TR
+NBA TV US
+NBA TV USA-US
+NBATV-0xa
+NBATV-TH
+NBC (WGRZ) Buffalo, NY-CA
+NBC East US
+NBC HD Boston-US
+NBC HD Chicago-US
+NBC HD New Orleans-US
+NBC Sports Bay Area-US
+NBC Sports California-US
+NBC Sports Network Northwest-US
+NBC Sports Network US
+NBN ARB
+NBT-TH
+NDR DE
+NDR Fernsehen-DE
+NDR-DK
+NDTV 24x7 ARB
+NDTV 24x7-AUL
+NDTV 24x7-IN
+NDTV 24x7-UK
+NDTV Good Times-IN
+NDTV INDIA IN
+NDTV India-IN
+NEA TV CRETE-GR
+NEP ARY Zindagi
+NEP ARY Zindagi-IN
+NET GR
+NET TV SI
+NET TV-MLT
+NET TV-SL
+NET.-GR
+NEW TV ARB
+NFL Network-SE
+NFL Network-US
+NFL Red Zone-US
+NFL US
+NHK World HD ARB
+NHK-TH
+NHL Network USA-US
+NHL US
+NICK JR-SP
+NICK-AT
+NICKELODEON-0xa
+NICKELODEON-TH
+NICKJR-0xa
+NICKTOONS-0xa
+NL: SBS 9 HD-NL
+NL: TLC-NL
+NLRTLLounge-NL
+NOVA S HD-EXYU
+NOVA TV ex-Yu
+NOVE IT
+NOVE-IT
+NPO 1 HD NL
+NPO 101 NL
+NPO 2 HD NL
+NPO 3 HD NL
+NPO Cultura NL
+NPO Nieuws NL
+NPO Nieuws-NL
+NPO Politiek NL
+NPO Politiek-NL
+NPO Zapp Xtra  NPO 1 extra-NL
+NPO Zapp Xtra / Best NL
+NR1 Türk-TR
+NR1-0xa
+NR1-TR
+NR1TURK-0xa
+NRJ 12 FR
+NRJ 12-FR
+NRJ Hits FR
+NRJ Hits-FR
+NRK Super-NO
+NRK1-DK
+NRK1-NO
+NRK2-DK
+NRK2-NO
+NRK3-NO
+NTV IN
+NTV MIR ARB
+NTV Spor TR
+NTV TR
+NTV-0xa
+NTV-IN
+NTV-TR
+Nashe Kino ARB
+Nat Geo HD-AL
+Nat Geo HD-BG
+Nat Geo HD-BL
+Nat Geo HD-HU
+Nat Geo People HD PL
+Nat Geo People HD-IT
+Nat Geo People TR
+Nat Geo People-PL
+Nat Geo WILD HD-CZ
+Nat Geo WILD-RU
+Nat Geo Wild BG
+Nat Geo Wild DE
+Nat Geo Wild DK
+Nat Geo Wild ES
+Nat Geo Wild FR
+Nat Geo Wild HD GR
+Nat Geo Wild HD NL
+Nat Geo Wild HD-BG
+Nat Geo Wild HD-GR
+Nat Geo Wild HD-IT
+Nat Geo Wild IT
+Nat Geo Wild PL
+Nat Geo Wild PT
+Nat Geo Wild RO
+Nat Geo Wild SE
+Nat Geo Wild TR
+Nat Geo Wild UK
+Nat Geo Wild ex-Yu
+Nat Geo Wild-BG
+Nat Geo Wild-FR
+Nat Geo Wild-HU
+Nat Geo Wild-NL
+Nat Geo Wild-PL
+Nat Geo Wild-POR
+Nat Geo Wild-RO
+Nat Geo Wild-SE
+Nat Geo Wild-SP
+Nation TV-TH
+National 24 Plus RO
+National Geo HD-IT
+National Geographic ARB
+National Geographic Abu Dhabi AR ARB
+National Geographic BE
+National Geographic Canada-CA
+National Geographic Channel-BG
+National Geographic Channel-DK
+National Geographic DE
+National Geographic DK
+National Geographic ES
+National Geographic FI
+National Geographic FR
+National Geographic GR
+National Geographic HD BG
+National Geographic HD NL
+National Geographic HD-EXYU
+National Geographic HD-PH
+National Geographic HD-RU
+National Geographic HD-SE
+National Geographic IL
+National Geographic IL
+National Geographic IT
+National Geographic PL
+National Geographic PT
+National Geographic People ARB
+National Geographic People-DK
+National Geographic RO
+National Geographic SE
+National Geographic TR
+National Geographic UK
+National Geographic US
+National Geographic US - Eastern-US
+National Geographic Wild ARB
+National Geographic Wild HD-EXYU
+National Geographic Wild-DK
+National Geographic Wild-US
+National Geographic Wildlife-DE
+National Geographic ex-Yu
+National Geographic-CZ
+National Geographic-DE
+National Geographic-FIN
+National Geographic-FR
+National Geographic-GR
+National Geographic-NL
+National Geographic-NO
+National Geographic-PL
+National Geographic-POR
+National Geographic-RO
+National Geographic-SP
+National TV RO
+National TV-RO
+Nautical Channel-CZ
+Naša TV (Beograd)-EXYU
+Nea TV GR
+Nelonen FI
+Nelonen Maailma FI
+Nelonen Nappula FI
+Nelonen Prime FI
+Nelonen Pro 1 FI
+Nelonen Pro 2 FI
+Nelonen-FIN
+Neox ES
+Neox-SP
+Neptun TV RO
+Neptun TV-RO
+Nessma ARB
+Net5 HD NL
+New TV 18-TH
+News 18 India-IN
+News 24 AL
+News 24-AL
+News 24-IN
+News Express ARB
+Nick IL
+Nick JR-SE
+Nick Jr IT
+Nick Jr-RU
+Nick Jr. - East-US
+Nick Jr. DE
+Nick Jr. ES
+Nick Jr. IL
+Nick Jr. IL
+Nick Jr. NL
+Nick Jr. PL
+Nick Jr. SE
+Nick Jr. TR
+Nick Jr. Too UK
+Nick Jr. UK
+Nick Jr. [Brazil]
+Nick Jr.-EXYU
+Nick Jr.-IS
+Nick Jr.-NL
+Nick Jr.-PL
+Nick Jr.-TR
+Nick Junior-IT
+Nick Junior-PH
+NickToons UK
+Nickelodeon BG
+Nickelodeon DE
+Nickelodeon DK
+Nickelodeon ES
+Nickelodeon FR
+Nickelodeon HD / Spike Channel NL
+Nickelodeon HD CH
+Nickelodeon HD-EXYU
+Nickelodeon HD-GR
+Nickelodeon HD-RO
+Nickelodeon HD-RU
+Nickelodeon HD-TR
+Nickelodeon IL
+Nickelodeon IL
+Nickelodeon IN
+Nickelodeon IT
+Nickelodeon Jr F-SWZ
+Nickelodeon Junior FR
+Nickelodeon Junior-DK
+Nickelodeon NL
+Nickelodeon PL
+Nickelodeon PT
+Nickelodeon Plus1 FR
+Nickelodeon SE
+Nickelodeon TR
+Nickelodeon Teen FR
+Nickelodeon UK
+Nickelodeon ex-Yu
+Nickelodeon-BG
+Nickelodeon-CZ
+Nickelodeon-DK
+Nickelodeon-GR
+Nickelodeon-HU
+Nickelodeon-IN
+Nickelodeon-IS
+Nickelodeon-IT
+Nickelodeon-NL
+Nickelodeon-NO
+Nickelodeon-PH
+Nickelodeon-PL
+Nickelodeon-POR
+Nickelodeon-SE
+Nickelodeon-SP
+Nickelodeon-TR
+Nickelodéon Teen-FR
+Nickelodéon-FR
+Nicktoons NL
+Nicktoons-NL
+Nicktoons-SE
+Nile Cinema ARB
+Nile Comedy ARB
+Nile Drama ARB
+Nile Family ARB
+Nile Life ARB
+Nile News ARB
+Nile Sport ARB
+Nile TV ARB
+Nitro HD DE
+Nitro-DE
+Nojoom ARB
+Nollywood TV FR
+Nollywood TV-FR
+Non Stop People ES
+Non Stop People FR
+Noor Dubai ARB
+Noor TV-UK
+Nova 2 HD-CZ
+Nova 24 TV HD-SL
+Nova 24 TV-SL
+Nova Action-CZ
+Nova BH HD-EXYU
+Nova Cinema 1 GR
+Nova Cinema 2 GR
+Nova Cinema 3 GR
+Nova Cinema 4 GR
+Nova Cinema HD-CZ
+Nova ES
+Nova HD-EXYU
+Nova Sport 1 HD-CZ
+Nova Sport 2 HD-CZ
+Nova Sport HD BG
+Nova Sport-BG
+Nova TV BG
+Nova TV-BG
+Nova TV-EXYU
+Nova-CZ
+Nova-SP
+Nova.RS ex-Yu
+Nova24TV SI
+NovaSports 1 GR
+NovaSports 2 GR
+Novacinema1HD[EN]-GR
+Novacinema2HD[EN]-GR
+Novacinema3HD[EN]-GR
+Novacinema4HD[EN]-GR
+Novasports1HD-GR
+Novasports2HD-GR
+Novasports3HD[EN]-GR
+Novasports4HD[EN]-GR
+Novasports5HD[EN]-GR
+Nowa TV PL
+Nowa TV-PL
+Ntv Spor-TR
+Number 0 ES
+Number One TV TR
+Number One TV-TR
+Number One Türk-TR
+Numero 23 FR
+Numéro 23-FR
+Nuta.TV PL
+Nuta.TV-PL
+O2 TV-EXYU
+O2TV Fotbal HD-CZ
+O2TV SPORT HD-CZ
+OBN ex-Yu
+OBN-EXYU
+OCS CHOC-FR
+OCS CITY, génération HBO-FR
+OCS Choc FR
+OCS City FR
+OCS GEANTS-FR
+OCS Geants FR
+OCS MAX-FR
+OCS Max FR
+ODC ARB
+OFF HD [Brazil]
+OLAY TV-TR
+OLTV FR
+OLTV-FR
+OMNI.1 HD-CA
+OMNI.2 HD-CA
+OMTV-FR
+OMtv FR
+ON E ARB
+ON Sport 1 ARB
+ON Sport 2 HD ARB
+ONE HD DE
+ONE IL
+ONE Radio-MLT
+ONE-DE
+ONE-IS
+ONE2-IS
+ONEII-IS
+ONS NL
+ORF 1 HD-SWZ
+ORF 1-DE
+ORF 2 DE
+ORF 2 HD-SWZ
+ORF 2-AT
+ORF 2-DE
+ORF 3-DE
+ORF III-AT
+ORF eins DE
+ORF eins-AT
+ORTi ARB
+OSN Al Safwa ARB
+OSN Al Yawm ARB
+OSN Fight Network HD ARB
+OSN First ARB
+OSN First Comedy ARB
+OSN First HBO ARB
+OSN Movies ARB
+OSN Movies Action ARB
+OSN Movies Action Plus2 ARB
+OSN Movies Comedy ARB
+OSN Movies Drama ARB
+OSN Movies Festival ARB
+OSN Movies First HD ARB
+OSN Movies HD ARB
+OSN Movies Kids ARB
+OSN Movies Plus2 ARB
+OSN Movies Premier ARB
+OSN Movies Premier Plus2 ARB
+OSN News ARB
+OSN Series Comedy Plus2 ARB
+OSN Series First HD ARB
+OSN Sports 1 Action HD ARB
+OSN Sports 2 Action HD ARB
+OSN Sports 3 HD ARB
+OSN Sports 4 HD ARB
+OSN WWE Network HD ARB
+OSN Ya Hala Al Oula HD ARB
+OSN Ya Hala Al Oula Plus2 ARB
+OSN Yahala ARB
+OSN Yahala Cinema HD ARB
+OSN Yahala Drama HD ARB
+OSN Yahala Shabab HD ARB
+OTV Lebanon ARB
+OTV Valentino-EXYU
+OUTDOOR-0xa
+Odisea ES
+Odisea-SP
+Odisseia PT
+Odisseia-POR
+Oman Sport ARB
+Oman TV ARB
+Omreop Fryslan NL
+Omroep Brabant NL
+Omroep Brabant-NL
+Omroep Flevoland NL
+Omroep Gelderland-NL
+Omroep Noos TV NL
+Omroep Zeeland NL
+Omroep Zeeland-NL
+Omrop Fryslan-NL
+One 2 IL
+One Channel-GR
+One IL
+One TV-MLT
+Ons-NL
+Open Beyond TV-GR
+Oprah Winfrey Network USA Eastern-US
+Ora News AL
+Ora News-AL
+Oranje TV-NL
+Orbit Cinema 1 ARB
+Orbit Cinema 2 ARB
+Orient TV ARB
+Orlando Kids-EXYU
+Osječka TV-EXYU
+Out TV-NL
+Outdoor Channel HD-SE
+Outdoor Channel US
+Outdoor Channel US-US
+Outdoor Life Network Canada-CA
+PAK Hum TV ARB
+PARAMOUNT CHANNEL DECALE-FR
+PARAMOUNT CHANNEL-FR
+PARIS PREMIERE-FR
+PBN Music-IN
+PBS (WNED) Buffalo, NY-CA
+PBS America UK
+PESCA IT
+PFC PT
+PFC-POR
+PH beIN Sports 1-PH
+PH beIN Sports 2-PH
+PHOENIX DE
+PHOENIX HD-DE
+PINK Folk 1-EXYU
+PINK M-EXYU
+PLANET HD-DE
+PMC Music IR
+POLSAT 1 PL
+POLSAT 2 PL
+POLSAT Cafe PL
+POLSAT Doku HD PL
+POLSAT Doku-PL
+POLSAT Film PL
+POLSAT Games-PL
+POLSAT JimJam PL
+POLSAT Music PL
+POLSAT Music-PL
+POLSAT News 2 PL
+POLSAT News PL
+POLSAT News-PL
+POLSAT PL
+POLSAT Play PL
+POLSAT Rodzina-PL
+POLSAT Romans PL
+POLSAT Sport 2 PL
+POLSAT Sport Extra HD PL
+POLSAT Sport Fight HD PL
+POLSAT Sport Fight-PL
+POLSAT Sport HD PL
+POLSAT Sport News PL
+POLSAT Sport Premium 1-PL
+POLSAT Sport Premium 2-PL
+POLSAT Sport-PL
+POLSAT Viasat Explore HD PL
+POLSAT Viasat History HD PL
+POLSAT Viasat Nature PL
+POP - East-US
+POP Max +1-UK
+POP OTO SI
+POP TV SI
+POP TV-SL
+POP UK
+POWER TURK TV HD-TR
+POWER TV HD-TR
+POWERTURK-0xa
+POWERTV-0xa
+PPTV-TH
+PPV Channel 2-UK
+PRO 2 HD-RO
+PRO 7-DE
+PRO Cinema-RO
+PRO GOLD-RO
+PRO TV-RO
+PRO X HD-RO
+PTC Chakde IN
+PTC Chakde-IN
+PTC News-IN
+PTC Punjabi IN
+PTC Punjabi-IN
+PTV Home ARB
+PULS 2 PL
+PULS 4-AT
+PULS 8 DE
+Palestine TV ARB
+Panda Biggs PT
+Panda Biggs-POR
+Panorama Drama ARB
+Paramount Channel (HD)-HU
+Paramount Channel FR
+Paramount Channel HD PL
+Paramount Channel IT
+Paramount Channel RO
+Paramount Channel-IT
+Paramount Channel-PL
+Paramount Channel-RO
+Paramount Channel-SP
+Paramount Comedy Россия-RU
+Paramount Network USA - Eastern Feed-US
+Paris Premiere FR
+Peace TV AL
+Peace TV-AL
+Peachtree TV (Canada)-CA
+Pebble TV-NL
+People ARB
+Peppers TV IN
+Pesca e Caccia-IT
+Pick UK
+Pickbox TV-EXYU
+Pikaboo HD-EXYU
+Pingviniukas EE
+Pink 1 ex-Yu
+Pink 2 ex-Yu
+Pink 2-EXYU
+Pink 3 INFO ex-Yu
+Pink 3 Info-EXYU
+Pink Action ex-Yu
+Pink Action-EXYU
+Pink BH ex-Yu
+Pink Classic ex-Yu
+Pink Classic-EXYU
+Pink Comedy ex-Yu
+Pink Comedy-EXYU
+Pink Crime & Mystery-EXYU
+Pink Crime and Mystery ex-Yu
+Pink Erotic 1 Adult
+Pink Erotic 2 Adult
+Pink Erotic 3 Adult
+Pink Erotic 4 Adult
+Pink Erotic 5 Adult
+Pink Erotic 6 Adult
+Pink Extra ex-Yu
+Pink Extra-EXYU
+Pink Family-EXYU
+Pink Film ex-Yu
+Pink Film-EXYU
+Pink Folk 2-EXYU
+Pink Folk-EXYU
+Pink Hits 1-EXYU
+Pink Hits 2-EXYU
+Pink Horror ex-Yu
+Pink Horror-EXYU
+Pink Kids ex-Yu
+Pink Kids-EXYU
+Pink Kuvar ex-Yu
+Pink M ex-Yu
+Pink Movies ex-Yu
+Pink Movies-EXYU
+Pink Music 2-EXYU
+Pink Music-EXYU
+Pink Pedia ex-Yu
+Pink Pedia-EXYU
+Pink Plus ex-Yu
+Pink Plus-EXYU
+Pink Premium ex-Yu
+Pink Premium-EXYU
+Pink Reality ex-Yu
+Pink Reality-EXYU
+Pink Romance ex-Yu
+Pink Romance-EXYU
+Pink Sci-Fi & Fantasy-EXYU
+Pink SciFi and Fantasy ex-Yu
+Pink Serije ex-Yu
+Pink Serije-EXYU
+Pink Show ex-Yu
+Pink Show-EXYU
+Pink Soap ex-Yu
+Pink Soap-EXYU
+Pink Style-EXYU
+Pink Super Kids-EXYU
+Pink Thriller ex-Yu
+Pink Thriller-EXYU
+Pink Western ex-Yu
+Pink Western-EXYU
+Pink World Cinema ex-Yu
+Pink World Cinema-EXYU
+Pink World-EXYU
+Pink Zabava ex-Yu
+Pink Zabava-EXYU
+Pink-EXYU
+Piwi+-FR
+PiwiPlus FR
+Planet Cocuk TR
+Planet HD-SL
+Planet Mutfak TR
+Planet Mutfak-TR
+Planet Pembe TR
+Planet Pembe-TR
+Planet Sport 1-EXYU
+Planet Sport 2-EXYU
+Planet Sport 3-EXYU
+Planet Sport 4-EXYU
+Planet Sport 5-EXYU
+Planet TV SI
+Planet Turk TR
+Planet Türk-TR
+Planet Çocuk-TR
+Planeta Folk BG
+Planeta Folk-BG
+Planeta HD-BG
+Planeta TV BG
+Planeta TV HD BG
+Planeta TV-BG
+Planete+-PL
+PlanetePlus Action and Experience FR
+PlanetePlus CrimeplusInvestigation FR
+PlanetePlus FR
+PlanetePlus HD PL
+Planète+ Aventure Expérience-FR
+Planète+ Crime Investigation-FR
+Planète+-FR
+Plava vinkovačka TV-EXYU
+Play Sports HD1-BL
+Play Sports HD2-BL
+Play Sports HD3-BL
+Plug RTL BE
+Plug RTL-BL
+Plus CY
+Plus HD AL
+Plus HD-AL
+Polar+-FR
+Police TV-TH
+Poljoprivredna TV-EXYU
+Polo TV PL
+Polo TV-PL
+Polsat
+Polsat 2-PL
+Polsat Cafe-PL
+Polsat Film-PL
+Polsat JimJam-PL
+Polsat News 2-PL
+Polsat Play-PL
+Polsat Romans-PL
+Polsat Sport Extra-PL
+Polsat Sport News-PL
+Polsat Sport-PL
+Polsat Viasat Explore-PL
+Polsat Viasat History-PL
+Polsat Viasat Nature-PL
+Porto Canal PT
+Porto Canal-POR
+Power TV HD TR
+Power TV PL
+Power TV-PL
+Premier Sports UK
+Premiere Clubes [Brazil]
+Premium Action +24-IT
+Premium Action HD IT
+Premium Action-IT
+Premium Calcio HD IT
+Premium Cinema +24 HD-IT
+Premium Cinema 1 HD IT
+Premium Cinema 1 Plus24 IT
+Premium Cinema 2 HD IT
+Premium Cinema 3 HD IT
+Premium Cinema Comedy IT
+Premium Cinema Comedy-IT
+Premium Cinema Emotion IT
+Premium Cinema Energy IT
+Premium Cinema Energy-IT
+Premium Cinema-IT
+Premium Crime +24-IT
+Premium Crime HD IT
+Premium Crime HD-IT
+Premium Emotion DTT-IT
+Premium Joi IT
+Premium Joi-IT
+Premium Sport 2 HD IT
+Premium Sport HD IT
+Premium Stories IT
+Premium Stories-IT
+Premium Studio Universal IT
+Press TV ARB
+Prima Cool HD-CZ
+Prima HD-CZ
+Prima TV RO
+Prima TV-RO
+Primafila 1 IT
+Primafila 1-IT
+Primafila 10 IT
+Primafila 10-IT
+Primafila 11 IT
+Primafila 11-IT
+Primafila 12 IT
+Primafila 12-IT
+Primafila 13 IT
+Primafila 13-IT
+Primafila 14 IT
+Primafila 15 IT
+Primafila 16 IT
+Primafila 17 IT
+Primafila 18 IT
+Primafila 2 IT
+Primafila 2-IT
+Primafila 3 IT
+Primafila 3-IT
+Primafila 4 IT
+Primafila 4-IT
+Primafila 5 IT
+Primafila 5-IT
+Primafila 6 IT
+Primafila 6-IT
+Primafila 7 IT
+Primafila 7-IT
+Primafila 8 IT
+Primafila 8-IT
+Primafila 9 IT
+Primafila 9-IT
+Prime-HU
+Pro Cinema RO
+Pro TV International RO
+Pro TV RO
+Pro7 Fun DE
+Pro7 HD DE
+Pro7 Maxx HD DE
+Pro7Fun-DE
+ProSieben DE
+ProSieben Fun HD-DE
+ProSieben HD-DE
+ProSieben MAXX HD-DE
+ProSieben-DK
+Prva 1 Crna Gora ex-Yu
+Prva 1 SRB ex-Yu
+Prva Kick-EXYU
+Prva MAX-EXYU
+Prva Max ex-Yu
+Prva Plus ex-Yu
+Prva World ex-Yu
+Prva World-EXYU
+Prva plus-EXYU
+Prva srpska televizija-EXYU
+Prva-EXYU
+Psychic Today UK
+Puls 2-PL
+Puls 8 HD CH
+Puls 8 HD-SWZ
+Puthiya Thalimurai-IN
+Q2
+Q2 BE
+QUEST RED UK
+QUEST UK
+QVC Beauty and Style DE
+QVC Beauty and Style-DE
+QVC Beauty-UK
+QVC DE
+QVC FR
+QVC HD-DE
+Qatar ARB
+Qatar Al Youm ARB
+Quest Arabiya ARB
+Quran Kareem ARB
+RADIOFRECCIA HD IT
+RADIONORBA TV IT
+RBB Berlin DE
+RBB DE
+RBB Fernsehen-DE
+RDI (News)-CA
+RDS (Réseau des sports)-CA
+RDS 2-CA
+RDS Info-CA
+RFM TV-FR
+RIK 1 CY
+RIK 2 CY
+RING HD BG
+RING HD-BG
+RING-BG
+RISE TV-GR
+RMC Decouverte FR
+RMC Découverte-FR
+RMC Sport 1 FR
+RMC Sport 1-FR
+RMC Sport 2 FR
+RMC Sport 2-FR
+RMC Sport 3 FR
+RMC Sport 3-FR
+RMC Sport 4 FR
+RMC Sport 4-FR
+RSI LA 1 HD CH
+RSI LA 1 HD-SWZ
+RSI LA 2 HD CH
+RSI LA 2 HD-SWZ
+RT HD UK
+RT documentary-US
+RTCG SAT ex-Yu
+RTCG SAT-EXYU
+RTCG-EXYU
+RTCG1 ex-Yu
+RTCG2 ex-Yu
+RTCG2-EXYU
+RTE Jr UK
+RTE News Now UK
+RTE One UK
+RTE Two UK
+RTG ARB
+RTGINT-0xa
+RTK AL
+RTK-AL
+RTL 1 ex-Yu
+RTL 102.5 TV IT
+RTL 102.5 TV-IT
+RTL 2 ex-Yu
+RTL 2-DE
+RTL 2-EXYU
+RTL 4 HD NL
+RTL 5 HD NL
+RTL 7 HD NL
+RTL 8 HD NL
+RTL 9 FR
+RTL Crime DE
+RTL Crime NL
+RTL Crime ex-Yu
+RTL Crime-DE
+RTL Crime-EXYU
+RTL DE
+RTL II DE
+RTL II YOU DE
+RTL II-DK
+RTL II-HU
+RTL Klub-HU
+RTL Kockica ex-Yu
+RTL Kockica-EXYU
+RTL Living DE
+RTL Living ex-Yu
+RTL Living-DE
+RTL Living-EXYU
+RTL Lounge NL
+RTL NITRO DE
+RTL Passion DE
+RTL Passion ex-Yu
+RTL Passion-DE
+RTL Passion-EXYU
+RTL Spike-HU
+RTL TVI HD-BL
+RTL Telekids NL
+RTL Telekids-NL
+RTL Z HD NL
+RTL plus-DE
+RTL+-HU
+RTL-DE
+RTL-DK
+RTL-EXYU
+RTL-TVi BE
+RTL9-FR
+RTLplus DE
+RTP 1 HD-POR
+RTP 1 PT
+RTP 2 PT
+RTP 2-POR
+RTP 3 PT
+RTP 3-POR
+RTP Acores PT
+RTP Africa PT
+RTP Açores-POR
+RTP Internacional PT
+RTP Madeira PT
+RTP Madeira-POR
+RTP Memoria PT
+RTP Memória-POR
+RTP África-POR
+RTP1-POR
+RTP2-POR
+RTPi ARB
+RTR Planeta ARB
+RTR planeta-EXYU
+RTRPLANETA-0xa
+RTRS ex-Yu
+RTRS-EXYU
+RTS 1 ex-Yu
+RTS 1-EXYU
+RTS 2 ex-Yu
+RTS 2-EXYU
+RTS 3 ex-Yu
+RTS 3-EXYU
+RTS Deux HD CH
+RTS Deux HD-SWZ
+RTS Deux-FR
+RTS SAT ex-Yu
+RTS Un HD CH
+RTS Un HD-SWZ
+RTS Un-FR
+RTSH 1 HD AL
+RTSH 2 HD AL
+RTSH Sport AL
+RTSH1 HD-AL
+RTSH2 HD-AL
+RTV 1 ex-Yu
+RTV 1-EXYU
+RTV 2-EXYU
+RTV 21 AL
+RTV 21 HD-AL
+RTV 21 PLUS-AL
+RTV 21-AL
+RTV Novi Pazar-EXYU
+RTV Oost-NL
+RTV Slon ex-Yu
+RTV USK-EXYU
+RTV Utrecht NL
+RTVI ARB
+RTÉ Junior-UK
+RTÉ News Now-UK
+RTÉ One-UK
+RTÉ Two-UK
+RU.TV-RU
+RUSSIA24-0xa
+Racing UK
+Radio Capital-IT
+Radio Italia TV HD IT
+Rai 1 ARB
+Rai 1 IT
+Rai 1-IT
+Rai 2 ARB
+Rai 2 IT
+Rai 2-IT
+Rai 3 ARB
+Rai 3 IT
+Rai 3-IT
+Rai 4 IT
+Rai 4-IT
+Rai 5 IT
+Rai 5-IT
+Rai Gulp IT
+Rai Gulp-IT
+Rai Movie IT
+Rai News ARB
+Rai News IT
+Rai Premium IT
+Rai Premium-IT
+Rai Scuola IT
+Rai Scuola-IT
+Rai Sport 1 IT
+Rai Sport 1-IT
+Rai Sport 2 IT
+Rai Sport 2-IT
+Rai Storia IT
+Rai Storia-IT
+Rai YoYo IT
+Rai Yoyo-IT
+Raj Digital Plus-IN
+Raj Musix-IN
+Raj News 24x7-IN
+Raj TV-IN
+Real Lives UK
+Real Madrid TV ES
+Real Madrid TV PT
+Real Madrid TV-POR
+Real Madrid TV-SP
+Real Time HD-IT
+Real Time IT
+Real Time Plus1 IT
+Realitatea TV RO
+Realitatea TV-RO
+Really UK
+Rebel-CZ
+Record News [Brazil]
+Record TV-POR
+Record [Brazil]
+Rede Gospel
+Rede TV [Brazil]
+ReelzChannel-US
+Relax-CZ
+Report TV-AL
+Republic TV-IN
+Reshet 13 1080P-IS
+Rete 4 HD-IT
+Rete 4-IT
+ReteQuattro IT
+Retro Music TV-CZ
+Revolt HD-US
+RiC DE
+RiC-DE
+Rishtey Cineplex-IN
+Rishtey Europe IN
+Rishtey-IN
+River TV HD ARB
+Rok TV-UK
+Roma TV IT
+Roma TV-IT
+Romance TV DE
+Romance TV PL
+Romance TV-DE
+Romance TV-PL
+Romania Tv RO
+România TV-RO
+Rotana Aflam ARB
+Rotana AflamPlus HD ARB
+Rotana Cinema ARB
+Rotana Classic ARB
+Rotana Clip ARB
+Rotana Khalijiah ARB
+Rotana MPlus HD ARB
+Rotana Music ARB
+RotanaPlus HD ARB
+Roya TV ARB
+Rrokum HD-AL
+Rsi La 1-IT
+Rsi La 2-IT
+Rubix TV HD IR
+Rusiya Al Yaum ARB
+Russia Today ARB
+Russia Today HD-UK
+S SPORT HD-TR
+S SPORT TR
+S4C UK
+SA-2M Maroc
+SA-AL Rai
+SA-ANB
+SA-ART Aflam 1
+SA-ART Aflam 2
+SA-ART Cinema
+SA-ART Hekayat
+SA-ART Hekayat 2
+SA-Abu Dhabi Drama
+SA-Abu Dhabi Sports
+SA-Abu Dhabi Sports 2
+SA-Abu Dhabi Sports 3
+SA-Abu Dhabi TV
+SA-Ajman TV
+SA-Ajyal TV
+SA-Al Ahly Club
+SA-Al Aoula Tv
+SA-Al Arabiya
+SA-Al Arabiya Al Hadath
+SA-Al Bahrain TV
+SA-Al Dafrah TV
+SA-Al Emarat TV
+SA-Al Ghad Al Arabi HD
+SA-Al Hayat
+SA-Al Hayat 2
+SA-Al Hayat Musalsalat
+SA-Al Hurra
+SA-Al Hurra Iraq
+SA-Al Jazeera Arabic
+SA-Al Jazeera Documentary
+SA-Al Jazeera English
+SA-Al Jazeera Mubasher
+SA-Al Majd
+SA-Al Majd Hadeeth Nabawy
+SA-Al Majd Quran
+SA-Al Nahar One
+SA-Al Rayyan 2
+SA-Al Resalah TV
+SA-Al Safwa
+SA-Al Sharqiya
+SA-Al Yawm HD
+SA-Alsumaria
+SA-Animal Planet HD
+SA-Arabica Music
+SA-Asianet Middle East
+SA-Azhari
+SA-B4U Aflam
+SA-BBC Arabic
+SA-BBC First HD
+SA-Baby TV
+SA-Bahrain Sport 1
+SA-Baraem
+SA-CBC
+SA-CBC Drama
+SA-CBC Sofra
+SA-CNBC Arabiya
+SA-Cairo Cinema
+SA-Canal Algerie
+SA-Cartoon Network Arabic
+SA-Cima TV
+SA-Cinema 1
+SA-Cinema 2
+SA-Comedy Central
+SA-DW Arabia
+SA-Discovery Channel HD
+SA-Discovery Science HD
+SA-Disney Channel
+SA-Disney Junior
+SA-Dream TV
+SA-Dubai Al Oula
+SA-Dubai One
+SA-Dubai Racing
+SA-Dubai Sports 1
+SA-Dubai Sports 2
+SA-E! Entertainment HD
+SA-Etisalat Dubai Zaman TV
+SA-FOX Action Movies HD
+SA-FOX Family Movies HD
+SA-FTP History Channel
+SA-Fashion TV HD
+SA-Fatafeat
+SA-Food Network HD
+SA-Fox Movies
+SA-Fox News
+SA-Fox Rewayat HD
+SA-France 24 Arabic
+SA-Funoon TV
+SA-Future TV
+SA-H2 HD
+SA-Hannibal TV
+SA-Hawacom
+SA-ITV Choice
+SA-Imagine Movies
+SA-Jordan Sports
+SA-Jordan TV
+SA-KTV 1
+SA-KTV 2
+SA-KTV Sport
+SA-LBC
+SA-LDC
+SA-MBC 1
+SA-MBC 2
+SA-MBC 3 Arabic
+SA-MBC 4
+SA-MBC Action
+SA-MBC Bollywood
+SA-MBC Drama
+SA-MBC Drama Plus
+SA-MBC Max
+SA-MBC+ Variety HD
+SA-MTV Lebanon
+SA-Mbc Masr
+SA-Mbc Masr 2
+SA-Medi1 TV
+SA-Mozaic 2 Al Kass Sports Channel
+SA-Mozaic Sky News Arabic
+SA-NBN
+SA-National Geographic
+SA-National Geographic Abu Dhabi AR
+SA-National Geographic People
+SA-National Geographic Wild
+SA-Nessma
+SA-Nickelodeon HD
+SA-Nile Cinema
+SA-Nile Comedy
+SA-Nile Drama
+SA-Nile Family
+SA-Nile Life
+SA-Nile News
+SA-Nile Sport
+SA-Nile TV
+SA-Noor Dubai
+SA-ON Sport
+SA-OSN Fight Network HD
+SA-OSN Movies Action
+SA-OSN Movies Box Office 1 HD
+SA-OSN Movies Box Office 2
+SA-OSN Movies Box Office 3
+SA-OSN Movies Comedy HD
+SA-OSN Movies Drama
+SA-OSN Movies Festival
+SA-OSN Movies First HD
+SA-OSN Movies HD
+SA-OSN Movies Kids
+SA-OSN Series Comedy HD
+SA-OSN Series First HD
+SA-OSN Sports 1 Action HD
+SA-OSN Sports 3 HD
+SA-OSN Sports 4 HD
+SA-OSN Sports Cricket HD
+SA-OSN WWE Network HD
+SA-OSN Ya Hala Al Oula HD
+SA-OSN Ya Hala HD
+SA-OSN Yahala Cinema HD
+SA-OTV Lebanon
+SA-Oman Sport
+SA-Oman TV
+SA-Palestine TV
+SA-Panorama Drama
+SA-Qatar
+SA-Rotana Aflam HD
+SA-Rotana Cinema
+SA-Rotana Cinema HD
+SA-Rotana Classic
+SA-Rotana Clip
+SA-Rotana Khalijiah
+SA-Rotana Music
+SA-Roya TV
+SA-Sada Al Balad
+SA-Sada Al Balad Drama
+SA-Sama Dubai HD
+SA-Samaa TV
+SA-Saudi 1
+SA-Saudi Quran
+SA-Saudi Sport 1 HD
+SA-Saudi Sport 2 HD
+SA-Sky News Arabic
+SA-Space Toon Arabic
+SA-Star Movies HD
+SA-Star World
+SA-Syfy HD
+SA-Syria Drama
+SA-TLC HD
+SA-Tele Liban
+SA-Toyor Baby
+SA-Tunisia 1
+SA-Zee Aflam
+SA-dmc Drama
+SA-dmc HD
+SA-dmc Sport
+SALTO1-NL
+SALTO2-NL
+SAMIAKI TV-GR
+SAT.1 DE
+SAT.1 emotions DE
+SAT1-DK
+SBC GR
+SBN Europe SE
+SBS 1 HD-AUL
+SBS6 HD NL
+SBS9 HD NL
+SBT [Brazil]
+SBTV-EXYU
+SCIENCEVIE-0xa
+SEC Network-US
+SEMERKAND TV HD-TR
+SEMERKAND-0xa
+SF Kanalen SE
+SF Kanalen-SE
+SF-Kanalen-DK
+SFR Sport 4K-FR
+SHOW TV-TR
+SHOWMAX-0xa
+SHOWTV-0xa
+SIC Caras PT
+SIC Caras-POR
+SIC K-POR
+SIC Kids PT
+SIC Mulher PT
+SIC Mulher-POR
+SIC Noticias PT
+SIC Notícias-POR
+SIC PT
+SIC Radical PT
+SIC Radical-POR
+SIC-POR
+SINEMA TV AKSIYON HD-TR
+SINEMA TV HD-TR
+SIXX DE
+SJUAN-SE
+SK 1 HD-EXYU
+SK 2 HD-EXYU
+SK 3 HD-EXYU
+SK GOLF-SL
+SK1-EXYU
+SK2-EXYU
+SK3-EXYU
+SLAM!-NL
+SLO1 SI
+SLO2 SI
+SLO3 SI
+SLOWTURK-0xa
+SMARTSPOR-0xa
+SNM1001-0xa
+SNM1002-0xa
+SNMAILE-0xa
+SNMAILE2-0xa
+SNMAKSIYON-0xa
+SNMAKSIYON2-0xa
+SNMKOMEDI-0xa
+SNMKOMEDI2-0xa
+SNMTV-0xa
+SNMTV2-0xa
+SNMYERLI-0xa
+SNMYERLI2-0xa
+SOFIA-AL
+SONY SIX-IN
+SONY YAY-IN
+SOS Kanal Plus-EXYU
+SOS ex-Yu
+SPIEGEL Geschichte DE
+SPORT 3-IS
+SPORT 4-IS
+SPORT TV+-POR
+SPORT1-DK
+SPORTKLUB 1-EXYU
+SPORTKLUB 10-EXYU
+SPORTKLUB 2-EXYU
+SPORTKLUB 3-EXYU
+SPORTKLUB 4-EXYU
+SPORTKLUB 5-EXYU
+SPORTKLUB 6-EXYU
+SPORTKLUB 7-EXYU
+SPORTKLUB 8-EXYU
+SPORTKLUB 9-EXYU
+SPORTS TV-TR
+SPORTSTV-0xa
+SR Fernsehen DE
+SRF 1 HD CH
+SRF 1 HD-AT
+SRF 1 HD-SWZ
+SRF 1-DE
+SRF 2 HD-AT
+SRF info HD CH
+SRF info HD-SWZ
+SRF zwei HD CH
+SRF zwei HD-SWZ
+SRF zwei-DE
+SSPORT-0xa
+SSPORT2-0xa
+STAR GR
+STAR SPORTS 1 HD IN
+STAR SPORTS 2 HD IN
+STAR SPORTS 3 HD IN
+STAR SPORTS 4 HD IN
+STAR TV-TR
+STAR Vijay-IN
+STAR-GR
+STARS.TV PL
+STARS.TV-PL
+STARTV-0xa
+STINGRAY brava FR
+STINGRAY-0xa
+STORY4-HU
+STORY5-HU
+STV HD UK
+SUN MUSIC IN
+SUN TV US IN
+SUPERSTAR TV-EXYU
+SVT1 HD-SE
+SVT1 SE
+SVT1-DK
+SVT1-NO
+SVT2 HD-SE
+SVT2 SE
+SVT2-DK
+SVT2-NO
+SVT24 SE
+SVT24-SE
+SVTB-SE
+SWISS 1-SWZ
+SWR DE
+SWR Fernsehen HD-DE
+SYFY ES
+SYFY-SP
+SYROS TV1-GR
+Sabaidee TV-TH
+Sada Al Balad ARB
+Sada El Balad Drama ARB
+Sada El Balad Plus2 ARB
+Sahara One ARB
+Salto 1 NL
+Salto 2 NL
+Sama Dubai ARB
+Samaa TV ARB
+Samira TV ARB
+Sanjha TV-IN
+Sat.1 Emotions-DE
+Sat.1 Gold DE
+Sat.1 Gold-DE
+Sat.1-DE
+Saudi 1 ARB
+Saudi Arabian TV ARB
+Saudi Quran ARB
+Saudi Sport 1 HD ARB
+Saudi Sport 2 HD ARB
+Saudi Sunnah ARB
+Sci Fi Universal-PL
+Science & Vie TV-FR
+Science and Vie TV FR
+Science-US
+Scifi Universal PL
+Scifi ex-Yu
+Scuzz UK
+Scuzz-UK
+Seasons FR
+Seasons-FR
+Semerkand TV TR
+Series +-CA
+ServusTV Deutschland DE
+ServusTV-DE
+Setanta Sports EE
+Sharjah Sports HD ARB
+Sharjah TV ARB
+Sharqiya from Kalba ARB
+Shenja TV-AL
+Shopping Channel-CA
+Shopping Channel-IS
+Shorts TV HD-NL
+Show TR
+Show TV HD TR
+Show Türk-TR
+Showcase Canada-CA
+Showmax-TR
+Showtime - Eastern Feed-US
+Showtime 2 US
+Showtime Beyond US
+Showtime Extreme - Eastern-US
+Showtime Extreme US
+Showtime Showcase - Eastern-US
+Showtime Showcase US
+Showtime US
+Showtime West-US
+Sigma CY
+Sigma-GR
+Sikh Channel IN
+Silver Screen Classics-CA
+Silverline Movie Channel DE
+Sinema TV 1001-TR
+Sinema Tv Aile-TR
+Sjuan SE
+Skai GR
+Sky 1 DE
+Sky 1 HD-UK
+Sky 1 UK
+Sky 1-DE
+Sky 13TH Street-DE
+Sky 2 UK
+Sky Action-DE
+Sky Arte HD-IT
+Sky Arte IT
+Sky Arts HD DE
+Sky Arts UK
+Sky Atlantic DE
+Sky Atlantic HD-DE
+Sky Atlantic HD-IT
+Sky Atlantic IT
+Sky Atlantic UK
+Sky Atlantic-UK
+Sky Box Office Digital UK
+Sky Bundesliga HD 1-DE
+Sky Bundesliga HD 2-DE
+Sky Bundesliga HD 3-DE
+Sky Bundesliga HD 4-DE
+Sky Calcio 1 HD IT
+Sky Calcio 2 HD IT
+Sky Calcio 3 HD IT
+Sky Calcio 4 HD IT
+Sky Calcio 5 HD IT
+Sky Calcio 6 HD IT
+Sky Calcio 7 HD IT
+Sky Calcio 8 HD IT
+Sky Calcio 9 IT
+Sky Cinema + 1 HD-IT
+Sky Cinema +1-DE
+Sky Cinema +24-DE
+Sky Cinema +24-IT
+Sky Cinema Action DE
+Sky Cinema Action HD IT
+Sky Cinema Action HD-IT
+Sky Cinema Collection HD-IT
+Sky Cinema Comedy DE
+Sky Cinema Comedy HD IT
+Sky Cinema Comedy HD-IT
+Sky Cinema Crime and Thriller-UK
+Sky Cinema DE
+Sky Cinema Drama HD IT
+Sky Cinema Drama HD-IT
+Sky Cinema Due +24 HD-IT
+Sky Cinema Due HD IT
+Sky Cinema Due plus24 HD IT
+Sky Cinema Emotion DE
+Sky Cinema Family DE
+Sky Cinema Family HD IT
+Sky Cinema Family HD-IT
+Sky Cinema Family-DE
+Sky Cinema Family-UK
+Sky Cinema Hits DE
+Sky Cinema Hits-DE
+Sky Cinema Max-IT
+Sky Cinema Nostalgie DE
+Sky Cinema Passion-IT
+Sky Cinema Plus1 DE
+Sky Cinema Plus24 DE
+Sky Cinema Premiere +1-UK
+Sky Cinema Premiere-UK
+Sky Cinema Romance HD IT
+Sky Cinema Romance HD-IT
+Sky Cinema Sci-fi/Horror-UK
+Sky Cinema Select UK
+Sky Cinema Select-UK
+Sky Cinema Suspense HD IT
+Sky Cinema Uno HD IT
+Sky Cinema Uno plus24 HD IT
+Sky Cinema-DE
+Sky Comedy-DE
+Sky Cult-IT
+Sky Emotion-DE
+Sky Heimatkanal-DE
+Sky Hits UK
+Sky Hits-UK
+Sky Krimi DE
+Sky Krimi-DE
+Sky Living UK
+Sky Living-UK
+Sky Movies Action Adventure UK
+Sky Movies Comedy UK
+Sky Movies Crime Thriller UK
+Sky Movies Disney UK
+Sky Movies Drama Romance UK
+Sky Movies Family UK
+Sky Movies Family-UK
+Sky Movies Greats UK
+Sky Movies Premiere +1-UK
+Sky Movies Premiere UK
+Sky Movies Premiere-UK
+Sky Movies Sci-Fi Horror UK
+Sky News ARB
+Sky News Arabic ARB
+Sky News IT
+Sky News UK
+Sky News-NO
+Sky Nostalgie-DE
+Sky Premiere +1-UK
+Sky Select 1 DE
+Sky Select 2 DE
+Sky Select 3 DE
+Sky Select 4 DE
+Sky Select 5 DE
+Sky Select 6 DE
+Sky Select 7 DE
+Sky Select 8 DE
+Sky Sport 1 DE
+Sky Sport 1 HD-IT
+Sky Sport 1-SWZ
+Sky Sport 10 DE
+Sky Sport 11 DE
+Sky Sport 2 DE
+Sky Sport 2 HD-IT
+Sky Sport 2-SWZ
+Sky Sport 24-IT
+Sky Sport 3 DE
+Sky Sport 3 HD-IT
+Sky Sport 4 DE
+Sky Sport 4 HD-IT
+Sky Sport 5 DE
+Sky Sport 6 DE
+Sky Sport 7 DE
+Sky Sport 8 DE
+Sky Sport 9 DE
+Sky Sport Arena IT
+Sky Sport Arena-IT
+Sky Sport Austria DE
+Sky Sport Austria HD-AT
+Sky Sport Austria-DE
+Sky Sport Bundesliga 1 DE
+Sky Sport Bundesliga 10 DE
+Sky Sport Bundesliga 2 DE
+Sky Sport Bundesliga 3 DE
+Sky Sport Bundesliga 4 DE
+Sky Sport Bundesliga 5 DE
+Sky Sport Bundesliga 6 DE
+Sky Sport Bundesliga 7 DE
+Sky Sport Bundesliga 8 DE
+Sky Sport Bundesliga 9 DE
+Sky Sport Collection HD IT
+Sky Sport F1 HD IT
+Sky Sport F1 HD-IT
+Sky Sport Football HD IT
+Sky Sport Football HD-IT
+Sky Sport MotoGP IT
+Sky Sport MotoGP-IT
+Sky Sport NBA IT
+Sky Sport NBA-IT
+Sky Sport News DE
+Sky Sport News HD-DE
+Sky Sport Serie A DTT-IT
+Sky Sport Serie A HD IT
+Sky Sport Uno IT
+Sky Sport24 IT
+Sky Sports 1 UK
+Sky Sports 2 UK
+Sky Sports 3 UK
+Sky Sports 4 UK
+Sky Sports 5 UK
+Sky Sports Action HD UK
+Sky Sports Action-UK
+Sky Sports Arena HD UK
+Sky Sports Arena-UK
+Sky Sports Box Office UK
+Sky Sports Cricket HD UK
+Sky Sports Cricket-UK
+Sky Sports F1 UK
+Sky Sports F1-UK
+Sky Sports Football HD UK
+Sky Sports Football-UK
+Sky Sports Golf HD UK
+Sky Sports Golf-UK
+Sky Sports Main Event HD UK
+Sky Sports Main Event-UK
+Sky Sports Mix HD UK
+Sky Sports Mix-UK
+Sky Sports News UK
+Sky Sports Premier League HD UK
+Sky TG24 IT
+Sky TG24-IT
+Sky Turk 360-TR
+Sky Uno HD-IT
+Sky Uno IT
+Sky Uno Plus1 HD IT
+SkySp Fball-UK
+Slavonska TV-EXYU
+Slice-CA
+Sláger TV-HU
+Smart Sport 1 HD TR
+Smart Sport 2 HD TR
+Smash Radio-MLT
+Smash TV-MLT
+Smile TV GR
+Smile TV-GR
+Smile of a Child ex-Yu
+Smile-AL
+Sonic-IN
+Sonnenklar.TV DE
+Sony Channel-UK
+Sony ESPN IN
+Sony ESPN-IN
+Sony English-PH
+Sony Entertainment Television Asia-UK
+Sony HD-IN
+Sony India IN
+Sony Max HD-IN
+Sony Max IN
+Sony Mix-IN
+Sony Pix IN
+Sony SAB Asia India IN
+Sony SAB-IN
+Sony Sci-Fi Россия-RU
+Sony TV DE
+Sony TV EE
+Sony Ten 2-IN
+Sony Turbo EE
+Sony UK
+Space Toon Arabic ARB
+Space US
+Space-CA
+Spektrum HD-CZ
+Spektrum Home-HU
+Spektrum-HU
+Spiegel Geschichte-DE
+Spiegel TV Wissen DE
+Spiegel TV Wissen HD-DE
+Spike HD NL
+Spike IT
+Spike US
+SporTV 2 [Brazil]
+SporTV 3 [Brazil]
+SporTV [Brazil]
+Sport 1 HD IL
+Sport 1 HD IL
+Sport 1 HD TV -HU
+Sport 1 IL
+Sport 1 IL
+Sport 1-IS
+Sport 2 HD TV -HU
+Sport 2 IL
+Sport 2 IL
+Sport 2-IS
+Sport 3 HD IL
+Sport 3 IL
+Sport 4 HD IL
+Sport 4 IL
+Sport 5 Gold IL
+Sport 5 Gold IL
+Sport 5 HD IL
+Sport 5 HD IL
+Sport 5 Plus IL
+Sport 5 Plus IL
+Sport 5+-IS
+Sport 5-IS
+Sport Klub 1 HD-SL
+Sport Klub 1 SI
+Sport Klub 1-SL
+Sport Klub 2 HD-SL
+Sport Klub 2 SI
+Sport Klub 2-SL
+Sport Klub 3 HD-SL
+Sport Klub 3 SI
+Sport Klub 3-SL
+Sport Klub 4 SI
+Sport Klub 4-SL
+Sport Klub Golf SI
+Sport Plus HD-BG
+Sport TV 1 SI
+Sport TV 2 SI
+Sport TV 3 SI
+Sport&period;ro-RO
+Sport.ro RO
+Sport1 DE
+Sport1 HD-CZ
+Sport1 HD-DE
+Sport1 US DE
+Sport1-AT
+Sport1Plus DE
+Sport2 HD-CZ
+Sport5-CZ
+SportKlub 1 ex-Yu
+SportKlub 2 ex-Yu
+SportKlub 3 ex-Yu
+SportKlub 4 ex-Yu
+SportKlub 5 ex-Yu
+SportKlub 6 ex-Yu
+SportTV 1 PT
+SportTV 2 PT
+SportTV 3 PT
+SportTV 4 PT
+SportTV 5 PT
+SportTV Plus PT
+Sporting TV PT
+Sporting TV-POR
+Sportitalia IT
+Sportitalia-IT
+Sportkanalen-SE
+Sportklub 5
+Sportklub PL
+Sportklub-PL
+Sports IL
+Sportsman Channel-US
+Sportsnet (East) - Satellite/Digital HD-CA
+Sportsnet (Ontario) HD-CA
+Sportsnet (Pacific) - Satellite/Digital HD-CA
+Sportsnet (West) - Satellite/Digital HD-CA
+Sportsnet 360 HD-CA
+Sportsnet 360 US
+Sportsnet One 4K-CA
+Sportsnet One US
+Sportsnet Ontario US
+Sportsnet World HD-CA
+Sportsnet World US
+Spíler TV-HU
+Srce TV-EXYU
+Star Gold HD-IN
+Star Gold IN
+Star Jalsha ARB
+Star Jalsha HD-IN
+Star Life OK IN
+Star Movies ARB
+Star Movies HD ARB
+Star Movies-IN
+Star Plus ARB
+Star Plus Apac IN
+Star Plus HD IN
+Star Plus HD-IN
+Star Pravah-IN
+Star Sports 1-IN
+Star Sports 2-IN
+Star Sports 3-IN
+Star TV HD TR
+Star TV HD-SWZ
+Star USTAV IN
+Star Utsav HD-IN
+Star World ARB
+StarLifeOK-UK
+Starz Cinema - Eastern-US
+Starz Cinema US
+Starz Comedy - Eastern-US
+Starz Comedy US
+Starz East US
+Starz Edge - Eastern-US
+Starz Edge US
+Starz Encore - Eastern-US
+Starz Encore Action - Eastern-US
+Starz Encore Black - Eastern-US
+Starz Encore Classics - Eastern-US
+Starz Encore Family - Eastern-US
+Starz Encore Suspense - Eastern-US
+Starz Encore US
+Starz Encore Westerns - Eastern-US
+Starz In Black US
+Starz Kids and Family - Eastern-US
+Starz Kids and Family US
+Starz TV UK
+Stingray CMusic ARB
+Stingray DJAZZ-NL
+Stingray iConcerts NL
+Stopklatka TV PL
+Stopklatka TV-PL
+Studio B ex-Yu
+Studio B-EXYU
+Studio One-IN
+Sub FI
+Sub-FIN
+SubTV-FIN
+Sudan TV ARB
+Sudarshan News-IN
+Sun Music-IN
+Sun TV ARB
+Sun TV-IN
+Sundance Channel HD PL
+Sundance Channel-PL
+Sundance ES
+Sundance TV GR
+Sundance-SP
+SundanceTV USA - East-US
+Super Channel 1-CA
+Super Channel 2-CA
+Super Ecran 2-CA
+Super Ecran 3-CA
+Super Ecran 4-CA
+Super Ecran-CA
+Super IT
+Super Polsat PL
+Super Polsat-PL
+Super RTL DE
+Super RTL-DE
+Super!-IT
+SuperRTL-DK
+SuperSonic TV-AL
+SuperSport 1-AL
+SuperSport 2-AL
+SuperSport 3-AL
+SuperSport 4-AL
+SuperSport 5-AL
+SuperSport 6-AL
+SuperTV2-HU
+SuperTennis HD-IT
+SuperTennis IT
+Superstacja PL
+Superstacja-PL
+Surya TV ARB
+Suvarna HD-IN
+SyFy [Brazil]
+Sydney11-AUL
+Syfy - Eastern Feed-US
+Syfy DE
+Syfy HD ARB
+Syfy HD FR
+Syfy HD-DE
+Syfy HD-POR
+Syfy PT
+Syfy UK
+Syfy US
+Syfy-FR
+Syria Drama ARB
+Syria Satellite Channel ARB
+T HD-AL
+T Sports Channel-TH
+TAYTV-0xa
+TBS - East-US
+TBS US
+TC Action-SWZ
+TC Cinema-SWZ
+TC Emotion-SWZ
+TC Sport 1-SWZ
+TC Sport 2-SWZ
+TC Zoom-SWZ
+TCM ARB
+TCM CINEMA-FR
+TCM Cinema FR
+TCM ES
+TCM UK
+TCM-SP
+TELE1-0xa
+TEN 1 SPORTS IN
+TEN 2 IN
+TEN ARB
+TEN Golf HD IN
+TEN-AUL
+TEVA-FR
+TEVE2 HD-TR
+TEVE2-0xa
+TF1 FR
+TF1 Series Film FR
+TF1-FR
+TFC - The Filipino Channel-PH
+TFX-FR
+TG Norba24 IT
+TG4 UK
+TG4-UK
+TGRT HABER-TR
+TGRT Haber TR
+TGRTBELGESEL-0xa
+TGRTHABER-0xa
+TIJI FR
+TIJI-FR
+TIVIBUSPOR-0xa
+TIVIBUSPOR2-0xa
+TIVIBUSPOR3-0xa
+TIVIBUSPOR4-0xa
+TJK TV-TR
+TJKTV-0xa
+TLC +2-UK
+TLC ARB
+TLC BG
+TLC Canada-CA
+TLC DE
+TLC Danmark DK
+TLC GR
+TLC HD CH
+TLC HD NL
+TLC HD-SWZ
+TLC PL
+TLC PT
+TLC SE
+TLC TR
+TLC UK
+TLC USA - Eastern-US
+TLC ex-Yu
+TLC-0xa
+TLC-BG
+TLC-DE
+TLC-DK
+TLC-EXYU
+TLC-NO
+TLC-PH
+TLC-PL
+TLC-POR
+TLC-SE
+TLC-TH
+TLC-TR
+TMB-0xa
+TMC FR
+TMC-FR
+TNN24-TH
+TNT - Eastern Feed-US
+TNT Comedy DE
+TNT ES
+TNT Film DE
+TNT Film-DE
+TNT PL
+TNT SE
+TNT Serie DE
+TNT Serie-DE
+TNT US
+TNT [Brazil]
+TNT-PL
+TNT-RO
+TNT-SP
+TO!TV PL
+TOGGO plus DE
+TPBS-TH
+TR ASIAN SERIES-TH
+TR EXP LIFE-TH
+TR INSIDE-TH
+TR MOVIE HITS-TH
+TR SPARK JUMP-TH
+TR SPARK PLAY-TH
+TRACE Urban-PL
+TRACESPORT-0xa
+TRACEURBAN-0xa
+TREK-0xa
+TRT 1 HD-TR
+TRT 1 TR
+TRT 2 HD-TR
+TRT ARABİ-TR
+TRT BELGESEL-TR
+TRT Belgesel TR
+TRT Cocuk ARB
+TRT Cocuk TR
+TRT Diyanet TR
+TRT DİYANET-TR
+TRT HABER HD-TR
+TRT Haber TR
+TRT Muzik ARB
+TRT Muzik TR
+TRT MÜZİK-TR
+TRT Okul TR
+TRT Okul-TR
+TRT SPOR HD-TR
+TRT Spor TR
+TRT Turk ARB
+TRT Turk TR
+TRT Turkiye ARB
+TRT TÜRK-TR
+TRT WORLD HD-TR
+TRT World HD TR
+TRT ÇOCUK HD-TR
+TRT-GR
+TRT1 ARB
+TRT1-0xa
+TRT2-0xa
+TRT3-0xa
+TRT4K-0xa
+TRTARABI-0xa
+TRTAVAZ-0xa
+TRTBELGESEL-0xa
+TRTCOCUK-0xa
+TRTDIYANET-0xa
+TRTHABER-0xa
+TRTKURDI-0xa
+TRTMUZIK-0xa
+TRTSPOR-0xa
+TRTSPOR2-0xa
+TRTTURK-0xa
+TRTWORLD-0xa
+TRUE 4 U-TH
+TRUE EXPLORE SCI/TRUE EXPLORE SCI-TH
+TRUE EXPLORE WILD/TRUE EXPLORE WILD-TH
+TRUE MOVIE HITS/TRUE MOVIE HITS-TH
+TSN1 US
+TSN1-CA
+TSN2 US
+TSN2-CA
+TSN3 US
+TSN3-CA
+TSN4 US
+TSN4-CA
+TSN5 US
+TSN5-CA
+TTV PL
+TTV-PL
+TURKMENELI-0xa
+TV - RTP Internacional
+TV - RTP Internacional-POR
+TV 1000 BG
+TV 1000 RO
+TV 1000 ex-Yu
+TV 1000-BG
+TV 2 Bornholm DK
+TV 2 CHARLIE-DK
+TV 2 Charlie DK
+TV 2 DANMARK-DK
+TV 2 DK
+TV 2 FRI-DK
+TV 2 Fri DK
+TV 2 Fyn DK
+TV 2 Fyn-DK
+TV 2 Lorry DK
+TV 2 Lorry-DK
+TV 2 Midt-Vest DK
+TV 2 NEWS-DK
+TV 2 News DK
+TV 2 Nord Salto DK
+TV 2 Norge-DK
+TV 2 Ostjylland DK
+TV 2 PLAY 1-DK
+TV 2 PLAY 2-DK
+TV 2 PLAY 3-DK
+TV 2 PLAY 4-DK
+TV 2 SPORT 2-NO
+TV 2 SPORT PREMIUM 2-NO
+TV 2 SPORT PREMIUM-NO
+TV 2 SPORT-DK
+TV 2 Sport DK
+TV 2 Syd DK
+TV 2 ZULU-DK
+TV 2 Zulu DK
+TV 2!??! Østjylland-DK
+TV 2/Bornholm-DK
+TV 3 SI
+TV 4 PL
+TV 4 Rijeke-EXYU
+TV 6 PL
+TV 8,5 HD-TR
+TV 8,5 TR
+TV BREIZH-FR
+TV Brasil Central [Brazil]
+TV Creta-GR
+TV DAJTO-CZ
+TV Demo ARB
+TV Drenthe NL
+TV Drenthe-NL
+TV EM TR
+TV Escola [Brazil]
+TV Evropa BG
+TV Evropa-BG
+TV FYN-DK
+TV Fatima PT
+TV Galicia ES
+TV Galicia-SP
+TV Gazeta [Brazil]
+TV Gelderland NL
+TV Globo [Brazil]
+TV Golica-SL
+TV Hram-EXYU
+TV Istok-EXYU
+TV Istra-EXYU
+TV JOJ-CZ
+TV K::CN Music 2-EXYU
+TV K::CN Svet Plus 3-EXYU
+TV Kladovo-EXYU
+TV Koper Capodistria-SL
+TV Koper SI
+TV Kraljevo i ibarske novosti-EXYU
+TV Land - Eastern-US
+TV Lux HD-BL
+TV Maribur SI
+TV Noord NL
+TV Oberfranken-DE
+TV One
+TV One CY
+TV Oost NL
+TV Oranje NL
+TV Paprika-CZ
+TV Paprika-HU
+TV Petelin SI
+TV Plus-BG
+TV Polonia ARB
+TV Prizren-AL
+TV Puls PL
+TV Puls-PL
+TV Record PT
+TV Republika PL
+TV Republika-PL
+TV Rijnmond NL
+TV Romania ARB
+TV SLO 1 HD-SL
+TV SLO 2 HD-SL
+TV SLO 3-SL
+TV SYD-DK
+TV Sandžak-EXYU
+TV Südostschweiz HD-SWZ
+TV Tetova-AL
+TV Trwam PL
+TV Trwam-PL
+TV Veseljak SI
+TV Vijesti-EXYU
+TV West NL
+TV West-NL
+TV Šibenik-EXYU
+TV+ BG
+TV+-BG
+TV/MIDT-VEST-DK
+TV1 ex-Yu
+TV1-EXYU
+TV10 SE
+TV10-SE
+TV100-0xa
+TV100-GR
+TV1000 Action-RU
+TV1000 Comedy-RU
+TV1000 Megahit HD-RU
+TV1000 Premium-RU
+TV1000 Русское кино-RU
+TV1000-BG
+TV1000-RO
+TV1000-RU
+TV12 SE
+TV12-SE
+TV2 Livsstil-NO
+TV2 Nyhetskanalen-NO
+TV2 Syd-DK
+TV2 TR
+TV2 Zebra-NO
+TV2 Øst-DK
+TV2-HU
+TV2-NO
+TV2/Nord Salto-DK
+TV2000 IT
+TV2000-IT
+TV24 HD CH
+TV24 HD-SWZ
+TV25 HD CH
+TV25 HD-SWZ
+TV3 Cat ES
+TV3 Cat-SP
+TV3 DK
+TV3 EE
+TV3 ES
+TV3 HD-SE
+TV3 Max DK
+TV3 Max-DK
+TV3 Norge-NO
+TV3 Puls DK
+TV3 Puls-DK
+TV3 Russia ARB
+TV3 SE
+TV3 Sport
+TV3 Sport 1 DK
+TV3 Sport 2 DK
+TV3 Sport HD SE
+TV3 Sport HD-SE
+TV3 Sport-DK
+TV3 UK
+TV3+ DK
+TV3+-DK
+TV3-DK
+TV3-NO
+TV3-SP
+TV4 DK
+TV4 Fakta SE
+TV4 Fakta XL SE
+TV4 Fakta-SE
+TV4 Film SE
+TV4 Film-SE
+TV4 Guld SE
+TV4 Guld-SE
+TV4 HD-NO
+TV4 Komedi SE
+TV4 SE
+TV4 Sport SE
+TV4 Sverige-DK
+TV4-0xa
+TV4-PL
+TV4-SE
+TV41-0xa
+TV5 MONDE-TR
+TV5 Monde-RO
+TV5-TH
+TV538 NL
+TV5MONDE Europe-DK
+TV5MONDE FR
+TV5MONDE Maghreb Orient HD ARB
+TV5MONDE-0xa
+TV5MONDE-FR
+TV6 DK
+TV6 EE
+TV6 SE
+TV6-NO
+TV6-PL
+TV6-SE
+TV7 FI
+TV7+-FIN
+TV7-FIN
+TV8 IT
+TV8 Montblanc FR
+TV8 SE
+TV8 TR
+TV8-0xa
+TV8-IT
+TV8-SE
+TV8-TR
+TV8.5-0xa
+TVA (CFTM) Montréal-CA
+TVA Sports-CA
+TVC 1 PT
+TVC 2 PT
+TVC 3 PT
+TVC 4 PT
+TVC1-POR
+TVC2-POR
+TVC3-POR
+TVC4-POR
+TVCine 3-POR
+TVE Internacional-SP
+TVE International ARB
+TVI 24 PT
+TVI 24-POR
+TVI Ficcao PT
+TVI Ficção-POR
+TVI PT
+TVI Reality PT
+TVI Reality-POR
+TVI-POR
+TVLIMBURG
+TVM HD-MLT
+TVM2 HD-MLT
+TVN 24 Biznes i Swiat PL
+TVN 24 PL
+TVN 24-PL
+TVN 7 HD-PL
+TVN 7 PL
+TVN Fabula HD-PL
+TVN Fabula PL
+TVN Meteo Active PL
+TVN PL
+TVN STYLE HD-PL
+TVN Style PL
+TVN Turbo PL
+TVN Turbo-PL
+TVN-PL
+TVN24 BiS HD-PL
+TVNET HD-TR
+TVNET-0xa
+TVNorge-NO
+TVO (TV Ontario)-CA
+TVO HD-SWZ
+TVP 1 HD PL
+TVP 1-PL
+TVP 2 HD PL
+TVP 2 HD-PL
+TVP 3 Bialystok PL
+TVP 3 Bydgoszcz PL
+TVP 3 Gdansk PL
+TVP 3 Gorzow Wielkopolski PL
+TVP 3 Katowice PL
+TVP 3 Kielce PL
+TVP 3 Krakow PL
+TVP 3 Lodz PL
+TVP 3 Lublin PL
+TVP 3 Olsztyn PL
+TVP 3 Opole PL
+TVP 3 PL
+TVP 3 Poznan PL
+TVP 3 Rzeszow PL
+TVP 3 Szczecin PL
+TVP 3 Warszawa PL
+TVP 3 Wroclaw PL
+TVP 3-PL
+TVP ABC PL
+TVP ABC-PL
+TVP HD PL
+TVP Historia PL
+TVP Historia-PL
+TVP Info PL
+TVP Info-PL
+TVP Kultura PL
+TVP Kultura-PL
+TVP Polonia PL
+TVP Polonia-PL
+TVP Rozrywka PL
+TVP Rozrywka-PL
+TVP Seriale PL
+TVP Seriale-PL
+TVP Sport HD PL
+TVP Sport-PL
+TVR 1 RO
+TVR 1-RO
+TVR 2 RO
+TVR 2-RO
+TVR 3 RO
+TVR 3-RO
+TVR Cluj RO
+TVR Craiova RO
+TVR HD RO
+TVR Iasi RO
+TVR International RO
+TVR Targu Mures RO
+TVR Timisoara RO
+TVS PL
+TVS-PL
+TVSeries PT
+Tallinna TV EE
+Taraf TV RO
+Taraf TV-RO
+Teen Nick IL
+Tele 1 HD-SWZ
+Tele 5 DE
+Tele 5-DE
+Tele 5-PL
+Tele Bärn HD-SWZ
+Tele Color-IT
+Tele Liban ARB
+Tele M1 HD CH
+Tele M1 HD-SWZ
+Tele Top HD CH
+Tele Top HD-SWZ
+Tele-Quebec (CIVM) Montreal-CA
+TeleClub Cinema CH
+TeleClub Discovery Channel HD CH
+TeleClub Prime CH
+TeleClub Sport 1 CH
+TeleClub Sport 2 CH
+TeleClub Star CH
+TeleToonPlus FR
+TeleToonPlus Plus1 FR
+TeleZüri HD-SWZ
+Telebasel HD CH
+Telebasel HD-SWZ
+Telecinco ES
+Telecinco-SP
+Telecine Action [Brazil]
+Telecine Cult [Brazil]
+Telecine Fun [Brazil]
+Telecine Pipoca [Brazil]
+Telecine Premium [Brazil]
+Teledeporte-SP
+Telenovela Channel-PH
+Teleromagna-IT
+Teletoon - East-CA
+Teletoon - West-CA
+Televizija 5 HD ex-Yu
+Telewizja Pomerania-PL
+Telka-CZ
+Ten 1-IN
+Ten 2-IN
+Tenis Premium 1 HD PL
+Tenis Premium 2 HD PL
+Teva FR
+Tez TV IN
+The Box UK
+The Cooking Channel-US
+The Fishing & Hunting Channel HD-RO
+The Good Life IL
+The Good Life IL
+The Tennis Channel-US
+The Vault UK
+The Voice BG
+The Voice-BG
+The Weather Channel-US
+Thrill-PH
+Tiankov Folk BG
+Tiankov Folk-BG
+Tiankov TV-BG
+Tiba ARB
+Times Now ARB
+Times Now HD-IN
+Tiny Pop UK
+Tip TV-AL
+Tivibu Spor 1 TR
+Tivibu Spor 2 TR
+Tivibu Spor 3 TR
+Tivibu Spor 4 TR
+Tlc-GR
+To!TV-PL
+Toggo+-DE
+Toonami FR
+Toonami-FR
+Top Channel-AL
+Top Crime IT
+Top Crime-IT
+Top News-AL
+Torino Channel IT
+Torino Channel-IT
+Toros TV ES
+Toros TV HD-POR
+Toros TV PT
+Toros TV-SP
+Toute lhistoire FR
+Toute lhistoire-FR
+Toyor Baby ARB
+Toyour Al Jannah ARB
+Trace Africa FR
+Trace Africa-FR
+Trace Sport Stars FR
+Trace Sports-FR
+Trace Tropical FR
+Trace Tropical-FR
+Trace Urban HD FR
+Trace Urban HD-POR
+Trace Urban HD-SE
+Trace Urban PL
+Trace Urban PT
+Trace Urban-FR
+Travel ARB
+Travel Channel BG
+Travel Channel Deutschland DE
+Travel Channel HD GR
+Travel Channel HD PL
+Travel Channel HD-BG
+Travel Channel HD-SE
+Travel Channel IL
+Travel Channel IL
+Travel Channel PT
+Travel Channel RO
+Travel Channel SE
+Travel Channel UK
+Travel Channel-AL
+Travel Channel-BG
+Travel Channel-DE
+Travel Channel-DK
+Travel Channel-EXYU
+Travel Channel-HU
+Travel Channel-IS
+Travel Channel-PH
+Travel Channel-POR
+Travel TV BG
+Travel TV-BG
+Travel US - East-US
+Travel channel-RU
+Travelxp HD-IN
+Treehouse-CA
+Trek FR
+Trek-FR
+Tribuna-AL
+Tring Action-AL
+Tring Comedy-AL
+Tring Fantasy-AL
+Tring History-AL
+Tring Kids-AL
+Tring Life-AL
+Tring Max-AL
+Tring Planet-AL
+Tring Shqip-AL
+Tring Super-AL
+Tring Tring-AL
+Tring World-AL
+Trinitas TV-RO
+True Crime UK
+True Entertainment UK
+True Movies 1 UK
+True Movies 2 UK
+True Series/True Series-TH
+Tunisia 1 ARB
+Tv2-TR
+TvBreizh FR
+Tvem-TR
+Twoja.TV PL
+TéléToon+-FR
+Türkmax-TR
+U TV RO
+UA-Music Box UA-RU
+UA-Матч!-RU
+UATV-0xa
+UCANKUS-0xa
+UHBO Signature (HBO 3) - Eastern-US
+UK-Investigation Discovery-UK
+ULKETV-0xa
+ULUSAL KANAL-TR
+ULUSALTV-0xa
+US-Cinemax - Pacific Feed
+US-Discovery Channel (US) - Eastern Feed
+US-Do It Yourself Network (USA) - East
+US-FX Networks East Coast
+US-FX Networks West Coast
+US-Golf Channel USA
+US-MLB Network
+US-NBC HD New York
+US-NBC Sports Network
+US-Oprah Winfrey Network USA Eastern
+US-Paramount Network USA - Eastern Feed
+US-RFD-TV
+US-Science
+US-Starz - Eastern
+US-Starz - Pacific
+US-Starz Cinema - Eastern
+US-Starz Edge - Eastern
+US-Starz Edge West
+US-The Cooking Channel
+US-The Weather Channel
+US-VH1 (West)
+US-VH1 - Eastern Feed
+US-willow-cricket
+USA Network - East Feed-US
+USA Network HD US
+USHUAIA TV-FR
+UTV HD-RO
+UTV Movies Int IN
+UTV Movies International-IN
+UTV Movies-IN
+UTV UK
+UTV-RU
+Udaya TV ARB
+Ulke TV TR
+Ultra Hits ARB
+Ultra Nature [4K]-FR
+Ultra film ARB
+Universal Channel DE
+Universal Channel HD PL
+Universal Channel UK
+Universal Channel-PL
+Universal Kids-US
+Univision - Eastern Feed-US
+Urdu 1 ARB
+Ushuaia TV FR
+VH1 - Eastern Feed-US
+VH1 Classic DE
+VH1 Classic IL
+VH1 Classic US
+VH1 ES
+VH1 IL
+VH1 PL
+VH1 PT
+VH1 UK
+VH1 UK-UK
+VH1 US
+VH1-0xa
+VH1-PL
+VH1-POR
+VH1-SE
+VH1-SP
+VIASAT TV1000-EXYU
+VIASATEXPLORE-0xa
+VIASATHISTORY-0xa
+VIASATNATURE-0xa
+VIER
+VIER BE
+VIJF
+VIJF BE
+VINKOVAČKA TV-EXYU
+VIVA PL
+VIVA Polska-PL
+VIVA UK
+VM Sport Extra 1 HD-UK
+VM Sport Extra 2 HD-UK
+VM Sport Extra 3 HD-UK
+VM Sport Extra 4 HD-UK
+VM Sport Extra 5 HD-UK
+VM Sport Extra 6 HD-UK
+VOA News IR
+VOICE TV-TH
+VOO Sport 1-BL
+VOO Sport World 1-BL
+VOO Sport World 2-BL
+VOO Sport World 3-BL
+VOX DE
+VOX DK
+VOX Music TV PL
+VOX Music TV-PL
+VOX-DK
+VOX-NO
+VTK BG
+VTM Kzoom BE
+VTV BG
+VTV SI
+VTV Velenje-SL
+VTV-BG
+Valentino Music HD-EXYU
+Varaždinska Televizija-EXYU
+Vas kanal SI
+Vavoom HD-EXYU
+Venus Adult
+Veronica HD / Disney XD NL
+Veronica/Disney XD-NL
+Versus US
+Vh1 ARB
+Vh1-DK
+Viajar ES
+Viajar-SP
+Viasat 3 TV -HU
+Viasat 4-NO
+Viasat 4-SE
+Viasat 6 TV -HU
+Viasat Explore ex-Yu
+Viasat Explore-EXYU
+Viasat Explore-NO
+Viasat Explore-RU
+Viasat Explorer SE
+Viasat Explorer-CZ
+Viasat Explorer-DK
+Viasat Explorer-EXYU
+Viasat Explorer-RO
+Viasat Explorer-SE
+Viasat Film Action SE
+Viasat Film Action-DK
+Viasat Film Action-NO
+Viasat Film Action-SE
+Viasat Film Comedy SE
+Viasat Film Family SE
+Viasat Film Family-DK
+Viasat Film Family-NO
+Viasat Film Family-SE
+Viasat Film Hits SE
+Viasat Film Hits-DK
+Viasat Film Hits-SE
+Viasat Film Premiere HD-DK
+Viasat Film Premiere SE
+Viasat Film Premiere-SE
+Viasat Film-DK
+Viasat Fotball-NO
+Viasat Fotboll SE
+Viasat Fotboll-SE
+Viasat Golf SE
+Viasat Golf-DK
+Viasat Golf-NO
+Viasat Golf-SE
+Viasat HD-CZ
+Viasat History GR
+Viasat History HD-DK
+Viasat History HD-TR
+Viasat History RO
+Viasat History SE
+Viasat History ex-Yu
+Viasat History-CZ
+Viasat History-DK
+Viasat History-EXYU
+Viasat History-GR
+Viasat History-HU
+Viasat History-RO
+Viasat History-RU
+Viasat History-SE
+Viasat Hockey SE
+Viasat Hockey-SE
+Viasat Motor SE
+Viasat Motor-NO
+Viasat Motor-SE
+Viasat Nature SE
+Viasat Nature ex-Yu
+Viasat Nature-DK
+Viasat Nature-EXYU
+Viasat Nature-NO
+Viasat Nature-RO
+Viasat Nature-RU
+Viasat Nature-SE
+Viasat Nature/Crime-SE
+Viasat Series SE
+Viasat Series-SE
+Viasat Sport 1-NO
+Viasat Sport 2-NO
+Viasat Sport 3-NO
+Viasat Sport Baltic EE
+Viasat Sport Plus-NO
+Viasat Sport Premium HD SE
+Viasat Sport Premium-SE
+Viasat Sport SE
+Viasat Sport-SE
+Viasat Ultra HD-SE
+Viceland FR
+Viceland HD NL
+Viceland UK
+Viceland-NL
+Village Cinema HD GR
+Village Cinema HD-GR
+Vintage TV UK
+Vision Sweden-SE
+Visjon Norge-NO
+Vitaya
+Vitaya BE
+Viva +-IS
+Viva - Comedy Central DE
+Viva IL
+Viva IL
+Viva Plus IL
+Viva Plus IL
+Viva-IS
+Viva-UK
+Vizion Plus-AL
+Vosges TV FR
+Vosges TV-FR
+Vouli GR
+Vox-DE
+Voyage HD FR
+Voyage-FR
+W UK
+W9 FR
+W9-FR
+WAPA America-US
+WARNER-TH
+WAU-CZ
+WDR DE
+WDR Fernsehen-DE
+WE (Womens Entertainment) - Eastern-US
+WELT-DE
+WGN America - Eastern Feed-US
+WOA ARY Digital
+WOA ARY Musik
+WOA ARY News
+WOA ARY Zauq
+WOA Aaj News
+WOA B4U Aflam-IN
+WOA B4U Plus-IN
+WOA Dawn News
+WOA Dunya News
+WOA GMA Life-PH
+WOA GMA News-PH
+WOA GMA Pinoy-PH
+WOA Geo News
+WOA Hum Sitaray
+WOA Khyber News
+WOA Urdu 1
+WORKPOINT-TH
+WOS NL
+WP PL
+WP-PL
+WPIX New York (SUPERSTATION)-US
+WTK PL
+WWE Net Pak US
+Wanasah ARB
+Warner TV-FR
+Warner TV-PH
+Warner TV-TH
+Water Planet-PL
+Weather Network-CA
+Wellbeing Network PL
+Welt der Wunder DE
+Welt der Wunder TV-DE
+Weo TV FR
+WiZ TV-IS
+Wiz IL
+Workpoint TV-TH
+World Fishing Network-CA
+Wéo-FR
+XITE DE
+XITE HD-NL
+YABAN TV HD-TR
+YABANTV-0xa
+YES 5+ Gold-IS
+YES 5STARS-IS
+YES Ego Total-IS
+YES Food Channel-IS
+YES Good life-IS
+YES Home +-IS
+YES Mikan-IS
+YES NAT GEO WILD-IS
+YES NATIONAL GEOGRAPHIC-IS
+YES Network-US
+YES ONE-IS
+YES SPORT 3-IS
+YES SPORT 4-IS
+YES Sport 1-IS
+YES Sport 5 Gold-IS
+YES Sport 5+-IS
+YES Sport 5-IS
+YES Travel Channel-IS
+YES Viva +-IS
+YES Viva-IS
+YESTERDAY UK
+YTV (Youth Television) - East-CA
+YTV (Youth Television) - Pacific-CA
+Yes 1 HD IL
+Yes 2 HD IL
+Yes 3 HD IL
+Yes 4 HD IL
+Yes 5 HD IL
+Yes Action IL
+Yes Baby IL
+Yes Comedy IL
+Yes Comedy IL
+Yes Docu IL
+Yes Drama IL
+Yes Israeli IL
+Yes News IL
+Yes Store IL
+Yes TV(Alberta)-CA
+Yes TV(Ontario)-CA
+Yle TV1 FI
+Yle TV1-FIN
+Yle TV2 FI
+Yle TV2-FIN
+Yle Teema & Fem-FIN
+Yle Teema FI
+Yoopa HD-CA
+YourTV UK
+Z ETC Bollywood ARB
+Z ETC Bollywood-IN
+Z HD-CA
+Z1 ex-Yu
+Z1-EXYU
+ZAD TV ARB
+ZDF ARB
+ZDF DE
+ZDF-DE
+ZDF-DK
+ZDFinfo DE
+ZDFinfo-DE
+ZDFneo DE
+ZDFneo-DE
+ZEE Bangla IN
+ZEE Telugu IN
+ZES
+ZING ARB
+ZOOM TV PL
+ZOOM TV-PL
+ZOOM-IN
+ZOOM-IS
+ZU TV-RO
+Zdrava televizija-EXYU
+Zee Action ARB
+Zee Action IN
+Zee Action-IN
+Zee Aflam ARB
+Zee Alwan ARB
+Zee Anmol Cinema-IN
+Zee Bangla ARB
+Zee Bangla-IN
+Zee Bollywood ARB
+Zee Bollywood-IN
+Zee Business ARB
+Zee Business IN
+Zee Business-IN
+Zee Cinema ARB
+Zee Cinema HD IN
+Zee Cinema Inter IN
+Zee Cinema International ARB
+Zee Cinema UK IN
+Zee Cinema-IN
+Zee Classic IN
+Zee Classic-IN
+Zee ETC HD IN
+Zee Marathi 1 IN
+Zee Marathi ARB
+Zee News ARB
+Zee News-IN
+Zee One DE
+Zee One-DE
+Zee Punjab Haryana Himachal ARB
+Zee Punjabi HP Haryana-IN
+Zee Punjabi IN
+Zee Salaam ARB
+Zee Smile USA-IN
+Zee TV ARB
+Zee TV HD ARB
+Zee TV HD IN
+Zee TV HD-IN
+Zee TV IN
+Zee Talkies-IN
+Zee Tamil ARB
+Zee Tamil-IN
+Zee Zing IN
+Zee etc-IN
+Zest TV PL
+Zeste-CA
+Ziggo Sport Docu HD-NL
+Ziggo Sport Extra HD-NL
+Ziggo Sport Extra1 NL
+Ziggo Sport Extra2 NL
+Ziggo Sport Golf HD NL
+Ziggo Sport Golf-NL
+Ziggo Sport HD NL
+Ziggo Sport Racing HD NL
+Ziggo Sport Racing HD-NL
+Ziggo Sport Select HD NL
+Ziggo Sport Select-NL
+Ziggo Sport Voetbal HD NL
+Ziggo Sport Voetbal-NL
+Ziggo Sport-NL
+Ziggo TV HD NL
+Zing-IN
+Zing-UK
+Zoom IL
+Zoom TV IN
+[BA] HRT Int.-EXYU
+[BA] History Channel 2-EXYU
+[BA] Izvorna TV-EXYU
+[BA] Sevdah TV-EXYU
+[BA] TNT Kids-EXYU
+[BA] Televizija 5-EXYU
+[HR] Discovery Channel-EXYU
+[HR] TV Duga + SAT-EXYU
+[ME] Nova M-EXYU
+[RS] Pink Ha Ha-EXYU
+abc wwsb sarsota fl hd-US
+abc-wpvi-philadelphia-pa-hd-US
+actionmax eastern-US
+adult swim east-US
+ale kino+-PL
+antenna kzjodt3 seattle wa-US
+arte DE
+arte-DE
+at the races UK
+axs tv usa hd-US
+bTV Action BG
+bTV Action HD BG
+bTV Action HD-BG
+bTV Action-BG
+bTV BG
+bTV Cinema BG
+bTV Cinema-BG
+bTV Comedy BG
+bTV Comedy-BG
+bTV HD BG
+bTV HD-BG
+bTV Lady BG
+bTV Lady-BG
+bTV-BG
+be3 UK
+beIN BOX OFFICE 1 HD-TR
+beIN BOX OFFICE 1 TR
+beIN BOX OFFICE 2 HD-TR
+beIN BOX OFFICE 2 TR
+beIN BOX OFFICE 3 HD-TR
+beIN BOX OFFICE 3 TR
+beIN GURME HD TR
+beIN GURME HD-TR
+beIN HOME and ENTERTAINMENT HD TR
+beIN LaLiga 1 ES
+beIN LaLiga 2 ES
+beIN LaLiga ES
+beIN MOVIES ACTION 2 HD TR
+beIN MOVIES ACTION 2 HD-TR
+beIN MOVIES ACTION HD TR
+beIN MOVIES ACTION HD-TR
+beIN MOVIES COMEDY HD TR
+beIN MOVIES FAMILY HD TR
+beIN MOVIES FAMILY HD-TR
+beIN MOVIES FESTIVAL HD TR
+beIN MOVIES PREMIERE 2 HD TR
+beIN MOVIES PREMIERE 2 HD-TR
+beIN MOVIES PREMIERE HD TR
+beIN MOVIES PREMIERE HD-TR
+beIN MOVIES STARS HD TR
+beIN MOVIES STARS HD-TR
+beIN MOVIES TURK HD TR
+beIN MOVIES TURK HD-TR
+beIN Max 1 ES
+beIN SERIES COMEDY HD TR
+beIN SERIES COMEDY HD-TR
+beIN SERIES DRAMA HD TR
+beIN SERIES DRAMA HD-TR
+beIN SERIES SCI-FI HD TR
+beIN SERIES SCI-FI HD-TR
+beIN SERIES VICE HD TR
+beIN SERIES VICE HD-TR
+beIN SPORTS  ES
+beIN SPORTS 1 FR
+beIN SPORTS 1-TR
+beIN SPORTS 2 FR
+beIN SPORTS 2-TR
+beIN SPORTS 3 FR
+beIN SPORTS 3-FR
+beIN SPORTS 3-TR
+beIN SPORTS 4-TR
+beIN SPORTS HABER HD-TR
+beIN SPORTS HD 1 TR
+beIN SPORTS HD 2 TR
+beIN SPORTS HD 3 TR
+beIN SPORTS HD 4 TR
+beIN SPORTS MAX 1 HD-TR
+beIN SPORTS MAX 10 FR
+beIN SPORTS MAX 2 HD-TR
+beIN SPORTS MAX 4 FR
+beIN SPORTS MAX 4-FR
+beIN SPORTS MAX 5 FR
+beIN SPORTS MAX 5-FR
+beIN SPORTS MAX 6 FR
+beIN SPORTS MAX 6-FR
+beIN SPORTS MAX 7 FR
+beIN SPORTS MAX 7-FR
+beIN SPORTS MAX 8 FR
+beIN SPORTS MAX 8-FR
+beIN SPORTS MAX 9 FR
+beIN SPORTS MAX 9-FR
+beIN Sport HD US
+beIN Sports 1 ARB
+beIN Sports 10 ARB
+beIN Sports 11 HD ARB
+beIN Sports 12 HD ARB
+beIN Sports 13 HD ARB
+beIN Sports 14 HD ARB
+beIN Sports 15 HD ARB
+beIN Sports 16 HD ARB
+beIN Sports 17 HD ARB
+beIN Sports 2 ARB
+beIN Sports 3 ARB
+beIN Sports 3-PH
+beIN Sports 4 ARB
+beIN Sports 5 ARB
+beIN Sports 6 ARB
+beIN Sports 7 ARB
+beIN Sports 8 ARB
+beIN Sports 9 ARB
+beIN Sports ARB
+beIN Sports Global ARB
+beIN Sports News ARB
+beIN İZ HD TR
+beIN İZ HD-TR
+bet hd eastern feed-US
+bet her-US
+bet soul-US
+bounce network-US
+cbs san diego ca hd-US
+cbs-eastern/1225-US
+cbs-pacific/9907-US
+cielo HD IT
+cinemax-pacific-hd/3568-US
+cmt-us-eastern-feed-US
+cnbc-world-CA
+cnn-international-north-america-US
+cozi tv wtaetv2 pittsburgh pa hd-US
+crave1-east/72
+crave4/320
+cspan-3-US
+ctv-network-CA
+cw-network-hd/20359-CA
+cw-wccb-charlotte-nc-hd-US
+cw11-US
+discovery velocity hd-US
+disney channel-CA
+disney juniora-CA
+dk4-DK
+dmc Drama ARB
+dmc HD ARB
+dmc Sport ARB
+ducktv-CZ
+eSportsTV HD-SE
+een BE
+eir Sport 1 UK
+eir Sport 1-UK
+eir Sport 2 UK
+eir Sport 2-UK
+epix east-US
+euronews DE
+euronews FR
+evenaar
+fight network canada-US
+film+-HU
+fox eastern-US
+fox sports ohio cincinnati 2 hd-US
+fox wfxt boston ma hd-US
+fox wpmt harrisburg pa-US
+fox-sports-west-CA
+fx-networks west coast-US
+fxx usa eastern-US
+game show network east-hd-US
+gotv-DE
+h?rTV-HU
+hbo west hd-US
+history-2-canada-US
+hr-fernsehen-DE
+iConcerts-CZ
+independent film channel-US
+kabel eins DE
+kabel eins Doku DE
+kuchnia+-PL
+kunskapskanalen-SE
+m1-HU
+m2 / Petőfi TV-HU
+mc-danceedm/14596-US
+mc-hiphop-and-rb/14577-US
+mc-pop-hits/14567-US
+mc-rap/14597-US
+mc-rock/14561-US
+metv network-US
+mh1 (Music)-IN
+mh1 Shraddha-IN
+mnt watl atlanta ga-US
+movieplex eastern-US
+mtv 2 east-US
+mtv 2 west hd-US
+mtv live-US
+music-choice/20168-US
+musicAL-AL
+n-tv DE
+nSport-PL
+nSportPlus HD PL
+nat geo wild-CA
+nba-league-pass-1/15355-US
+nbc ketk east texas tx-US
+nbc wcau philadelphia pa-US
+nbc wcbd charleston sc-US
+nbc-sports-philadelphia-hd-US
+nbc-wcnc-charlotte-nc-US
+nbc-wlwt-cincinnati-oh/1362-US
+nbc-wrc-district-of-columbia-US
+new england sports network-US
+new-england-sports-network-plus-US
+nickelodeon usa east feed-US
+nickelodeon usa pacific feed-US
+nickelodeon-DE
+nl.NPO 1 HD-NL
+nl.NPO 2 HD-NL
+nl.NPO 3 HD-NL
+nl.mtv-NL
+nl.net5-NL
+nl.rtl4-NL
+nl.rtl5-NL
+nl.rtl7-NL-NL
+nl.rtl8-NL
+nl.rtlcrime-NL
+nl.rtlz-NL
+nl.sbs6-NL
+nl.ziggosportextra1-NL
+outermax eastern-US
+pac12 arizona-US
+pac12 bay area-US
+pac12 mountain hd-US
+pac12 network-US
+pac12 oregon hd-US
+pac12 washington-US
+pbs kids kctstv2 seattle wa-US
+pbs west palm beach fl-US
+pbs wlrn miami fl-US
+pbs-network-hd-eastern-CA
+pbs-network-hd-eastern/4259-US
+serieclub FR
+serieclub-FR
+sixx-DE
+smile of a child ktwcld3 crockett tx-US
+smithsonian channel usa-US
+sony movie channel-US
+sport1+ HD-DE
+sportdigital DE
+sportdigital-DE
+sportsnet east-US
+sportsnet one-US
+sportsnet ontario-US
+sportsnet west-US
+sportsnet world-US
+stations/sportsnet three hundred sixty-US
+tagesschau 24 DE
+teleTOON+ HD/HYPER+ HD-PL
+teleTOONPlus HD PL
+telemundo eastern feed-US
+telemundo pacific feed-US
+the blaze-US
+the countr network-US
+tnt-pacific-feed-US
+tru TV UK
+truTV USA - Eastern-US
+turner classic movies usa-US
+tv5-international-east/23
+v-cfjp-montrealqc-hd/5940-CA
+viasat-sport-extra-SE
+vtm
+vtm BE
+wPolsce.pl-PL
+wfnworld fishing network-US
+wgn chicago local-US
+wjla 247 news-US
+yes 1 HD-IS
+yes 1 IL
+yes 2 HD-IS
+yes 2 IL
+yes 3 HD-IS
+yes 3 IL
+yes 4 HD-IS
+yes 4 IL
+yes 5 HD-IS
+yes Action HD-IS
+yes Baby IL
+yes Comedy HD-IS
+yes Docu HD-IS
+yes Docu IL
+yes Drama HD-IS
+yes Israeli Cinema-IS
+yes Oh HD-IS
+yes Sport 1-IS
+yes Sport 2 HD-IS
+yes stars Action HD-IS
+yes בייבי-IS
+ÜLKE TV-TR
+één HD-BL
+ČT1-CZ
+ČT2-CZ
+ČT24-CZ
+İdman Azerbaycan-TR
+İz Tv Hd-TR
+Šport TV
+Šport TV 2
+Šport TV 3
+Ήπειρος TV1-GR
+ΕΡΤ1-GR
+ΕΡΤ2-GR
+ΕΡΤ3-GR
+Κανάλι της Βουλής-GR
+Κρήτη TV-GR
+Μακεδονία TV-GR
+Νέα Τηλεόραση Κρήτης-GR
+ΣΚΑΪ-GR
+БНТ HD-BG
+България 24-BG
+Домашние животные-RU
+Звезда-RU
+Индия ТВ-RU
+Калейдоскоп ТВ-RU
+Крик ТВ-RU
+Крик-ТВ-RU
+МАТЧ! АРЕНА-RU
+МАТЧ! ИГРА-RU
+МАТЧ! НАШ СПОРТ-RU
+МАТЧ! ФУТБОЛ 1 HD-RU
+МАТЧ! ФУТБОЛ 2-RU
+Мир-RU
+Моя Планета-RU
+Моя планета-RU
+НАШЕ НОВОЕ КИНО-RU
+НТВ+ Футбол 1 HD-RU
+НТВ+ Футбол 2 HD-RU
+НТВ+ Футбол 3 HD-RU
+НТВ-RU
+Надия-RU
+Наш футбол-RU
+Первый канал (Россия)-RU
+РЕН ТВ-RU
+РОДНОЕ КИНО-RU
+Россия 1-RU
+Россия 24-RU
+Русский роман-RU
+Союз-RU
+Спас ТВ-RU
+ТВ Центр-RU
+ТВ-3-RU
+ТНТ-RU
+Футбол 1-RU
+Футбол 2-RU
+Черно море (Варна)-BG
+Шансон ТВ (Ямал)-RU
+Шансон-TB-RU
+הוט בידור ישראלי-IS
+ספורט 5 לייב שידור חי-IS
+ערוץ 8 שידור חי-IS
+ערוץ 9-IS
+ערוץ KIDZ-IS
+ערוץ one שידור חי-IS
+ערוץ דיסקברי-IS
+ערוץ נשיונל גיאוגרפיק-IS
+ערוץ ספורט-IS
+ช่อง 5/CH 5-TH
+ทรู พรีเมียร์ ฟุตบอล เอชดี 1/True Premier Football HD1-TH
+ทรู พรีเมียร์ ฟุตบอล เอชดี 2/True Premier Football HD2-TH
+ทรู พรีเมียร์ ฟุตบอล เอชดี 3/True Premier Football HD3-TH
+ทรู พรีเมียร์ ฟุตบอล เอชดี 4/True Premier Football HD4-TH
+ทรู พรีเมียร์ ฟุตบอล เอชดี 5/True Premier Football HD5-TH
+นิวทีวี/New TV-TH
+เอ็มคอต คิดส์ แอนด์ แฟมิลี/MCOT Kids & Family-TH
+ไทยรัฐ ทีวี HD/Thairath TV HD-TH
+ไทยไทย/Thai Thai Channel-TH

@@ -1,0 +1,1257 @@
+[
+ {
+   "chan_name": "20",
+   "epg_code": "20Mediaset.it",
+   "popularity": 20332
+ },
+ {
+   "chan_name": "7goldtelepadova.tv",
+   "epg_code": "7goldtelepadova.it",
+   "popularity": 2
+ },
+ {
+   "chan_name": "Alice",
+   "epg_code": "Alice.it",
+   "popularity": 4871
+ },
+ {
+   "chan_name": "Antenna3",
+   "epg_code": "Antenna3.it",
+   "popularity": 451
+ },
+ {
+   "chan_name": "Auto Moto TV",
+   "epg_code": "AutoMotoTV.it",
+   "popularity": 3563
+ },
+ {
+   "chan_name": "Baby TV",
+   "epg_code": "BabyTV.it",
+   "popularity": 6647
+ },
+ {
+   "chan_name": "BFC",
+   "epg_code": "BFC.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Blaze HD",
+   "epg_code": "Blaze.it",
+   "popularity": 14086
+ },
+ {
+   "chan_name": "Boing",
+   "epg_code": "Boing.it",
+   "popularity": 10963
+ },
+ {
+   "chan_name": "Boing +1",
+   "epg_code": "BoingPlus1.it",
+   "popularity": 1020
+ },
+ {
+   "chan_name": "Boomerang",
+   "epg_code": "Boomerang.it",
+   "popularity": 4441
+ },
+ {
+   "chan_name": "Boomerang +1",
+   "epg_code": "BoomerangPlus1.it",
+   "popularity": 361
+ },
+ {
+   "chan_name": "Caccia",
+   "epg_code": "Caccia.it",
+   "popularity": 14383
+ },
+ {
+   "chan_name": "Canale 5",
+   "epg_code": "Canale5.it",
+   "popularity": 366553
+ },
+ {
+   "chan_name": "Canale 5 +1",
+   "epg_code": "Canale5Plus1.it",
+   "popularity": 15977
+ },
+ {
+   "chan_name": "Cartoon +1",
+   "epg_code": "CartoonPlus1.it",
+   "popularity": 797
+ },
+ {
+   "chan_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.it",
+   "popularity": 10124
+ },
+ {
+   "chan_name": "Cartoonito",
+   "epg_code": "Cartoonito.it",
+   "popularity": 32692
+ },
+ {
+   "chan_name": "Case Design Stili",
+   "epg_code": "CaseDesignStili.it",
+   "popularity": 337
+ },
+ {
+   "chan_name": "CI Crime+Investigation HD",
+   "epg_code": "CrimeInvestigation.it",
+   "popularity": 13836
+ },
+ {
+   "chan_name": "Cielo HD",
+   "epg_code": "Cielo.it",
+   "popularity": 35065
+ },
+ {
+   "chan_name": "Cine 34",
+   "epg_code": "Cine34.it",
+   "popularity": 17190
+ },
+ {
+   "chan_name": "Class CNBC",
+   "epg_code": "ClassCNBC.it",
+   "popularity": 118
+ },
+ {
+   "chan_name": "Class Horse",
+   "epg_code": "ClassHorse.it",
+   "popularity": 1413
+ },
+ {
+   "chan_name": "Classica",
+   "epg_code": "Classica.it",
+   "popularity": 3963
+ },
+ {
+   "chan_name": "ClassTVModa.it",
+   "epg_code": "ClassTVModa.it",
+   "popularity": 114
+ },
+ {
+   "chan_name": "Comedy +1",
+   "epg_code": "ComedyPlus1.it",
+   "popularity": 540
+ },
+ {
+   "chan_name": "Comedy Central",
+   "epg_code": "ComedyCentral.it",
+   "popularity": 9103
+ },
+ {
+   "chan_name": "DAZN 1 HD",
+   "epg_code": "DAZN209.it",
+   "popularity": 26442
+ },
+ {
+   "chan_name": "DAZN 2 HD",
+   "epg_code": "DAZN212.it",
+   "popularity": 6403
+ },
+ {
+   "chan_name": "DeA Junior",
+   "epg_code": "DEAjr.it",
+   "popularity": 7150
+ },
+ {
+   "chan_name": "DeAKids",
+   "epg_code": "DeAKids.it",
+   "popularity": 3820
+ },
+ {
+   "chan_name": "DeAKids +1",
+   "epg_code": "DeAKidsPlus1.it",
+   "popularity": 375
+ },
+ {
+   "chan_name": "DI.TV",
+   "epg_code": "DITV.it",
+   "popularity": 3242
+ },
+ {
+   "chan_name": "Discovery +1",
+   "epg_code": "DiscoveryPlus1.it",
+   "popularity": 4703
+ },
+ {
+   "chan_name": "Discovery Channel",
+   "epg_code": "Discovery.it",
+   "popularity": 20830
+ },
+ {
+   "chan_name": "Discovery Science",
+   "epg_code": "DiscoverySci.it",
+   "popularity": 16567
+ },
+ {
+   "chan_name": "Disney Channel",
+   "epg_code": "DisneyChannel.it",
+   "popularity": 1545
+ },
+ {
+   "chan_name": "Disney Junior",
+   "epg_code": "DisneyJunior.it",
+   "popularity": 929
+ },
+ {
+   "chan_name": "Disney Junior +1",
+   "epg_code": "DisneyJuniorPlus1.it",
+   "popularity": 26
+ },
+ {
+   "chan_name": "DisneyCh +1",
+   "epg_code": "DisneyCh.Plus1.it",
+   "popularity": 764
+ },
+ {
+   "chan_name": "DMAX",
+   "epg_code": "DMAX.it",
+   "popularity": 30778
+ },
+ {
+   "chan_name": "DMAX +1",
+   "epg_code": "DMAXPlus1.it",
+   "popularity": 5067
+ },
+ {
+   "chan_name": "Doctors Life",
+   "epg_code": "DoctorsLife.it",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Donna TV",
+   "epg_code": "DonnaTV.it",
+   "popularity": 587
+ },
+ {
+   "chan_name": "dove-tv",
+   "epg_code": "DoveTv.it",
+   "popularity": 643
+ },
+ {
+   "chan_name": "Eurosport 1",
+   "epg_code": "Eurosport1.it",
+   "popularity": 10315
+ },
+ {
+   "chan_name": "Eurosport 2",
+   "epg_code": "Eurosport2.it",
+   "popularity": 7238
+ },
+ {
+   "chan_name": "Focus",
+   "epg_code": "Focus.it",
+   "popularity": 9571
+ },
+ {
+   "chan_name": "Food Network",
+   "epg_code": "FoodNetwork.it",
+   "popularity": 6579
+ },
+ {
+   "chan_name": "Fox +1",
+   "epg_code": "FoxPlus1.it",
+   "popularity": 7666
+ },
+ {
+   "chan_name": "Fox Business",
+   "epg_code": "FoxBusiness.it",
+   "popularity": 371
+ },
+ {
+   "chan_name": "Fox Crime +1",
+   "epg_code": "FoxCrimePlus1.it",
+   "popularity": 4126
+ },
+ {
+   "chan_name": "Fox Crime +2",
+   "epg_code": "FoxCrimePlus2.it",
+   "popularity": 458
+ },
+ {
+   "chan_name": "Fox Crime HD",
+   "epg_code": "FoxCrime.it",
+   "popularity": 15471
+ },
+ {
+   "chan_name": "Fox HD",
+   "epg_code": "Fox.it",
+   "popularity": 32829
+ },
+ {
+   "chan_name": "Fox Life +1",
+   "epg_code": "FoxLifePlus1.it",
+   "popularity": 238
+ },
+ {
+   "chan_name": "Fox Life HD",
+   "epg_code": "FoxLife.it",
+   "popularity": 2374
+ },
+ {
+   "chan_name": "Fox News",
+   "epg_code": "FoxNews.it",
+   "popularity": 4199
+ },
+ {
+   "chan_name": "Frisbee",
+   "epg_code": "Frisbee.it",
+   "popularity": 5016
+ },
+ {
+   "chan_name": "Gambero Rosso",
+   "epg_code": "GamberoRosso.it",
+   "popularity": 13832
+ },
+ {
+   "chan_name": "Giallo",
+   "epg_code": "Giallo.it",
+   "popularity": 13268
+ },
+ {
+   "chan_name": "Ginx Esports TV",
+   "epg_code": "GinxEsportsTV.it",
+   "popularity": 315
+ },
+ {
+   "chan_name": "HGTV",
+   "epg_code": "HGTV.it",
+   "popularity": 713
+ },
+ {
+   "chan_name": "HISTORY",
+   "epg_code": "History.it",
+   "popularity": 14454
+ },
+ {
+   "chan_name": "History +1",
+   "epg_code": "HistoryPlus1.it",
+   "popularity": 2967
+ },
+ {
+   "chan_name": "HSE24",
+   "epg_code": "HSE24.it",
+   "popularity": 159
+ },
+ {
+   "chan_name": "Inter Channel",
+   "epg_code": "InterChannel.it",
+   "popularity": 7580
+ },
+ {
+   "chan_name": "Iris",
+   "epg_code": "Iris.it",
+   "popularity": 26078
+ },
+ {
+   "chan_name": "Italia 1",
+   "epg_code": "Italia1.it",
+   "popularity": 172190
+ },
+ {
+   "chan_name": "Italia 2",
+   "epg_code": "Italia2.it",
+   "popularity": 15442
+ },
+ {
+   "chan_name": "Italia 7 Gold",
+   "epg_code": "Italia7Gold.it",
+   "popularity": 782
+ },
+ {
+   "chan_name": "Italian Fishing TV",
+   "epg_code": "ItalianFishingTv.it",
+   "popularity": 2616
+ },
+ {
+   "chan_name": "Joi",
+   "epg_code": "Joi.it",
+   "popularity": 87
+ },
+ {
+   "chan_name": "K2",
+   "epg_code": "K2.it",
+   "popularity": 5074
+ },
+ {
+   "chan_name": "La 5",
+   "epg_code": "LA5.it",
+   "popularity": 22206
+ },
+ {
+   "chan_name": "La7 HD",
+   "epg_code": "La7.it",
+   "popularity": 52112
+ },
+ {
+   "chan_name": "La7d",
+   "epg_code": "La7d.it",
+   "popularity": 22794
+ },
+ {
+   "chan_name": "LaEffe",
+   "epg_code": "LaEffe.it",
+   "popularity": 7451
+ },
+ {
+   "chan_name": "Lazio Style Channel",
+   "epg_code": "LazioStyleChannel.it",
+   "popularity": 6666
+ },
+ {
+   "chan_name": "LEI",
+   "epg_code": "LEI.it",
+   "popularity": 783
+ },
+ {
+   "chan_name": "LEI +1",
+   "epg_code": "LEIPlus1.it",
+   "popularity": 20
+ },
+ {
+   "chan_name": "Man-Ga",
+   "epg_code": "ManGa.it",
+   "popularity": 562
+ },
+ {
+   "chan_name": "Marco Polo",
+   "epg_code": "Marcopolo.it",
+   "popularity": 1910
+ },
+ {
+   "chan_name": "Mediaset Extra",
+   "epg_code": "MediasetExtra.it",
+   "popularity": 38056
+ },
+ {
+   "chan_name": "Mezzo",
+   "epg_code": "Mezzo.en",
+   "popularity": 110
+ },
+ {
+   "chan_name": "Milan TV HD",
+   "epg_code": "MilanTV.it",
+   "popularity": 10444
+ },
+ {
+   "chan_name": "Motor Trend",
+   "epg_code": "MotorTrend.it",
+   "popularity": 8629
+ },
+ {
+   "chan_name": "MS Channel",
+   "epg_code": "MS_Channel.it",
+   "popularity": 51
+ },
+ {
+   "chan_name": "MS MOTORTV",
+   "epg_code": "MS_MOTORTV.it",
+   "popularity": 95
+ },
+ {
+   "chan_name": "MS Sport",
+   "epg_code": "MS_Sport.it",
+   "popularity": 7
+ },
+ {
+   "chan_name": "MTV Hits",
+   "epg_code": "MTVHits.it",
+   "popularity": 62
+ },
+ {
+   "chan_name": "MTV Italia HD",
+   "epg_code": "MTV.it",
+   "popularity": 7464
+ },
+ {
+   "chan_name": "MTV Music",
+   "epg_code": "MTVMusic.it",
+   "popularity": 3644
+ },
+ {
+   "chan_name": "myDeejay",
+   "epg_code": "myDeejay.it",
+   "popularity": 92
+ },
+ {
+   "chan_name": "Nat Geo Wild +1",
+   "epg_code": "NatGeoWildPlus1.it",
+   "popularity": 5762
+ },
+ {
+   "chan_name": "NatGeoWild",
+   "epg_code": "NatGeoWild.it",
+   "popularity": 22893
+ },
+ {
+   "chan_name": "National Geographic",
+   "epg_code": "NationalGeo.it",
+   "popularity": 25846
+ },
+ {
+   "chan_name": "NationalGeo +1",
+   "epg_code": "NationalGeoPlus1.it",
+   "popularity": 4494
+ },
+ {
+   "chan_name": "Nick Junior",
+   "epg_code": "NickJr.it",
+   "popularity": 5350
+ },
+ {
+   "chan_name": "Nick Junior +1",
+   "epg_code": "NickJrPlus1.it",
+   "popularity": 369
+ },
+ {
+   "chan_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.it",
+   "popularity": 5133
+ },
+ {
+   "chan_name": "Nickelodeon +1",
+   "epg_code": "NickelodeonPlus1.it",
+   "popularity": 388
+ },
+ {
+   "chan_name": "Nove",
+   "epg_code": "Nove.it",
+   "popularity": 35397
+ },
+ {
+   "chan_name": "Paramount Channel",
+   "epg_code": "ParamountChannel.it",
+   "popularity": 9834
+ },
+ {
+   "chan_name": "People TV-Rete7",
+   "epg_code": "PeopleTVRete7.it",
+   "popularity": 76
+ },
+ {
+   "chan_name": "Pesca",
+   "epg_code": "Pesca.it",
+   "popularity": 2816
+ },
+ {
+   "chan_name": "Premium Action",
+   "epg_code": "PremiumAction.it",
+   "popularity": 18452
+ },
+ {
+   "chan_name": "Premium Cinema +24",
+   "epg_code": "PremiumCinemaPlus24.it",
+   "popularity": 21747
+ },
+ {
+   "chan_name": "Premium Cinema 1",
+   "epg_code": "PremiumCinema1.it",
+   "popularity": 9426
+ },
+ {
+   "chan_name": "Premium Cinema 2",
+   "epg_code": "PremiumCinema2.it",
+   "popularity": 20178
+ },
+ {
+   "chan_name": "Premium Cinema 3",
+   "epg_code": "PremiumCinema3.it",
+   "popularity": 8532
+ },
+ {
+   "chan_name": "Premium Crime",
+   "epg_code": "PremiumCrime.it",
+   "popularity": 15040
+ },
+ {
+   "chan_name": "Premium Crime +24",
+   "epg_code": "PremiumCrimePlus24.it",
+   "popularity": 314
+ },
+ {
+   "chan_name": "Premium Sport 2 HD",
+   "epg_code": "PremiumSport2.it",
+   "popularity": 88
+ },
+ {
+   "chan_name": "Premium Sport HD",
+   "epg_code": "PremiumSport.it",
+   "popularity": 218
+ },
+ {
+   "chan_name": "Premium Stories",
+   "epg_code": "PremiumStories.it",
+   "popularity": 8914
+ },
+ {
+   "chan_name": "Primafila 1",
+   "epg_code": "Primafila1.it",
+   "popularity": 5355
+ },
+ {
+   "chan_name": "Primafila 10",
+   "epg_code": "Primafila10.it",
+   "popularity": 2077
+ },
+ {
+   "chan_name": "Primafila 11",
+   "epg_code": "Primafila11.it",
+   "popularity": 1670
+ },
+ {
+   "chan_name": "Primafila 12",
+   "epg_code": "Primafila12.it",
+   "popularity": 1663
+ },
+ {
+   "chan_name": "Primafila 13",
+   "epg_code": "Primafila13.it",
+   "popularity": 1623
+ },
+ {
+   "chan_name": "Primafila 14",
+   "epg_code": "Primafila14.it",
+   "popularity": 2555
+ },
+ {
+   "chan_name": "Primafila 15",
+   "epg_code": "Primafila15.it",
+   "popularity": 4575
+ },
+ {
+   "chan_name": "Primafila 16",
+   "epg_code": "Primafila16.it",
+   "popularity": 1894
+ },
+ {
+   "chan_name": "Primafila 17",
+   "epg_code": "Primafila17.it",
+   "popularity": 1968
+ },
+ {
+   "chan_name": "Primafila 18",
+   "epg_code": "Primafila18.it",
+   "popularity": 1464
+ },
+ {
+   "chan_name": "Primafila 19",
+   "epg_code": "Primafila19.it",
+   "popularity": 115
+ },
+ {
+   "chan_name": "Primafila 2",
+   "epg_code": "Primafila2.it",
+   "popularity": 3260
+ },
+ {
+   "chan_name": "Primafila 3 HD",
+   "epg_code": "Primafila3.it",
+   "popularity": 3144
+ },
+ {
+   "chan_name": "Primafila 4",
+   "epg_code": "Primafila4.it",
+   "popularity": 2910
+ },
+ {
+   "chan_name": "Primafila 5",
+   "epg_code": "Primafila5.it",
+   "popularity": 5325
+ },
+ {
+   "chan_name": "Primafila 6",
+   "epg_code": "Primafila6.it",
+   "popularity": 3842
+ },
+ {
+   "chan_name": "Primafila 7 HD",
+   "epg_code": "Primafila7.it",
+   "popularity": 2343
+ },
+ {
+   "chan_name": "Primafila 8",
+   "epg_code": "Primafila8.it",
+   "popularity": 2613
+ },
+ {
+   "chan_name": "Primafila 9",
+   "epg_code": "Primafila9.it",
+   "popularity": 2073
+ },
+ {
+   "chan_name": "QVC",
+   "epg_code": "QVC.it",
+   "popularity": 2383
+ },
+ {
+   "chan_name": "R101 TV",
+   "epg_code": "R101TV.it",
+   "popularity": 63
+ },
+ {
+   "chan_name": "Radio 105 TV",
+   "epg_code": "Radio105TV.it",
+   "popularity": 12
+ },
+ {
+   "chan_name": "Radio Bruno",
+   "epg_code": "RadioBruno.it",
+   "popularity": 31
+ },
+ {
+   "chan_name": "Radio Freccia",
+   "epg_code": "RadioFreccia.it",
+   "popularity": 373
+ },
+ {
+   "chan_name": "Radio Italia TV",
+   "epg_code": "RadioItalia.it",
+   "popularity": 2979
+ },
+ {
+   "chan_name": "Radio Radio TV",
+   "epg_code": "RadioRadioTV.it",
+   "popularity": 202
+ },
+ {
+   "chan_name": "Radionorba TV",
+   "epg_code": "RadionorbaTV.it",
+   "popularity": 500
+ },
+ {
+   "chan_name": "radiozeta.tv",
+   "epg_code": "radiozeta.it",
+   "popularity": 147
+ },
+ {
+   "chan_name": "Rai 1",
+   "epg_code": "Rai1.it",
+   "popularity": 255317
+ },
+ {
+   "chan_name": "Rai 1 +1",
+   "epg_code": "Rai1Plus1.it",
+   "popularity": 2654
+ },
+ {
+   "chan_name": "Rai 2",
+   "epg_code": "Rai2.it",
+   "popularity": 143782
+ },
+ {
+   "chan_name": "Rai 2 +1",
+   "epg_code": "Rai2Plus1.it",
+   "popularity": 4093
+ },
+ {
+   "chan_name": "Rai 3",
+   "epg_code": "Rai3.it",
+   "popularity": 93309
+ },
+ {
+   "chan_name": "Rai 3 +1",
+   "epg_code": "Rai3Plus1.it",
+   "popularity": 1877
+ },
+ {
+   "chan_name": "Rai 4",
+   "epg_code": "Rai4.it",
+   "popularity": 23935
+ },
+ {
+   "chan_name": "Rai 5",
+   "epg_code": "Rai5.it",
+   "popularity": 27918
+ },
+ {
+   "chan_name": "Rai Gulp",
+   "epg_code": "RaiGulp.it",
+   "popularity": 6804
+ },
+ {
+   "chan_name": "Rai Movie",
+   "epg_code": "RaiMovie.it",
+   "popularity": 25962
+ },
+ {
+   "chan_name": "Rai News 24",
+   "epg_code": "RaiNews.it",
+   "popularity": 8680
+ },
+ {
+   "chan_name": "Rai Premium",
+   "epg_code": "RaiPremium.it",
+   "popularity": 65428
+ },
+ {
+   "chan_name": "Rai Scuola",
+   "epg_code": "RaiScuola.it",
+   "popularity": 6690
+ },
+ {
+   "chan_name": "Rai Sport 1",
+   "epg_code": "RaiSport.it",
+   "popularity": 6597
+ },
+ {
+   "chan_name": "Rai Sport Plus",
+   "epg_code": "RaiSportPlus.it",
+   "popularity": 1546
+ },
+ {
+   "chan_name": "Rai Storia",
+   "epg_code": "RaiStoria.it",
+   "popularity": 7972
+ },
+ {
+   "chan_name": "Rai YoYo",
+   "epg_code": "RaiYoyo.it",
+   "popularity": 10661
+ },
+ {
+   "chan_name": "RDS TV",
+   "epg_code": "RDS.it",
+   "popularity": 212
+ },
+ {
+   "chan_name": "Real Time",
+   "epg_code": "RealTime.it",
+   "popularity": 37025
+ },
+ {
+   "chan_name": "Real Time +1",
+   "epg_code": "RealTimePlus1.it",
+   "popularity": 6233
+ },
+ {
+   "chan_name": "Rete 4",
+   "epg_code": "Rete4.it",
+   "popularity": 109740
+ },
+ {
+   "chan_name": "Rete 4 +1",
+   "epg_code": "Rete4Plus1.it",
+   "popularity": 2607
+ },
+ {
+   "chan_name": "Roma Channel",
+   "epg_code": "RomaChannel.it",
+   "popularity": 4228
+ },
+ {
+   "chan_name": "Roma Uno",
+   "epg_code": "RomaUno.it",
+   "popularity": 0
+ },
+ {
+   "chan_name": "RTL 102.5 TV",
+   "epg_code": "RTL102.5TV.it",
+   "popularity": 3004
+ },
+ {
+   "chan_name": "Sky Arte HD",
+   "epg_code": "SkyArte.it",
+   "popularity": 13210
+ },
+ {
+   "chan_name": "Sky Atlantic +1 HD",
+   "epg_code": "SkyAtlanticPlus1.it",
+   "popularity": 11753
+ },
+ {
+   "chan_name": "Sky Atlantic HD",
+   "epg_code": "SkyAtlantic.it",
+   "popularity": 19066
+ },
+ {
+   "chan_name": "Sky Calcio 1",
+   "epg_code": "SkySport251.it",
+   "popularity": 125353
+ },
+ {
+   "chan_name": "Sky Calcio 10",
+   "epg_code": "SkySport260.it",
+   "popularity": 1020
+ },
+ {
+   "chan_name": "Sky Calcio 11",
+   "epg_code": "SkySport261.it",
+   "popularity": 514
+ },
+ {
+   "chan_name": "Sky Calcio 12",
+   "epg_code": "SkySport262.it",
+   "popularity": 1810
+ },
+ {
+   "chan_name": "Sky Calcio 13",
+   "epg_code": "SkySport263.it",
+   "popularity": 49
+ },
+ {
+   "chan_name": "Sky Calcio 2",
+   "epg_code": "SkySport252.it",
+   "popularity": 158917
+ },
+ {
+   "chan_name": "Sky Calcio 3",
+   "epg_code": "SkySport253.it",
+   "popularity": 69435
+ },
+ {
+   "chan_name": "Sky Calcio 4",
+   "epg_code": "SkySport254.it",
+   "popularity": 29603
+ },
+ {
+   "chan_name": "Sky Calcio 5",
+   "epg_code": "SkySport255.it",
+   "popularity": 17831
+ },
+ {
+   "chan_name": "Sky Calcio 6",
+   "epg_code": "SkySport256.it",
+   "popularity": 18841
+ },
+ {
+   "chan_name": "Sky Calcio 7",
+   "epg_code": "SkySport257.it",
+   "popularity": 7172
+ },
+ {
+   "chan_name": "Sky Calcio 8",
+   "epg_code": "SkySport258.it",
+   "popularity": 5685
+ },
+ {
+   "chan_name": "Sky Calcio 9",
+   "epg_code": "SkySport259.it",
+   "popularity": 1195
+ },
+ {
+   "chan_name": "Sky Cinema Action",
+   "epg_code": "SkyCinemaAction.it",
+   "popularity": 35125
+ },
+ {
+   "chan_name": "Sky Cinema Collection",
+   "epg_code": "SkyCinemaCollection.it",
+   "popularity": 57870
+ },
+ {
+   "chan_name": "Sky Cinema Comedy",
+   "epg_code": "SkyCinemaComedy.it",
+   "popularity": 31149
+ },
+ {
+   "chan_name": "Sky Cinema Drama",
+   "epg_code": "SkyCinemaDrama.it",
+   "popularity": 18561
+ },
+ {
+   "chan_name": "Sky Cinema Due",
+   "epg_code": "SkyCinemaDue.it",
+   "popularity": 53044
+ },
+ {
+   "chan_name": "Sky Cinema Due + 24",
+   "epg_code": "SkyCinemaDue+24.it",
+   "popularity": 34576
+ },
+ {
+   "chan_name": "Sky Cinema Family +1 HD",
+   "epg_code": "SkyCinemaFamilyPlus1.it",
+   "popularity": 7048
+ },
+ {
+   "chan_name": "Sky Cinema Family HD",
+   "epg_code": "SkyCinemaFamily.it",
+   "popularity": 49948
+ },
+ {
+   "chan_name": "Sky Cinema Romance",
+   "epg_code": "SkyCinemaRomance.it",
+   "popularity": 46014
+ },
+ {
+   "chan_name": "Sky Cinema Suspense",
+   "epg_code": "SkyCinemaSuspense.it",
+   "popularity": 47814
+ },
+ {
+   "chan_name": "Sky Cinema Uno",
+   "epg_code": "SkyCinemaUno.it",
+   "popularity": 115834
+ },
+ {
+   "chan_name": "Sky Cinema Uno +1",
+   "epg_code": "SkyCinemaUnoPlus1.it",
+   "popularity": 6446
+ },
+ {
+   "chan_name": "Sky Cinema Uno +24",
+   "epg_code": "SkyCinemaUnoPlus24.it",
+   "popularity": 27530
+ },
+ {
+   "chan_name": "Sky Music",
+   "epg_code": "SkyMusic.it",
+   "popularity": 15897
+ },
+ {
+   "chan_name": "Sky Sport 24",
+   "epg_code": "SkySport24.it",
+   "popularity": 140661
+ },
+ {
+   "chan_name": "Sky Sport 384 DTT",
+   "epg_code": "SkySport384DTT.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Sky Sport 385 DTT",
+   "epg_code": "SkySport385DTT.it",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Sky Sport 386 DTT",
+   "epg_code": "SkySport386DTT.it",
+   "popularity": 0
+ },
+ {
+   "chan_name": "Sky Sport Arena",
+   "epg_code": "SkySportArena.it",
+   "popularity": 29969
+ },
+ {
+   "chan_name": "Sky Sport Collection",
+   "epg_code": "SkySportCollection.it",
+   "popularity": 15035
+ },
+ {
+   "chan_name": "Sky Sport F1 HD",
+   "epg_code": "SkySportF1.it",
+   "popularity": 51027
+ },
+ {
+   "chan_name": "Sky Sport Football",
+   "epg_code": "SkySportFootball.it",
+   "popularity": 35440
+ },
+ {
+   "chan_name": "Sky Sport Golf",
+   "epg_code": "SkySportGolf.it",
+   "popularity": 1809
+ },
+ {
+   "chan_name": "Sky Sport MotoGP HD",
+   "epg_code": "SkySportMotoGP.it",
+   "popularity": 21202
+ },
+ {
+   "chan_name": "Sky Sport NBA",
+   "epg_code": "SkySportNBA.it",
+   "popularity": 14117
+ },
+ {
+   "chan_name": "Sky Sport Serie A",
+   "epg_code": "SkySportSerieA.it",
+   "popularity": 94675
+ },
+ {
+   "chan_name": "Sky Sport Uno",
+   "epg_code": "SkySportUno.it",
+   "popularity": 175796
+ },
+ {
+   "chan_name": "Sky TG 24 Meteo",
+   "epg_code": "Sky24Meteo.it",
+   "popularity": 191
+ },
+ {
+   "chan_name": "Sky Uno +1",
+   "epg_code": "SkyUnoPlus1.it",
+   "popularity": 10783
+ },
+ {
+   "chan_name": "Sky Uno HD",
+   "epg_code": "SkyUno.it",
+   "popularity": 45144
+ },
+ {
+   "chan_name": "SMtv San Marino",
+   "epg_code": "SMtv.it",
+   "popularity": 39
+ },
+ {
+   "chan_name": "SMtv San Marino - Sport",
+   "epg_code": "SMtvSport.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Spike Italy",
+   "epg_code": "Spike.it",
+   "popularity": 7658
+ },
+ {
+   "chan_name": "Sportitalia",
+   "epg_code": "Sportitalia.it",
+   "popularity": 8401
+ },
+ {
+   "chan_name": "Stories",
+   "epg_code": "Stories.it",
+   "popularity": 13209
+ },
+ {
+   "chan_name": "Super !",
+   "epg_code": "Super!.it",
+   "popularity": 8908
+ },
+ {
+   "chan_name": "SuperSix",
+   "epg_code": "SuperSix.it",
+   "popularity": 45
+ },
+ {
+   "chan_name": "SuperTennis HD",
+   "epg_code": "SuperTennis.it",
+   "popularity": 6781
+ },
+ {
+   "chan_name": "Telecupole",
+   "epg_code": "Telecupole.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Telelombardia",
+   "epg_code": "Telelombardia.it",
+   "popularity": 649
+ },
+ {
+   "chan_name": "Telepace",
+   "epg_code": "Telepace.it",
+   "popularity": 148
+ },
+ {
+   "chan_name": "Telesanterno",
+   "epg_code": "Telesanterno.it",
+   "popularity": 39
+ },
+ {
+   "chan_name": "Telestense",
+   "epg_code": "Telestense.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "TG Norba24",
+   "epg_code": "Tgnorba24.it",
+   "popularity": 3763
+ },
+ {
+   "chan_name": "TG24",
+   "epg_code": "SkyTG24.it",
+   "popularity": 5285
+ },
+ {
+   "chan_name": "TG24 Eventi",
+   "epg_code": "SkyTG24Eventi.it",
+   "popularity": 64
+ },
+ {
+   "chan_name": "TG24 Primo Piano",
+   "epg_code": "SkyTG24PrimoPiano.it",
+   "popularity": 440
+ },
+ {
+   "chan_name": "TG24 Rassegne",
+   "epg_code": "SkyTG24Rassegne.it",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Tgcom24",
+   "epg_code": "Tgcom24.it",
+   "popularity": 8921
+ },
+ {
+   "chan_name": "Top Calcio 24",
+   "epg_code": "TopCalcio24.it",
+   "popularity": 13012
+ },
+ {
+   "chan_name": "Top Crime",
+   "epg_code": "TopCrime.it",
+   "popularity": 13638
+ },
+ {
+   "chan_name": "Torino Channel",
+   "epg_code": "TorinoChannel.it",
+   "popularity": 5327
+ },
+ {
+   "chan_name": "TRC Modena",
+   "epg_code": "TRCModena.it",
+   "popularity": 10
+ },
+ {
+   "chan_name": "TRM h24",
+   "epg_code": "TRMh24.it",
+   "popularity": 97
+ },
+ {
+   "chan_name": "TV Koper-Capodistria",
+   "epg_code": "TVCapodistria.it",
+   "popularity": 378
+ },
+ {
+   "chan_name": "TV2000",
+   "epg_code": "TV2000.it",
+   "popularity": 5836
+ },
+ {
+   "chan_name": "TV8",
+   "epg_code": "Tv8.it",
+   "popularity": 36007
+ },
+ {
+   "chan_name": "TVA Vicenza",
+   "epg_code": "TVAVicenza.it",
+   "popularity": 122
+ },
+ {
+   "chan_name": "TVM",
+   "epg_code": "TVM.mt",
+   "popularity": 62
+ },
+ {
+   "chan_name": "TVM2",
+   "epg_code": "TVM2.mt",
+   "popularity": 21
+ },
+ {
+   "chan_name": "Udinews TV",
+   "epg_code": "Udinese.it",
+   "popularity": 46
+ },
+ {
+   "chan_name": "UNINETTUNO University TV",
+   "epg_code": "UNINETTUNOUniversityTV.it",
+   "popularity": 260
+ },
+ {
+   "chan_name": "VH1",
+   "epg_code": "VH1.it",
+   "popularity": 1183
+ },
+ {
+   "chan_name": "Virgin Radio TV",
+   "epg_code": "VirginRadioTV.it",
+   "popularity": 225
+ },
+ {
+   "chan_name": "Zelig TV",
+   "epg_code": "ZeligTV.it",
+   "popularity": 206
+ }
+]

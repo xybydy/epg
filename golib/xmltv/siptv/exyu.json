@@ -1,0 +1,2952 @@
+[
+ {
+   "channel_name": "24 Kitchen",
+   "epg_code": "24Kitchen.rs",
+   "popularity": 2845
+ },
+ {
+   "channel_name": "24Kitchen",
+   "epg_code": "24Kitchen.hr",
+   "popularity": 2016
+ },
+ {
+   "channel_name": "24Kitchen",
+   "epg_code": "24Kitchen.svn",
+   "popularity": 19636
+ },
+ {
+   "channel_name": "24sata TV",
+   "epg_code": "24sataTV",
+   "popularity": 9
+ },
+ {
+   "channel_name": "3SAT",
+   "epg_code": "3SAT.svn",
+   "popularity": 295
+ },
+ {
+   "channel_name": "Al Jazeera",
+   "epg_code": "AlJazeera.rs",
+   "popularity": 4906
+ },
+ {
+   "channel_name": "Al Jazeera Balkans",
+   "epg_code": "AlJazeeraBalkans.hr",
+   "popularity": 33864
+ },
+ {
+   "channel_name": "Al Jazeera Balkans",
+   "epg_code": "AlJazeeraBalkans.rs",
+   "popularity": 45192
+ },
+ {
+   "channel_name": "Al Jazeera Balkans",
+   "epg_code": "AlJazeeraBalkans.svn",
+   "popularity": 122
+ },
+ {
+   "channel_name": "alfa TV",
+   "epg_code": "alfatv.ba",
+   "popularity": 24616
+ },
+ {
+   "channel_name": "Alsat Macedonia",
+   "epg_code": "AlsatMacedonia.svn",
+   "popularity": 40
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.hr",
+   "popularity": 839
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.rs",
+   "popularity": 88
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.svn",
+   "popularity": 4826
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.hr",
+   "popularity": 10577
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.rs",
+   "popularity": 199
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.svn",
+   "popularity": 2894
+ },
+ {
+   "channel_name": "ARD",
+   "epg_code": "ARD.svn",
+   "popularity": 779
+ },
+ {
+   "channel_name": "Arena Sport 1",
+   "epg_code": "ArenaSport1.rs",
+   "popularity": 44410
+ },
+ {
+   "channel_name": "Arena Sport 1 BIH",
+   "epg_code": "ArenaSport1.ba",
+   "popularity": 1327
+ },
+ {
+   "channel_name": "Arena Sport 1 HR",
+   "epg_code": "ArenaSport1.hr",
+   "popularity": 83583
+ },
+ {
+   "channel_name": "Arena Sport 2",
+   "epg_code": "ArenaSport2.rs",
+   "popularity": 36093
+ },
+ {
+   "channel_name": "Arena Sport 2 HR",
+   "epg_code": "ArenaSport2.hr",
+   "popularity": 53428
+ },
+ {
+   "channel_name": "Arena Sport 3",
+   "epg_code": "ArenaSport3.rs",
+   "popularity": 36846
+ },
+ {
+   "channel_name": "Arena Sport 3 HR",
+   "epg_code": "ArenaSport3.hr",
+   "popularity": 65609
+ },
+ {
+   "channel_name": "Arena Sport 4",
+   "epg_code": "ArenaSport4.rs",
+   "popularity": 51470
+ },
+ {
+   "channel_name": "Arena Sport 4 HR",
+   "epg_code": "ArenaSport4.hr",
+   "popularity": 35329
+ },
+ {
+   "channel_name": "Arena Sport 5",
+   "epg_code": "ArenaSport5.rs",
+   "popularity": 41580
+ },
+ {
+   "channel_name": "Arena Sport 5 HR",
+   "epg_code": "ArenaSport5.hr",
+   "popularity": 22558
+ },
+ {
+   "channel_name": "Arena Sport 6",
+   "epg_code": "ArenaSport6.hr",
+   "popularity": 3389
+ },
+ {
+   "channel_name": "Arena TV",
+   "epg_code": "ArenaTV.svn",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Arthouse",
+   "epg_code": "Arthouse.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Atlas",
+   "epg_code": "ATLAS.sb",
+   "popularity": 58
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "ATV.ba",
+   "popularity": 900
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "ATV.hr",
+   "popularity": 27933
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.hr",
+   "popularity": 1208
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.rs",
+   "popularity": 194
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.svn",
+   "popularity": 66
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXNAdria.rs",
+   "popularity": 10124
+ },
+ {
+   "channel_name": "AXN Spin",
+   "epg_code": "AXNSpin.hr",
+   "popularity": 1028
+ },
+ {
+   "channel_name": "AXN Spin",
+   "epg_code": "AXNSpin.rs",
+   "popularity": 4740
+ },
+ {
+   "channel_name": "AXN Spin",
+   "epg_code": "AXNSpin.svn",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.hr",
+   "popularity": 764
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.rs",
+   "popularity": 7988
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.svn",
+   "popularity": 6
+ },
+ {
+   "channel_name": "BBC Earth",
+   "epg_code": "BBCEarth.hr",
+   "popularity": 724
+ },
+ {
+   "channel_name": "BBC Earth",
+   "epg_code": "BBCEarth.svn",
+   "popularity": 3433
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "BBCEntertainment.hr",
+   "popularity": 41
+ },
+ {
+   "channel_name": "BBC First",
+   "epg_code": "BBCFirst.svn",
+   "popularity": 2
+ },
+ {
+   "channel_name": "BBC World",
+   "epg_code": "BBCWorld.svn",
+   "popularity": 19
+ },
+ {
+   "channel_name": "BHT 1",
+   "epg_code": "BHT1.svn",
+   "popularity": 29217
+ },
+ {
+   "channel_name": "BHT1",
+   "epg_code": "BHTV1.rs",
+   "popularity": 85345
+ },
+ {
+   "channel_name": "BK TV",
+   "epg_code": "BKTV.svn",
+   "popularity": 6172
+ },
+ {
+   "channel_name": "Bloomberg EU",
+   "epg_code": "Bloomberg.svn",
+   "popularity": 15
+ },
+ {
+   "channel_name": "BN",
+   "epg_code": "BN.ba",
+   "popularity": 7192
+ },
+ {
+   "channel_name": "BN BIH",
+   "epg_code": "BNBIH.ba",
+   "popularity": 319
+ },
+ {
+   "channel_name": "BN BIH",
+   "epg_code": "BNTV.svn",
+   "popularity": 38875
+ },
+ {
+   "channel_name": "BN Music",
+   "epg_code": "BNMusic.ba",
+   "popularity": 29768
+ },
+ {
+   "channel_name": "BN Music",
+   "epg_code": "BNMusic.rs",
+   "popularity": 30
+ },
+ {
+   "channel_name": "BN Sat",
+   "epg_code": "BNSat.rs",
+   "popularity": 160
+ },
+ {
+   "channel_name": "BN sat",
+   "epg_code": "BNsat.ba",
+   "popularity": 560
+ },
+ {
+   "channel_name": "Body in balance",
+   "epg_code": "BodyInBalance.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.hr",
+   "popularity": 2148
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.svn",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Canale 5",
+   "epg_code": "Canale5.svn",
+   "popularity": 222
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.hr",
+   "popularity": 2538
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.svn",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Cartoon Network / TCM",
+   "epg_code": "CartoonTCM.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CBS Drama",
+   "epg_code": "CBSDrama.hr",
+   "popularity": 14
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.rs",
+   "popularity": 680
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSreality.svn",
+   "popularity": 33
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "ZoneReality.hr",
+   "popularity": 3268
+ },
+ {
+   "channel_name": "Channel One Russia",
+   "epg_code": "ChannelOneRussia.svn",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Cinemania",
+   "epg_code": "Cinemania.hr",
+   "popularity": 19835
+ },
+ {
+   "channel_name": "Cinemania",
+   "epg_code": "Cinemania.rs",
+   "popularity": 2109
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "Cinemax1.hr",
+   "popularity": 23187
+ },
+ {
+   "channel_name": "Cinemax 1",
+   "epg_code": "Cinemax1.rs",
+   "popularity": 479
+ },
+ {
+   "channel_name": "Cinemax 1",
+   "epg_code": "Cinemax1.svn",
+   "popularity": 134
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.hr",
+   "popularity": 15337
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.rs",
+   "popularity": 1335
+ },
+ {
+   "channel_name": "Cinemax 2",
+   "epg_code": "Cinemax2.svn",
+   "popularity": 133
+ },
+ {
+   "channel_name": "CineStar Action & Thriller (Srb)",
+   "epg_code": "CineStarTVAT.rs",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Cinestar Action and Thriller",
+   "epg_code": "CinestarAction.hr",
+   "popularity": 38666
+ },
+ {
+   "channel_name": "Cinestar Action/Thriller",
+   "epg_code": "CinestarActionThriller.svn",
+   "popularity": 56
+ },
+ {
+   "channel_name": "Cinestar Comedy",
+   "epg_code": "CinestarComedy.svn",
+   "popularity": 6404
+ },
+ {
+   "channel_name": "Cinestar Fantasy",
+   "epg_code": "CinestarFantasy.svn",
+   "popularity": 22713
+ },
+ {
+   "channel_name": "Cinestar Premiere 1",
+   "epg_code": "CinestarPremiere1.hr",
+   "popularity": 38559
+ },
+ {
+   "channel_name": "Cinestar Premiere 1",
+   "epg_code": "CinestarPremiere1.svn",
+   "popularity": 294
+ },
+ {
+   "channel_name": "Cinestar Premiere 2",
+   "epg_code": "CinestarPremiere2.hr",
+   "popularity": 34929
+ },
+ {
+   "channel_name": "Cinestar Premiere 2",
+   "epg_code": "CinestarPremiere2.svn",
+   "popularity": 281
+ },
+ {
+   "channel_name": "Cinestar TV",
+   "epg_code": "CinestarTV.hr",
+   "popularity": 27926
+ },
+ {
+   "channel_name": "Cinestar TV",
+   "epg_code": "CineStarTVv2.svn",
+   "popularity": 1325
+ },
+ {
+   "channel_name": "CineStar TV (Srb)",
+   "epg_code": "CineStarTV.rs",
+   "popularity": 395
+ },
+ {
+   "channel_name": "Cinestar TV Fantasy",
+   "epg_code": "CinestarFantasy.hr",
+   "popularity": 3995
+ },
+ {
+   "channel_name": "CMC",
+   "epg_code": "CMC.hr",
+   "popularity": 22243
+ },
+ {
+   "channel_name": "CMC",
+   "epg_code": "CMC.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNNInternational.svn",
+   "popularity": 279
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.svn",
+   "popularity": 376
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.hr",
+   "popularity": 2190
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.rs",
+   "popularity": 72
+ },
+ {
+   "channel_name": "Crime & Investigations",
+   "epg_code": "CrimeInvestigations.hr",
+   "popularity": 261
+ },
+ {
+   "channel_name": "Crime and Investigation",
+   "epg_code": "CI.rs",
+   "popularity": 2924
+ },
+ {
+   "channel_name": "Crime Investigation",
+   "epg_code": "CI.svn",
+   "popularity": 3153
+ },
+ {
+   "channel_name": "Da Vinci Learning",
+   "epg_code": "DaVinciLearning.hr",
+   "popularity": 1092
+ },
+ {
+   "channel_name": "Da Vinci Learning",
+   "epg_code": "DaVinciLearning.rs",
+   "popularity": 1798
+ },
+ {
+   "channel_name": "Da Vinci Learning",
+   "epg_code": "DaVinciLearning.svn",
+   "popularity": 140
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "Discovery.hr",
+   "popularity": 17442
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "Discovery.svn",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.rs",
+   "popularity": 800
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.svn",
+   "popularity": 667
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "DiscoveryHDShowcase.rs",
+   "popularity": 90
+ },
+ {
+   "channel_name": "Discovery ID",
+   "epg_code": "DiscoveryID.hr",
+   "popularity": 7835
+ },
+ {
+   "channel_name": "Discovery ID Xtra",
+   "epg_code": "DiscoveryIDXtra.svn",
+   "popularity": 4383
+ },
+ {
+   "channel_name": "Discovery Investigation",
+   "epg_code": "DiscoveryInvestigation.svn",
+   "popularity": 363
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.hr",
+   "popularity": 4536
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.rs",
+   "popularity": 209
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.svn",
+   "popularity": 2140
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.hr",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.hr",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.svn",
+   "popularity": 1478
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.hr",
+   "popularity": 151
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.hr",
+   "popularity": 478
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Diva",
+   "epg_code": "Diva.hr",
+   "popularity": 1513
+ },
+ {
+   "channel_name": "Diva",
+   "epg_code": "Diva.svn",
+   "popularity": 27883
+ },
+ {
+   "channel_name": "DM Sat",
+   "epg_code": "DMSat.svn",
+   "popularity": 61
+ },
+ {
+   "channel_name": "DMSAT",
+   "epg_code": "DMSAT.rs",
+   "popularity": 22359
+ },
+ {
+   "channel_name": "Docubox",
+   "epg_code": "DocuBox.svn",
+   "popularity": 1482
+ },
+ {
+   "channel_name": "Doma TV",
+   "epg_code": "DomaTV.hr",
+   "popularity": 64961
+ },
+ {
+   "channel_name": "Dorcel TV",
+   "epg_code": "DorcelTV.svn",
+   "popularity": 12458
+ },
+ {
+   "channel_name": "Dr. Fit",
+   "epg_code": "DrFit.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Dr. Fit",
+   "epg_code": "DrFit.svn",
+   "popularity": 817
+ },
+ {
+   "channel_name": "DTX",
+   "epg_code": "DTXHD.svn",
+   "popularity": 716
+ },
+ {
+   "channel_name": "DTX HD",
+   "epg_code": "DTX.hr",
+   "popularity": 160
+ },
+ {
+   "channel_name": "Dubrovačka TV",
+   "epg_code": "DubrovačkaTV.hr",
+   "popularity": 634
+ },
+ {
+   "channel_name": "Duck TV",
+   "epg_code": "DuckTV.hr",
+   "popularity": 2792
+ },
+ {
+   "channel_name": "Duna TV",
+   "epg_code": "DunaTV.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Dusk TV",
+   "epg_code": "DuskTV.svn",
+   "popularity": 1986
+ },
+ {
+   "channel_name": "E!",
+   "epg_code": "E.rs",
+   "popularity": 2601
+ },
+ {
+   "channel_name": "E!",
+   "epg_code": "E.svn",
+   "popularity": 3
+ },
+ {
+   "channel_name": "E! Entertainment",
+   "epg_code": "E.hr",
+   "popularity": 2779
+ },
+ {
+   "channel_name": "EPIC Drama HD",
+   "epg_code": "EPICDramaHD.svn",
+   "popularity": 6058
+ },
+ {
+   "channel_name": "Eurochannel",
+   "epg_code": "Eurochannel.rs",
+   "popularity": 447
+ },
+ {
+   "channel_name": "Eurosport",
+   "epg_code": "Eurosport1.svn",
+   "popularity": 101
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport1.rs",
+   "popularity": 5473
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.rs",
+   "popularity": 8638
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.svn",
+   "popularity": 195
+ },
+ {
+   "channel_name": "Eurosport1",
+   "epg_code": "Eurosport1.hr",
+   "popularity": 4105
+ },
+ {
+   "channel_name": "Eurosport2",
+   "epg_code": "Eurosport2.hr",
+   "popularity": 603
+ },
+ {
+   "channel_name": "EWTN",
+   "epg_code": "EWTN.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Exodus TV",
+   "epg_code": "ExodusTV.svn",
+   "popularity": 65
+ },
+ {
+   "channel_name": "Extreme",
+   "epg_code": "Extreme.svn",
+   "popularity": 276
+ },
+ {
+   "channel_name": "Face TV",
+   "epg_code": "FaceTV.hr",
+   "popularity": 1062
+ },
+ {
+   "channel_name": "FACE TV",
+   "epg_code": "facetv.ba",
+   "popularity": 88768
+ },
+ {
+   "channel_name": "Fashion Tv",
+   "epg_code": "FashionTV.hr",
+   "popularity": 1159
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.rs",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.svn",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Federalna TV",
+   "epg_code": "FederalnaTV.svn",
+   "popularity": 1172
+ },
+ {
+   "channel_name": "Fight Channel",
+   "epg_code": "FightChannel.svn",
+   "popularity": 8983
+ },
+ {
+   "channel_name": "Fight Channel World",
+   "epg_code": "FightChannelWorld.svn",
+   "popularity": 354
+ },
+ {
+   "channel_name": "Fight Network",
+   "epg_code": "FightNetwork.rs",
+   "popularity": 1163
+ },
+ {
+   "channel_name": "Fight Sports",
+   "epg_code": "FightSports.svn",
+   "popularity": 510
+ },
+ {
+   "channel_name": "Fightbox",
+   "epg_code": "Fightbox.svn",
+   "popularity": 1042
+ },
+ {
+   "channel_name": "Film Klub",
+   "epg_code": "FilmKlub.rs",
+   "popularity": 18026
+ },
+ {
+   "channel_name": "Film+",
+   "epg_code": "film-plus.sr",
+   "popularity": 4
+ },
+ {
+   "channel_name": "FilmBox",
+   "epg_code": "FilmBox.rs",
+   "popularity": 904
+ },
+ {
+   "channel_name": "Filmbox Arthouse",
+   "epg_code": "FilmboxArthouse.rs",
+   "popularity": 87
+ },
+ {
+   "channel_name": "FilmBox Extra",
+   "epg_code": "FilmBoxExtra.rs",
+   "popularity": 3188
+ },
+ {
+   "channel_name": "FilmBox Extra HD",
+   "epg_code": "FilmBoxExtra.hr",
+   "popularity": 1545
+ },
+ {
+   "channel_name": "FilmBox Plus",
+   "epg_code": "FilmBoxPlus.hr",
+   "popularity": 1564
+ },
+ {
+   "channel_name": "FilmBox Plus",
+   "epg_code": "FilmBoxPlus.rs",
+   "popularity": 1922
+ },
+ {
+   "channel_name": "Fine Living",
+   "epg_code": "FLN.svn",
+   "popularity": 3987
+ },
+ {
+   "channel_name": "Fine Living Network",
+   "epg_code": "FineLivingNetwork.hr",
+   "popularity": 121
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.hr",
+   "popularity": 4912
+ },
+ {
+   "channel_name": "FOOD TV HD",
+   "epg_code": "FoodTVHD.svn",
+   "popularity": 98
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.hr",
+   "popularity": 59251
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "FOX.svn",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Fox Crime",
+   "epg_code": "FOXCrime.hr",
+   "popularity": 15453
+ },
+ {
+   "channel_name": "FOX Crime",
+   "epg_code": "FOXCrime.svn",
+   "popularity": 161
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FOXLife.hr",
+   "popularity": 16062
+ },
+ {
+   "channel_name": "FOX Life",
+   "epg_code": "FOXLife.svn",
+   "popularity": 144
+ },
+ {
+   "channel_name": "Fox Movies",
+   "epg_code": "FoxMovies.hr",
+   "popularity": 23058
+ },
+ {
+   "channel_name": "FOX Movies",
+   "epg_code": "FOXmovies.svn",
+   "popularity": 18903
+ },
+ {
+   "channel_name": "Fox News",
+   "epg_code": "FoxNews.hr",
+   "popularity": 22
+ },
+ {
+   "channel_name": "France 24",
+   "epg_code": "France24.svn",
+   "popularity": 41
+ },
+ {
+   "channel_name": "FTV",
+   "epg_code": "FTV.hr",
+   "popularity": 93309
+ },
+ {
+   "channel_name": "Gea TV",
+   "epg_code": "GeaTV.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "GINX",
+   "epg_code": "GINX.hr",
+   "popularity": 126
+ },
+ {
+   "channel_name": "Ginx",
+   "epg_code": "Ginx.svn",
+   "popularity": 726
+ },
+ {
+   "channel_name": "Gold TV",
+   "epg_code": "GoldTV.svn",
+   "popularity": 42
+ },
+ {
+   "channel_name": "GoldKlub",
+   "epg_code": "Golfklub.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Golf Klub",
+   "epg_code": "GolfKlub.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Golica TV",
+   "epg_code": "GolicaTV.svn",
+   "popularity": 117
+ },
+ {
+   "channel_name": "Grand Narodna TV",
+   "epg_code": "GrandNarodna.rs",
+   "popularity": 20805
+ },
+ {
+   "channel_name": "Grand TV",
+   "epg_code": "Grand.svn",
+   "popularity": 1963
+ },
+ {
+   "channel_name": "Grand TV 2",
+   "epg_code": "Grand2.svn",
+   "popularity": 6795
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.hr",
+   "popularity": 261
+ },
+ {
+   "channel_name": "Happy TV",
+   "epg_code": "HappyTV.hr",
+   "popularity": 3766
+ },
+ {
+   "channel_name": "Happy TV",
+   "epg_code": "happytv.sr",
+   "popularity": 96313
+ },
+ {
+   "channel_name": "Happy TV",
+   "epg_code": "HappyTV.svn",
+   "popularity": 39
+ },
+ {
+   "channel_name": "Hayat Folk",
+   "epg_code": "HayatFolk.ba",
+   "popularity": 3346
+ },
+ {
+   "channel_name": "Hayat Folk",
+   "epg_code": "HayatFolk.hr",
+   "popularity": 20951
+ },
+ {
+   "channel_name": "Hayat Music",
+   "epg_code": "HayatMusic.ba",
+   "popularity": 16897
+ },
+ {
+   "channel_name": "Hayat Plus",
+   "epg_code": "hayat-plus.ba",
+   "popularity": 79194
+ },
+ {
+   "channel_name": "Hayat TV",
+   "epg_code": "HayatTV.ba",
+   "popularity": 4731
+ },
+ {
+   "channel_name": "Hayat TV",
+   "epg_code": "HayatTV.svn",
+   "popularity": 39769
+ },
+ {
+   "channel_name": "Hayat TV",
+   "epg_code": "HAYATTVBIH.hr",
+   "popularity": 115509
+ },
+ {
+   "channel_name": "Hayat TV Sat",
+   "epg_code": "HAYATTVSAT.sr",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Hayatovci",
+   "epg_code": "Hayatovci.ba",
+   "popularity": 2021
+ },
+ {
+   "channel_name": "Hayatovci",
+   "epg_code": "Hayatovci.hr",
+   "popularity": 12510
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBO.svn",
+   "popularity": 1526
+ },
+ {
+   "channel_name": "HBO",
+   "epg_code": "HBOAdria.hr",
+   "popularity": 14423
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBO2.rs",
+   "popularity": 2140
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBO2.svn",
+   "popularity": 3904
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBOComedy.hr",
+   "popularity": 11645
+ },
+ {
+   "channel_name": "HBO 3",
+   "epg_code": "HBO3.rs",
+   "popularity": 13417
+ },
+ {
+   "channel_name": "HBO 3",
+   "epg_code": "HBO3hd.svn",
+   "popularity": 12154
+ },
+ {
+   "channel_name": "HBO Adria",
+   "epg_code": "HBOAdria.rs",
+   "popularity": 25550
+ },
+ {
+   "channel_name": "HBO HD",
+   "epg_code": "HBOAdriaHD.hr",
+   "popularity": 12114
+ },
+ {
+   "channel_name": "HGTV",
+   "epg_code": "HGTV.svn",
+   "popularity": 884
+ },
+ {
+   "channel_name": "History 2",
+   "epg_code": "H2.rs",
+   "popularity": 7321
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "History.hr",
+   "popularity": 18916
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChn.svn",
+   "popularity": 4394
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChannel.rs",
+   "popularity": 98
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.hr",
+   "popularity": 229
+ },
+ {
+   "channel_name": "HitTV",
+   "epg_code": "HitTV.hr",
+   "popularity": 135
+ },
+ {
+   "channel_name": "HNTV",
+   "epg_code": "HNTV.hr",
+   "popularity": 8178
+ },
+ {
+   "channel_name": "HRT 1",
+   "epg_code": "HRT1.hr",
+   "popularity": 18734
+ },
+ {
+   "channel_name": "Hrt 1",
+   "epg_code": "HRT1.svn",
+   "popularity": 7175
+ },
+ {
+   "channel_name": "HRT 2",
+   "epg_code": "HRT2.hr",
+   "popularity": 12190
+ },
+ {
+   "channel_name": "Hrt 2",
+   "epg_code": "HRT2.svn",
+   "popularity": 3312
+ },
+ {
+   "channel_name": "Hrt 2",
+   "epg_code": "HRT3.svn",
+   "popularity": 273
+ },
+ {
+   "channel_name": "HRT 3",
+   "epg_code": "HRT3.hr",
+   "popularity": 61758
+ },
+ {
+   "channel_name": "HRT 4",
+   "epg_code": "HRT4.hr",
+   "popularity": 72738
+ },
+ {
+   "channel_name": "HRT 4",
+   "epg_code": "HRT4.svn",
+   "popularity": 204
+ },
+ {
+   "channel_name": "HTV1",
+   "epg_code": "HRTTV1.hr",
+   "popularity": 125160
+ },
+ {
+   "channel_name": "HTV2",
+   "epg_code": "HRTTV2.hr",
+   "popularity": 105266
+ },
+ {
+   "channel_name": "Hustler HD",
+   "epg_code": "HustlerHD.svn",
+   "popularity": 21517
+ },
+ {
+   "channel_name": "ID Xtra",
+   "epg_code": "IDXtra.hr",
+   "popularity": 755
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "ID.rs",
+   "popularity": 1315
+ },
+ {
+   "channel_name": "Jabuka (OTV)",
+   "epg_code": "JabukaTV.svn",
+   "popularity": 9876
+ },
+ {
+   "channel_name": "Jabuka TV",
+   "epg_code": "JabukaTV.hr",
+   "popularity": 464
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.ba",
+   "popularity": 22
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.hr",
+   "popularity": 142
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.svn",
+   "popularity": 126
+ },
+ {
+   "channel_name": "Jugoton",
+   "epg_code": "Jugoton.hr",
+   "popularity": 5557
+ },
+ {
+   "channel_name": "Jugoton TV",
+   "epg_code": "Jugoton.svn",
+   "popularity": 6445
+ },
+ {
+   "channel_name": "K3",
+   "epg_code": "K3.ba",
+   "popularity": 4360
+ },
+ {
+   "channel_name": "Kabel 1",
+   "epg_code": "Kabel1.svn",
+   "popularity": 579
+ },
+ {
+   "channel_name": "Kanal 5",
+   "epg_code": "Kanal5.hr",
+   "popularity": 1758
+ },
+ {
+   "channel_name": "Kanal 5",
+   "epg_code": "Kanal5.svn",
+   "popularity": 7529
+ },
+ {
+   "channel_name": "Kanal A",
+   "epg_code": "KanalA.svn",
+   "popularity": 1366
+ },
+ {
+   "channel_name": "Kanal-Ri",
+   "epg_code": "Kanal-Ri.hr",
+   "popularity": 198
+ },
+ {
+   "channel_name": "KCN",
+   "epg_code": "KCN1.svn",
+   "popularity": 459
+ },
+ {
+   "channel_name": "KCN 1",
+   "epg_code": "KCN1.rs",
+   "popularity": 2520
+ },
+ {
+   "channel_name": "KCN 2",
+   "epg_code": "KCN2.rs",
+   "popularity": 7291
+ },
+ {
+   "channel_name": "KCN 3",
+   "epg_code": "KCN3.rs",
+   "popularity": 5836
+ },
+ {
+   "channel_name": "KCN 3",
+   "epg_code": "KCN3.svn",
+   "popularity": 19
+ },
+ {
+   "channel_name": "KCN Music",
+   "epg_code": "KCNMusic.svn",
+   "popularity": 290
+ },
+ {
+   "channel_name": "KCN Svet +",
+   "epg_code": "KCNSvet3.rs",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kino TV",
+   "epg_code": "KinoTV.hr",
+   "popularity": 9141
+ },
+ {
+   "channel_name": "Kitchen TV",
+   "epg_code": "KitchenTV.rs",
+   "popularity": 1038
+ },
+ {
+   "channel_name": "Klasik TV",
+   "epg_code": "KlasikTV.hr",
+   "popularity": 41822
+ },
+ {
+   "channel_name": "Klasik TV",
+   "epg_code": "KlasikTV.svn",
+   "popularity": 55
+ },
+ {
+   "channel_name": "KTV Ormoz",
+   "epg_code": "KTVOrmoz.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Laudato TV",
+   "epg_code": "LaudatoTV.hr",
+   "popularity": 24233
+ },
+ {
+   "channel_name": "Lov i Ribolov",
+   "epg_code": "LoviRibolov.rs",
+   "popularity": 21050
+ },
+ {
+   "channel_name": "Lov i ribolov",
+   "epg_code": "LoviRibolov.svn",
+   "popularity": 119
+ },
+ {
+   "channel_name": "M moja TV",
+   "epg_code": "MojaTV.rs",
+   "popularity": 0
+ },
+ {
+   "channel_name": "M1 Film",
+   "epg_code": "M1Film.hr",
+   "popularity": 9865
+ },
+ {
+   "channel_name": "Meiaset Italia Int",
+   "epg_code": "MediasetInternational.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.hr",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.svn",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Mini TV",
+   "epg_code": "MiniTV.hr",
+   "popularity": 9726
+ },
+ {
+   "channel_name": "Mini Ultra",
+   "epg_code": "MiniUltra.rs",
+   "popularity": 373
+ },
+ {
+   "channel_name": "Minimax",
+   "epg_code": "Minimax.hr",
+   "popularity": 377
+ },
+ {
+   "channel_name": "Minimax",
+   "epg_code": "Minimax.rs",
+   "popularity": 21144
+ },
+ {
+   "channel_name": "Minimax",
+   "epg_code": "MINIMAX.svn",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Motors Tv",
+   "epg_code": "MotorsTV.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Motors TV",
+   "epg_code": "MotorsTV.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Motorvision",
+   "epg_code": "Motorvision.svn",
+   "popularity": 1314
+ },
+ {
+   "channel_name": "MrežaST",
+   "epg_code": "MrezaST.hr",
+   "popularity": 603
+ },
+ {
+   "channel_name": "MrežaZG",
+   "epg_code": "MrezaZG.hr",
+   "popularity": 795
+ },
+ {
+   "channel_name": "MrezaZG",
+   "epg_code": "MrezaZG.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MRT 1",
+   "epg_code": "MRT1.svn",
+   "popularity": 18237
+ },
+ {
+   "channel_name": "MRT 2",
+   "epg_code": "MRT2.svn",
+   "popularity": 1700
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.svn",
+   "popularity": 147
+ },
+ {
+   "channel_name": "MTV Adria",
+   "epg_code": "MTVAdria.rs",
+   "popularity": 5312
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.svn",
+   "popularity": 1888
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.svn",
+   "popularity": 6
+ },
+ {
+   "channel_name": "MTV Live",
+   "epg_code": "MTVLive.svn",
+   "popularity": 76
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "MTVRocks.svn",
+   "popularity": 612
+ },
+ {
+   "channel_name": "N1",
+   "epg_code": "N1.rs",
+   "popularity": 16888
+ },
+ {
+   "channel_name": "N1 Croatia",
+   "epg_code": "N1Croatia.hr",
+   "popularity": 155672
+ },
+ {
+   "channel_name": "Narodna TV",
+   "epg_code": "NarodnaTV.svn",
+   "popularity": 4899
+ },
+ {
+   "channel_name": "NarodnaTV",
+   "epg_code": "NarodnaTV.hr",
+   "popularity": 165
+ },
+ {
+   "channel_name": "NatGeo Wild",
+   "epg_code": "NatGeoWild.hr",
+   "popularity": 4367
+ },
+ {
+   "channel_name": "NatGeo Wild HD",
+   "epg_code": "NatGeoWildHD.hr",
+   "popularity": 1066
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NGC.hr",
+   "popularity": 11445
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NGC.svn",
+   "popularity": 16
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.rs",
+   "popularity": 4371
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "NGCHD.svn",
+   "popularity": 256
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "NationalGeographicHD.hr",
+   "popularity": 5540
+ },
+ {
+   "channel_name": "National Geographic Wild",
+   "epg_code": "NGCwild.svn",
+   "popularity": 4083
+ },
+ {
+   "channel_name": "Nautical Channel",
+   "epg_code": "Nautical.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "NeT",
+   "epg_code": "NetTV.hr",
+   "popularity": 80
+ },
+ {
+   "channel_name": "NET TV",
+   "epg_code": "NETtv.svn",
+   "popularity": 1537
+ },
+ {
+   "channel_name": "Nick JR",
+   "epg_code": "NickJR.hr",
+   "popularity": 498
+ },
+ {
+   "channel_name": "Nick JR",
+   "epg_code": "NickJr.svn",
+   "popularity": 5129
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.hr",
+   "popularity": 19780
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.svn",
+   "popularity": 11
+ },
+ {
+   "channel_name": "NOVA RS",
+   "epg_code": "Nova.rs",
+   "popularity": 15937
+ },
+ {
+   "channel_name": "NOVA TV",
+   "epg_code": "NovaTV.hr",
+   "popularity": 155733
+ },
+ {
+   "channel_name": "Nova TV",
+   "epg_code": "NovaTVhr.svn",
+   "popularity": 99
+ },
+ {
+   "channel_name": "Nova TV 24",
+   "epg_code": "NovaTV24.svn",
+   "popularity": 168
+ },
+ {
+   "channel_name": "NTV IC Kakanj",
+   "epg_code": "NTVICKakanj.svn",
+   "popularity": 3847
+ },
+ {
+   "channel_name": "O2",
+   "epg_code": "O2.rs",
+   "popularity": 952
+ },
+ {
+   "channel_name": "O2 TV",
+   "epg_code": "O2.svn",
+   "popularity": 32
+ },
+ {
+   "channel_name": "OBN",
+   "epg_code": "OBN.hr",
+   "popularity": 26424
+ },
+ {
+   "channel_name": "OBN",
+   "epg_code": "OBN.rs",
+   "popularity": 268
+ },
+ {
+   "channel_name": "OBN",
+   "epg_code": "OBN.svn",
+   "popularity": 124756
+ },
+ {
+   "channel_name": "OK Bambino",
+   "epg_code": "OKBambino.svn",
+   "popularity": 110
+ },
+ {
+   "channel_name": "ORF 1",
+   "epg_code": "ORF1.svn",
+   "popularity": 1196
+ },
+ {
+   "channel_name": "ORF 2",
+   "epg_code": "ORF2.svn",
+   "popularity": 1937
+ },
+ {
+   "channel_name": "Orlando Kids",
+   "epg_code": "OrlandoKids.hr",
+   "popularity": 1744
+ },
+ {
+   "channel_name": "Orlando Kids",
+   "epg_code": "OrlandoKids.svn",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Osječka TV",
+   "epg_code": "OsječkaTV.hr",
+   "popularity": 19817
+ },
+ {
+   "channel_name": "OTV Valentino",
+   "epg_code": "OTVValentino.ba",
+   "popularity": 14996
+ },
+ {
+   "channel_name": "OTV Valentino",
+   "epg_code": "OTVValentino.svn",
+   "popularity": 614
+ },
+ {
+   "channel_name": "Outdoor Channel",
+   "epg_code": "Outdoor.svn",
+   "popularity": 167
+ },
+ {
+   "channel_name": "Pickbox",
+   "epg_code": "Pickbox.hr",
+   "popularity": 2564
+ },
+ {
+   "channel_name": "Pikaboo",
+   "epg_code": "Pikaboo.svn",
+   "popularity": 6425
+ },
+ {
+   "channel_name": "Pink 1",
+   "epg_code": "Pink1.rs",
+   "popularity": 43378
+ },
+ {
+   "channel_name": "Pink 2",
+   "epg_code": "Pink2.hr",
+   "popularity": 61589
+ },
+ {
+   "channel_name": "Pink 2",
+   "epg_code": "Pink2.rs",
+   "popularity": 2756
+ },
+ {
+   "channel_name": "Pink 2",
+   "epg_code": "Pink2.svn",
+   "popularity": 109
+ },
+ {
+   "channel_name": "Pink 3",
+   "epg_code": "Pink3.rs",
+   "popularity": 51737
+ },
+ {
+   "channel_name": "Pink Action",
+   "epg_code": "PinkAction.rs",
+   "popularity": 93177
+ },
+ {
+   "channel_name": "Pink and Roll",
+   "epg_code": "PinkRoll.rs",
+   "popularity": 1021
+ },
+ {
+   "channel_name": "PINK BH",
+   "epg_code": "PINKBH.hr",
+   "popularity": 58542
+ },
+ {
+   "channel_name": "Pink Classic",
+   "epg_code": "PinkClassic.rs",
+   "popularity": 27939
+ },
+ {
+   "channel_name": "Pink Comedy",
+   "epg_code": "PinkComedy.hr",
+   "popularity": 54683
+ },
+ {
+   "channel_name": "Pink Comedy",
+   "epg_code": "PinkComedy.rs",
+   "popularity": 2253
+ },
+ {
+   "channel_name": "Pink Crime and Mistery",
+   "epg_code": "PinkCrime.rs",
+   "popularity": 37884
+ },
+ {
+   "channel_name": "Pink Ekstra",
+   "epg_code": "PinkExtra.svn",
+   "popularity": 19311
+ },
+ {
+   "channel_name": "Pink Erotic",
+   "epg_code": "PinkErotic.rs",
+   "popularity": 92390
+ },
+ {
+   "channel_name": "Pink Erotic 2",
+   "epg_code": "PinkErotic2.rs",
+   "popularity": 91218
+ },
+ {
+   "channel_name": "Pink Erotic 3",
+   "epg_code": "PinkErotic3.rs",
+   "popularity": 96638
+ },
+ {
+   "channel_name": "Pink Erotic 4",
+   "epg_code": "PinkErotic4.rs",
+   "popularity": 78945
+ },
+ {
+   "channel_name": "Pink Erotic 5",
+   "epg_code": "PinkErotic5.rs",
+   "popularity": 32572
+ },
+ {
+   "channel_name": "Pink Erotic 6",
+   "epg_code": "PinkErotic6.rs",
+   "popularity": 41961
+ },
+ {
+   "channel_name": "Pink Erotic 7",
+   "epg_code": "PinkErotic7.rs",
+   "popularity": 34327
+ },
+ {
+   "channel_name": "Pink Erotic 8",
+   "epg_code": "PinkErotic8.rs",
+   "popularity": 35627
+ },
+ {
+   "channel_name": "Pink Extra",
+   "epg_code": "PinkExtra.rs",
+   "popularity": 7450
+ },
+ {
+   "channel_name": "Pink Family",
+   "epg_code": "PinkFamily.hr",
+   "popularity": 24194
+ },
+ {
+   "channel_name": "Pink Family",
+   "epg_code": "PinkFamily.svn",
+   "popularity": 72
+ },
+ {
+   "channel_name": "Pink Film",
+   "epg_code": "PinkFilm.rs",
+   "popularity": 70350
+ },
+ {
+   "channel_name": "Pink Film",
+   "epg_code": "PinkFilm.svn",
+   "popularity": 149
+ },
+ {
+   "channel_name": "Pink Folk",
+   "epg_code": "PinkFolk.svn",
+   "popularity": 4397
+ },
+ {
+   "channel_name": "Pink Folk 2",
+   "epg_code": "PinkFolk2.rs",
+   "popularity": 21098
+ },
+ {
+   "channel_name": "Pink Hits 1",
+   "epg_code": "PinkHits1.rs",
+   "popularity": 6118
+ },
+ {
+   "channel_name": "Pink Hits 2",
+   "epg_code": "PinkHits2.rs",
+   "popularity": 6408
+ },
+ {
+   "channel_name": "Pink Horror",
+   "epg_code": "PinkHorror.hr",
+   "popularity": 40340
+ },
+ {
+   "channel_name": "Pink Horror",
+   "epg_code": "PinkHorror.rs",
+   "popularity": 1497
+ },
+ {
+   "channel_name": "PINK Kids",
+   "epg_code": "PINKKids.rs",
+   "popularity": 13035
+ },
+ {
+   "channel_name": "Pink Kids",
+   "epg_code": "PinkKids.svn",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Pink Koncert",
+   "epg_code": "PinkKoncert.rs",
+   "popularity": 7485
+ },
+ {
+   "channel_name": "Pink Kuvar",
+   "epg_code": "PinkKuvar.rs",
+   "popularity": 39782
+ },
+ {
+   "channel_name": "Pink M",
+   "epg_code": "PinkM.rs",
+   "popularity": 18498
+ },
+ {
+   "channel_name": "Pink Movies",
+   "epg_code": "PinkMovies.rs",
+   "popularity": 48589
+ },
+ {
+   "channel_name": "Pink Movies",
+   "epg_code": "PinkMovies.svn",
+   "popularity": 131
+ },
+ {
+   "channel_name": "Pink Music",
+   "epg_code": "PinkMusic.svn",
+   "popularity": 10954
+ },
+ {
+   "channel_name": "Pink Music 1",
+   "epg_code": "PinkMusic1.rs",
+   "popularity": 5780
+ },
+ {
+   "channel_name": "Pink Music 2",
+   "epg_code": "PinkMusic2.rs",
+   "popularity": 10832
+ },
+ {
+   "channel_name": "Pink Music 3",
+   "epg_code": "PinkMusic3.rs",
+   "popularity": 2397
+ },
+ {
+   "channel_name": "Pink Music 4",
+   "epg_code": "PinkMusic4.rs",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Pink Music 5",
+   "epg_code": "PinkMusic5.rs",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Pink Parada",
+   "epg_code": "PinkParada.rs",
+   "popularity": 227
+ },
+ {
+   "channel_name": "Pink Pedia",
+   "epg_code": "PinkPedia.rs",
+   "popularity": 20714
+ },
+ {
+   "channel_name": "PINK Plus",
+   "epg_code": "PINKPlus.hr",
+   "popularity": 28563
+ },
+ {
+   "channel_name": "Pink Plus",
+   "epg_code": "PinkPlus.rs",
+   "popularity": 2142
+ },
+ {
+   "channel_name": "Pink Plus",
+   "epg_code": "PinkPlus.svn",
+   "popularity": 193
+ },
+ {
+   "channel_name": "Pink Premium",
+   "epg_code": "PinkPremium.rs",
+   "popularity": 58863
+ },
+ {
+   "channel_name": "Pink Reality",
+   "epg_code": "PinkReality.rs",
+   "popularity": 26718
+ },
+ {
+   "channel_name": "Pink Reality",
+   "epg_code": "PinkReality.svn",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Pink Romance",
+   "epg_code": "PinkRomance.rs",
+   "popularity": 36885
+ },
+ {
+   "channel_name": "Pink Sci Fi & Fantasy",
+   "epg_code": "PinkSciFiFantasy.rs",
+   "popularity": 22369
+ },
+ {
+   "channel_name": "Pink Serije",
+   "epg_code": "PinkSerije.rs",
+   "popularity": 25459
+ },
+ {
+   "channel_name": "Pink Show",
+   "epg_code": "PinkShow.rs",
+   "popularity": 20526
+ },
+ {
+   "channel_name": "Pink SI",
+   "epg_code": "PinkSI.svn",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Pink Soap",
+   "epg_code": "PinkSoap.rs",
+   "popularity": 37547
+ },
+ {
+   "channel_name": "Pink Super Kids",
+   "epg_code": "PinkSuperKids.rs",
+   "popularity": 7352
+ },
+ {
+   "channel_name": "Pink Thriller",
+   "epg_code": "PinkThriller.rs",
+   "popularity": 47110
+ },
+ {
+   "channel_name": "Pink Western",
+   "epg_code": "PinkWestern.rs",
+   "popularity": 59837
+ },
+ {
+   "channel_name": "Pink World",
+   "epg_code": "PinkWorld.rs",
+   "popularity": 22232
+ },
+ {
+   "channel_name": "Pink World",
+   "epg_code": "PinkWorld.svn",
+   "popularity": 114
+ },
+ {
+   "channel_name": "Pink World Cinema",
+   "epg_code": "PinkWorldCinema.rs",
+   "popularity": 29569
+ },
+ {
+   "channel_name": "Pink Zabava",
+   "epg_code": "PinkZabava.rs",
+   "popularity": 25434
+ },
+ {
+   "channel_name": "Pink Zabava",
+   "epg_code": "PinkZabava.svn",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Planet 2 HD",
+   "epg_code": "Planet2.svn",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Planet Earth",
+   "epg_code": "PlanetEarth.hr",
+   "popularity": 4806
+ },
+ {
+   "channel_name": "Planet EARTH",
+   "epg_code": "PlanetEARTH.svn",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Planet PLUS HD",
+   "epg_code": "PlanetPLUS.svn",
+   "popularity": 157
+ },
+ {
+   "channel_name": "Planet TV",
+   "epg_code": "PlanetTV.svn",
+   "popularity": 2024
+ },
+ {
+   "channel_name": "Planet TV +1",
+   "epg_code": "PlanetTVplus1.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Playboy TV",
+   "epg_code": "PlayboyTV.svn",
+   "popularity": 6694
+ },
+ {
+   "channel_name": "Poljoprivredna TV",
+   "epg_code": "PoljoprivrednaTV.hr",
+   "popularity": 9170
+ },
+ {
+   "channel_name": "POP BRIO",
+   "epg_code": "POPBrio.svn",
+   "popularity": 1009
+ },
+ {
+   "channel_name": "POP KINO",
+   "epg_code": "POPKino.svn",
+   "popularity": 1691
+ },
+ {
+   "channel_name": "POP OTO",
+   "epg_code": "POPOTO.svn",
+   "popularity": 908
+ },
+ {
+   "channel_name": "Pop TV",
+   "epg_code": "PopTV.svn",
+   "popularity": 2823
+ },
+ {
+   "channel_name": "Pozitiv TV",
+   "epg_code": "PozitivTV.hr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Pro 7",
+   "epg_code": "Pro7.svn",
+   "popularity": 1210
+ },
+ {
+   "channel_name": "Prva",
+   "epg_code": "Prva.rs",
+   "popularity": 53393
+ },
+ {
+   "channel_name": "Prva CG",
+   "epg_code": "PrvaCG.rs",
+   "popularity": 5265
+ },
+ {
+   "channel_name": "Prva MAX",
+   "epg_code": "PrvaMAX.rs",
+   "popularity": 35572
+ },
+ {
+   "channel_name": "Prva Plus",
+   "epg_code": "PrvaPlus.rs",
+   "popularity": 52068
+ },
+ {
+   "channel_name": "Prva Srbska TV",
+   "epg_code": "PrvaTVsr.svn",
+   "popularity": 1196
+ },
+ {
+   "channel_name": "Prva srpska televizija",
+   "epg_code": "Prva.hr",
+   "popularity": 65887
+ },
+ {
+   "channel_name": "Ptujska TV",
+   "epg_code": "PtujskaTV.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RAI 1",
+   "epg_code": "RAI1.svn",
+   "popularity": 204
+ },
+ {
+   "channel_name": "RAI 2",
+   "epg_code": "RAI2.svn",
+   "popularity": 409
+ },
+ {
+   "channel_name": "RAI 3",
+   "epg_code": "RAI3.svn",
+   "popularity": 161
+ },
+ {
+   "channel_name": "Rete 4",
+   "epg_code": "Rete4.svn",
+   "popularity": 79
+ },
+ {
+   "channel_name": "RITV",
+   "epg_code": "RITV.hr",
+   "popularity": 8
+ },
+ {
+   "channel_name": "RT Crna Gora",
+   "epg_code": "RTCrnaGora.svn",
+   "popularity": 3136
+ },
+ {
+   "channel_name": "RTB TV",
+   "epg_code": "RTB.hr",
+   "popularity": 6
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTL.hr",
+   "popularity": 48659
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTLNEMCIJA.svn",
+   "popularity": 79
+ },
+ {
+   "channel_name": "RTL 2",
+   "epg_code": "RTL2NEMCIJA.svn",
+   "popularity": 6
+ },
+ {
+   "channel_name": "RTL 2 Hrvatska",
+   "epg_code": "RTL2televizija.svn",
+   "popularity": 2563
+ },
+ {
+   "channel_name": "RTL Crime",
+   "epg_code": "RTLCrime.hr",
+   "popularity": 32811
+ },
+ {
+   "channel_name": "RTL Crime Hrvatska",
+   "epg_code": "RTLCrime.svn",
+   "popularity": 24
+ },
+ {
+   "channel_name": "RTL Hrvatska",
+   "epg_code": "RTLtelevizija.svn",
+   "popularity": 4794
+ },
+ {
+   "channel_name": "RTL Kockica",
+   "epg_code": "RTLKockica.hr",
+   "popularity": 22385
+ },
+ {
+   "channel_name": "RTL Kockica",
+   "epg_code": "RTLKockica.svn",
+   "popularity": 177
+ },
+ {
+   "channel_name": "RTL Living",
+   "epg_code": "RTLLiving.hr",
+   "popularity": 37235
+ },
+ {
+   "channel_name": "RTL Living Hrvatska",
+   "epg_code": "RTLLiving.svn",
+   "popularity": 255
+ },
+ {
+   "channel_name": "RTL Passion",
+   "epg_code": "RTLPassion.hr",
+   "popularity": 24499
+ },
+ {
+   "channel_name": "RTL Passion",
+   "epg_code": "RTLPassion.svn",
+   "popularity": 110
+ },
+ {
+   "channel_name": "RTL TELEVIZIJA",
+   "epg_code": "RTLplus.hr",
+   "popularity": 5257
+ },
+ {
+   "channel_name": "RTL TELEVIZIJA",
+   "epg_code": "RTLTelevizija.hr",
+   "popularity": 74153
+ },
+ {
+   "channel_name": "RTL2",
+   "epg_code": "rtl2.hr",
+   "popularity": 84109
+ },
+ {
+   "channel_name": "RTRS",
+   "epg_code": "RTRS.ba",
+   "popularity": 2062
+ },
+ {
+   "channel_name": "RTRS",
+   "epg_code": "RTRS.rs",
+   "popularity": 58386
+ },
+ {
+   "channel_name": "RTRS",
+   "epg_code": "RTRS.svn",
+   "popularity": 17
+ },
+ {
+   "channel_name": "RTRS BIH",
+   "epg_code": "RTRSBIH.ba",
+   "popularity": 946
+ },
+ {
+   "channel_name": "RTRS Plus",
+   "epg_code": "RTRSPlus.ba",
+   "popularity": 22943
+ },
+ {
+   "channel_name": "RTS 1",
+   "epg_code": "RTS1.rs",
+   "popularity": 142276
+ },
+ {
+   "channel_name": "RTS 1",
+   "epg_code": "RTS1Srbija.svn",
+   "popularity": 33667
+ },
+ {
+   "channel_name": "RTS 2",
+   "epg_code": "RTS2.rs",
+   "popularity": 63919
+ },
+ {
+   "channel_name": "RTS 2",
+   "epg_code": "RTS2Srbija.svn",
+   "popularity": 173
+ },
+ {
+   "channel_name": "RTS 3",
+   "epg_code": "RTS3.rs",
+   "popularity": 27186
+ },
+ {
+   "channel_name": "RTS Digital",
+   "epg_code": "RTSDigital.rs",
+   "popularity": 2
+ },
+ {
+   "channel_name": "RTS Drama",
+   "epg_code": "RTSDrama.rs",
+   "popularity": 38144
+ },
+ {
+   "channel_name": "RTS HD",
+   "epg_code": "RTSHD.rs",
+   "popularity": 18530
+ },
+ {
+   "channel_name": "RTS Kolo",
+   "epg_code": "RTSKolo.rs",
+   "popularity": 16303
+ },
+ {
+   "channel_name": "RTS Maribor",
+   "epg_code": "RTSMaribor.svn",
+   "popularity": 121
+ },
+ {
+   "channel_name": "RTS Muzika",
+   "epg_code": "RTSMuzika.rs",
+   "popularity": 9491
+ },
+ {
+   "channel_name": "RTS Poletarac",
+   "epg_code": "RTSPoletarac.rs",
+   "popularity": 4991
+ },
+ {
+   "channel_name": "RTS Sat",
+   "epg_code": "RTSSAT.rs",
+   "popularity": 6379
+ },
+ {
+   "channel_name": "RTS Svet",
+   "epg_code": "RTSSvet.rs",
+   "popularity": 14582
+ },
+ {
+   "channel_name": "RTS Trezor",
+   "epg_code": "RTSTrezor.rs",
+   "popularity": 18376
+ },
+ {
+   "channel_name": "RTS Život",
+   "epg_code": "RTSZivot.rs",
+   "popularity": 26010
+ },
+ {
+   "channel_name": "RTV MONTENEGRO Sat",
+   "epg_code": "RTVMONTENEGROSat.rs",
+   "popularity": 23129
+ },
+ {
+   "channel_name": "RTV1",
+   "epg_code": "RTV1.rs",
+   "popularity": 23479
+ },
+ {
+   "channel_name": "RTV2",
+   "epg_code": "RTV2.rs",
+   "popularity": 7541
+ },
+ {
+   "channel_name": "Russia Today",
+   "epg_code": "RussiaToday.svn",
+   "popularity": 15
+ },
+ {
+   "channel_name": "S-TV Skledar",
+   "epg_code": "S-TVSkledar.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SAT 1",
+   "epg_code": "SAT1.svn",
+   "popularity": 800
+ },
+ {
+   "channel_name": "Sci Fi and Fantasy",
+   "epg_code": "PinkSyfy.rs",
+   "popularity": 459
+ },
+ {
+   "channel_name": "Sci-Fi Channel",
+   "epg_code": "SciFi.hr",
+   "popularity": 505
+ },
+ {
+   "channel_name": "SciFi Universal",
+   "epg_code": "SciFi.svn",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Servus TV",
+   "epg_code": "ServusTVHD.svn",
+   "popularity": 177
+ },
+ {
+   "channel_name": "Sip TV",
+   "epg_code": "SipTV.svn",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Sitel 3",
+   "epg_code": "Sitel3.svn",
+   "popularity": 4912
+ },
+ {
+   "channel_name": "Sky News",
+   "epg_code": "SkyNews.svn",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Slavonska TV",
+   "epg_code": "SlavonskaTV.hr",
+   "popularity": 9978
+ },
+ {
+   "channel_name": "Slavonskobrodska televizija",
+   "epg_code": "Slavonskobrodska.hr",
+   "popularity": 42
+ },
+ {
+   "channel_name": "SOS",
+   "epg_code": "SOS.hr",
+   "popularity": 6056
+ },
+ {
+   "channel_name": "SOS",
+   "epg_code": "SOS.rs",
+   "popularity": 313
+ },
+ {
+   "channel_name": "Sport 1",
+   "epg_code": "Sport1.hr",
+   "popularity": 81
+ },
+ {
+   "channel_name": "Sport 1",
+   "epg_code": "Sport1.svn",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Sport Klub 1",
+   "epg_code": "SportKlub1.rs",
+   "popularity": 19776
+ },
+ {
+   "channel_name": "Sport Klub 1 HR",
+   "epg_code": "SportKlub1.hr",
+   "popularity": 23374
+ },
+ {
+   "channel_name": "Sport Klub 2",
+   "epg_code": "SportKlub2.rs",
+   "popularity": 20757
+ },
+ {
+   "channel_name": "Sport Klub 2 HR",
+   "epg_code": "SportKlub2.hr",
+   "popularity": 8251
+ },
+ {
+   "channel_name": "Sport Klub 3",
+   "epg_code": "SportKlub3.hr",
+   "popularity": 17723
+ },
+ {
+   "channel_name": "Sport Klub 3",
+   "epg_code": "SportKlub3.rs",
+   "popularity": 9394
+ },
+ {
+   "channel_name": "Sport Klub 4",
+   "epg_code": "SportKlub4.rs",
+   "popularity": 10988
+ },
+ {
+   "channel_name": "Sport Klub 5",
+   "epg_code": "SportKlub5.rs",
+   "popularity": 8695
+ },
+ {
+   "channel_name": "Sport Klub 6",
+   "epg_code": "SportKlub6.rs",
+   "popularity": 6819
+ },
+ {
+   "channel_name": "Sport Klub Golf",
+   "epg_code": "SportKlubGolf.rs",
+   "popularity": 4329
+ },
+ {
+   "channel_name": "Sport Klub Prime",
+   "epg_code": "SportKlubPrime.rs",
+   "popularity": 47
+ },
+ {
+   "channel_name": "Šport TV 1",
+   "epg_code": "SportTV1.svn",
+   "popularity": 2535
+ },
+ {
+   "channel_name": "Šport TV 2",
+   "epg_code": "SportTV2.svn",
+   "popularity": 818
+ },
+ {
+   "channel_name": "Šport TV 3",
+   "epg_code": "SportTV3.svn",
+   "popularity": 447
+ },
+ {
+   "channel_name": "Sportklub 1",
+   "epg_code": "Sportklub1.svn",
+   "popularity": 1030
+ },
+ {
+   "channel_name": "Sportklub 2",
+   "epg_code": "Sportklub2.svn",
+   "popularity": 692
+ },
+ {
+   "channel_name": "Sportklub 3",
+   "epg_code": "Sportklub3.svn",
+   "popularity": 523
+ },
+ {
+   "channel_name": "Sportklub 4",
+   "epg_code": "Sportklub4.svn",
+   "popularity": 263
+ },
+ {
+   "channel_name": "Sportklub 5",
+   "epg_code": "Sportklub5.svn",
+   "popularity": 252
+ },
+ {
+   "channel_name": "Sportklub 6",
+   "epg_code": "Sportklub6.svn",
+   "popularity": 148
+ },
+ {
+   "channel_name": "SportKlub Golf",
+   "epg_code": "SportKlubGolf.hr",
+   "popularity": 140
+ },
+ {
+   "channel_name": "SportKlub HD",
+   "epg_code": "SportKlubHD.hr",
+   "popularity": 6215
+ },
+ {
+   "channel_name": "Sportska Televizija",
+   "epg_code": "SportskaTelevizija.hr",
+   "popularity": 294
+ },
+ {
+   "channel_name": "Sportska TV",
+   "epg_code": "SportskaTV.hr",
+   "popularity": 6192
+ },
+ {
+   "channel_name": "Srce TV",
+   "epg_code": "SrceTV.hr",
+   "popularity": 2280
+ },
+ {
+   "channel_name": "Studio B",
+   "epg_code": "studio-b-yu.sr",
+   "popularity": 15496
+ },
+ {
+   "channel_name": "Sundance TV",
+   "epg_code": "SundanceTV.svn",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Super RTL",
+   "epg_code": "SuperRTL.svn",
+   "popularity": 1296
+ },
+ {
+   "channel_name": "Tele M",
+   "epg_code": "TeleM.svn",
+   "popularity": 253
+ },
+ {
+   "channel_name": "Televizija Vox",
+   "epg_code": "TelevizijaVox.hr",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Telma TV",
+   "epg_code": "TelmaTV.svn",
+   "popularity": 455
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.hr",
+   "popularity": 10351
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.rs",
+   "popularity": 640
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.svn",
+   "popularity": 1605
+ },
+ {
+   "channel_name": "TOP Music",
+   "epg_code": "TOPMusic.hr",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Top TV",
+   "epg_code": "TopTV.svn",
+   "popularity": 503
+ },
+ {
+   "channel_name": "Trace Sport",
+   "epg_code": "TraceSport.svn",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Trace Urban",
+   "epg_code": "TraceUrban.hr",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Trace Urban",
+   "epg_code": "TraceUrban.svn",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.hr",
+   "popularity": 4933
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.svn",
+   "popularity": 392
+ },
+ {
+   "channel_name": "Travelxp",
+   "epg_code": "TravelXP.svn",
+   "popularity": 1300
+ },
+ {
+   "channel_name": "Travelxp 4K",
+   "epg_code": "TravelXP4K.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV 1",
+   "epg_code": "TV1.ba",
+   "popularity": 1656
+ },
+ {
+   "channel_name": "TV 1",
+   "epg_code": "TV1.svn",
+   "popularity": 14
+ },
+ {
+   "channel_name": "TV 1000",
+   "epg_code": "TV1000.svn",
+   "popularity": 16944
+ },
+ {
+   "channel_name": "TV 8",
+   "epg_code": "TV8.svn",
+   "popularity": 235
+ },
+ {
+   "channel_name": "TV As",
+   "epg_code": "TVAs.svn",
+   "popularity": 338
+ },
+ {
+   "channel_name": "TV Atlas",
+   "epg_code": "TVAtlas.svn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Carli",
+   "epg_code": "TVCarli.svn",
+   "popularity": 4
+ },
+ {
+   "channel_name": "TV Celje",
+   "epg_code": "TVCelje.svn",
+   "popularity": 11
+ },
+ {
+   "channel_name": "TV Duga",
+   "epg_code": "Duga.ba",
+   "popularity": 10391
+ },
+ {
+   "channel_name": "TV Duga Novi Sad",
+   "epg_code": "TVDuga.svn",
+   "popularity": 40
+ },
+ {
+   "channel_name": "TV Idea",
+   "epg_code": "TVIdea.svn",
+   "popularity": 2
+ },
+ {
+   "channel_name": "TV Istra",
+   "epg_code": "TVIstra.hr",
+   "popularity": 884
+ },
+ {
+   "channel_name": "TV Istra",
+   "epg_code": "TVIstra.svn",
+   "popularity": 3044
+ },
+ {
+   "channel_name": "TV Jadran",
+   "epg_code": "TVJadran.hr",
+   "popularity": 219
+ },
+ {
+   "channel_name": "TV K::CN Music 2",
+   "epg_code": "KCNMusic2.rs",
+   "popularity": 173
+ },
+ {
+   "channel_name": "TV KC::N",
+   "epg_code": "KCN.rs",
+   "popularity": 4
+ },
+ {
+   "channel_name": "TV KC::N",
+   "epg_code": "TVKCN.hr",
+   "popularity": 6378
+ },
+ {
+   "channel_name": "TV Koper Capodistria",
+   "epg_code": "TVKoper.svn",
+   "popularity": 92
+ },
+ {
+   "channel_name": "TV Maribor",
+   "epg_code": "TVmaribor.svn",
+   "popularity": 12
+ },
+ {
+   "channel_name": "TV Petelin",
+   "epg_code": "TVPetelin.svn",
+   "popularity": 8
+ },
+ {
+   "channel_name": "TV PINK",
+   "epg_code": "TVPINK.rs",
+   "popularity": 165840
+ },
+ {
+   "channel_name": "TV Plus",
+   "epg_code": "TVPlus.hr",
+   "popularity": 274
+ },
+ {
+   "channel_name": "TV Sarajevo",
+   "epg_code": "TVSarajevo.svn",
+   "popularity": 19208
+ },
+ {
+   "channel_name": "TV Sitel",
+   "epg_code": "TVSitel.svn",
+   "popularity": 172
+ },
+ {
+   "channel_name": "TV SLO 1",
+   "epg_code": "Slo1.svn",
+   "popularity": 1890
+ },
+ {
+   "channel_name": "TV SLO 2",
+   "epg_code": "Slo2.svn",
+   "popularity": 1625
+ },
+ {
+   "channel_name": "TV SLO 3",
+   "epg_code": "Slo3.svn",
+   "popularity": 754
+ },
+ {
+   "channel_name": "TV Ultra",
+   "epg_code": "UltraTV.hr",
+   "popularity": 1242
+ },
+ {
+   "channel_name": "TV Veseljak",
+   "epg_code": "TVVeseljak.svn",
+   "popularity": 95
+ },
+ {
+   "channel_name": "TV1",
+   "epg_code": "TV1.hr",
+   "popularity": 11789
+ },
+ {
+   "channel_name": "TV1000",
+   "epg_code": "TV1000.hr",
+   "popularity": 2222
+ },
+ {
+   "channel_name": "TV3 Medias",
+   "epg_code": "TV3Medias.svn",
+   "popularity": 45
+ },
+ {
+   "channel_name": "TV4r",
+   "epg_code": "TV4r.hr",
+   "popularity": 43
+ },
+ {
+   "channel_name": "TV5 Monde",
+   "epg_code": "TV5Monde.svn",
+   "popularity": 1
+ },
+ {
+   "channel_name": "TVCG1",
+   "epg_code": "tvcg1.cg",
+   "popularity": 406
+ },
+ {
+   "channel_name": "TVE",
+   "epg_code": "TVE.svn",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Ultra TV",
+   "epg_code": "UltraTV.rs",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "Universal.hr",
+   "popularity": 647
+ },
+ {
+   "channel_name": "Varaždinska TV",
+   "epg_code": "VarazdinskaTV.hr",
+   "popularity": 655
+ },
+ {
+   "channel_name": "Vaš Kanal",
+   "epg_code": "VASKanal.svn",
+   "popularity": 32
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.svn",
+   "popularity": 11
+ },
+ {
+   "channel_name": "VH1 Classic",
+   "epg_code": "VH1Classic.svn",
+   "popularity": 1562
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.hr",
+   "popularity": 9962
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.rs",
+   "popularity": 4474
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.svn",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.hr",
+   "popularity": 13749
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.rs",
+   "popularity": 242
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.svn",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.hr",
+   "popularity": 3707
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.svn",
+   "popularity": 4385
+ },
+ {
+   "channel_name": "Vikom",
+   "epg_code": "Vikom.svn",
+   "popularity": 1962
+ },
+ {
+   "channel_name": "Vinkovačka TV",
+   "epg_code": "VinkovačkaTV.hr",
+   "popularity": 14570
+ },
+ {
+   "channel_name": "Vitel",
+   "epg_code": "Vitel.svn",
+   "popularity": 2
+ },
+ {
+   "channel_name": "VOX",
+   "epg_code": "VOX.svn",
+   "popularity": 1185
+ },
+ {
+   "channel_name": "VTV Velenje",
+   "epg_code": "VTVVelenje.svn",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Wild TV HD",
+   "epg_code": "WildTV.svn",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Woman",
+   "epg_code": "Woman.hr",
+   "popularity": 121
+ },
+ {
+   "channel_name": "Woman",
+   "epg_code": "Woman.svn",
+   "popularity": 1111
+ },
+ {
+   "channel_name": "Z1",
+   "epg_code": "Z1.hr",
+   "popularity": 12818
+ },
+ {
+   "channel_name": "Z1 Televizija",
+   "epg_code": "Z1.svn",
+   "popularity": 297
+ },
+ {
+   "channel_name": "ZDF",
+   "epg_code": "ZDF.svn",
+   "popularity": 1285
+ },
+ {
+   "channel_name": "Zdrava TV",
+   "epg_code": "ZdravaTV.svn",
+   "popularity": 3102
+ },
+ {
+   "channel_name": "ZdravaTV",
+   "epg_code": "ZdravaTV.hr",
+   "popularity": 210
+ },
+ {
+   "channel_name": "Zenska TV",
+   "epg_code": "ZenskaTV.rs",
+   "popularity": 0
+ }
+]

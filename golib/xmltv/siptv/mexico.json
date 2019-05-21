@@ -1,0 +1,1092 @@
+[
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.mx",
+   "popularity": 2848
+ },
+ {
+   "channel_name": "AMC HD",
+   "epg_code": "AMCHD.mx",
+   "popularity": 289
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.mx",
+   "popularity": 1592
+ },
+ {
+   "channel_name": "Antena 3",
+   "epg_code": "Antena3.mx",
+   "popularity": 445
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.mx",
+   "popularity": 2190
+ },
+ {
+   "channel_name": "AXN HD",
+   "epg_code": "AXNHD.mx",
+   "popularity": 308
+ },
+ {
+   "channel_name": "AyE",
+   "epg_code": "AyE.mx",
+   "popularity": 13720
+ },
+ {
+   "channel_name": "AyE HD",
+   "epg_code": "AyEHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AyM Sports",
+   "epg_code": "AyMSports.mx",
+   "popularity": 361
+ },
+ {
+   "channel_name": "Az Clic",
+   "epg_code": "AzClic.mx",
+   "popularity": 199
+ },
+ {
+   "channel_name": "Az Corazón",
+   "epg_code": "AzCorazon.mx",
+   "popularity": 734
+ },
+ {
+   "channel_name": "Az Mix",
+   "epg_code": "AzMix.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Az Mundo",
+   "epg_code": "AzMundo.mx",
+   "popularity": 148
+ },
+ {
+   "channel_name": "Azteca 13",
+   "epg_code": "Azteca13.mx",
+   "popularity": 4978
+ },
+ {
+   "channel_name": "Azteca 7",
+   "epg_code": "Azteca7.mx",
+   "popularity": 5471
+ },
+ {
+   "channel_name": "Bandamax",
+   "epg_code": "Bandamax.mx",
+   "popularity": 404
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "BBCEntertainment.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "BBC HD",
+   "epg_code": "BBCHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bio",
+   "epg_code": "Bio.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Bloomberg",
+   "epg_code": "Bloomberg.mx",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.mx",
+   "popularity": 556
+ },
+ {
+   "channel_name": "Canal 2",
+   "epg_code": "Canal2.mx",
+   "popularity": 4499
+ },
+ {
+   "channel_name": "Canal 2 HD",
+   "epg_code": "Canal2HD.mx",
+   "popularity": 8485
+ },
+ {
+   "channel_name": "Canal 22",
+   "epg_code": "Canal22.mx",
+   "popularity": 1658
+ },
+ {
+   "channel_name": "Canal 4 Guadalajara",
+   "epg_code": "Canal4Guadalajara.mx",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Canal 5",
+   "epg_code": "Canal5.mx",
+   "popularity": 2771
+ },
+ {
+   "channel_name": "Canal 5 HD",
+   "epg_code": "Canal5HD.mx",
+   "popularity": 12986
+ },
+ {
+   "channel_name": "Canal 52MX",
+   "epg_code": "Canal52MX.mx",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Canal Capital 21",
+   "epg_code": "CanalCapital21.mx",
+   "popularity": 21
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.mx",
+   "popularity": 996
+ },
+ {
+   "channel_name": "Casa Club",
+   "epg_code": "CasaClub.mx",
+   "popularity": 34
+ },
+ {
+   "channel_name": "CBeebies",
+   "epg_code": "CBeebies.mx",
+   "popularity": 737
+ },
+ {
+   "channel_name": "CCTV",
+   "epg_code": "CCTV.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cine Latino",
+   "epg_code": "CineLatino.mx",
+   "popularity": 1802
+ },
+ {
+   "channel_name": "Cinecanal (W)",
+   "epg_code": "CinecanalW.mx",
+   "popularity": 3448
+ },
+ {
+   "channel_name": "Cinecanal HD",
+   "epg_code": "CinecanalHD.mx",
+   "popularity": 4730
+ },
+ {
+   "channel_name": "Cinemax (O)",
+   "epg_code": "CinemaxO.mx",
+   "popularity": 14055
+ },
+ {
+   "channel_name": "Cinemax (W)",
+   "epg_code": "CinemaxW.mx",
+   "popularity": 119
+ },
+ {
+   "channel_name": "ClaroSports",
+   "epg_code": "ClaroSports.mx",
+   "popularity": 912
+ },
+ {
+   "channel_name": "CNN en español",
+   "epg_code": "CNNesp.mx",
+   "popularity": 2282
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.mx",
+   "popularity": 1602
+ },
+ {
+   "channel_name": "Comedy Central HD",
+   "epg_code": "ComedyCentralHD.mx",
+   "popularity": 443
+ },
+ {
+   "channel_name": "Concert Channel",
+   "epg_code": "ConcertChannel.mx",
+   "popularity": 45
+ },
+ {
+   "channel_name": "Concert Channel HD",
+   "epg_code": "ConcertChannelHD.mx",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Cosmopolitan",
+   "epg_code": "Cosmopolitan.mx",
+   "popularity": 688
+ },
+ {
+   "channel_name": "De Película",
+   "epg_code": "DePelicula.mx",
+   "popularity": 3246
+ },
+ {
+   "channel_name": "De Película Clásico",
+   "epg_code": "DePeliculaClasico.mx",
+   "popularity": 59
+ },
+ {
+   "channel_name": "De Película HD",
+   "epg_code": "DePeliculaHD.mx",
+   "popularity": 1184
+ },
+ {
+   "channel_name": "De Película Multiplex",
+   "epg_code": "DePeliculaMulti.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.mx",
+   "popularity": 5538
+ },
+ {
+   "channel_name": "Discovery Civilization",
+   "epg_code": "DiscoveryCivil.mx",
+   "popularity": 1684
+ },
+ {
+   "channel_name": "Discovery Kids",
+   "epg_code": "DiscoveryKids.mx",
+   "popularity": 4747
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoverySci.mx",
+   "popularity": 2314
+ },
+ {
+   "channel_name": "Discovery Turbo",
+   "epg_code": "DiscoveryTurbo.mx",
+   "popularity": 463
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.mx",
+   "popularity": 1104
+ },
+ {
+   "channel_name": "Disney Jr",
+   "epg_code": "DisneyJr.mx",
+   "popularity": 167
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.mx",
+   "popularity": 479
+ },
+ {
+   "channel_name": "Distrito Comedia",
+   "epg_code": "DistritoComedia.mx",
+   "popularity": 2417
+ },
+ {
+   "channel_name": "E! Entertainment Television",
+   "epg_code": "E.mx",
+   "popularity": 1768
+ },
+ {
+   "channel_name": "EfektoTV",
+   "epg_code": "EfektoTV.mx",
+   "popularity": 2
+ },
+ {
+   "channel_name": "El Gourmet",
+   "epg_code": "ElGourmet.mx",
+   "popularity": 1141
+ },
+ {
+   "channel_name": "El Trece",
+   "epg_code": "ElTrece.mx",
+   "popularity": 97
+ },
+ {
+   "channel_name": "El Trece HD",
+   "epg_code": "ElTreceHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ESPN",
+   "epg_code": "ESPN.mx",
+   "popularity": 422
+ },
+ {
+   "channel_name": "ESPN +",
+   "epg_code": "ESPN+.mx",
+   "popularity": 123
+ },
+ {
+   "channel_name": "ESPN 2",
+   "epg_code": "ESPN2.mx",
+   "popularity": 9944
+ },
+ {
+   "channel_name": "ESPN 3",
+   "epg_code": "ESPN3.mx",
+   "popularity": 4549
+ },
+ {
+   "channel_name": "ESPN 3 HD",
+   "epg_code": "ESPN3HD.mx",
+   "popularity": 6064
+ },
+ {
+   "channel_name": "ESPN HD",
+   "epg_code": "ESPNHD.mx",
+   "popularity": 1433
+ },
+ {
+   "channel_name": "Eurochannel",
+   "epg_code": "Eurochannel.mx",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Europa Europa",
+   "epg_code": "Europa.mx",
+   "popularity": 171
+ },
+ {
+   "channel_name": "EXA TV",
+   "epg_code": "EXATV.mx",
+   "popularity": 146
+ },
+ {
+   "channel_name": "Film & Arts",
+   "epg_code": "FilmArts.mx",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Foro TV",
+   "epg_code": "ForoTV.mx",
+   "popularity": 843
+ },
+ {
+   "channel_name": "Foro TV HD",
+   "epg_code": "ForoTVHD.mx",
+   "popularity": 145
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.mx",
+   "popularity": 2542
+ },
+ {
+   "channel_name": "Fox 1 (E)",
+   "epg_code": "Fox1E.mx",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Fox 1 (W)",
+   "epg_code": "Fox1W.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fox 1 HD",
+   "epg_code": "Fox1HD.mx",
+   "popularity": 837
+ },
+ {
+   "channel_name": "Fox Action (E)",
+   "epg_code": "FoxActionE.mx",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Fox Action (W)",
+   "epg_code": "FoxActionW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fox Action HD",
+   "epg_code": "FoxActionHD.mx",
+   "popularity": 2339
+ },
+ {
+   "channel_name": "Fox Cinema",
+   "epg_code": "FoxCinema.mx",
+   "popularity": 2954
+ },
+ {
+   "channel_name": "Fox Classics",
+   "epg_code": "FoxClassics.mx",
+   "popularity": 2203
+ },
+ {
+   "channel_name": "Fox Family (E)",
+   "epg_code": "FoxFamilyE.mx",
+   "popularity": 805
+ },
+ {
+   "channel_name": "Fox Family (W)",
+   "epg_code": "FoxFamilyW.mx",
+   "popularity": 7950
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FoxLife.mx",
+   "popularity": 1388
+ },
+ {
+   "channel_name": "Fox Movies HD",
+   "epg_code": "FoxMoviesHD.mx",
+   "popularity": 456
+ },
+ {
+   "channel_name": "Fox NatGeo HD",
+   "epg_code": "FoxNatGeoHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Fox News",
+   "epg_code": "FoxNews.mx",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Fox Sports",
+   "epg_code": "FoxSports.mx",
+   "popularity": 5735
+ },
+ {
+   "channel_name": "Fox Sports 2",
+   "epg_code": "FoxSports2.mx",
+   "popularity": 16475
+ },
+ {
+   "channel_name": "Fox Sports 2 HD",
+   "epg_code": "FoxSports2HD.mx",
+   "popularity": 20595
+ },
+ {
+   "channel_name": "Fox Sports 3",
+   "epg_code": "FoxSports3.mx",
+   "popularity": 9922
+ },
+ {
+   "channel_name": "Fox Sports HD",
+   "epg_code": "FoxSportsHD.mx",
+   "popularity": 71
+ },
+ {
+   "channel_name": "FX",
+   "epg_code": "FX.mx",
+   "popularity": 1729
+ },
+ {
+   "channel_name": "FX HD",
+   "epg_code": "FXHD.mx",
+   "popularity": 15283
+ },
+ {
+   "channel_name": "Gala TV",
+   "epg_code": "GalaTV.mx",
+   "popularity": 535
+ },
+ {
+   "channel_name": "Glitz",
+   "epg_code": "Glitz.mx",
+   "popularity": 673
+ },
+ {
+   "channel_name": "Golden",
+   "epg_code": "Golden.mx",
+   "popularity": 4105
+ },
+ {
+   "channel_name": "Golden Choice Multiplex",
+   "epg_code": "GoldenChoiceMulti.mx",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Golden Edge",
+   "epg_code": "GoldenEdge.mx",
+   "popularity": 2718
+ },
+ {
+   "channel_name": "Golden HD",
+   "epg_code": "GoldenHD.mx",
+   "popularity": 242
+ },
+ {
+   "channel_name": "Golf Channel",
+   "epg_code": "GolfChannel.mx",
+   "popularity": 713
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.mx",
+   "popularity": 209
+ },
+ {
+   "channel_name": "HBO (E)",
+   "epg_code": "HBOE.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "HBO (W)",
+   "epg_code": "HBOW.mx",
+   "popularity": 138
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBO2.mx",
+   "popularity": 2551
+ },
+ {
+   "channel_name": "HBO Family (E)",
+   "epg_code": "HBOFamilyE.mx",
+   "popularity": 17
+ },
+ {
+   "channel_name": "HBO HD",
+   "epg_code": "HBOHD.mx",
+   "popularity": 438
+ },
+ {
+   "channel_name": "HBO Plus (E)",
+   "epg_code": "HBOPlusE.mx",
+   "popularity": 464
+ },
+ {
+   "channel_name": "HBO Plus (W)",
+   "epg_code": "HBOPlusW.mx",
+   "popularity": 49
+ },
+ {
+   "channel_name": "HBO Signature",
+   "epg_code": "HBOSignature.mx",
+   "popularity": 5736
+ },
+ {
+   "channel_name": "HD Theater",
+   "epg_code": "HDTheater.mx",
+   "popularity": 234
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "History.mx",
+   "popularity": 396
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.mx",
+   "popularity": 145
+ },
+ {
+   "channel_name": "Home and Health",
+   "epg_code": "HomeHealth.mx",
+   "popularity": 754
+ },
+ {
+   "channel_name": "Home and Health HD",
+   "epg_code": "HomeHealthHD.mx",
+   "popularity": 5437
+ },
+ {
+   "channel_name": "HTV",
+   "epg_code": "HTV.mx",
+   "popularity": 2119
+ },
+ {
+   "channel_name": "I.Sat",
+   "epg_code": "ISat.mx",
+   "popularity": 646
+ },
+ {
+   "channel_name": "Imagen Televisión",
+   "epg_code": "ImagenTV.mx",
+   "popularity": 2618
+ },
+ {
+   "channel_name": "Infinito",
+   "epg_code": "Infinito.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Investigación Discovery",
+   "epg_code": "DiscoveryID.mx",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Lifetime",
+   "epg_code": "Lifetime.mx",
+   "popularity": 659
+ },
+ {
+   "channel_name": "Más chic",
+   "epg_code": "Maschic.mx",
+   "popularity": 1127
+ },
+ {
+   "channel_name": "MAX",
+   "epg_code": "MAX.mx",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Max HD",
+   "epg_code": "MaxHD.mx",
+   "popularity": 593
+ },
+ {
+   "channel_name": "Max Prime (E)",
+   "epg_code": "MaxPrimeE.mx",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Max Prime (W)",
+   "epg_code": "MaxPrimeW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Max Up",
+   "epg_code": "MaxUp.mx",
+   "popularity": 25
+ },
+ {
+   "channel_name": "MC",
+   "epg_code": "MC.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MGM",
+   "epg_code": "MGM.mx",
+   "popularity": 12
+ },
+ {
+   "channel_name": "MGM HD",
+   "epg_code": "MGMHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Milenio TV",
+   "epg_code": "MilenioTV.mx",
+   "popularity": 1006
+ },
+ {
+   "channel_name": "Moviecity Action (E)",
+   "epg_code": "MoviecityActionE.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Action (W)",
+   "epg_code": "MoviecityActionW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Action HD",
+   "epg_code": "MoviecityActionHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Classics",
+   "epg_code": "MoviecityClassics.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Family (E)",
+   "epg_code": "MoviecityFamilyE.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Family (W)",
+   "epg_code": "MoviecityFamilyW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Hollywood",
+   "epg_code": "MoviecityHollywood.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Hollywood HD",
+   "epg_code": "MoviecityHollywoodHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Mundo",
+   "epg_code": "MoviecityMundo.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Premieres (E)",
+   "epg_code": "MoviecityPremieresE.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Premieres (W)",
+   "epg_code": "MoviecityPremieresW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Moviecity Premieres HD",
+   "epg_code": "MoviecityPremieresHD.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.mx",
+   "popularity": 729
+ },
+ {
+   "channel_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.mx",
+   "popularity": 26
+ },
+ {
+   "channel_name": "MuchMusic",
+   "epg_code": "MuchMusic.mx",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Multicinema",
+   "epg_code": "Multicinema.mx",
+   "popularity": 505
+ },
+ {
+   "channel_name": "Multimedios Monterrey",
+   "epg_code": "MultimediosMonterrey.mx",
+   "popularity": 963
+ },
+ {
+   "channel_name": "Multipremier",
+   "epg_code": "Multipremier.mx",
+   "popularity": 711
+ },
+ {
+   "channel_name": "Mundo Fox",
+   "epg_code": "MundoFox.mx",
+   "popularity": 1
+ },
+ {
+   "channel_name": "NatGeo",
+   "epg_code": "NatGeo.mx",
+   "popularity": 3169
+ },
+ {
+   "channel_name": "NatGeo Wild",
+   "epg_code": "NatGeoWild.mx",
+   "popularity": 1772
+ },
+ {
+   "channel_name": "NatGeo Wild HD",
+   "epg_code": "NatGeoWildHD.mx",
+   "popularity": 125
+ },
+ {
+   "channel_name": "NFL Network",
+   "epg_code": "NFLNetwork.mx",
+   "popularity": 1481
+ },
+ {
+   "channel_name": "NFL Network HD",
+   "epg_code": "NFLNetworkHD.mx",
+   "popularity": 433
+ },
+ {
+   "channel_name": "NHK",
+   "epg_code": "NHK.mx",
+   "popularity": 344
+ },
+ {
+   "channel_name": "Nick HD",
+   "epg_code": "NickHD.mx",
+   "popularity": 646
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJr.mx",
+   "popularity": 696
+ },
+ {
+   "channel_name": "Nickelodeon (Nick)",
+   "epg_code": "Nickelodeon.mx",
+   "popularity": 631
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.mx",
+   "popularity": 34
+ },
+ {
+   "channel_name": "NuMusic",
+   "epg_code": "NuMusic.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Once TV",
+   "epg_code": "OnceTV.mx",
+   "popularity": 483
+ },
+ {
+   "channel_name": "Pánico",
+   "epg_code": "Panico.mx",
+   "popularity": 326
+ },
+ {
+   "channel_name": "Paramount Channel",
+   "epg_code": "ParamountChannel.mx",
+   "popularity": 1528
+ },
+ {
+   "channel_name": "Platino",
+   "epg_code": "Platino.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Proyecto 40",
+   "epg_code": "Proyecto40.mx",
+   "popularity": 118
+ },
+ {
+   "channel_name": "RAI",
+   "epg_code": "RAI.mx",
+   "popularity": 24
+ },
+ {
+   "channel_name": "Reality TV",
+   "epg_code": "RealityTV.mx",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Ritmoson Latino",
+   "epg_code": "RitmosonLatino.mx",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Sony",
+   "epg_code": "Sony.mx",
+   "popularity": 371
+ },
+ {
+   "channel_name": "Sony HD",
+   "epg_code": "SonyHD.mx",
+   "popularity": 48
+ },
+ {
+   "channel_name": "Sony Spin",
+   "epg_code": "SonySpin.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Space",
+   "epg_code": "Space.mx",
+   "popularity": 3336
+ },
+ {
+   "channel_name": "Space HD",
+   "epg_code": "SpaceHD.mx",
+   "popularity": 10409
+ },
+ {
+   "channel_name": "Studio Universal",
+   "epg_code": "StudioUniversal.mx",
+   "popularity": 2447
+ },
+ {
+   "channel_name": "SyFy",
+   "epg_code": "SyFy.mx",
+   "popularity": 427
+ },
+ {
+   "channel_name": "TBS",
+   "epg_code": "TBS.mx",
+   "popularity": 629
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCM.mx",
+   "popularity": 948
+ },
+ {
+   "channel_name": "TDN",
+   "epg_code": "TDN.mx",
+   "popularity": 355
+ },
+ {
+   "channel_name": "TDN HD",
+   "epg_code": "TDNHD.mx",
+   "popularity": 658
+ },
+ {
+   "channel_name": "TeenNick",
+   "epg_code": "TeenNick.mx",
+   "popularity": 59
+ },
+ {
+   "channel_name": "TeleFórmula",
+   "epg_code": "TeleFormula.mx",
+   "popularity": 658
+ },
+ {
+   "channel_name": "Telehit",
+   "epg_code": "Telehit.mx",
+   "popularity": 438
+ },
+ {
+   "channel_name": "Telehit HD",
+   "epg_code": "TelehitHD.mx",
+   "popularity": 146
+ },
+ {
+   "channel_name": "Telemundo",
+   "epg_code": "Telemundo.mx",
+   "popularity": 3276
+ },
+ {
+   "channel_name": "Televisión Mexiquense",
+   "epg_code": "TVMexiquense.mx",
+   "popularity": 1
+ },
+ {
+   "channel_name": "The Film Zone (E)",
+   "epg_code": "TheFilmZoneE.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Film Zone (W)",
+   "epg_code": "TheFilmZoneW.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "The Film Zone HD",
+   "epg_code": "TheFilmZoneHD.mx",
+   "popularity": 123
+ },
+ {
+   "channel_name": "TIIN",
+   "epg_code": "TIIN.mx",
+   "popularity": 33
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.mx",
+   "popularity": 3031
+ },
+ {
+   "channel_name": "TLC HD",
+   "epg_code": "TLCHD.mx",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Tlnovelas",
+   "epg_code": "Tlnovelas.mx",
+   "popularity": 1743
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNT.mx",
+   "popularity": 2768
+ },
+ {
+   "channel_name": "TNT HD",
+   "epg_code": "TNTHD.mx",
+   "popularity": 136
+ },
+ {
+   "channel_name": "Tooncast",
+   "epg_code": "Tooncast.mx",
+   "popularity": 2140
+ },
+ {
+   "channel_name": "TruTV",
+   "epg_code": "TruTV.mx",
+   "popularity": 134
+ },
+ {
+   "channel_name": "TruTV HD",
+   "epg_code": "TruTVHD.mx",
+   "popularity": 2359
+ },
+ {
+   "channel_name": "TV 5",
+   "epg_code": "TV5.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Globo",
+   "epg_code": "TVGlobo.mx",
+   "popularity": 1374
+ },
+ {
+   "channel_name": "TV UNAM",
+   "epg_code": "TVUNAM.mx",
+   "popularity": 67
+ },
+ {
+   "channel_name": "TVC",
+   "epg_code": "TVC.mx",
+   "popularity": 231
+ },
+ {
+   "channel_name": "TVC Cine Mexicano",
+   "epg_code": "TVCCineMexicano.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TVC Deportes",
+   "epg_code": "TVCDeportes.mx",
+   "popularity": 1299
+ },
+ {
+   "channel_name": "TVC PLATINO 2",
+   "epg_code": "TVCPLATINO2.mx",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TVE",
+   "epg_code": "TVE.mx",
+   "popularity": 148
+ },
+ {
+   "channel_name": "Unicable",
+   "epg_code": "Unicable.mx",
+   "popularity": 1444
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "UniversalChannel.mx",
+   "popularity": 1472
+ },
+ {
+   "channel_name": "Universal HD",
+   "epg_code": "UniversalHD.mx",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Univisión TDN",
+   "epg_code": "UnivisionTDN.mx",
+   "popularity": 399
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.mx",
+   "popularity": 404
+ },
+ {
+   "channel_name": "VH1 HD",
+   "epg_code": "VH1HD.mx",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Warner Channel",
+   "epg_code": "WarnerChannel.mx",
+   "popularity": 5890
+ },
+ {
+   "channel_name": "Warner HD",
+   "epg_code": "WarnerHD.mx",
+   "popularity": 6393
+ },
+ {
+   "channel_name": "WOBI TV",
+   "epg_code": "WOBITV.mx",
+   "popularity": 44
+ }
+]

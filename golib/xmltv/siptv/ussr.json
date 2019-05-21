@@ -1,0 +1,3727 @@
+[
+ {
+   "channel_name": "+ТВ",
+   "epg_code": "+tv",
+   "popularity": 0
+ },
+ {
+   "channel_name": "1+1 HD UA",
+   "epg_code": "1p1",
+   "popularity": 14667
+ },
+ {
+   "channel_name": "1+1 Международный",
+   "epg_code": "1p1_int",
+   "popularity": 1141
+ },
+ {
+   "channel_name": "112 Украина",
+   "epg_code": "112ukr",
+   "popularity": 7022
+ },
+ {
+   "channel_name": "12 канал - ТНТ4",
+   "epg_code": "12kanal",
+   "popularity": 122
+ },
+ {
+   "channel_name": "1HD.ru",
+   "epg_code": "1hdru",
+   "popularity": 12218
+ },
+ {
+   "channel_name": "2+2 HD UA",
+   "epg_code": "2p2",
+   "popularity": 5198
+ },
+ {
+   "channel_name": "21TV",
+   "epg_code": "21TV.am",
+   "popularity": 6546
+ },
+ {
+   "channel_name": "24 (Телеканал новостей 24)",
+   "epg_code": "news24",
+   "popularity": 20832
+ },
+ {
+   "channel_name": "24Техно",
+   "epg_code": "24texno",
+   "popularity": 3480
+ },
+ {
+   "channel_name": "2x2",
+   "epg_code": "2x2",
+   "popularity": 6690
+ },
+ {
+   "channel_name": "2x2 (+4)",
+   "epg_code": "2x2+4",
+   "popularity": 17
+ },
+ {
+   "channel_name": "2х2 (+7)",
+   "epg_code": "2x2+7",
+   "popularity": 9
+ },
+ {
+   "channel_name": "2х2 +2",
+   "epg_code": "2x2+2",
+   "popularity": 92
+ },
+ {
+   "channel_name": "34 канал (Днепропетровск)",
+   "epg_code": "34kanal",
+   "popularity": 48
+ },
+ {
+   "channel_name": "360 Новости",
+   "epg_code": "360-news",
+   "popularity": 486
+ },
+ {
+   "channel_name": "360° Подмосковье",
+   "epg_code": "podmoskovie",
+   "popularity": 20123
+ },
+ {
+   "channel_name": "360TuneBox",
+   "epg_code": "360-tunebox",
+   "popularity": 670
+ },
+ {
+   "channel_name": "365 дней ТВ",
+   "epg_code": "365dney",
+   "popularity": 3567
+ },
+ {
+   "channel_name": "49 канал (Новосибирск)",
+   "epg_code": "49kanal",
+   "popularity": 22
+ },
+ {
+   "channel_name": "5 канал",
+   "epg_code": "5kanal",
+   "popularity": 9868
+ },
+ {
+   "channel_name": "5 канал (Россия)",
+   "epg_code": "piter",
+   "popularity": 27840
+ },
+ {
+   "channel_name": "5 канал (Россия) (+2)",
+   "epg_code": "piter+2",
+   "popularity": 5491
+ },
+ {
+   "channel_name": "5 канал (Россия) (+7)",
+   "epg_code": "piter+7",
+   "popularity": 91
+ },
+ {
+   "channel_name": "5 канал (Россия) (+8)",
+   "epg_code": "piter+8",
+   "popularity": 34
+ },
+ {
+   "channel_name": "7 канал (Одесса)",
+   "epg_code": "7-kanal-od",
+   "popularity": 40
+ },
+ {
+   "channel_name": "8 канал",
+   "epg_code": "8-kanal",
+   "popularity": 5823
+ },
+ {
+   "channel_name": "8 канал - Красноярский край",
+   "epg_code": "ya1pm",
+   "popularity": 4
+ },
+ {
+   "channel_name": "8 канал (Беларусь)",
+   "epg_code": "8channel",
+   "popularity": 220
+ },
+ {
+   "channel_name": "9 волна",
+   "epg_code": "9volna",
+   "popularity": 511
+ },
+ {
+   "channel_name": "AIVA",
+   "epg_code": "aiva",
+   "popularity": 1305
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "mgm-int",
+   "popularity": 20641
+ },
+ {
+   "channel_name": "Amedia 1",
+   "epg_code": "amedia1",
+   "popularity": 10888
+ },
+ {
+   "channel_name": "Amedia 2",
+   "epg_code": "amedia2",
+   "popularity": 17237
+ },
+ {
+   "channel_name": "Amedia Hit",
+   "epg_code": "amedia-hit",
+   "popularity": 9292
+ },
+ {
+   "channel_name": "Amedia Premium HD",
+   "epg_code": "amedia-hd",
+   "popularity": 10824
+ },
+ {
+   "channel_name": "Ani",
+   "epg_code": "ani",
+   "popularity": 2998
+ },
+ {
+   "channel_name": "Animal Family HD",
+   "epg_code": "animal-family-hd",
+   "popularity": 2569
+ },
+ {
+   "channel_name": "Animal Planet Europe",
+   "epg_code": "animal_ukr",
+   "popularity": 207
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "animal-hd",
+   "popularity": 37315
+ },
+ {
+   "channel_name": "Animal Planet Россия",
+   "epg_code": "animal_rus",
+   "popularity": 18789
+ },
+ {
+   "channel_name": "AR",
+   "epg_code": "AR.am",
+   "popularity": 10545
+ },
+ {
+   "channel_name": "Ararat",
+   "epg_code": "Ararat.am",
+   "popularity": 499
+ },
+ {
+   "channel_name": "Arirang",
+   "epg_code": "arirang-en",
+   "popularity": 1061
+ },
+ {
+   "channel_name": "Armcinema",
+   "epg_code": "Armcinema.am",
+   "popularity": 4139
+ },
+ {
+   "channel_name": "Armenia TV",
+   "epg_code": "ArmeniaTV.am",
+   "popularity": 19566
+ },
+ {
+   "channel_name": "ArmNews",
+   "epg_code": "ArmNews.am",
+   "popularity": 16998
+ },
+ {
+   "channel_name": "ATR",
+   "epg_code": "atr",
+   "popularity": 405
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "ATV.am",
+   "popularity": 218955
+ },
+ {
+   "channel_name": "AZTV",
+   "epg_code": "aztv",
+   "popularity": 2993
+ },
+ {
+   "channel_name": "BabyTV",
+   "epg_code": "baby-tv",
+   "popularity": 27079
+ },
+ {
+   "channel_name": "Bazmots TV",
+   "epg_code": "BazmotsTV.am",
+   "popularity": 3523
+ },
+ {
+   "channel_name": "BBC",
+   "epg_code": "bbc",
+   "popularity": 589
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "bbc-entertainment",
+   "popularity": 421
+ },
+ {
+   "channel_name": "BBC World News",
+   "epg_code": "bbc-world",
+   "popularity": 9048
+ },
+ {
+   "channel_name": "BCU Action HD",
+   "epg_code": "bcu-action",
+   "popularity": 2843
+ },
+ {
+   "channel_name": "BCU Catastrophe HD",
+   "epg_code": "bcu-catastrophe",
+   "popularity": 1797
+ },
+ {
+   "channel_name": "BCU Cinema HD",
+   "epg_code": "bcu-cinema",
+   "popularity": 4827
+ },
+ {
+   "channel_name": "BCU Cinema+ HD",
+   "epg_code": "bcu-cinema-plus",
+   "popularity": 1194
+ },
+ {
+   "channel_name": "BCU Comedy HD",
+   "epg_code": "bcu-comedy",
+   "popularity": 1456
+ },
+ {
+   "channel_name": "BCU Fantastic HD",
+   "epg_code": "bcu-fantastic",
+   "popularity": 2161
+ },
+ {
+   "channel_name": "BCU FilMystic HD",
+   "epg_code": "bcu-filmystic",
+   "popularity": 1700
+ },
+ {
+   "channel_name": "BCU History HD",
+   "epg_code": "bcu-history",
+   "popularity": 1796
+ },
+ {
+   "channel_name": "BCU Kinorating HD",
+   "epg_code": "bcu-kinorating",
+   "popularity": 1275
+ },
+ {
+   "channel_name": "BCU Marvel HD",
+   "epg_code": "bcu-marvel",
+   "popularity": 2064
+ },
+ {
+   "channel_name": "BCU Premiere HD",
+   "epg_code": "bcu-premiere",
+   "popularity": 1739
+ },
+ {
+   "channel_name": "BCU Romantic HD",
+   "epg_code": "bcu-romantic",
+   "popularity": 1819
+ },
+ {
+   "channel_name": "BCU Russian HD",
+   "epg_code": "bcu-russian",
+   "popularity": 1473
+ },
+ {
+   "channel_name": "BCU Stars HD",
+   "epg_code": "bcu-stars",
+   "popularity": 8432
+ },
+ {
+   "channel_name": "BCU VHS HD",
+   "epg_code": "bcu-vhs",
+   "popularity": 1277
+ },
+ {
+   "channel_name": "BCU Кинозал Premiere 1 HD",
+   "epg_code": "bcu-kinozal-prem1",
+   "popularity": 1085
+ },
+ {
+   "channel_name": "BCU Кинозал Premiere 2 HD",
+   "epg_code": "bcu-kinozal-prem2",
+   "popularity": 1037
+ },
+ {
+   "channel_name": "BCU Кинозал Premiere 3 HD",
+   "epg_code": "bcu-kinozal-prem3",
+   "popularity": 1061
+ },
+ {
+   "channel_name": "BCU Кинозал Premiere 4 HD",
+   "epg_code": "bcu-kinozal-prem4",
+   "popularity": 1039
+ },
+ {
+   "channel_name": "BCU Мультзал HD",
+   "epg_code": "bcu-multzal",
+   "popularity": 1043
+ },
+ {
+   "channel_name": "BCU Мультсериал HD",
+   "epg_code": "bcu-multserial",
+   "popularity": 753
+ },
+ {
+   "channel_name": "BCU Сваты HD",
+   "epg_code": "bcu-svaty",
+   "popularity": 1486
+ },
+ {
+   "channel_name": "BCU СССР HD",
+   "epg_code": "bcu-ussr",
+   "popularity": 1860
+ },
+ {
+   "channel_name": "BCUMEDIA HD",
+   "epg_code": "bcu-media",
+   "popularity": 677
+ },
+ {
+   "channel_name": "Bloomberg",
+   "epg_code": "bloomberg",
+   "popularity": 4466
+ },
+ {
+   "channel_name": "Blue Hustler",
+   "epg_code": "hustler-blue",
+   "popularity": 89912
+ },
+ {
+   "channel_name": "Bollywood HD",
+   "epg_code": "bollywood-hd",
+   "popularity": 10227
+ },
+ {
+   "channel_name": "Bolt",
+   "epg_code": "bolt",
+   "popularity": 3353
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "boomerang",
+   "popularity": 38499
+ },
+ {
+   "channel_name": "Bridge HD",
+   "epg_code": "bridge-hd",
+   "popularity": 3213
+ },
+ {
+   "channel_name": "Bridge TV",
+   "epg_code": "bridge",
+   "popularity": 3086
+ },
+ {
+   "channel_name": "Bridge TV Classic",
+   "epg_code": "topsong",
+   "popularity": 2447
+ },
+ {
+   "channel_name": "Bridge TV Dance",
+   "epg_code": "dange",
+   "popularity": 2752
+ },
+ {
+   "channel_name": "Brodilo TV",
+   "epg_code": "brodilo",
+   "popularity": 924
+ },
+ {
+   "channel_name": "C Music TV",
+   "epg_code": "c-music",
+   "popularity": 822
+ },
+ {
+   "channel_name": "Candy",
+   "epg_code": "candy",
+   "popularity": 34757
+ },
+ {
+   "channel_name": "CandyMan",
+   "epg_code": "candyman",
+   "popularity": 9861
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "cartoon",
+   "popularity": 151629
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.ru",
+   "popularity": 9187
+ },
+ {
+   "channel_name": "CCTV Русский",
+   "epg_code": "cctv",
+   "popularity": 942
+ },
+ {
+   "channel_name": "Cine+",
+   "epg_code": "cine+",
+   "popularity": 101
+ },
+ {
+   "channel_name": "Cine+ HD",
+   "epg_code": "cine+hd",
+   "popularity": 104
+ },
+ {
+   "channel_name": "Cine+ Hit HD",
+   "epg_code": "cine+hit-hd",
+   "popularity": 128
+ },
+ {
+   "channel_name": "Cine+ Kids",
+   "epg_code": "cine+kids",
+   "popularity": 75
+ },
+ {
+   "channel_name": "Cine+ Legend",
+   "epg_code": "cine+legend",
+   "popularity": 122
+ },
+ {
+   "channel_name": "Cine+ Mix",
+   "epg_code": "cine+mix",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Cinema",
+   "epg_code": "park-razvlecheniy",
+   "popularity": 10629
+ },
+ {
+   "channel_name": "Cinema (Космос ТВ)",
+   "epg_code": "Cinema.ru",
+   "popularity": 81
+ },
+ {
+   "channel_name": "Cineman",
+   "epg_code": "Cineman.am",
+   "popularity": 6816
+ },
+ {
+   "channel_name": "CNBC",
+   "epg_code": "cnbc",
+   "popularity": 2823
+ },
+ {
+   "channel_name": "CNL Сибирь",
+   "epg_code": "cnl-sibiria",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CNL Украина",
+   "epg_code": "cnl-ukraine",
+   "popularity": 3
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "cnn",
+   "popularity": 21191
+ },
+ {
+   "channel_name": "Comedy AM",
+   "epg_code": "Comedy.am",
+   "popularity": 245
+ },
+ {
+   "channel_name": "Da Vinci Learning Россия",
+   "epg_code": "da_vinci-rus",
+   "popularity": 15384
+ },
+ {
+   "channel_name": "Detektiv.tv",
+   "epg_code": "detektiv",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Deutsche Welle (Europe)",
+   "epg_code": "dwelle",
+   "popularity": 16269
+ },
+ {
+   "channel_name": "Discovery Channel (Россия)",
+   "epg_code": "discov_rus",
+   "popularity": 48686
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "discov_showcase-hd",
+   "popularity": 12811
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "discov_sci",
+   "popularity": 71573
+ },
+ {
+   "channel_name": "Discovery Turbo Xtra HD",
+   "epg_code": "discov_turbo-extra",
+   "popularity": 18159
+ },
+ {
+   "channel_name": "Discovery Восточная Европа",
+   "epg_code": "discov_east",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Discovery Россия HD",
+   "epg_code": "discov_rus-hd",
+   "popularity": 69641
+ },
+ {
+   "channel_name": "DocuBox HD",
+   "epg_code": "docubox-hd",
+   "popularity": 31108
+ },
+ {
+   "channel_name": "DOT Dance TV",
+   "epg_code": "dotdance",
+   "popularity": 3
+ },
+ {
+   "channel_name": "DuckTV",
+   "epg_code": "duck",
+   "popularity": 6675
+ },
+ {
+   "channel_name": "English Club TV",
+   "epg_code": "english-club",
+   "popularity": 2037
+ },
+ {
+   "channel_name": "Enter-фильм",
+   "epg_code": "enter-film",
+   "popularity": 3278
+ },
+ {
+   "channel_name": "Epic Drama",
+   "epg_code": "epic-drama",
+   "popularity": 16930
+ },
+ {
+   "channel_name": "Epoque",
+   "epg_code": "epoque",
+   "popularity": 303
+ },
+ {
+   "channel_name": "EU.Music",
+   "epg_code": "eumusic",
+   "popularity": 634
+ },
+ {
+   "channel_name": "Eureka HD",
+   "epg_code": "eureka-hd",
+   "popularity": 2517
+ },
+ {
+   "channel_name": "Euronews",
+   "epg_code": "euro",
+   "popularity": 42756
+ },
+ {
+   "channel_name": "Europa Plus TV",
+   "epg_code": "europa-plus",
+   "popularity": 5711
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "esp-int",
+   "popularity": 18007
+ },
+ {
+   "channel_name": "Eurosport 1 HD",
+   "epg_code": "esp-hd",
+   "popularity": 58716
+ },
+ {
+   "channel_name": "Eurosport 1 Россия",
+   "epg_code": "esp",
+   "popularity": 8507
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "esp2-int",
+   "popularity": 18574
+ },
+ {
+   "channel_name": "Eurosport 2 HD",
+   "epg_code": "esp2-hd",
+   "popularity": 35392
+ },
+ {
+   "channel_name": "Eurosport 2 North-East",
+   "epg_code": "esp2-ne",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Eurosport 2 North-East HD",
+   "epg_code": "esp2-ne-hd",
+   "popularity": 1649
+ },
+ {
+   "channel_name": "Eurosport 2 Россия",
+   "epg_code": "esp2",
+   "popularity": 4451
+ },
+ {
+   "channel_name": "Eurosport 4K",
+   "epg_code": "esp-4k",
+   "popularity": 5648
+ },
+ {
+   "channel_name": "Eurosport Gold HD",
+   "epg_code": "esp-gold",
+   "popularity": 3919
+ },
+ {
+   "channel_name": "Extreme sports",
+   "epg_code": "extreme-sports",
+   "popularity": 20980
+ },
+ {
+   "channel_name": "FAN",
+   "epg_code": "fan",
+   "popularity": 2792
+ },
+ {
+   "channel_name": "Fashion One",
+   "epg_code": "fashion-one",
+   "popularity": 648
+ },
+ {
+   "channel_name": "Fashion One HD",
+   "epg_code": "fashion-one-hd",
+   "popularity": 601
+ },
+ {
+   "channel_name": "Fashion TV Europe",
+   "epg_code": "fashion",
+   "popularity": 40794
+ },
+ {
+   "channel_name": "Fashion TV Россия",
+   "epg_code": "fashiontv-ru",
+   "popularity": 76
+ },
+ {
+   "channel_name": "FashionBox HD",
+   "epg_code": "fashion-box-hd",
+   "popularity": 375
+ },
+ {
+   "channel_name": "Fast&Funbox HD",
+   "epg_code": "fast-n-funbox-hd",
+   "popularity": 1704
+ },
+ {
+   "channel_name": "Fightbox",
+   "epg_code": "fight-box-hd",
+   "popularity": 6153
+ },
+ {
+   "channel_name": "Filmbox",
+   "epg_code": "film-box",
+   "popularity": 9342
+ },
+ {
+   "channel_name": "FilmBox ArtHouse",
+   "epg_code": "film-box-arthouse",
+   "popularity": 7538
+ },
+ {
+   "channel_name": "FilmUA Drama",
+   "epg_code": "filmua-drama",
+   "popularity": 536
+ },
+ {
+   "channel_name": "Filmzone",
+   "epg_code": "Filmzone.am",
+   "popularity": 895
+ },
+ {
+   "channel_name": "Fine Living",
+   "epg_code": "FineLiving.ru",
+   "popularity": 28790
+ },
+ {
+   "channel_name": "Food Network Россия",
+   "epg_code": "food-network-rus",
+   "popularity": 18948
+ },
+ {
+   "channel_name": "Fox Life Россия",
+   "epg_code": "fox-life",
+   "popularity": 41167
+ },
+ {
+   "channel_name": "Fox Life Россия HD",
+   "epg_code": "fox-life-hd",
+   "popularity": 31672
+ },
+ {
+   "channel_name": "FOX Россия",
+   "epg_code": "fox-crime",
+   "popularity": 74024
+ },
+ {
+   "channel_name": "FOX Россия HD",
+   "epg_code": "fox-hd",
+   "popularity": 85745
+ },
+ {
+   "channel_name": "France 24 English",
+   "epg_code": "france24",
+   "popularity": 64360
+ },
+ {
+   "channel_name": "Galaxy-TV",
+   "epg_code": "galaxy",
+   "popularity": 2730
+ },
+ {
+   "channel_name": "Game Show",
+   "epg_code": "game-show",
+   "popularity": 1439
+ },
+ {
+   "channel_name": "Ginger HD",
+   "epg_code": "ginger-hd",
+   "popularity": 1161
+ },
+ {
+   "channel_name": "GlobalStar TV",
+   "epg_code": "globalstar",
+   "popularity": 277
+ },
+ {
+   "channel_name": "Gulli (Россия)",
+   "epg_code": "gulli",
+   "popularity": 19042
+ },
+ {
+   "channel_name": "H1 Armenia",
+   "epg_code": "H1.am",
+   "popularity": 15960
+ },
+ {
+   "channel_name": "H2 Armenia",
+   "epg_code": "H2.am",
+   "popularity": 11425
+ },
+ {
+   "channel_name": "H3 Armenia",
+   "epg_code": "H3.am",
+   "popularity": 861
+ },
+ {
+   "channel_name": "Hay TV",
+   "epg_code": "HayTV.am",
+   "popularity": 4538
+ },
+ {
+   "channel_name": "HD Медиа",
+   "epg_code": "hdmedia",
+   "popularity": 693
+ },
+ {
+   "channel_name": "HD Медиа 3D",
+   "epg_code": "hdmedia3d",
+   "popularity": 83
+ },
+ {
+   "channel_name": "HD-Life",
+   "epg_code": "hd-life",
+   "popularity": 4962
+ },
+ {
+   "channel_name": "History (Россия)",
+   "epg_code": "history-rus",
+   "popularity": 44733
+ },
+ {
+   "channel_name": "History Россия HD",
+   "epg_code": "HistoryHD.ru",
+   "popularity": 40172
+ },
+ {
+   "channel_name": "History2 (Россия)",
+   "epg_code": "history2-rus",
+   "popularity": 18316
+ },
+ {
+   "channel_name": "Hollywood",
+   "epg_code": "hollywood",
+   "popularity": 13828
+ },
+ {
+   "channel_name": "Hollywood HD",
+   "epg_code": "hollywood-hd",
+   "popularity": 30452
+ },
+ {
+   "channel_name": "Hustler TV Europe",
+   "epg_code": "hustler-euvrope",
+   "popularity": 11688
+ },
+ {
+   "channel_name": "iConcerts",
+   "epg_code": "iconcerts_hd",
+   "popularity": 4031
+ },
+ {
+   "channel_name": "ICTV HD UA",
+   "epg_code": "ictv",
+   "popularity": 7538
+ },
+ {
+   "channel_name": "ID Xtra (Европа)",
+   "epg_code": "id-extra-evropa",
+   "popularity": 275
+ },
+ {
+   "channel_name": "ID Xtra (Россия)",
+   "epg_code": "id-extra",
+   "popularity": 43005
+ },
+ {
+   "channel_name": "Insight Ultra HD",
+   "epg_code": "insight-uhd",
+   "popularity": 828
+ },
+ {
+   "channel_name": "Jan TV",
+   "epg_code": "JanTV.am",
+   "popularity": 4299
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "jimjam",
+   "popularity": 13373
+ },
+ {
+   "channel_name": "JuCe TV",
+   "epg_code": "jctv",
+   "popularity": 101
+ },
+ {
+   "channel_name": "Kentron",
+   "epg_code": "Kentron.am",
+   "popularity": 17382
+ },
+ {
+   "channel_name": "Kino Polska International",
+   "epg_code": "kino-polska-international",
+   "popularity": 55
+ },
+ {
+   "channel_name": "Kinoman",
+   "epg_code": "Kinoman.am",
+   "popularity": 5959
+ },
+ {
+   "channel_name": "Lale",
+   "epg_code": "lale",
+   "popularity": 542
+ },
+ {
+   "channel_name": "Love Nature 4K",
+   "epg_code": "love-nature-4k",
+   "popularity": 2783
+ },
+ {
+   "channel_name": "Luxe.TV",
+   "epg_code": "luxtv",
+   "popularity": 1219
+ },
+ {
+   "channel_name": "Luxe.TV HD",
+   "epg_code": "luxtv-hd",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Luxury World",
+   "epg_code": "luxury",
+   "popularity": 879
+ },
+ {
+   "channel_name": "M-1 Global",
+   "epg_code": "m1-global",
+   "popularity": 827
+ },
+ {
+   "channel_name": "M1 HD",
+   "epg_code": "m-1",
+   "popularity": 3502
+ },
+ {
+   "channel_name": "Maxxi-TV",
+   "epg_code": "maxxi",
+   "popularity": 968
+ },
+ {
+   "channel_name": "MCM Top",
+   "epg_code": "mcm-top",
+   "popularity": 6757
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "mezzo",
+   "popularity": 3148
+ },
+ {
+   "channel_name": "Mezzo Live HD",
+   "epg_code": "mezzo-hd",
+   "popularity": 7542
+ },
+ {
+   "channel_name": "Milady Television",
+   "epg_code": "milady",
+   "popularity": 109
+ },
+ {
+   "channel_name": "MostVideo",
+   "epg_code": "mostvideo",
+   "popularity": 31
+ },
+ {
+   "channel_name": "MTV AM",
+   "epg_code": "mtv-am",
+   "popularity": 143
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "mtv-dance",
+   "popularity": 11080
+ },
+ {
+   "channel_name": "MTV European",
+   "epg_code": "mtv-eu",
+   "popularity": 1514
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "mtv-hits",
+   "popularity": 14097
+ },
+ {
+   "channel_name": "MTV Live HD",
+   "epg_code": "mtvlive-hd",
+   "popularity": 24060
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "mtv-rocks",
+   "popularity": 8413
+ },
+ {
+   "channel_name": "MTV Россия",
+   "epg_code": "mtv-rus",
+   "popularity": 12041
+ },
+ {
+   "channel_name": "Museum HD",
+   "epg_code": "museum-hd",
+   "popularity": 3150
+ },
+ {
+   "channel_name": "MUSICBOX",
+   "epg_code": "musicbox",
+   "popularity": 486
+ },
+ {
+   "channel_name": "MusicBox RU",
+   "epg_code": "mb-russia",
+   "popularity": 2330
+ },
+ {
+   "channel_name": "MusicBox UA",
+   "epg_code": "mbu",
+   "popularity": 1552
+ },
+ {
+   "channel_name": "myZen.tv",
+   "epg_code": "melody-zen",
+   "popularity": 465
+ },
+ {
+   "channel_name": "myZen.tv HD",
+   "epg_code": "melody-zen-hd",
+   "popularity": 2330
+ },
+ {
+   "channel_name": "NANO TV",
+   "epg_code": "nano",
+   "popularity": 1403
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "wild-hd",
+   "popularity": 80858
+ },
+ {
+   "channel_name": "Nat Geo Wild Россия",
+   "epg_code": "natgeowild",
+   "popularity": 31696
+ },
+ {
+   "channel_name": "National Geographic (Россия)",
+   "epg_code": "natgeo",
+   "popularity": 46924
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "natgeo_hd",
+   "popularity": 83767
+ },
+ {
+   "channel_name": "NewsOne",
+   "epg_code": "newsone",
+   "popularity": 3148
+ },
+ {
+   "channel_name": "NHK World",
+   "epg_code": "nhk-world",
+   "popularity": 1142
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "nick-jr",
+   "popularity": 52505
+ },
+ {
+   "channel_name": "Nickelodeon (Россия)",
+   "epg_code": "nickelodeon-rus",
+   "popularity": 59248
+ },
+ {
+   "channel_name": "Nickelodeon HD",
+   "epg_code": "nickelod-hd",
+   "popularity": 34485
+ },
+ {
+   "channel_name": "Nickelodeon СНГ",
+   "epg_code": "nickelod",
+   "popularity": 2409
+ },
+ {
+   "channel_name": "NLO TV 1",
+   "epg_code": "nlo-tv-1",
+   "popularity": 2
+ },
+ {
+   "channel_name": "NLO TV 2",
+   "epg_code": "nlo-tv-2",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Ocean TV",
+   "epg_code": "ocean",
+   "popularity": 2029
+ },
+ {
+   "channel_name": "Olala",
+   "epg_code": "o-la-la",
+   "popularity": 22637
+ },
+ {
+   "channel_name": "OTV",
+   "epg_code": "o-tv",
+   "popularity": 16599
+ },
+ {
+   "channel_name": "Outdoor channel",
+   "epg_code": "outdoor",
+   "popularity": 4068
+ },
+ {
+   "channel_name": "Outdoor channel HD",
+   "epg_code": "outdoor-hd",
+   "popularity": 4695
+ },
+ {
+   "channel_name": "Paramount Comedy Россия",
+   "epg_code": "paramount-comedy",
+   "popularity": 9788
+ },
+ {
+   "channel_name": "Paramount Сhannel Россия",
+   "epg_code": "paramount",
+   "popularity": 55352
+ },
+ {
+   "channel_name": "Playboy TV UK",
+   "epg_code": "playboy",
+   "popularity": 108349
+ },
+ {
+   "channel_name": "PRO Business",
+   "epg_code": "prodengi",
+   "popularity": 690
+ },
+ {
+   "channel_name": "Pro Все",
+   "epg_code": "pro-vse",
+   "popularity": 37
+ },
+ {
+   "channel_name": "QTV",
+   "epg_code": "qtv",
+   "popularity": 1119
+ },
+ {
+   "channel_name": "R1",
+   "epg_code": "r1",
+   "popularity": 0
+ },
+ {
+   "channel_name": "REN TV International",
+   "epg_code": "rentv-int",
+   "popularity": 559
+ },
+ {
+   "channel_name": "RT Д (English)",
+   "epg_code": "rt-doc",
+   "popularity": 16421
+ },
+ {
+   "channel_name": "RT Д (Русский)",
+   "epg_code": "rt-doc-rus",
+   "popularity": 1904
+ },
+ {
+   "channel_name": "RTG HD",
+   "epg_code": "rtg-hd",
+   "popularity": 3238
+ },
+ {
+   "channel_name": "RTG International",
+   "epg_code": "rtgint",
+   "popularity": 111
+ },
+ {
+   "channel_name": "RTVI",
+   "epg_code": "rtvint",
+   "popularity": 10068
+ },
+ {
+   "channel_name": "RU.TV",
+   "epg_code": "rutv",
+   "popularity": 9751
+ },
+ {
+   "channel_name": "Rusong TV",
+   "epg_code": "rusong",
+   "popularity": 2673
+ },
+ {
+   "channel_name": "Russia Today",
+   "epg_code": "russia-today",
+   "popularity": 25966
+ },
+ {
+   "channel_name": "Russian Extreme HD",
+   "epg_code": "russian-extreme-hd",
+   "popularity": 64
+ },
+ {
+   "channel_name": "Russian Extreme Ultra",
+   "epg_code": "russian-extreme-ultra",
+   "popularity": 315
+ },
+ {
+   "channel_name": "Russian Travel Guide",
+   "epg_code": "rtgtv",
+   "popularity": 10872
+ },
+ {
+   "channel_name": "Setanta Qazaqstan",
+   "epg_code": "setanta-sport-kz",
+   "popularity": 289
+ },
+ {
+   "channel_name": "Setanta Sports Georgia",
+   "epg_code": "setanta-sport-ge",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Setanta Sports Ukraine",
+   "epg_code": "setanta-sport-ua",
+   "popularity": 2342
+ },
+ {
+   "channel_name": "Setanta Sports Ukraine +",
+   "epg_code": "setanta-sport-ua-plus",
+   "popularity": 216
+ },
+ {
+   "channel_name": "Shant",
+   "epg_code": "Shant.am",
+   "popularity": 12083
+ },
+ {
+   "channel_name": "Shopping Live",
+   "epg_code": "shopping-live",
+   "popularity": 323
+ },
+ {
+   "channel_name": "Shoxakat",
+   "epg_code": "Shoxakat.am",
+   "popularity": 7610
+ },
+ {
+   "channel_name": "Sony Channel Россия",
+   "epg_code": "set",
+   "popularity": 30044
+ },
+ {
+   "channel_name": "Sony Channel Россия HD",
+   "epg_code": "set-hd",
+   "popularity": 956
+ },
+ {
+   "channel_name": "Sony Sci-Fi Россия",
+   "epg_code": "axn",
+   "popularity": 32676
+ },
+ {
+   "channel_name": "Sony Turbo",
+   "epg_code": "sony-turbo",
+   "popularity": 14046
+ },
+ {
+   "channel_name": "Spike",
+   "epg_code": "spike",
+   "popularity": 9647
+ },
+ {
+   "channel_name": "Star Cinema",
+   "epg_code": "star-cinema",
+   "popularity": 3028
+ },
+ {
+   "channel_name": "Star Family HD",
+   "epg_code": "star-family",
+   "popularity": 1701
+ },
+ {
+   "channel_name": "Tava TV",
+   "epg_code": "TavaTV.am",
+   "popularity": 4246
+ },
+ {
+   "channel_name": "Teletravel HD",
+   "epg_code": "puteshestviya-hd",
+   "popularity": 3218
+ },
+ {
+   "channel_name": "TiJi (Россия)",
+   "epg_code": "tiji",
+   "popularity": 8151
+ },
+ {
+   "channel_name": "TLC (Россия)",
+   "epg_code": "tlc-russia",
+   "popularity": 29300
+ },
+ {
+   "channel_name": "TLC Pan Regional",
+   "epg_code": "tlc-panreg",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TLC Россия HD",
+   "epg_code": "tlc-russia-hd",
+   "popularity": 24870
+ },
+ {
+   "channel_name": "Trace Urban",
+   "epg_code": "TraceUrban.ru",
+   "popularity": 7402
+ },
+ {
+   "channel_name": "Travel channel",
+   "epg_code": "travel",
+   "popularity": 12514
+ },
+ {
+   "channel_name": "Travel channel HD",
+   "epg_code": "travel-hd",
+   "popularity": 6947
+ },
+ {
+   "channel_name": "Travel+Adventure",
+   "epg_code": "travel+adv",
+   "popularity": 1431
+ },
+ {
+   "channel_name": "Travel+Adventure HD",
+   "epg_code": "travel-adv-hd",
+   "popularity": 2777
+ },
+ {
+   "channel_name": "Tun-tunik",
+   "epg_code": "Tun-tunik.am",
+   "popularity": 8
+ },
+ {
+   "channel_name": "TV1000 Action East",
+   "epg_code": "tv1000-action",
+   "popularity": 37037
+ },
+ {
+   "channel_name": "TV1000 East",
+   "epg_code": "tv1000",
+   "popularity": 48103
+ },
+ {
+   "channel_name": "TV1000 World Kino",
+   "epg_code": "tv1000_rus_int",
+   "popularity": 5769
+ },
+ {
+   "channel_name": "TV1000 Русское кино",
+   "epg_code": "tv1000_rus",
+   "popularity": 23199
+ },
+ {
+   "channel_name": "TV5 Monde Europe",
+   "epg_code": "tv5monde",
+   "popularity": 6218
+ },
+ {
+   "channel_name": "TVM Channel",
+   "epg_code": "tvm",
+   "popularity": 343
+ },
+ {
+   "channel_name": "TVRus",
+   "epg_code": "tvrus",
+   "popularity": 65
+ },
+ {
+   "channel_name": "U! Premium Armenia",
+   "epg_code": "UPremium.am",
+   "popularity": 541
+ },
+ {
+   "channel_name": "U! Premium Armenia HD",
+   "epg_code": "UPremiumHD.am",
+   "popularity": 119
+ },
+ {
+   "channel_name": "UATV",
+   "epg_code": "uatv",
+   "popularity": 204
+ },
+ {
+   "channel_name": "UFC ТВ HD",
+   "epg_code": "ufc-tv-hd",
+   "popularity": 3932
+ },
+ {
+   "channel_name": "Ultra HD Cinema",
+   "epg_code": "uhd-cinema",
+   "popularity": 7692
+ },
+ {
+   "channel_name": "UTV",
+   "epg_code": "utv",
+   "popularity": 2058
+ },
+ {
+   "channel_name": "VH1 Classic Europe",
+   "epg_code": "vh-1-classic",
+   "popularity": 8925
+ },
+ {
+   "channel_name": "VH1 Europe",
+   "epg_code": "vh1-europe",
+   "popularity": 22678
+ },
+ {
+   "channel_name": "Viasat Explorer (Россия)",
+   "epg_code": "explorer-rus",
+   "popularity": 21377
+ },
+ {
+   "channel_name": "Viasat Explorer CEE / Spice",
+   "epg_code": "explorer",
+   "popularity": 21714
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "history",
+   "popularity": 34675
+ },
+ {
+   "channel_name": "Viasat Nature CEE",
+   "epg_code": "viasat-nature",
+   "popularity": 13279
+ },
+ {
+   "channel_name": "Viasat Nature/History HD",
+   "epg_code": "nature-history",
+   "popularity": 14619
+ },
+ {
+   "channel_name": "Viasat Sport (Россия)",
+   "epg_code": "viasat-sport",
+   "popularity": 6553
+ },
+ {
+   "channel_name": "ViP Comedy HD",
+   "epg_code": "tv1000-comedy-hd",
+   "popularity": 23449
+ },
+ {
+   "channel_name": "ViP Megahit HD",
+   "epg_code": "tv1000-megahit-hd",
+   "popularity": 29430
+ },
+ {
+   "channel_name": "ViP Premiere",
+   "epg_code": "tv1000-premium",
+   "popularity": 10970
+ },
+ {
+   "channel_name": "ViP Premiere HD",
+   "epg_code": "tv1000-premium-hd",
+   "popularity": 20692
+ },
+ {
+   "channel_name": "ViP Serial",
+   "epg_code": "vip-serial",
+   "popularity": 6283
+ },
+ {
+   "channel_name": "WBC",
+   "epg_code": "wbc",
+   "popularity": 33
+ },
+ {
+   "channel_name": "World Fashion Channel",
+   "epg_code": "world-fashion",
+   "popularity": 9838
+ },
+ {
+   "channel_name": "Xsport",
+   "epg_code": "xsport",
+   "popularity": 1388
+ },
+ {
+   "channel_name": "Yerkir Media",
+   "epg_code": "YerkirMedia.am",
+   "popularity": 10581
+ },
+ {
+   "channel_name": "ZeeTV Россия",
+   "epg_code": "zee",
+   "popularity": 6371
+ },
+ {
+   "channel_name": "ZIK",
+   "epg_code": "zik",
+   "popularity": 1757
+ },
+ {
+   "channel_name": "Zoom",
+   "epg_code": "zoom",
+   "popularity": 1538
+ },
+ {
+   "channel_name": "ZooПарк",
+   "epg_code": "zoopark",
+   "popularity": 1590
+ },
+ {
+   "channel_name": "Авто Плюс",
+   "epg_code": "avto-plus",
+   "popularity": 6447
+ },
+ {
+   "channel_name": "Авто24",
+   "epg_code": "avto24",
+   "popularity": 2969
+ },
+ {
+   "channel_name": "Арсенал",
+   "epg_code": "arsenal",
+   "popularity": 3683
+ },
+ {
+   "channel_name": "Архыз 24",
+   "epg_code": "arkhyz24",
+   "popularity": 291
+ },
+ {
+   "channel_name": "Астрахань 24",
+   "epg_code": "astraxan24",
+   "popularity": 663
+ },
+ {
+   "channel_name": "Афонтово",
+   "epg_code": "afontovo",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Беларусь 1",
+   "epg_code": "belarus1",
+   "popularity": 2068
+ },
+ {
+   "channel_name": "Беларусь 2",
+   "epg_code": "belarus2",
+   "popularity": 1361
+ },
+ {
+   "channel_name": "Беларусь 24",
+   "epg_code": "bel24",
+   "popularity": 1398
+ },
+ {
+   "channel_name": "Беларусь 3",
+   "epg_code": "belarus3",
+   "popularity": 1639
+ },
+ {
+   "channel_name": "Беларусь 5 HD BY",
+   "epg_code": "belarus5",
+   "popularity": 2964
+ },
+ {
+   "channel_name": "БелМузТВ",
+   "epg_code": "belmuztv",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Белсат ТВ",
+   "epg_code": "belsat",
+   "popularity": 420
+ },
+ {
+   "channel_name": "Бигуди",
+   "epg_code": "bigudi",
+   "popularity": 503
+ },
+ {
+   "channel_name": "Блокбастер HD",
+   "epg_code": "blokbaster",
+   "popularity": 5161
+ },
+ {
+   "channel_name": "Бобер",
+   "epg_code": "bober",
+   "popularity": 3650
+ },
+ {
+   "channel_name": "Бокс ТВ",
+   "epg_code": "boxtv",
+   "popularity": 3641
+ },
+ {
+   "channel_name": "Большая Азия",
+   "epg_code": "big-asia",
+   "popularity": 1035
+ },
+ {
+   "channel_name": "БСТ",
+   "epg_code": "bct",
+   "popularity": 587
+ },
+ {
+   "channel_name": "В гостях у сказки",
+   "epg_code": "vgus",
+   "popularity": 4202
+ },
+ {
+   "channel_name": "Винтаж",
+   "epg_code": "vintage",
+   "popularity": 584
+ },
+ {
+   "channel_name": "Вместе-РФ",
+   "epg_code": "vmeste-rf",
+   "popularity": 870
+ },
+ {
+   "channel_name": "Волга",
+   "epg_code": "volga",
+   "popularity": 328
+ },
+ {
+   "channel_name": "Вопросы и ответы",
+   "epg_code": "voprosy-i-otvety",
+   "popularity": 2944
+ },
+ {
+   "channel_name": "Восток ТВ",
+   "epg_code": "vostok",
+   "popularity": 566
+ },
+ {
+   "channel_name": "Время",
+   "epg_code": "vremya",
+   "popularity": 6310
+ },
+ {
+   "channel_name": "ВТВ",
+   "epg_code": "btb",
+   "popularity": 247
+ },
+ {
+   "channel_name": "Глазами туриста",
+   "epg_code": "glazami-turista",
+   "popularity": 1780
+ },
+ {
+   "channel_name": "Глас",
+   "epg_code": "glas",
+   "popularity": 139
+ },
+ {
+   "channel_name": "Громадське",
+   "epg_code": "gromadske",
+   "popularity": 220
+ },
+ {
+   "channel_name": "Дача",
+   "epg_code": "dacha",
+   "popularity": 359
+ },
+ {
+   "channel_name": "День Победы",
+   "epg_code": "den-pobedy",
+   "popularity": 5045
+ },
+ {
+   "channel_name": "Детский",
+   "epg_code": "detskiy",
+   "popularity": 3616
+ },
+ {
+   "channel_name": "Детский мир / Телеклуб",
+   "epg_code": "det",
+   "popularity": 4509
+ },
+ {
+   "channel_name": "Диалоги о рыбалке",
+   "epg_code": "dialogi-fishing",
+   "popularity": 3603
+ },
+ {
+   "channel_name": "Дикая охота HD",
+   "epg_code": "dikaya-oxota",
+   "popularity": 3248
+ },
+ {
+   "channel_name": "Дикая рыбалка HD",
+   "epg_code": "dikaya-rybalka",
+   "popularity": 5090
+ },
+ {
+   "channel_name": "Дикий",
+   "epg_code": "dikij",
+   "popularity": 2056
+ },
+ {
+   "channel_name": "Доверие",
+   "epg_code": "doverie",
+   "popularity": 2313
+ },
+ {
+   "channel_name": "Дождь. Optimistic channel",
+   "epg_code": "dozhd",
+   "popularity": 14940
+ },
+ {
+   "channel_name": "Доктор",
+   "epg_code": "24dok",
+   "popularity": 5080
+ },
+ {
+   "channel_name": "Дом кино",
+   "epg_code": "domkino",
+   "popularity": 27792
+ },
+ {
+   "channel_name": "Дом кино Премиум",
+   "epg_code": "domkino-prem",
+   "popularity": 22601
+ },
+ {
+   "channel_name": "Домашние животные",
+   "epg_code": "domashnie-zhivotnye",
+   "popularity": 1818
+ },
+ {
+   "channel_name": "Домашний",
+   "epg_code": "home",
+   "popularity": 27431
+ },
+ {
+   "channel_name": "Домашний (+2)",
+   "epg_code": "home2",
+   "popularity": 2137
+ },
+ {
+   "channel_name": "Домашний (+4)",
+   "epg_code": "home4",
+   "popularity": 3058
+ },
+ {
+   "channel_name": "Домашний (+7)",
+   "epg_code": "home7",
+   "popularity": 293
+ },
+ {
+   "channel_name": "Домашний +6",
+   "epg_code": "home6",
+   "popularity": 813
+ },
+ {
+   "channel_name": "Домашний International",
+   "epg_code": "home-int",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Домашний магазин",
+   "epg_code": "dommag",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Донбасс",
+   "epg_code": "donbass",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Дорама",
+   "epg_code": "dorama",
+   "popularity": 3906
+ },
+ {
+   "channel_name": "Драйв",
+   "epg_code": "drive",
+   "popularity": 3256
+ },
+ {
+   "channel_name": "Еврокино",
+   "epg_code": "evrokino",
+   "popularity": 9681
+ },
+ {
+   "channel_name": "ЕГЭ",
+   "epg_code": "ege",
+   "popularity": 380
+ },
+ {
+   "channel_name": "Еда",
+   "epg_code": "eda",
+   "popularity": 1422
+ },
+ {
+   "channel_name": "Еда HD",
+   "epg_code": "eda-hd",
+   "popularity": 5856
+ },
+ {
+   "channel_name": "Енисей",
+   "epg_code": "enisey",
+   "popularity": 51
+ },
+ {
+   "channel_name": "Жар Птица",
+   "epg_code": "zhar-ptica",
+   "popularity": 527
+ },
+ {
+   "channel_name": "Жара",
+   "epg_code": "zhara",
+   "popularity": 3095
+ },
+ {
+   "channel_name": "Живая планета",
+   "epg_code": "living-planet",
+   "popularity": 1981
+ },
+ {
+   "channel_name": "Живая природа HD",
+   "epg_code": "wildnature-hd",
+   "popularity": 2139
+ },
+ {
+   "channel_name": "Живи",
+   "epg_code": "zhivi",
+   "popularity": 1397
+ },
+ {
+   "channel_name": "Загородная жизнь",
+   "epg_code": "zagorzhizn",
+   "popularity": 1146
+ },
+ {
+   "channel_name": "Загородный",
+   "epg_code": "zagorodny",
+   "popularity": 1450
+ },
+ {
+   "channel_name": "Звезда",
+   "epg_code": "zvezda",
+   "popularity": 29195
+ },
+ {
+   "channel_name": "Звезда (+2)",
+   "epg_code": "zvezda2",
+   "popularity": 6145
+ },
+ {
+   "channel_name": "Звезда (+4)",
+   "epg_code": "zvezda4",
+   "popularity": 3887
+ },
+ {
+   "channel_name": "Звезда (+7)",
+   "epg_code": "zvezda7",
+   "popularity": 454
+ },
+ {
+   "channel_name": "Звезда +6",
+   "epg_code": "zvezda6",
+   "popularity": 1222
+ },
+ {
+   "channel_name": "Здоровое ТВ",
+   "epg_code": "zdorovoe",
+   "popularity": 824
+ },
+ {
+   "channel_name": "Зоо ТВ",
+   "epg_code": "zoo-tv",
+   "popularity": 508
+ },
+ {
+   "channel_name": "Иллюзион+",
+   "epg_code": "illuzion+",
+   "popularity": 9208
+ },
+ {
+   "channel_name": "Индиго ТВ HD",
+   "epg_code": "indigo",
+   "popularity": 596
+ },
+ {
+   "channel_name": "Индийское кино",
+   "epg_code": "indiya",
+   "popularity": 10805
+ },
+ {
+   "channel_name": "Интер",
+   "epg_code": "inter",
+   "popularity": 8217
+ },
+ {
+   "channel_name": "Интер+",
+   "epg_code": "inter-plus",
+   "popularity": 1422
+ },
+ {
+   "channel_name": "История",
+   "epg_code": "istoria",
+   "popularity": 4508
+ },
+ {
+   "channel_name": "К1",
+   "epg_code": "k1",
+   "popularity": 4516
+ },
+ {
+   "channel_name": "К2",
+   "epg_code": "k2",
+   "popularity": 3752
+ },
+ {
+   "channel_name": "Калейдоскоп ТВ",
+   "epg_code": "kaleidoskop",
+   "popularity": 619
+ },
+ {
+   "channel_name": "Канал Disney",
+   "epg_code": "disney",
+   "popularity": 31557
+ },
+ {
+   "channel_name": "Канал Disney (+2)",
+   "epg_code": "disney_2",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Канал Disney (+7)",
+   "epg_code": "disney_7",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Капитан Фантастика HD",
+   "epg_code": "kapitan-hd",
+   "popularity": 156
+ },
+ {
+   "channel_name": "Карусель",
+   "epg_code": "karusel",
+   "popularity": 12801
+ },
+ {
+   "channel_name": "Карусель (+2)",
+   "epg_code": "karusel+2",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Карусель (+3)",
+   "epg_code": "karusel+3",
+   "popularity": 1062
+ },
+ {
+   "channel_name": "Карусель (+4)",
+   "epg_code": "karusel+4",
+   "popularity": 996
+ },
+ {
+   "channel_name": "Карусель (+6)",
+   "epg_code": "karusel+6",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Карусель (+7)",
+   "epg_code": "karusel+7",
+   "popularity": 232
+ },
+ {
+   "channel_name": "Карусель (+8)",
+   "epg_code": "karusel+8",
+   "popularity": 24
+ },
+ {
+   "channel_name": "Карусель International",
+   "epg_code": "karusel-int",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Квартал ТВ",
+   "epg_code": "kvartal",
+   "popularity": 2015
+ },
+ {
+   "channel_name": "КВН ТВ",
+   "epg_code": "kvn-tv",
+   "popularity": 7621
+ },
+ {
+   "channel_name": "Киев",
+   "epg_code": "kiev",
+   "popularity": 330
+ },
+ {
+   "channel_name": "Кино UHD PREMIUM+",
+   "epg_code": "kino-uhd",
+   "popularity": 2776
+ },
+ {
+   "channel_name": "Кинокомедия",
+   "epg_code": "komediya",
+   "popularity": 24900
+ },
+ {
+   "channel_name": "Киномикс",
+   "epg_code": "kino-plus",
+   "popularity": 27351
+ },
+ {
+   "channel_name": "Кинопоказ",
+   "epg_code": "kinopokaz",
+   "popularity": 9764
+ },
+ {
+   "channel_name": "Кинопоказ (+3)",
+   "epg_code": "kinopokaz+3",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Кинопоказ HD2",
+   "epg_code": "kinopokaz-hd2",
+   "popularity": 10523
+ },
+ {
+   "channel_name": "КиноПремиум HD",
+   "epg_code": "kinopremium-hd",
+   "popularity": 14920
+ },
+ {
+   "channel_name": "Кинопремьера",
+   "epg_code": "ntv-premiera",
+   "popularity": 28289
+ },
+ {
+   "channel_name": "КиноСат",
+   "epg_code": "kinosat",
+   "popularity": 4198
+ },
+ {
+   "channel_name": "Киносвидание",
+   "epg_code": "ntv-kinoklub",
+   "popularity": 21103
+ },
+ {
+   "channel_name": "Киносемья",
+   "epg_code": "hd-kino",
+   "popularity": 37106
+ },
+ {
+   "channel_name": "Киносерия",
+   "epg_code": "mnogo-tv",
+   "popularity": 13390
+ },
+ {
+   "channel_name": "КиноТВ",
+   "epg_code": "kino-tv",
+   "popularity": 34634
+ },
+ {
+   "channel_name": "Киноужас",
+   "epg_code": "kinouzhas",
+   "popularity": 22931
+ },
+ {
+   "channel_name": "Кинохит",
+   "epg_code": "kinohit",
+   "popularity": 25082
+ },
+ {
+   "channel_name": "Конный мир",
+   "epg_code": "konnyj-mir",
+   "popularity": 4538
+ },
+ {
+   "channel_name": "Красная линия",
+   "epg_code": "krasnaya-liniya",
+   "popularity": 2665
+ },
+ {
+   "channel_name": "Крик-ТВ",
+   "epg_code": "krik",
+   "popularity": 402
+ },
+ {
+   "channel_name": "Кто есть кто",
+   "epg_code": "kto-est-kto",
+   "popularity": 1566
+ },
+ {
+   "channel_name": "Кубань 24",
+   "epg_code": "kuban24",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Кубань 24 Орбита",
+   "epg_code": "orbita",
+   "popularity": 722
+ },
+ {
+   "channel_name": "Культура",
+   "epg_code": "kultura",
+   "popularity": 11580
+ },
+ {
+   "channel_name": "Культура (+2)",
+   "epg_code": "kultura+2",
+   "popularity": 208
+ },
+ {
+   "channel_name": "Культура (+4)",
+   "epg_code": "kultura+4",
+   "popularity": 717
+ },
+ {
+   "channel_name": "Культура (+6)",
+   "epg_code": "kultura+6",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Культура (+7)",
+   "epg_code": "kultura+7",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Культура (Украина)",
+   "epg_code": "kultura-ukr",
+   "popularity": 107
+ },
+ {
+   "channel_name": "Курай",
+   "epg_code": "kurai",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Кухня ТВ",
+   "epg_code": "kuhnya",
+   "popularity": 5296
+ },
+ {
+   "channel_name": "КХЛ HD",
+   "epg_code": "kxl-hd",
+   "popularity": 6993
+ },
+ {
+   "channel_name": "КХЛ ТВ",
+   "epg_code": "kxl",
+   "popularity": 6498
+ },
+ {
+   "channel_name": "ЛДПР ТВ",
+   "epg_code": "ldpr",
+   "popularity": 527
+ },
+ {
+   "channel_name": "Любимое кино",
+   "epg_code": "lyubimoe-kino",
+   "popularity": 17754
+ },
+ {
+   "channel_name": "Ля-минор",
+   "epg_code": "lya-minor",
+   "popularity": 2209
+ },
+ {
+   "channel_name": "Ля-минор ТВ",
+   "epg_code": "lya-minor-tv",
+   "popularity": 0
+ },
+ {
+   "channel_name": "М2-Эстрада",
+   "epg_code": "m-2",
+   "popularity": 1577
+ },
+ {
+   "channel_name": "Малыш",
+   "epg_code": "malish",
+   "popularity": 40227
+ },
+ {
+   "channel_name": "Малятко TV",
+   "epg_code": "malyatko",
+   "popularity": 842
+ },
+ {
+   "channel_name": "Мама",
+   "epg_code": "mama",
+   "popularity": 313
+ },
+ {
+   "channel_name": "Матч ТВ",
+   "epg_code": "match",
+   "popularity": 42318
+ },
+ {
+   "channel_name": "Матч! (+2)",
+   "epg_code": "match+2",
+   "popularity": 147
+ },
+ {
+   "channel_name": "Матч! (+4)",
+   "epg_code": "match+4",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Матч! (+6)",
+   "epg_code": "match+6",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Матч! (+8)",
+   "epg_code": "match+8",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Матч! Арена",
+   "epg_code": "sport1_rus",
+   "popularity": 5792
+ },
+ {
+   "channel_name": "Матч! Арена HD",
+   "epg_code": "sport1_hd",
+   "popularity": 13584
+ },
+ {
+   "channel_name": "Матч! Боец",
+   "epg_code": "boec",
+   "popularity": 7769
+ },
+ {
+   "channel_name": "Матч! Игра",
+   "epg_code": "sport2_rus",
+   "popularity": 4678
+ },
+ {
+   "channel_name": "Матч! Игра HD",
+   "epg_code": "hd-sport",
+   "popularity": 6466
+ },
+ {
+   "channel_name": "Матч! Наш спорт",
+   "epg_code": "sport-plus",
+   "popularity": 6107
+ },
+ {
+   "channel_name": "Матч! Планета",
+   "epg_code": "ntv-sport",
+   "popularity": 3054
+ },
+ {
+   "channel_name": "Матч! Премьер",
+   "epg_code": "ntv-nashfootball",
+   "popularity": 24548
+ },
+ {
+   "channel_name": "Матч! Футбол 1",
+   "epg_code": "ntv-football-1",
+   "popularity": 24460
+ },
+ {
+   "channel_name": "Матч! Футбол 2",
+   "epg_code": "ntv-football-2",
+   "popularity": 20992
+ },
+ {
+   "channel_name": "Матч! Футбол 3",
+   "epg_code": "ntv-football-3",
+   "popularity": 20450
+ },
+ {
+   "channel_name": "Мать и дитя",
+   "epg_code": "mat-i-ditya",
+   "popularity": 1880
+ },
+ {
+   "channel_name": "Мега",
+   "epg_code": "mega",
+   "popularity": 17798
+ },
+ {
+   "channel_name": "Мир (+4)",
+   "epg_code": "mir4",
+   "popularity": 499
+ },
+ {
+   "channel_name": "Мир (+7)",
+   "epg_code": "mir7",
+   "popularity": 53
+ },
+ {
+   "channel_name": "Мир +2",
+   "epg_code": "mir2",
+   "popularity": 1907
+ },
+ {
+   "channel_name": "Мир +6",
+   "epg_code": "mir6",
+   "popularity": 1081
+ },
+ {
+   "channel_name": "Мир 24",
+   "epg_code": "mir24",
+   "popularity": 8795
+ },
+ {
+   "channel_name": "Мир HD",
+   "epg_code": "mir-hd",
+   "popularity": 19665
+ },
+ {
+   "channel_name": "Мир Баскетбола",
+   "epg_code": "mir-basketbola",
+   "popularity": 899
+ },
+ {
+   "channel_name": "Мир сериала",
+   "epg_code": "mir-seriala",
+   "popularity": 6048
+ },
+ {
+   "channel_name": "Мир Увлечений",
+   "epg_code": "mir-uvlechenij",
+   "popularity": 375
+ },
+ {
+   "channel_name": "МирТВ",
+   "epg_code": "mir",
+   "popularity": 13995
+ },
+ {
+   "channel_name": "Морской",
+   "epg_code": "nautical",
+   "popularity": 2252
+ },
+ {
+   "channel_name": "Москва-24",
+   "epg_code": "moskva24",
+   "popularity": 6541
+ },
+ {
+   "channel_name": "Моторспорт ТВ",
+   "epg_code": "motorsport",
+   "popularity": 1906
+ },
+ {
+   "channel_name": "Моя планета",
+   "epg_code": "moya-planeta",
+   "popularity": 5628
+ },
+ {
+   "channel_name": "Мужское кино",
+   "epg_code": "man-kino",
+   "popularity": 26443
+ },
+ {
+   "channel_name": "Мужской",
+   "epg_code": "Muzhskoj.ru",
+   "popularity": 1305
+ },
+ {
+   "channel_name": "Муз-ТВ",
+   "epg_code": "muz-tv",
+   "popularity": 4905
+ },
+ {
+   "channel_name": "МУЗ-ТВ (+2)",
+   "epg_code": "muz-tv+2",
+   "popularity": 3
+ },
+ {
+   "channel_name": "МУЗ-ТВ (+4)",
+   "epg_code": "muz-tv+4",
+   "popularity": 3
+ },
+ {
+   "channel_name": "МУЗ-ТВ (+6)",
+   "epg_code": "muz-tv+6",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Музыка Первого",
+   "epg_code": "muzika1",
+   "popularity": 9325
+ },
+ {
+   "channel_name": "Мульт",
+   "epg_code": "mult",
+   "popularity": 12470
+ },
+ {
+   "channel_name": "Мультимания",
+   "epg_code": "multimania",
+   "popularity": 2345
+ },
+ {
+   "channel_name": "Мультимузыка",
+   "epg_code": "multimuzyka",
+   "popularity": 2033
+ },
+ {
+   "channel_name": "Надежда",
+   "epg_code": "nadezhda",
+   "popularity": 506
+ },
+ {
+   "channel_name": "Надия",
+   "epg_code": "nadiya",
+   "popularity": 135
+ },
+ {
+   "channel_name": "Настоящее время",
+   "epg_code": "current-time",
+   "popularity": 5364
+ },
+ {
+   "channel_name": "Наука 2.0",
+   "epg_code": "nauka",
+   "popularity": 4292
+ },
+ {
+   "channel_name": "Наш Детектив",
+   "epg_code": "semeinoe-hd",
+   "popularity": 8706
+ },
+ {
+   "channel_name": "Наш Кинопоказ HD",
+   "epg_code": "nash-kinopokaz",
+   "popularity": 3759
+ },
+ {
+   "channel_name": "Наш Кинороман",
+   "epg_code": "nashe-hd",
+   "popularity": 15657
+ },
+ {
+   "channel_name": "Наша Тема",
+   "epg_code": "nasha-tema",
+   "popularity": 597
+ },
+ {
+   "channel_name": "Наше кино",
+   "epg_code": "nashekino",
+   "popularity": 348
+ },
+ {
+   "channel_name": "Наше любимое",
+   "epg_code": "nashe-lubimoe",
+   "popularity": 5877
+ },
+ {
+   "channel_name": "Наше мужское HD",
+   "epg_code": "nashe-muzhskoe",
+   "popularity": 3091
+ },
+ {
+   "channel_name": "Наше новое кино",
+   "epg_code": "nashe-novoe",
+   "popularity": 24375
+ },
+ {
+   "channel_name": "Наше ТВ",
+   "epg_code": "nashe-tv",
+   "popularity": 254
+ },
+ {
+   "channel_name": "НЛО HD",
+   "epg_code": "nlo",
+   "popularity": 1401
+ },
+ {
+   "channel_name": "Новый канал",
+   "epg_code": "novkan",
+   "popularity": 5769
+ },
+ {
+   "channel_name": "Новый мир",
+   "epg_code": "novyi-mir",
+   "popularity": 872
+ },
+ {
+   "channel_name": "Ностальгия",
+   "epg_code": "nostalgia",
+   "popularity": 10415
+ },
+ {
+   "channel_name": "НСТ (Страшное)",
+   "epg_code": "nstv",
+   "popularity": 11839
+ },
+ {
+   "channel_name": "НТВ",
+   "epg_code": "ntv",
+   "popularity": 150145
+ },
+ {
+   "channel_name": "НТВ (+2)",
+   "epg_code": "ntv2",
+   "popularity": 24606
+ },
+ {
+   "channel_name": "НТВ (+3)",
+   "epg_code": "ntv3",
+   "popularity": 33
+ },
+ {
+   "channel_name": "НТВ (+4)",
+   "epg_code": "ntv4",
+   "popularity": 12937
+ },
+ {
+   "channel_name": "НТВ (+7)",
+   "epg_code": "ntv7",
+   "popularity": 1510
+ },
+ {
+   "channel_name": "НТВ +6",
+   "epg_code": "ntv6",
+   "popularity": 3731
+ },
+ {
+   "channel_name": "НТВ +8",
+   "epg_code": "ntv8",
+   "popularity": 2214
+ },
+ {
+   "channel_name": "НТВ Мир Baltija",
+   "epg_code": "ntvmir",
+   "popularity": 21557
+ },
+ {
+   "channel_name": "НТВ Право",
+   "epg_code": "ntv-pravo",
+   "popularity": 5108
+ },
+ {
+   "channel_name": "НТВ Сериал",
+   "epg_code": "ntv-serial",
+   "popularity": 13706
+ },
+ {
+   "channel_name": "НТВ Стиль",
+   "epg_code": "ntv-style",
+   "popularity": 4559
+ },
+ {
+   "channel_name": "НТВ-Беларусь",
+   "epg_code": "ntv-bel",
+   "popularity": 267
+ },
+ {
+   "channel_name": "НТВ-Хит",
+   "epg_code": "ntv-hit",
+   "popularity": 9691
+ },
+ {
+   "channel_name": "НТН",
+   "epg_code": "ntn",
+   "popularity": 2950
+ },
+ {
+   "channel_name": "О!",
+   "epg_code": "o",
+   "popularity": 5655
+ },
+ {
+   "channel_name": "О! (+2)",
+   "epg_code": "o+2",
+   "popularity": 0
+ },
+ {
+   "channel_name": "О!Кино",
+   "epg_code": "o-kino",
+   "popularity": 314
+ },
+ {
+   "channel_name": "О2ТВ",
+   "epg_code": "o2tv",
+   "popularity": 7277
+ },
+ {
+   "channel_name": "ОНТ",
+   "epg_code": "ont",
+   "popularity": 1139
+ },
+ {
+   "channel_name": "Оружие",
+   "epg_code": "oruszie",
+   "popularity": 4478
+ },
+ {
+   "channel_name": "Остросюжетное HD",
+   "epg_code": "ostrsuszet-hd",
+   "popularity": 32221
+ },
+ {
+   "channel_name": "ОТВ (Екатеринбург)",
+   "epg_code": "otv-ekaterinburg",
+   "popularity": 21
+ },
+ {
+   "channel_name": "ОТВ (Челябинск)",
+   "epg_code": "otv-chelyabinsk",
+   "popularity": 19
+ },
+ {
+   "channel_name": "ОТВ Приморье",
+   "epg_code": "otv-prim",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Открытый HD",
+   "epg_code": "open-hd",
+   "popularity": 159
+ },
+ {
+   "channel_name": "Открытый мир",
+   "epg_code": "open-world",
+   "popularity": 515
+ },
+ {
+   "channel_name": "ОТР",
+   "epg_code": "otr",
+   "popularity": 9697
+ },
+ {
+   "channel_name": "ОТР (+2)",
+   "epg_code": "otr+2",
+   "popularity": 177
+ },
+ {
+   "channel_name": "ОТР (+4)",
+   "epg_code": "otr+4",
+   "popularity": 6
+ },
+ {
+   "channel_name": "ОТР (+6)",
+   "epg_code": "otr+6",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ОТР (+8)",
+   "epg_code": "otr+8",
+   "popularity": 17
+ },
+ {
+   "channel_name": "ОТС",
+   "epg_code": "ots",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Охота и рыбалка",
+   "epg_code": "ohota-i-rybalka",
+   "popularity": 6075
+ },
+ {
+   "channel_name": "Охотник и рыболов",
+   "epg_code": "ohotnik-i-rybolov",
+   "popularity": 667
+ },
+ {
+   "channel_name": "Охотник и рыболов HD",
+   "epg_code": "ohotnik-i-rybolov-hd",
+   "popularity": 5775
+ },
+ {
+   "channel_name": "Первый HD PREMIUM+",
+   "epg_code": "ort-hd",
+   "popularity": 136903
+ },
+ {
+   "channel_name": "Первый Ukraine",
+   "epg_code": "1ukraine",
+   "popularity": 453
+ },
+ {
+   "channel_name": "Первый автомобильный",
+   "epg_code": "1avto",
+   "popularity": 444
+ },
+ {
+   "channel_name": "Первый Балтийский канал",
+   "epg_code": "pirmais_baltijas_kanals",
+   "popularity": 301
+ },
+ {
+   "channel_name": "Первый вегетарианский",
+   "epg_code": "1vegan",
+   "popularity": 1100
+ },
+ {
+   "channel_name": "Первый городской (Нижний Новгород)",
+   "epg_code": "1gorodskoi",
+   "popularity": 163
+ },
+ {
+   "channel_name": "Первый деловой",
+   "epg_code": "1delovoi",
+   "popularity": 362
+ },
+ {
+   "channel_name": "Первый канал (+2)",
+   "epg_code": "ort+2",
+   "popularity": 31748
+ },
+ {
+   "channel_name": "Первый канал (+4)",
+   "epg_code": "ort+4",
+   "popularity": 61324
+ },
+ {
+   "channel_name": "Первый канал (+6)",
+   "epg_code": "ort+6",
+   "popularity": 11605
+ },
+ {
+   "channel_name": "Первый канал (+8)",
+   "epg_code": "ort+8",
+   "popularity": 3787
+ },
+ {
+   "channel_name": "Первый канал (Америка)",
+   "epg_code": "1tv-usa",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Первый канал (Россия)",
+   "epg_code": "ort",
+   "popularity": 234156
+ },
+ {
+   "channel_name": "Первый канал (Россия) Европа",
+   "epg_code": "ortint",
+   "popularity": 1629
+ },
+ {
+   "channel_name": "Первый канал (Россия) СНГ",
+   "epg_code": "ort-sng",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Первый метео",
+   "epg_code": "1meteo",
+   "popularity": 518
+ },
+ {
+   "channel_name": "Первый образовательный",
+   "epg_code": "1obr",
+   "popularity": 859
+ },
+ {
+   "channel_name": "Перец International",
+   "epg_code": "peretz-int",
+   "popularity": 5274
+ },
+ {
+   "channel_name": "Перший Західний",
+   "epg_code": "lviv",
+   "popularity": 203
+ },
+ {
+   "channel_name": "Пес и Ко",
+   "epg_code": "pes-i-ko",
+   "popularity": 395
+ },
+ {
+   "channel_name": "ПИК ТВ",
+   "epg_code": "piktv",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Пиксель",
+   "epg_code": "pixel",
+   "popularity": 1521
+ },
+ {
+   "channel_name": "Пингвин Лоло",
+   "epg_code": "lolo",
+   "popularity": 111
+ },
+ {
+   "channel_name": "Пингвин Лоло (+2)",
+   "epg_code": "lolo+2",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Планета HD",
+   "epg_code": "iq-hd",
+   "popularity": 1982
+ },
+ {
+   "channel_name": "ПлюсПлюс",
+   "epg_code": "plusplus",
+   "popularity": 1282
+ },
+ {
+   "channel_name": "Победа",
+   "epg_code": "pobeda",
+   "popularity": 22448
+ },
+ {
+   "channel_name": "Поехали!",
+   "epg_code": "poehali",
+   "popularity": 1178
+ },
+ {
+   "channel_name": "ПравдаТУТ",
+   "epg_code": "pravda-tut",
+   "popularity": 331
+ },
+ {
+   "channel_name": "Про Любовь",
+   "epg_code": "pro-lyubov",
+   "popularity": 1609
+ },
+ {
+   "channel_name": "Промо Ultra HD",
+   "epg_code": "promo-ultra-hd",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Просвещение",
+   "epg_code": "prosveschenie",
+   "popularity": 590
+ },
+ {
+   "channel_name": "Психология21",
+   "epg_code": "psihologiya21",
+   "popularity": 898
+ },
+ {
+   "channel_name": "Пятница",
+   "epg_code": "pyatnica",
+   "popularity": 33914
+ },
+ {
+   "channel_name": "Пятница (+2)",
+   "epg_code": "pyatnica2",
+   "popularity": 1972
+ },
+ {
+   "channel_name": "Пятница (+3)",
+   "epg_code": "pyatnica3",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Пятница (+4)",
+   "epg_code": "pyatnica4",
+   "popularity": 18290
+ },
+ {
+   "channel_name": "Пятница (+7)",
+   "epg_code": "pyatnica7",
+   "popularity": 2860
+ },
+ {
+   "channel_name": "Пятница +6",
+   "epg_code": "pyatnica6",
+   "popularity": 887
+ },
+ {
+   "channel_name": "Пятница International",
+   "epg_code": "pyatnica-int",
+   "popularity": 504
+ },
+ {
+   "channel_name": "Пятый канал +4",
+   "epg_code": "piter+4",
+   "popularity": 3013
+ },
+ {
+   "channel_name": "Пятый канал +6",
+   "epg_code": "piter+6",
+   "popularity": 216
+ },
+ {
+   "channel_name": "Рада",
+   "epg_code": "rada",
+   "popularity": 454
+ },
+ {
+   "channel_name": "Радость моя",
+   "epg_code": "radost-moya",
+   "popularity": 865
+ },
+ {
+   "channel_name": "РазТВ",
+   "epg_code": "raz",
+   "popularity": 283
+ },
+ {
+   "channel_name": "РБК ТВ",
+   "epg_code": "rbk",
+   "popularity": 9741
+ },
+ {
+   "channel_name": "РЕН ТВ",
+   "epg_code": "rentv",
+   "popularity": 123322
+ },
+ {
+   "channel_name": "РЕН ТВ (+2)",
+   "epg_code": "rentv2",
+   "popularity": 7143
+ },
+ {
+   "channel_name": "РЕН ТВ (+4)",
+   "epg_code": "rentv4",
+   "popularity": 5706
+ },
+ {
+   "channel_name": "РЕН ТВ (+7)",
+   "epg_code": "rentv7",
+   "popularity": 761
+ },
+ {
+   "channel_name": "Рен ТВ +6",
+   "epg_code": "rentv6",
+   "popularity": 1832
+ },
+ {
+   "channel_name": "РЕН ТВ 7 Канал",
+   "epg_code": "trk7",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Ретро",
+   "epg_code": "retro",
+   "popularity": 6133
+ },
+ {
+   "channel_name": "РЖД ТВ",
+   "epg_code": "rzd",
+   "popularity": 456
+ },
+ {
+   "channel_name": "Родное кино",
+   "epg_code": "ntv-nashekino",
+   "popularity": 19878
+ },
+ {
+   "channel_name": "Романтичное",
+   "epg_code": "romantichnoe",
+   "popularity": 10320
+ },
+ {
+   "channel_name": "Россия 1",
+   "epg_code": "rtr",
+   "popularity": 65990
+ },
+ {
+   "channel_name": "Россия 1 (+2)",
+   "epg_code": "rossiya+2",
+   "popularity": 104472
+ },
+ {
+   "channel_name": "Россия 1 (+4)",
+   "epg_code": "rossiya+4",
+   "popularity": 10696
+ },
+ {
+   "channel_name": "Россия 1 (+6)",
+   "epg_code": "rossiya+6",
+   "popularity": 5886
+ },
+ {
+   "channel_name": "Россия 1 +8",
+   "epg_code": "rossiya+8",
+   "popularity": 2269
+ },
+ {
+   "channel_name": "Россия 1 HD PREMIUM+",
+   "epg_code": "rossiya-hd",
+   "popularity": 84107
+ },
+ {
+   "channel_name": "Россия 24",
+   "epg_code": "vesti",
+   "popularity": 32342
+ },
+ {
+   "channel_name": "Россия 24 (+2)",
+   "epg_code": "vesti+2",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Россия 24 (+4)",
+   "epg_code": "vesti+4",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Россия 24 (+6)",
+   "epg_code": "vesti+6",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Россия 24 (+8)",
+   "epg_code": "vesti+8",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Россия-К +8",
+   "epg_code": "kultura+8",
+   "popularity": 29
+ },
+ {
+   "channel_name": "РТР-Беларусь",
+   "epg_code": "rtr-bel",
+   "popularity": 284
+ },
+ {
+   "channel_name": "РТР-Планета (Америка)",
+   "epg_code": "planeta-usa",
+   "popularity": 0
+ },
+ {
+   "channel_name": "РТР-Планета Азия",
+   "epg_code": "rtr-planeta-asia",
+   "popularity": 17
+ },
+ {
+   "channel_name": "РТР-Планета Европа",
+   "epg_code": "rtrpl",
+   "popularity": 24626
+ },
+ {
+   "channel_name": "РТР-Планета Украина",
+   "epg_code": "planeta-ukr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Русская комедия",
+   "epg_code": "komediya-vgtrk",
+   "popularity": 13051
+ },
+ {
+   "channel_name": "Русская ночь",
+   "epg_code": "russkaya-noch",
+   "popularity": 50014
+ },
+ {
+   "channel_name": "Русский бестселлер",
+   "epg_code": "rus-bestseller",
+   "popularity": 12327
+ },
+ {
+   "channel_name": "Русский детектив",
+   "epg_code": "rus-detective",
+   "popularity": 13625
+ },
+ {
+   "channel_name": "Русский иллюзион",
+   "epg_code": "illuzion",
+   "popularity": 15732
+ },
+ {
+   "channel_name": "Русский роман",
+   "epg_code": "rus-roman",
+   "popularity": 27487
+ },
+ {
+   "channel_name": "Русский экстрим",
+   "epg_code": "russkij-extreme",
+   "popularity": 3231
+ },
+ {
+   "channel_name": "Рыжий",
+   "epg_code": "ryzhij",
+   "popularity": 1060
+ },
+ {
+   "channel_name": "Санкт-Петербург",
+   "epg_code": "spb",
+   "popularity": 3154
+ },
+ {
+   "channel_name": "Сарафан",
+   "epg_code": "sarafan",
+   "popularity": 14251
+ },
+ {
+   "channel_name": "Север",
+   "epg_code": "sever",
+   "popularity": 42
+ },
+ {
+   "channel_name": "СЕРИАЛ UHD",
+   "epg_code": "serial-uhd",
+   "popularity": 1522
+ },
+ {
+   "channel_name": "Сетанта Спорт",
+   "epg_code": "setanta-sport",
+   "popularity": 3575
+ },
+ {
+   "channel_name": "Сетанта Спорт +",
+   "epg_code": "setanta-sport-plus",
+   "popularity": 2765
+ },
+ {
+   "channel_name": "Сигма",
+   "epg_code": "sigma",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Смайлик ТВ",
+   "epg_code": "smilik",
+   "popularity": 661
+ },
+ {
+   "channel_name": "Совершенно секретно",
+   "epg_code": "sov-sek",
+   "popularity": 1877
+ },
+ {
+   "channel_name": "Сонце",
+   "epg_code": "sontse",
+   "popularity": 831
+ },
+ {
+   "channel_name": "Союз (Екатеринбург)",
+   "epg_code": "soyuz",
+   "popularity": 1586
+ },
+ {
+   "channel_name": "Спас",
+   "epg_code": "spas",
+   "popularity": 3820
+ },
+ {
+   "channel_name": "Спас (+2)",
+   "epg_code": "spas+2",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Спас ТВ (+4)",
+   "epg_code": "spas+4",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Спас ТВ (+6)",
+   "epg_code": "spas+6",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Спорт 1",
+   "epg_code": "sport1",
+   "popularity": 3481
+ },
+ {
+   "channel_name": "Спорт 2",
+   "epg_code": "sport2",
+   "popularity": 5323
+ },
+ {
+   "channel_name": "Старт",
+   "epg_code": "start",
+   "popularity": 1964
+ },
+ {
+   "channel_name": "СТБ",
+   "epg_code": "stb",
+   "popularity": 25789
+ },
+ {
+   "channel_name": "СТВ",
+   "epg_code": "ctv",
+   "popularity": 2918
+ },
+ {
+   "channel_name": "Страна",
+   "epg_code": "strana",
+   "popularity": 6436
+ },
+ {
+   "channel_name": "Страшное HD",
+   "epg_code": "strashnoe-hd",
+   "popularity": 9896
+ },
+ {
+   "channel_name": "СТС",
+   "epg_code": "sts",
+   "popularity": 56110
+ },
+ {
+   "channel_name": "СТС (+2)",
+   "epg_code": "sts2",
+   "popularity": 3462
+ },
+ {
+   "channel_name": "СТС (+4)",
+   "epg_code": "sts4",
+   "popularity": 5870
+ },
+ {
+   "channel_name": "СТС (+7)",
+   "epg_code": "sts7",
+   "popularity": 810
+ },
+ {
+   "channel_name": "СТС +6",
+   "epg_code": "sts6",
+   "popularity": 1408
+ },
+ {
+   "channel_name": "СТС International",
+   "epg_code": "sts-int",
+   "popularity": 1027
+ },
+ {
+   "channel_name": "СТС International (-7)",
+   "epg_code": "sts-int-7",
+   "popularity": 0
+ },
+ {
+   "channel_name": "СТС Kids",
+   "epg_code": "sts-kids",
+   "popularity": 2610
+ },
+ {
+   "channel_name": "СТС Love",
+   "epg_code": "sts-love",
+   "popularity": 22029
+ },
+ {
+   "channel_name": "СТС Love (+2)",
+   "epg_code": "sts-love+2",
+   "popularity": 45
+ },
+ {
+   "channel_name": "СТС-Мир",
+   "epg_code": "sts-mir",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Супер",
+   "epg_code": "super",
+   "popularity": 10590
+ },
+ {
+   "channel_name": "Супер (+4)",
+   "epg_code": "super+4",
+   "popularity": 47
+ },
+ {
+   "channel_name": "Супер (+7)",
+   "epg_code": "super+7",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Супер +2",
+   "epg_code": "super+2",
+   "popularity": 577
+ },
+ {
+   "channel_name": "Тайна",
+   "epg_code": "taina",
+   "popularity": 768
+ },
+ {
+   "channel_name": "ТБН Россия",
+   "epg_code": "tbn",
+   "popularity": 588
+ },
+ {
+   "channel_name": "ТВ XXI",
+   "epg_code": "tv21",
+   "popularity": 13760
+ },
+ {
+   "channel_name": "ТВ Центр",
+   "epg_code": "tvcen",
+   "popularity": 26772
+ },
+ {
+   "channel_name": "ТВ Центр (+2)",
+   "epg_code": "tvc2",
+   "popularity": 4419
+ },
+ {
+   "channel_name": "ТВ Центр (+4)",
+   "epg_code": "tvc4",
+   "popularity": 2820
+ },
+ {
+   "channel_name": "ТВ Центр (+7)",
+   "epg_code": "tvc7",
+   "popularity": 60
+ },
+ {
+   "channel_name": "ТВ Центр Международный (TVCI)",
+   "epg_code": "tvcint",
+   "popularity": 2222
+ },
+ {
+   "channel_name": "ТВ3 +6",
+   "epg_code": "tv3_6",
+   "popularity": 1024
+ },
+ {
+   "channel_name": "ТВ3 Россия",
+   "epg_code": "tv3",
+   "popularity": 26222
+ },
+ {
+   "channel_name": "ТВ3 Россия (+2)",
+   "epg_code": "tv3_2",
+   "popularity": 1459
+ },
+ {
+   "channel_name": "ТВ3 Россия (+3)",
+   "epg_code": "tv3_3",
+   "popularity": 1739
+ },
+ {
+   "channel_name": "ТВ3 Россия (+4)",
+   "epg_code": "tv3_4",
+   "popularity": 917
+ },
+ {
+   "channel_name": "ТВ3 Россия (+7)",
+   "epg_code": "tv3_7",
+   "popularity": 227
+ },
+ {
+   "channel_name": "ТВЦ +6",
+   "epg_code": "tvc6",
+   "popularity": 1148
+ },
+ {
+   "channel_name": "ТВЦ +8",
+   "epg_code": "tvc8",
+   "popularity": 716
+ },
+ {
+   "channel_name": "ТДК",
+   "epg_code": "tdk",
+   "popularity": 3960
+ },
+ {
+   "channel_name": "Театр",
+   "epg_code": "teatr",
+   "popularity": 667
+ },
+ {
+   "channel_name": "Телевсесвит",
+   "epg_code": "televsesvit",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Теледом",
+   "epg_code": "teledom",
+   "popularity": 757
+ },
+ {
+   "channel_name": "Телеканал Е HD",
+   "epg_code": "telekanal-e-hd",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Телекафе",
+   "epg_code": "telecafe",
+   "popularity": 1281
+ },
+ {
+   "channel_name": "Телепутешествия",
+   "epg_code": "puteshestviya",
+   "popularity": 3241
+ },
+ {
+   "channel_name": "ТЕТ HD UA",
+   "epg_code": "tet",
+   "popularity": 2890
+ },
+ {
+   "channel_name": "Тиса-1",
+   "epg_code": "tysa",
+   "popularity": 149
+ },
+ {
+   "channel_name": "ТЛУМ HD",
+   "epg_code": "tlum-hd",
+   "popularity": 3232
+ },
+ {
+   "channel_name": "ТНВ-Планета",
+   "epg_code": "tnv-planeta",
+   "popularity": 1674
+ },
+ {
+   "channel_name": "ТНВ-Татарстан",
+   "epg_code": "tnv",
+   "popularity": 96
+ },
+ {
+   "channel_name": "ТНОМЕР",
+   "epg_code": "tnomer",
+   "popularity": 325
+ },
+ {
+   "channel_name": "ТНТ - Скат",
+   "epg_code": "tnt-scat",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ТНТ (+2)",
+   "epg_code": "tnt2",
+   "popularity": 22160
+ },
+ {
+   "channel_name": "ТНТ (+3)",
+   "epg_code": "tnt3",
+   "popularity": 14
+ },
+ {
+   "channel_name": "ТНТ (+4)",
+   "epg_code": "tnt+4",
+   "popularity": 17701
+ },
+ {
+   "channel_name": "ТНТ (+7)",
+   "epg_code": "tnt7",
+   "popularity": 2746
+ },
+ {
+   "channel_name": "ТНТ +6",
+   "epg_code": "tnt+6",
+   "popularity": 3045
+ },
+ {
+   "channel_name": "ТНТ HD PREMIUM+",
+   "epg_code": "tnt",
+   "popularity": 136983
+ },
+ {
+   "channel_name": "ТНТ International (Беларусь)",
+   "epg_code": "tnt-international-bel",
+   "popularity": 27
+ },
+ {
+   "channel_name": "ТНТ International (Европа)",
+   "epg_code": "tnt-international-eu",
+   "popularity": 613
+ },
+ {
+   "channel_name": "ТНТ International (СНГ)",
+   "epg_code": "tnt-international",
+   "popularity": 517
+ },
+ {
+   "channel_name": "ТНТ Music HD",
+   "epg_code": "tnt-music",
+   "popularity": 3733
+ },
+ {
+   "channel_name": "ТНТ4",
+   "epg_code": "tnt4",
+   "popularity": 24080
+ },
+ {
+   "channel_name": "ТНТ4 (+7)",
+   "epg_code": "tnt4_7",
+   "popularity": 70
+ },
+ {
+   "channel_name": "ТНТ4 +2",
+   "epg_code": "tnt4_2",
+   "popularity": 445
+ },
+ {
+   "channel_name": "ТНТ4 +4",
+   "epg_code": "tnt4_4",
+   "popularity": 272
+ },
+ {
+   "channel_name": "ТНТ4 +6",
+   "epg_code": "tnt4_6",
+   "popularity": 116
+ },
+ {
+   "channel_name": "ТНТ4 International",
+   "epg_code": "tnt4-international",
+   "popularity": 746
+ },
+ {
+   "channel_name": "Тонис",
+   "epg_code": "tonis",
+   "popularity": 1581
+ },
+ {
+   "channel_name": "Тонис HD",
+   "epg_code": "tonis-hd",
+   "popularity": 133
+ },
+ {
+   "channel_name": "Тонус ТВ",
+   "epg_code": "tonus-tv",
+   "popularity": 366
+ },
+ {
+   "channel_name": "Точка отрыва",
+   "epg_code": "tochka-otryva",
+   "popularity": 1485
+ },
+ {
+   "channel_name": "Точка ТВ",
+   "epg_code": "tochka",
+   "popularity": 913
+ },
+ {
+   "channel_name": "ТРК Украина HD",
+   "epg_code": "trk-ukraina",
+   "popularity": 6550
+ },
+ {
+   "channel_name": "ТРО",
+   "epg_code": "tpo",
+   "popularity": 1176
+ },
+ {
+   "channel_name": "Трофей",
+   "epg_code": "trofey",
+   "popularity": 1086
+ },
+ {
+   "channel_name": "ТТС",
+   "epg_code": "ttc",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Тюменское время",
+   "epg_code": "tymvremya",
+   "popularity": 80
+ },
+ {
+   "channel_name": "Украина 24",
+   "epg_code": "ukraina24",
+   "popularity": 399
+ },
+ {
+   "channel_name": "Униан ТВ",
+   "epg_code": "unian",
+   "popularity": 1306
+ },
+ {
+   "channel_name": "Усадьба",
+   "epg_code": "usadba",
+   "popularity": 2357
+ },
+ {
+   "channel_name": "Успех",
+   "epg_code": "Uspeh.ru",
+   "popularity": 576
+ },
+ {
+   "channel_name": "Феникс+Кино",
+   "epg_code": "fenix+kino",
+   "popularity": 2898
+ },
+ {
+   "channel_name": "Футбол (Россия)",
+   "epg_code": "futbol",
+   "popularity": 1610
+ },
+ {
+   "channel_name": "Футбол 1",
+   "epg_code": "futbol-ukr",
+   "popularity": 5946
+ },
+ {
+   "channel_name": "Футбол 2",
+   "epg_code": "futbol-plus",
+   "popularity": 50953
+ },
+ {
+   "channel_name": "Футбол 3",
+   "epg_code": "futbol3-ukr",
+   "popularity": 2975
+ },
+ {
+   "channel_name": "Хит HD",
+   "epg_code": "khit",
+   "popularity": 7836
+ },
+ {
+   "channel_name": "Центральное телевидение",
+   "epg_code": "centr-tv",
+   "popularity": 2806
+ },
+ {
+   "channel_name": "Че",
+   "epg_code": "chetv",
+   "popularity": 21210
+ },
+ {
+   "channel_name": "Че (+2)",
+   "epg_code": "chetv2",
+   "popularity": 98
+ },
+ {
+   "channel_name": "Че (+7)",
+   "epg_code": "chetv7",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Че +4",
+   "epg_code": "chetv4",
+   "popularity": 255
+ },
+ {
+   "channel_name": "ЧП.INFO",
+   "epg_code": "chp-info",
+   "popularity": 472
+ },
+ {
+   "channel_name": "Шалун",
+   "epg_code": "shalun",
+   "popularity": 5539
+ },
+ {
+   "channel_name": "Шансон ТВ",
+   "epg_code": "shansontv",
+   "popularity": 5517
+ },
+ {
+   "channel_name": "Шокирующее",
+   "epg_code": "kinopokaz-hd1",
+   "popularity": 13717
+ },
+ {
+   "channel_name": "Эгоист ТВ",
+   "epg_code": "egoist",
+   "popularity": 16801
+ },
+ {
+   "channel_name": "Эко-ТВ",
+   "epg_code": "eko",
+   "popularity": 176
+ },
+ {
+   "channel_name": "Эспресо ТВ HD",
+   "epg_code": "espreso",
+   "popularity": 1152
+ },
+ {
+   "channel_name": "Ю",
+   "epg_code": "muztv",
+   "popularity": 126598
+ },
+ {
+   "channel_name": "Ю (+2)",
+   "epg_code": "muztv2",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Ю (+7)",
+   "epg_code": "muztv7",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Югра",
+   "epg_code": "ugra",
+   "popularity": 213
+ },
+ {
+   "channel_name": "Южная волна",
+   "epg_code": "ug-volna",
+   "popularity": 216
+ },
+ {
+   "channel_name": "Южный Регион Дон",
+   "epg_code": "ugdon",
+   "popularity": 17203
+ },
+ {
+   "channel_name": "Ямал-Регион",
+   "epg_code": "jamalregio",
+   "popularity": 29
+ }
+]
