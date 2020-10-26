@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/xybydy/m3u8"
+	"github.com/grafov/m3u8"
 )
 
 type M3U8Playlist []*ExtInf
