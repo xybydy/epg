@@ -6,5 +6,6 @@
     "go.lintOnSave": "workspace",
     "code-runner.cwd": "",
     "code-runner.saveFileBeforeRun": true,
+    "npm-scripts.showStartNotification": false,
 
 }
