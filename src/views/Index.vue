@@ -1,6 +1,7 @@
 <template>
   <div class="p-d-flex p-flex-column p-mt-3">
     <FileUpload
+      v-if="!m3uData.isLoaded"
       name="upload"
       url="/"
       ref="uploadButton"
@@ -22,6 +23,7 @@ import { ref, reactive } from 'vue'
 import FileUpload from 'primevue/fileupload'
 
 import { parse } from 'iptv-playlist-parser'
+import { SanitizeM3u } from '@/utils/m3u.js'
 
 import DataTable from '../components/DataTable.vue'
 
@@ -36,12 +38,11 @@ export default {
 
     const upload = async e => {
       e.files[0].text().then(f => {
-        m3uData.m3uList = parse(f).items
+        m3uData.m3uList = SanitizeM3u(parse(f).items)
         m3uData.isLoaded = true
       })
       uploadButton.value.clear()
     }
-
     return { upload, uploadButton, m3uData }
   },
   components: {
