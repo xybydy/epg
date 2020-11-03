@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/xybydy/epg/golib/mongo"
+	"./golib/mongo"
 )
 
 func Send(w http.ResponseWriter, r *http.Request) {
