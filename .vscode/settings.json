@@ -1,5 +1,5 @@
 {
     "go.useLanguageServer": true,
     "go.lintTool": "revive",
-    "go.lintFlags": ["-config=${workspaceFolder}/golib/revive.toml"]
+    "go.lintFlags": ["-config=${workspaceFolder}/revive.toml"]
 }
