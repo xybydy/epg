@@ -11,6 +11,7 @@ import (
 func Send(w http.ResponseWriter, r *http.Request) {
 	body, err := r.GetBody()
 	defer body.Close()
+
 	if err != nil {
 		fmt.Errorf(err.Error())
 	}
