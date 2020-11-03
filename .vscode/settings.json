@@ -1,12 +1,8 @@
 {
-    "go.lintTool": "golangci-lint",
-    "go.lintFlags": [
-        "--fast",
-    ],
-    "go.lintOnSave": "workspace",
+    "go.lintTool": "revive",
+    "go.lintOnSave": "file",
     "code-runner.cwd": "",
     "code-runner.saveFileBeforeRun": true,
     "npm-scripts.showStartNotification": false,
     "python.formatting.provider": "black",
-
 }

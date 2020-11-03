@@ -3,6 +3,7 @@ package mongo
 import (
 	"context"
 	"fmt"
+	"json"
 
 	"github.com/qiniu/qmgo"
 )
@@ -21,17 +22,19 @@ func init() {
 }
 
 func getClient() {
-	Cli, _ = qmgo.Open(Ctx, &qmgo.Config{Uri: getMongoUrl(), Database: DbName, Coll: "movies"})
+	url := fmt.Sprintf(`mongodb+srv://f:%s@epg.spxgj.mongodb.net/%s?retryWrites=true&w=majority`, MongoPass, DbName)
+	Cli, _ = qmgo.NewClient(Ctx, &qmgo.Config{Uri: "mongodb+srv://f:1ZaaVagptA9N9gJW@epg.spxgj.mongodb.net", Database: DbName})
 }
 
-func getMongoUrl() string {
-	url := `mongodb+srv://f:%s@epg.spxgj.mongodb.net/%s?retryWrites=true&w=majority`
-	return fmt.Sprintf(url, MongoPass, DbName)
-}
+func InsertData(input []byte) {
+	data := ChannelMatches{}
 
-func InsertData() {
-	var ids = TvgIds{}
-	res, err := Cli.Collection.InsertMany(Ctx, ids)
+	err := json.Unmarshal(input, data)
+	if err != nil {
+		fmt.Errorf(err.Error())
+	}
+
+	res, err := Cli.Collection.InsertMany(Ctx, data)
 	if err != nil {
 		fmt.Errorf(err.Error())
 	} else {

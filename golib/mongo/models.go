@@ -1,8 +1,9 @@
 package mongo
 
-type TvgIds []TvgId
+type ChannelMatches []ChannelMatch
 
-type TvgId struct {
+type ChannelMatch struct {
 	ChanName string `bson:"chan_name" json:"chan_name"`
-	TvgId    string `bson:"tvg_id" json:"tvg_id"`
+	TvgID    string `bson:"tvg_id" json:"tvg_id"`
+	UserName string ´bson:"user_name" json:"user_name"´
 }
