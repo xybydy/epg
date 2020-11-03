@@ -2,9 +2,10 @@ package api
 
 import (
 	"fmt"
-	"golib/mongo"
 	"io/ioutil"
 	"net/http"
+
+	"./golib/mongo"
 )
 
 func Send(w http.ResponseWriter, r *http.Request) {

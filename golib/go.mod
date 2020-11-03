@@ -1,4 +1,4 @@
-module golib
+module github.com/xybydy/epg/golib
 
 go 1.15
 
