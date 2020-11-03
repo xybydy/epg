@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"epg/golib/mongo"
+	"github.com/xybydy/epg/api/golib/mongo"
 )
 
 func Send(w http.ResponseWriter, r *http.Request) {
@@ -17,7 +17,7 @@ func Send(w http.ResponseWriter, r *http.Request) {
 	}
 	res, err := ioutil.ReadAll(body)
 	mongo.InsertData(res)
-	w.Write(mongo.DbName)
+	w.Write([]byte(mongo.DbName))
 
 	if err != nil {
 		fmt.Errorf(err.Error())
