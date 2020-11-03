@@ -1,8 +1,5 @@
 {
+    "go.useLanguageServer": true,
     "go.lintTool": "revive",
-    "go.lintOnSave": "file",
-    "code-runner.cwd": "",
-    "code-runner.saveFileBeforeRun": true,
-    "npm-scripts.showStartNotification": false,
-    "python.formatting.provider": "black",
+    "go.lintFlags": ["-config=${workspaceFolder}/golib/revive.toml"]
 }

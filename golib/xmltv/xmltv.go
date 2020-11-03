@@ -16,11 +16,11 @@ type Tv struct {
 	XMLName           xml.Name     `xml:"tv"`
 	Channel           []*Channel   `xml:"channel"`
 	Programme         []*Programme `xml:"programme"`
-	SourceInfoUrl     string       `xml:"source-info-url,attr"`  // is a URL describing the data source in some human-readable form
+	SourceInfoURL     string       `xml:"source-info-url,attr"`  // is a URL describing the data source in some human-readable form
 	SourceInfoName    string       `xml:"source-info-name,attr"` // the link text for that URL
-	SourceDataUrl     string       `xml:"source-data-url,attr"`  //is where the actual data is grabbed from.
+	SourceDataURL     string       `xml:"source-data-url,attr"`  //is where the actual data is grabbed from.
 	GeneratorInfoName string       `xml:"generator-info-name"`
-	GeneratorInfoUrl  string       `xml:"generator-info-url"`
+	GeneratorInfoURL  string       `xml:"generator-info-url"`
 }
 
 func NewXMLTVFile() *Tv {
@@ -32,7 +32,7 @@ func NewXMLTVFile() *Tv {
 }
 
 type Channel struct {
-	Id   string `xml:"id,attr"`
+	ID   string `xml:"id,attr"`
 	Name string `xml:"display-name"`
 	Icon Icon   `xml:"icon"`
 }
@@ -44,7 +44,7 @@ type Icon struct {
 }
 
 type Programme struct {
-	Id       string   `xml:"id,attr,omitempty"`
+	ID       string   `xml:"id,attr,omitempty"`
 	Start    string   `xml:"start,attr"`
 	Stop     string   `xml:"stop,attr"`
 	Channel  string   `xml:"channel,attr"`

@@ -11,13 +11,13 @@ import (
 type M3U8Playlist []*ExtInf
 
 type ExtInf struct {
-	SeqId        uint64
+	SeqID        uint64
 	Duration     float64
 	Title        string
 	GroupTitle   string `json:"group-title,omitempty"`
 	ParentCode   string `json:"parent-code,omitempty"`
 	AudioTrack   string `json:"audio-track,omitempty"`
-	TvgId        string `json:"tvg-id,omitempty"`
+	TvgID        string `json:"tvg-id,omitempty"`
 	TvgLogo      string `json:"tvg-logo,omitempty"`
 	TvgLogoSmall string `json:"tvg-logo_small,omitempty"`
 	TvgShift     string `json:"tvg-shift,omitempty"`
