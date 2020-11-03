@@ -10,13 +10,6 @@ import (
 const DbName = "tvg_id_chan"
 const MongoPass = "1ZaaVagptA9N9gJW"
 
-type TvgIds []TvgId
-
-type TvgId struct {
-	ChanName string `bson:"chan_name" json:"chan_name"`
-	TvgId    string `bson:"tvg_id" json:"tvg_id"`
-}
-
 var (
 	Cli *qmgo.QmgoClient
 	Ctx context.Context
