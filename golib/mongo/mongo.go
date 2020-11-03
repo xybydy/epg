@@ -27,7 +27,7 @@ func getClient() {
 }
 
 func InsertData(input []byte) {
-	data := ChannelMatches
+	data := ChannelMatches{}
 
 	err := json.Unmarshal(input, data)
 	if err != nil {
