@@ -16,6 +16,7 @@ func Send(w http.ResponseWriter, r *http.Request) {
 	res, err := ioutil.ReadAll(body)
 	mongo.InsertData(res)
 	w.Write(mongo.DbName)
+
 	if err != nil {
 		fmt.Errorf(err.Error())
 	}
