@@ -22,8 +22,8 @@ func Save(w http.ResponseWriter, r *http.Request) {
 		body, err := r.GetBody()
 		if err != nil {
 			mes := []byte(err.Error())
-			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
+			response.Message = string(mes)
 			json.NewEncoder(w).Encode(response)
 			fmt.Println("1", response)
 			return
@@ -32,13 +32,13 @@ func Save(w http.ResponseWriter, r *http.Request) {
 		res, err := ioutil.ReadAll(body)
 		if err != nil {
 			mes := []byte(err.Error())
-			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
+			response.Message = string(mes)
 			json.NewEncoder(w).Encode(response)
-			fmt.Println("2", response)
 			return
 		}
 		err = mongo.InsertData(res)
+		fmt.Println(string(res))
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
