@@ -8,6 +8,11 @@ import (
 	"github.com/xybydy/epg/golib/mongo"
 )
 
+type apiResponse struct {
+	StatusCode int
+	Message    string
+}
+
 func Save(w http.ResponseWriter, r *http.Request) {
 	response := new(apiResponse)
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
