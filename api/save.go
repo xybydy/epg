@@ -2,6 +2,7 @@ package api
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"net/http"
 
@@ -19,11 +20,13 @@ func Save(w http.ResponseWriter, r *http.Request) {
 
 	if r.Method == http.MethodPost {
 		body, err := r.GetBody()
+		fmt.Println(body)
 		if err != nil {
 			mes := []byte(err.Error())
 			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
 			json.NewEncoder(w).Encode(response)
+			fmt.Println("1", response)
 			return
 		}
 		defer body.Close()
@@ -33,15 +36,17 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
 			json.NewEncoder(w).Encode(response)
+			fmt.Println("2", response)
 			return
 		}
-
+		fmt.Println("4", res)
 		err = mongo.InsertData(res)
 		if err != nil {
 			mes := []byte(err.Error())
 			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
 			json.NewEncoder(w).Encode(response)
+			fmt.Println("3", response)
 			return
 		}
 
