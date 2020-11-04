@@ -39,6 +39,7 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			fmt.Println("2", response)
 			return
 		}
+		fmt.Println("77", string(res))
 		fmt.Println("4", res)
 		err = mongo.InsertData(res)
 		if err != nil {
