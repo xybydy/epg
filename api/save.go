@@ -41,10 +41,10 @@ func Save(w http.ResponseWriter, r *http.Request) {
 		err = mongo.InsertData(res)
 		if err != nil {
 			mes := []byte(err.Error())
-			json.Unmarshal(mes, response)
 			response.StatusCode = http.StatusInternalServerError
+			response.Message = string(mes)
 			json.NewEncoder(w).Encode(response)
-			fmt.Println("3", response)
+			fmt.Println("3", string(mes))
 			return
 		}
 
