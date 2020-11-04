@@ -156,15 +156,13 @@ export default {
     let onSave = () => {
       itemsToSavedList.value = reOrderedList.value
       downloadButtonLock.value = false
-      console.log(itemsToSavedList)
-      console.log(JSON.stringify(itemsToSavedList))
       fetch('/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList.value)
       })
-        .then()
         .then(data => {
+          console.log(data)
           if (data.status == 200) {
             toast.add({
               severity: 'success',
