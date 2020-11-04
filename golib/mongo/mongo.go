@@ -8,7 +8,7 @@ import (
 	"github.com/qiniu/qmgo"
 )
 
-const DbName = "tvg_id_chan"
+const DbName = "epg"
 const MongoPass = "1ZaaVagptA9N9gJW"
 
 var (
