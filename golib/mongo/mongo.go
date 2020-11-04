@@ -22,9 +22,8 @@ func init() {
 }
 
 func getClient() {
-	url := `mongodb+srv://f:1ZaaVagptA9N9gJW@epg.spxgj.mongodb.net/epg?retryWrites=true&w=majority`
-	fmt.Println(url)
-	Cli, _ = qmgo.Open(Ctx, &qmgo.Config{Uri: url, Database: DbName})
+	url := fmt.Sprintf(`mongodb+srv://f:%s@epg.spxgj.mongodb.net/%s?retryWrites=true&w=majority`, MongoPass, DbName)
+	Cli, _ = qmgo.Open(Ctx, &qmgo.Config{Uri: url})
 }
 
 func InsertData(input []byte) error {
