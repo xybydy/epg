@@ -26,18 +26,19 @@ func getClient() {
 	Cli, _ = qmgo.Open(Ctx, &qmgo.Config{Uri: url, Database: DbName})
 }
 
-func InsertData(input []byte) {
+func InsertData(input []byte) error {
 	data := ChannelMatches{}
 
 	err := json.Unmarshal(input, &data)
 	if err != nil {
-		fmt.Errorf("%s", err.Error())
+		return err
 	}
 
 	res, err := Cli.Collection.InsertMany(Ctx, data)
 	if err != nil {
-		fmt.Errorf("%s", err.Error())
+		return err
 	} else {
 		fmt.Println(res)
 	}
+	return nil
 }
