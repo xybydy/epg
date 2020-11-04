@@ -163,7 +163,7 @@ export default {
       })
         .then(resp => resp.json())
         .then(data => {
-          console.log(data)
+          console.log('fffff')
           if (data.status_code == 200) {
             toast.add({
               severity: 'success',
@@ -175,7 +175,7 @@ export default {
             toast.add({
               severity: 'error',
               summary: 'Error',
-              detail: `${data.status} - ${data.statusText}`,
+              detail: `${data.status_code} - ${data.message}`,
               life: 3000
             })
           }

@@ -10,8 +10,8 @@ import (
 )
 
 type apiResponse struct {
-	StatusCode int    `json:"status_code,omitempty"`
-	Message    string `json:"message,omitempty"`
+	StatusCode int    `json:"status_code"`
+	Message    string `json:"message"`
 }
 
 func Save(w http.ResponseWriter, r *http.Request) {
