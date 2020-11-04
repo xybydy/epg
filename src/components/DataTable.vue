@@ -161,6 +161,7 @@ export default {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList.value)
       })
+        .then(resp => resp.json())
         .then(data => {
           console.log(data)
           if (data.status == 200) {
