@@ -163,7 +163,6 @@ export default {
       })
         .then(resp => resp.json())
         .then(data => {
-          console.log('fffff')
           if (data.status_code == 200) {
             toast.add({
               severity: 'success',

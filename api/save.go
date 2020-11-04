@@ -20,7 +20,6 @@ func Save(w http.ResponseWriter, r *http.Request) {
 
 	if r.Method == http.MethodPost {
 		body, err := r.GetBody()
-		fmt.Println(body)
 		if err != nil {
 			mes := []byte(err.Error())
 			json.Unmarshal(mes, response)
@@ -39,8 +38,7 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			fmt.Println("2", response)
 			return
 		}
-		fmt.Println("77", string(res))
-		fmt.Println("4", res)
+		fmt.Println("77", string(res), "LAAAAAA")
 		err = mongo.InsertData(res)
 		if err != nil {
 			mes := []byte(err.Error())
