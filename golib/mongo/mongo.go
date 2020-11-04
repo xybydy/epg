@@ -23,6 +23,7 @@ func init() {
 
 func getClient() {
 	url := fmt.Sprintf(`mongodb+srv://f:%s@epg.spxgj.mongodb.net/%s?retryWrites=true&w=majority`, MongoPass, DbName)
+	fmt.Println(url)
 	Cli, _ = qmgo.Open(Ctx, &qmgo.Config{Uri: url, Database: DbName})
 }
 

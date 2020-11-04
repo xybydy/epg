@@ -28,8 +28,8 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			fmt.Println("1", response)
 			return
 		}
-		defer body.Close()
 		res, err := ioutil.ReadAll(body)
+		body.Close()
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
