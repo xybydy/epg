@@ -1,7 +1,14 @@
 <template>
   <Toolbar class="p-mb-4">
     <template v-slot:left>
-      <FileUpload mode="basic" label="Ekle" :maxFileSize="26214400" :fileLimit="1" chooseLabel="Ekle" class="p-mr-2" />
+      <FileUpload
+        mode="basic"
+        label="Ekle"
+        :maxFileSize="26214400"
+        :fileLimit="1"
+        chooseLabel="Ekle"
+        class="p-mr-2"
+      />
       <Button
         :label="removeLabel"
         icon="pi pi-trash"
@@ -16,7 +23,12 @@
         @click="showEditSelected"
         :disabled="!selectedItemsList || !selectedItemsList.length"
       />
-      <Button label="TVG-ID Getir" icon="pi pi-cloud-download" class="p-button-danger" @click="TvgMatcherDialog" />
+      <Button
+        label="TVG-ID Getir"
+        icon="pi pi-cloud-download"
+        class="p-button-danger"
+        @click="TvgMatcherDialog"
+      />
     </template>
 
     <template v-slot:right>
@@ -67,39 +79,80 @@
     </Column>
     <Column field="tvg_id" header="TVG-ID" autoLayout="true">
       <template #editor="slotProps">
-        <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" /> </template
-      ><template #filter> <InputText type="text" v-model="filters.tvg_id" placeholder="TVG-ID ara" /> </template
+        <InputText
+          v-model="slotProps.data[slotProps.column.props.field]"
+          @focus="onSelectInput"
+        /> </template
+      ><template #filter>
+        <InputText type="text" v-model="filters.tvg_id" placeholder="TVG-ID ara" /> </template
     ></Column>
     <Column field="tvg_name" header="TVG-NAME" autoLayout="true">
       <template #editor="slotProps">
-        <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" /> </template
-      ><template #filter> <InputText type="text" v-model="filters.tvg_name" placeholder="TVG-NAME ara" /> </template
+        <InputText
+          v-model="slotProps.data[slotProps.column.props.field]"
+          @focus="onSelectInput"
+        /> </template
+      ><template #filter>
+        <InputText type="text" v-model="filters.tvg_name" placeholder="TVG-NAME ara" /> </template
     ></Column>
     <Column field="tvg_logo" header="TVG-LOGO" autoLayout="true">
       <template #editor="slotProps">
-        <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" /> </template
+        <InputText
+          v-model="slotProps.data[slotProps.column.props.field]"
+          @focus="onSelectInput"
+        /> </template
     ></Column>
     <Column field="url" header="URL" autoLayout="true">
       <template #editor="slotProps">
-        <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" /> </template
+        <InputText
+          v-model="slotProps.data[slotProps.column.props.field]"
+          @focus="onSelectInput"
+        /> </template
     ></Column>
   </DataTable>
 
-  <Dialog v-model:visible="renameItemsDialog" :style="{ width: '450px' }" header="Onayla" :modal="true">
+  <Dialog
+    v-model:visible="renameItemsDialog"
+    :style="{ width: '450px' }"
+    header="Onayla"
+    :modal="true"
+  >
     <div class="confirmation-content">
       <i class="pi pi-exclamation-triangle p-mr-3" style="font-size: 2rem" />
       <span v-if="selectedItemsList">Seçtiğin kanallar silinsin mi?</span>
     </div>
     <template #footer>
-      <Button label="No" icon="pi pi-times" class="p-button-text" @click="renameItemsDialog = false" />
-      <Button label="Yes" icon="pi pi-check" class="p-button-text" @click="removeSelectedItemsList" />
+      <Button
+        label="No"
+        icon="pi pi-times"
+        class="p-button-text"
+        @click="renameItemsDialog = false"
+      />
+      <Button
+        label="Yes"
+        icon="pi pi-check"
+        class="p-button-text"
+        @click="removeSelectedItemsList"
+      />
     </template>
   </Dialog>
 
-  <Dialog v-model:visible="BulkTvgIdDialog" :style="{ width: '350px' }" header="TVG-ID Düzenle" :modal="true">
-    <div class="p-input-filled p-p-2"><span>Yeni TVG-ID: </span> <InputText autofocus v-model="newTvgId" /></div>
+  <Dialog
+    v-model:visible="BulkTvgIdDialog"
+    :style="{ width: '350px' }"
+    header="TVG-ID Düzenle"
+    :modal="true"
+  >
+    <div class="p-input-filled p-p-2">
+      <span>Yeni TVG-ID: </span> <InputText autofocus v-model="newTvgId" />
+    </div>
     <template #footer>
-      <Button label="Vazgeç" icon="pi pi-times" class="p-button-text" @click="BulkTvgIdDialog = false" />
+      <Button
+        label="Vazgeç"
+        icon="pi pi-times"
+        class="p-button-text"
+        @click="BulkTvgIdDialog = false"
+      />
       <Button label="Onayla" icon="pi pi-check" class="p-button-text" @click="editBulkItems" />
     </template>
   </Dialog>
@@ -190,7 +243,9 @@ export default {
     }
 
     const removeSelectedItemsList = () => {
-      reOrderedList.value = reOrderedList.value.filter(val => !selectedItemsList.value.includes(val))
+      reOrderedList.value = reOrderedList.value.filter(
+        val => !selectedItemsList.value.includes(val)
+      )
       renameItemsDialog.value = false
       selectedItemsList.value = []
     }
