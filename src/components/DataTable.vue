@@ -177,6 +177,7 @@ export default {
   props: {
     m3u: Object
   },
+
   setup(props) {
     const toast = useToast()
 
