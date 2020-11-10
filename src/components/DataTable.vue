@@ -255,7 +255,6 @@ export default {
           })
         })
         .finally(() => (loadingDialog.value = false))
-      setTimeout(() => (loadingDialog.value = false), 3000)
     }
 
     const removeSelectedItemsList = () => {
