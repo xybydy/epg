@@ -28,7 +28,7 @@ func InsertData(input []byte) error {
 	}
 
 	defer cli.Close(ctx)
-	_, err := cli.Collection.InsertMany(ctx, data)
+	_, err = cli.Collection.InsertMany(ctx, data)
 	if err != nil {
 		return err
 	}
