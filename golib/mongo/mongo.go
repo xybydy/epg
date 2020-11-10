@@ -11,6 +11,8 @@ import (
 const DbName = "epg"
 const MongoPass = "1ZaaVagptA9N9gJW"
 
+var cli, ctx = GetClient()
+
 func GetClient() (*qmgo.QmgoClient, context.Context) {
 	var ctx = context.Background()
 	url := fmt.Sprintf(`mongodb+srv://f:%s@epg.spxgj.mongodb.net`, MongoPass)
@@ -25,13 +27,10 @@ func InsertData(input []byte) error {
 		return err
 	}
 
-	cli, ctx := GetClient()
 	defer cli.Close(ctx)
-	res, err := cli.Collection.InsertMany(ctx, data)
+	_, err := cli.Collection.InsertMany(ctx, data)
 	if err != nil {
 		return err
-	} else {
-		fmt.Println(res)
 	}
 	return nil
 }

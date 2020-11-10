@@ -159,11 +159,12 @@
 
   <Dialog
     v-model:visible="loadingDialog"
-    :style="{ width: '250px' }"
-    header="Loading"
+    :style="{ width: '200px' }"
     :modal="true"
+    :closable="false"
+    header="Saving"
   >
-    <ProgressSpinner />
+    <ProgressSpinner style="display:flex" />
   </Dialog>
 
   <Toast position="bottom-right" />
@@ -219,7 +220,7 @@ export default {
     let onSave = () => {
       loadingDialog.value = true
       itemsToSavedList = reOrderedList.value.map(item => {
-        return { group_title: item.group_title, name: item.name, tvg_id: item.tvg_id }
+        return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
       fetch('/api/save', {
@@ -253,7 +254,8 @@ export default {
             life: 3000
           })
         })
-        .finally((loadingDialog.value = false))
+        .finally(() => (loadingDialog.value = false))
+      setTimeout(() => (loadingDialog.value = false), 3000)
     }
 
     const removeSelectedItemsList = () => {
