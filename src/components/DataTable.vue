@@ -86,7 +86,7 @@
       ><template #filter>
         <InputText type="text" v-model="filters.tvg_id" placeholder="TVG-ID ara" /> </template
     ></Column>
-    <Column field="tvg_name" header="TVG-NAME" autoLayout="true">
+    <!-- <Column field="tvg_name" header="TVG-NAME" autoLayout="true">
       <template #editor="slotProps">
         <InputText
           v-model="slotProps.data[slotProps.column.props.field]"
@@ -94,7 +94,7 @@
         /> </template
       ><template #filter>
         <InputText type="text" v-model="filters.tvg_name" placeholder="TVG-NAME ara" /> </template
-    ></Column>
+    ></Column> -->
     <Column field="tvg_logo" header="TVG-LOGO" autoLayout="true">
       <template #editor="slotProps">
         <InputText
@@ -157,10 +157,20 @@
     </template>
   </Dialog>
 
+  <Dialog
+    v-model:visible="loadingDialog"
+    :style="{ width: '250px' }"
+    header="Loading"
+    :modal="true"
+  >
+    <ProgressSpinner />
+  </Dialog>
+
   <Toast position="bottom-right" />
 </template>
 
 <script>
+import ProgressSpinner from 'primevue/progressspinner'
 import DataTable from 'primevue/datatable'
 import Column from 'primevue/column'
 import InputText from 'primevue/inputtext'
@@ -189,11 +199,10 @@ export default {
     let BulkTvgIdDialog = ref(false)
     const showEditSelected = () => (BulkTvgIdDialog.value = true)
 
-    //const showTvgMatcher = () => ()
-
+    let loadingDialog = ref(false)
     let selectedItemsList = ref([])
     let reOrderedList = ref(props.m3u)
-    let itemsToSavedList = ref([])
+    let itemsToSavedList = []
 
     let downloadButtonLock = ref(true)
     let newTvgId = ref('')
@@ -208,12 +217,15 @@ export default {
     let onRowReorder = e => (reOrderedList.value = e.value)
     let onSelectInput = e => e.target.select()
     let onSave = () => {
-      itemsToSavedList.value = reOrderedList.value
+      loadingDialog.value = true
+      itemsToSavedList = reOrderedList.value.map(item => {
+        return { group_title: item.group_title, name: item.name, tvg_id: item.tvg_id }
+      })
       downloadButtonLock.value = false
       fetch('/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(itemsToSavedList.value)
+        body: JSON.stringify(itemsToSavedList)
       })
         .then(resp => resp.json())
         .then(data => {
@@ -241,6 +253,7 @@ export default {
             life: 3000
           })
         })
+        .finally((loadingDialog.value = false))
     }
 
     const removeSelectedItemsList = () => {
@@ -262,8 +275,8 @@ export default {
       BulkTvgIdDialog.value = false
     }
     const downloadM3u = () => {
-      if (itemsToSavedList.value.length > 0) {
-        ExportM3u(itemsToSavedList.value)
+      if (reOrderedList.value.length > 0) {
+        ExportM3u(reOrderedList.value)
       } else {
         toast.add({
           severity: 'warn',
@@ -290,8 +303,9 @@ export default {
       showEditSelected,
       editBulkItems,
       newTvgId,
-      filters
-      //showTvgMatcher
+      filters,
+      ProgressSpinner,
+      loadingDialog
     }
   },
   components: {
