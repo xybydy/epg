@@ -20,6 +20,15 @@ func GetClient() (*qmgo.QmgoClient, context.Context) {
 	return cli, ctx
 }
 
+func isAlive(cli *qmgo.QmgoClient) bool {
+	err := cli.Ping(3)
+	if err != nil {
+		return false
+	}
+	return true
+
+}
+
 func InsertData(input []byte) error {
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
@@ -27,6 +36,9 @@ func InsertData(input []byte) error {
 		return err
 	}
 
+	if !isAlive(cli) {
+		cli, ctx = GetClient()
+	}
 	_, err = cli.Collection.InsertMany(ctx, data)
 	if err != nil {
 		return err

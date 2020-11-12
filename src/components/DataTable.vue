@@ -182,6 +182,7 @@ import { useToast } from 'primevue/usetoast'
 import Toast from 'primevue/toast'
 
 import { ExportM3u } from '@/utils/m3u.js'
+import { deDupe } from '@/utils'
 import { ref, computed } from 'vue'
 
 export default {
@@ -219,7 +220,8 @@ export default {
     let onSelectInput = e => e.target.select()
     let onSave = () => {
       loadingDialog.value = true
-      itemsToSavedList = reOrderedList.value.map(item => {
+
+      itemsToSavedList = deDupe(reOrderedList.value).map(item => {
         return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
@@ -234,7 +236,7 @@ export default {
             toast.add({
               severity: 'success',
               summary: 'Success',
-              detail: data,
+              detail: data.message,
               life: 3000
             })
           } else {
