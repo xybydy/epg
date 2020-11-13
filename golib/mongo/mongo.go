@@ -48,7 +48,7 @@ func InsertData(input []byte) error {
 		la = append(la, td)
 	}
 
-	fmt.Println("qweeeeqeqeq", la)
+	fmt.Println("qweeeeqeqeq", data)
 
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
