@@ -19,6 +19,7 @@ func GetClient() (*mongo.Client, context.Context) {
 	ctx := context.Background()
 	cli, err := mongo.Connect(ctx, options.Client().ApplyURI(url))
 	if err != nil {
+		fmt.Println(err)
 		return nil, nil
 	}
 	return cli, ctx
@@ -37,6 +38,7 @@ func InsertData(input []byte) error {
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
 	if err != nil {
+		fmt.Println(err)
 		return err
 	}
 
@@ -44,8 +46,9 @@ func InsertData(input []byte) error {
 
 	for _, td := range data {
 		la = append(la, td)
-
 	}
+
+	fmt.Println(la)
 
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
@@ -56,6 +59,7 @@ func InsertData(input []byte) error {
 	col := cli.Database("epg").Collection("tvs")
 	col.InsertMany(ctx, la, opts)
 	if err != nil {
+		fmt.Println(err)
 		return err
 	}
 	return nil
