@@ -41,14 +41,14 @@ func InsertData(input []byte) error {
 		fmt.Println("fffff", err)
 		return err
 	}
+	fmt.Println("qweeeeqeqeq", data)
+	fmt.Println("leee", input)
 
 	var la []interface{}
 
 	for _, td := range data {
 		la = append(la, td)
 	}
-
-	fmt.Println("qweeeeqeqeq", data)
 
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
