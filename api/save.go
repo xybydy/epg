@@ -38,6 +38,7 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		err = mongo.InsertData(res)
+		fmt.Println("LOOOO", res)
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
