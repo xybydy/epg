@@ -5,7 +5,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/qiniu/qmgo"
+	"go.mongodb.org/mongo-driver/mongo"
+	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
 const DbName = "epg"
@@ -13,20 +14,23 @@ const MongoPass = "1ZaaVagptA9N9gJW"
 
 var cli, ctx = GetClient()
 
-func GetClient() (*qmgo.QmgoClient, context.Context) {
-	var ctx = context.Background()
+func GetClient() (*mongo.Client, context.Context) {
 	url := fmt.Sprintf(`mongodb+srv://f:%s@epg.spxgj.mongodb.net`, MongoPass)
-	cli, _ := qmgo.Open(ctx, &qmgo.Config{Uri: url, Coll: "tvs", Database: DbName})
+	ctx := context.Background()
+	cli, err := mongo.Connect(ctx, options.Client().ApplyURI(url))
+	if err != nil {
+		return nil, nil
+	}
 	return cli, ctx
 }
 
-func isAlive(cli *qmgo.QmgoClient) bool {
-	err := cli.Ping(3)
+func isAlive(cli *mongo.Client) bool {
+	err := cli.Ping(context.TODO(), nil)
+
 	if err != nil {
 		return false
 	}
 	return true
-
 }
 
 func InsertData(input []byte) error {
@@ -36,10 +40,21 @@ func InsertData(input []byte) error {
 		return err
 	}
 
+	var la []interface{}
+
+	for _, td := range data {
+		la = append(la, td)
+
+	}
+
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
 	}
-	_, err = cli.Collection.InsertMany(ctx, data)
+
+	opts := options.InsertMany().SetOrdered(false)
+
+	col := cli.Database("epg").Collection("tvs")
+	col.InsertMany(ctx, la, opts)
 	if err != nil {
 		return err
 	}
