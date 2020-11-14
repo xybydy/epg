@@ -225,7 +225,7 @@ export default {
         return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
-      fetch('/api/save', {
+      fetch('http://localhost:8000/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList)

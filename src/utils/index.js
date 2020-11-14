@@ -1,3 +1,11 @@
 export function deDupe(arr) {
-  return arr.filter((v, i, a) => a.findIndex(t => t.chan_name === v.chan_name) === i)
+  const unique = []
+  const flags = {}
+  arr.forEach(e => {
+    if (!flags[e.name]) {
+      flags[e.name] = true
+      unique.push(e)
+    }
+  })
+  return unique
 }

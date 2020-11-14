@@ -17,19 +17,12 @@ type apiResponse struct {
 func Save(w http.ResponseWriter, r *http.Request) {
 	response := new(apiResponse)
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
+	// w.Header().Set("Access-Control-Allow-Origin", "*")
+	// w.Header().Set("Access-Control-Allow-Headers", "Content-Type")
 
 	if r.Method == http.MethodPost {
-		body, err := r.GetBody()
-		if err != nil {
-			mes := []byte(err.Error())
-			response.StatusCode = http.StatusInternalServerError
-			response.Message = string(mes)
-			json.NewEncoder(w).Encode(response)
-			fmt.Println("1", response)
-			return
-		}
-		res, err := ioutil.ReadAll(body)
-		body.Close()
+		res, err := ioutil.ReadAll(r.Body)
+		r.Body.Close()
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
@@ -38,7 +31,6 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 		err = mongo.InsertData(res)
-		fmt.Println("LOOOO", res)
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
@@ -52,6 +44,7 @@ func Save(w http.ResponseWriter, r *http.Request) {
 		json.NewEncoder(w).Encode(response)
 
 	} else {
+		fmt.Println(r.Method)
 		response = &apiResponse{StatusCode: http.StatusBadRequest, Message: "Bad Request"}
 		json.NewEncoder(w).Encode(response)
 	}
