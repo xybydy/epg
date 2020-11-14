@@ -1,4 +1,4 @@
-// package main
+package main
 
 // import (
 // 	"fmt"
@@ -16,3 +16,7 @@
 // 	r.HandleFunc("/api/save", api.Save)
 // 	fmt.Println(http.ListenAndServe(":8000", r))
 // }
+
+func main() {
+	return
+}
