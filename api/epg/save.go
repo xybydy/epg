@@ -1,8 +1,7 @@
-package api
+package epg
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
 	"net/http"
 
@@ -10,11 +9,12 @@ import (
 )
 
 type apiResponse struct {
-	StatusCode int    `json:"status_code"`
-	Message    string `json:"message"`
+	StatusCode int                  `json:"status_code"`
+	Message    string               `json:"message"`
+	Data       mongo.ChannelMatches `json:"data"`
 }
 
-func Save(w http.ResponseWriter, r *http.Request) {
+func SaveEPG(w http.ResponseWriter, r *http.Request) {
 	response := new(apiResponse)
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 	// w.Header().Set("Access-Control-Allow-Origin", "*")
@@ -36,7 +36,6 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			response.StatusCode = http.StatusInternalServerError
 			response.Message = string(mes)
 			json.NewEncoder(w).Encode(response)
-			fmt.Println("3", string(mes))
 			return
 		}
 
@@ -44,7 +43,6 @@ func Save(w http.ResponseWriter, r *http.Request) {
 		json.NewEncoder(w).Encode(response)
 
 	} else {
-		fmt.Println(r.Method)
 		response = &apiResponse{StatusCode: http.StatusBadRequest, Message: "Bad Request"}
 		json.NewEncoder(w).Encode(response)
 	}

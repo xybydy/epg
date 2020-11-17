@@ -4,5 +4,6 @@
     "go.lintFlags": [
         "-config=${workspaceFolder}/revive.toml"
     ],
-    "npm-scripts.showStartNotification": false
+    "npm-scripts.showStartNotification": false,
+    "vue3snippets.enable-compile-vue-file-on-did-save-code": true
 }

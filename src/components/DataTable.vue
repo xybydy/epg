@@ -23,12 +23,12 @@
         @click="showEditSelected"
         :disabled="!selectedItemsList || !selectedItemsList.length"
       />
-      <Button
+      <!-- <Button
         label="TVG-ID Getir"
         icon="pi pi-cloud-download"
         class="p-button-danger"
         @click="TvgMatcherDialog"
-      />
+      /> -->
     </template>
 
     <template v-slot:right>
@@ -184,14 +184,13 @@ import Toast from 'primevue/toast'
 import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 import { ref, computed } from 'vue'
+import MainStore from '@/store/MainStore'
 
 export default {
-  props: {
-    m3u: Object
-  },
-
-  setup(props) {
+  setup() {
     const toast = useToast()
+
+    const { GetM3uData } = MainStore()
 
     let filters = ref({})
 
@@ -203,7 +202,7 @@ export default {
 
     let loadingDialog = ref(false)
     let selectedItemsList = ref([])
-    let reOrderedList = ref(props.m3u)
+    let reOrderedList = ref(GetM3uData.value)
     let itemsToSavedList = []
 
     let downloadButtonLock = ref(true)
@@ -225,7 +224,7 @@ export default {
         return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
-      fetch('/api/save', {
+      fetch('/api/epg/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList)

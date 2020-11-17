@@ -1,5 +1,12 @@
+body{
+  height: 100%;
+  width: 100%;
+}
 td {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
+}
+#app{
+  height:100%
 }

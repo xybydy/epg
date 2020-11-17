@@ -1,22 +1,31 @@
 package main
 
-// import (
-// 	"fmt"
-// 	"net/http"
+import (
+	// 	"fmt"
+	"net/http"
 
-// 	// "github.com/gorilla/mux"
-// 	"github.com/xybydy/epg/api"
-// )
+	"fmt"
 
-// const DbName = "epg"
-// const MongoPass = "1ZaaVagptA9N9gJW"
+	"github.com/gorilla/mux"
+	api "github.com/xybydy/epg/api/epg"
+)
 
-// func main() {
-// 	r := mux.NewRouter()
-// 	r.HandleFunc("/api/save", api.Save)
-// 	fmt.Println(http.ListenAndServe(":8000", r))
-// }
+const DbName = "epg"
+const MongoPass = "1ZaaVagptA9N9gJW"
 
 func main() {
-	return
+	r := mux.NewRouter()
+	r.HandleFunc("/api/epg/save", api.SaveEPG)
+	r.HandleFunc("/api/epg/get", api.GetEPG)
+	fmt.Println(http.ListenAndServe(":8000", r))
 }
+
+// func main() {
+// 	// eh := &ChannelMatches{}
+// 	a, err := mongo.GetData(bson.D{{}})
+// 	if err != nil {
+// 		fmt.Println("qq", err)
+// 	}
+// 	fmt.Println(a[0].ChanName)
+// 	// bson.UnmarshalJSON()
+// }

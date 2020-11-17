@@ -3,9 +3,19 @@ import { createRouter, createWebHistory } from 'vue-router'
 const routes = [
   {
     path: '/',
-    name: 'Index',
+    name: 'index',
+    component: () => import(/* webpackChunkName: "index" */ '../views/Index.vue')
+  },
+  {
+    path: '/epg',
+    name: 'userEpgView',
+    component: () => import(/* webpackChunkName: "userEpgView" */ '../views/UserEPGView.vue')
+  },
+  {
+    path: '/admin',
+    name: 'adminEPGEditView',
     component: () =>
-      import(/* webpackChunkName: "index" */ '../views/Index.vue')
+      import(/* webpackChunkName: "adminEPGEditView" */ '../views/AdminEPGEditView.vue')
   }
 ]
 

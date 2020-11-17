@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -19,7 +20,6 @@ func GetClient() (*mongo.Client, context.Context) {
 	ctx := context.Background()
 	cli, err := mongo.Connect(ctx, options.Client().ApplyURI(url))
 	if err != nil {
-		fmt.Println("leee", err)
 		return nil, nil
 	}
 	return cli, ctx
@@ -34,15 +34,26 @@ func isAlive(cli *mongo.Client) bool {
 	return true
 }
 
+func GetData(filter interface{}) (ChannelMatches, error) {
+	col := cli.Database("epg").Collection("tvs")
+	cur, err := col.Find(ctx, filter, options.Find().SetSort(bson.D{{"chan_name", -1}}))
+	if err != nil {
+		return nil, err
+	}
+	var results ChannelMatches
+	if err = cur.All(context.TODO(), &results); err != nil {
+		return nil, err
+	}
+	return results, nil
+
+}
+
 func InsertData(input []byte) error {
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
 	if err != nil {
-		fmt.Println("fffff", err)
 		return err
 	}
-	fmt.Println("qweeeeqeqeq", data)
-	fmt.Println("leee", input)
 
 	var la []interface{}
 
@@ -59,7 +70,6 @@ func InsertData(input []byte) error {
 	col := cli.Database("epg").Collection("tvs")
 	col.InsertMany(ctx, la, opts)
 	if err != nil {
-		fmt.Println("laaa", err)
 		return err
 	}
 	return nil
