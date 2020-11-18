@@ -2,7 +2,7 @@ import { reactive, computed } from 'vue'
 
 const state = reactive({
   m3uData: [],
-  m3uDataLength: 0
+  m3uDataLength: 0,
 })
 
 export default function MainStore() {
@@ -24,6 +24,6 @@ export default function MainStore() {
   return {
     GetM3uData,
     GetM3uDataLength,
-    AddM3uData
+    AddM3uData,
   }
 }

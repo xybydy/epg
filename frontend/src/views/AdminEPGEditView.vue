@@ -1,25 +1,25 @@
 <template>
-  <DataTable></DataTable>
+  <DataTable />
 </template>
 
 <script>
 import DataTable from '@/components/DataTable.vue'
 export default {
+  components: {
+    DataTable,
+  },
   setup() {
     fetch('http://localhost:8000/api/epg/get', {
       method: 'GET',
-      headers: { 'Content-Type': 'application/json' }
+      headers: { 'Content-Type': 'application/json' },
     })
-      .then(resp => resp.json())
-      .then(data => {
+      .then((resp) => resp.json())
+      .then((data) => {
         if (data.status_code == 200) {
           console.log(data)
         }
       })
   },
-  components: {
-    DataTable
-  }
 }
 </script>
 

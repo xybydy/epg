@@ -1,5 +1,5 @@
 <template>
-  <DataTable v-if="GetM3uDataLength > 0"></DataTable>
+  <DataTable v-if="GetM3uDataLength > 0" />
 </template>
 
 <script>
@@ -9,6 +9,9 @@ import { useRouter } from 'vue-router'
 import { onBeforeMount } from 'vue'
 
 export default {
+  components: {
+    DataTable,
+  },
   setup() {
     let router = useRouter()
     const { GetM3uDataLength } = MainStore()
@@ -20,8 +23,5 @@ export default {
     })
     return { GetM3uDataLength }
   },
-  components: {
-    DataTable
-  }
 }
 </script>
