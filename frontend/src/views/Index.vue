@@ -30,8 +30,8 @@ export default {
     const router = useRouter()
     const { AddM3uData } = MainStore()
 
-    const upload = async (e) => {
-      e.files[0].text().then((f) => {
+    const upload = async (value) => {
+      value.files[0].text().then((f) => {
         AddM3uData(SanitizeM3u(parse(f).items))
         router.push({ name: 'userEpgView' })
       })

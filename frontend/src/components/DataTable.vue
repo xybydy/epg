@@ -1,48 +1,5 @@
 <template>
-  <Toolbar class="p-mb-4">
-    <template #left>
-      <FileUpload
-        mode="basic"
-        label="Ekle"
-        :max-file-size="26214400"
-        :file-limit="1"
-        choose-label="Ekle"
-        class="p-mr-2"
-      />
-      <Button
-        :label="removeLabel"
-        icon="pi pi-trash"
-        class="p-button-danger p-mr-2"
-        :disabled="!selectedItemsList || !selectedItemsList.length"
-        @click="showRemoveSelected"
-      />
-      <Button
-        label="Toplu TVG-ID Düzenle"
-        icon="pi pi-file"
-        class="p-button-danger p-mr-2"
-        :disabled="!selectedItemsList || !selectedItemsList.length"
-        @click="showEditSelected"
-      />
-      <!-- <Button
-        label="TVG-ID Getir"
-        icon="pi pi-cloud-download"
-        class="p-button-danger"
-        @click="TvgMatcherDialog"
-      /> -->
-    </template>
-
-    <template #right>
-      <Button label="Kaydet" icon="pi pi-save" class="p-button-help p-mr-2" @click="onSave" />
-      <Button
-        :disabled="downloadButtonLock"
-        label="İndir"
-        icon="pi pi-download"
-        class="p-button-help"
-        @click="downloadM3u"
-      />
-    </template>
-  </Toolbar>
-
+  <ToolBar></ToolBar>
   <DataTable
     v-model:selection="selectedItemsList"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
@@ -175,12 +132,11 @@ import ProgressSpinner from 'primevue/progressspinner'
 import DataTable from 'primevue/datatable'
 import Column from 'primevue/column'
 import InputText from 'primevue/inputtext'
-import Toolbar from 'primevue/toolbar'
-import FileUpload from 'primevue/fileupload'
 import Dialog from 'primevue/dialog'
 import { useToast } from 'primevue/usetoast'
 import Toast from 'primevue/toast'
 
+import ToolBar from '@/components/ToolBar.vue'
 import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 import { ref, computed } from 'vue'
@@ -191,9 +147,8 @@ export default {
     DataTable,
     Column,
     InputText,
-    Toolbar,
+    ToolBar,
     Dialog,
-    FileUpload,
     Toast,
   },
   setup() {
@@ -217,15 +172,13 @@ export default {
     let downloadButtonLock = ref(true)
     let newTvgId = ref('')
     let removeLabel = computed(() => {
-      if (selectedItemsList.value.length < 1) {
-        return 'Sil'
-      } else {
-        return `Sil (${selectedItemsList.value.length})`
-      }
+      return selectedItemsList.value.length === 0
+        ? 'Sil'
+        : `Sil (${selectedItemsList.value.length})`
     })
 
-    let onRowReorder = (e) => (reOrderedList.value = e.value)
-    let onSelectInput = (e) => e.target.select()
+    let onSelectInput = (value) => value.target.select()
+    let onRowReorder = (value) => (reOrderedList.value = value.value)
     let onSave = () => {
       loadingDialog.value = true
 
@@ -260,11 +213,11 @@ export default {
             })
           }
         })
-        .catch((data) => {
+        .catch((error) => {
           toast.add({
             severity: 'error',
             summary: 'Error',
-            detail: data,
+            detail: error,
             life: 3000,
           })
         })
@@ -273,16 +226,16 @@ export default {
 
     const removeSelectedItemsList = () => {
       reOrderedList.value = reOrderedList.value.filter(
-        (val) => !selectedItemsList.value.includes(val)
+        (value) => !selectedItemsList.value.includes(value)
       )
       renameItemsDialog.value = false
       selectedItemsList.value = []
     }
     const editBulkItems = () => {
       for (let item of selectedItemsList.value) {
-        for (let i = 0; i < reOrderedList.value.length; i++) {
-          if (reOrderedList.value[i].id === item.id) {
-            reOrderedList.value[i].tvg_id = newTvgId.value
+        for (let index = 0; index < reOrderedList.value.length; index++) {
+          if (reOrderedList.value[index].id === item.id) {
+            reOrderedList.value[index].tvg_id = newTvgId.value
             break
           }
         }

@@ -9,13 +9,13 @@ const routes = [
   {
     path: '/epg',
     name: 'userEpgView',
-    component: () => import(/* webpackChunkName: "userEpgView" */ '../views/UserEPGView.vue'),
+    component: () => import(/* webpackChunkName: "userEpgView" */ '../views/UserEpgView.vue'),
   },
   {
     path: '/admin',
-    name: 'adminEPGEditView',
+    name: 'adminEpgEditView',
     component: () =>
-      import(/* webpackChunkName: "adminEPGEditView" */ '../views/AdminEPGEditView.vue'),
+      import(/* webpackChunkName: "adminEPGEditView" */ '../views/AdminEpgEditView.vue'),
   },
 ]
 

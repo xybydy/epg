@@ -1,10 +1,10 @@
-export function deDupe(arr) {
+export function deDupe(array) {
   const unique = []
   const flags = {}
-  arr.forEach((e) => {
-    if (!flags[e.name]) {
-      flags[e.name] = true
-      unique.push(e)
+  array.forEach((value) => {
+    if (!flags[value.name]) {
+      flags[value.name] = true
+      unique.push(value)
     }
   })
   return unique
