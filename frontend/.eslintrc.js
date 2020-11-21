@@ -33,11 +33,8 @@ module.exports = {
       },
     ],
     'unicorn/consistent-function-scoping': 'off',
-<<<<<<< HEAD
-=======
     'unicorn/prevent-abbreviations':'off',
     'unicorn/no-null':'off'
->>>>>>> q
     // 'vue/no-v-model-argument': 1
   },
 }

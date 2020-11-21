@@ -15,7 +15,7 @@ export function SanitizeM3u(m3uFile) {
       tvg_url: item.tvg.url,
       group_title: item.group.title,
       http_referrer: item.http.referrer,
-      http_user_agent: item.http['user-agent'],
+      http_user_agent: item.http['user-agent']
     })
   }
   return outPut
