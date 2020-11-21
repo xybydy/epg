@@ -29,3 +29,7 @@ func main() {
 // 	fmt.Println(a[0].ChanName)
 // 	// bson.UnmarshalJSON()
 // }
+
+func main() {
+	return
+}
