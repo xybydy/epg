@@ -4,8 +4,17 @@ const routes = [
   {
     path: '/',
     name: 'Index',
-    component: () =>
-      import(/* webpackChunkName: "index" */ '../views/Index.vue')
+    component: () => import(/* webpackChunkName: "index" */ '../views/Index.vue')
+  },
+  {
+    path: '/epg/view',
+    name: 'EpgUserView',
+    component: () => import(/* webpackChunkName: "epgUserView" */ '../views/EpgUserView.vue')
+  },
+  {
+    path: '/epg/update',
+    name: 'EpgUpdateView',
+    component: () => import(/* webpackChunkName: "epgUpdateView" */ '../views/EpgUpdateView.vue')
   }
 ]
 

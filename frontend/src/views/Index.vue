@@ -1,53 +1,20 @@
 <template>
-  <div class="p-d-flex p-flex-column p-mt-3">
-    <FileUpload
-      v-if="!m3uData.isLoaded"
-      name="upload"
-      url="/"
-      ref="uploadButton"
-      mode="basic"
-      :auto="true"
-      :maxFileSize="26214400"
-      :fileLimit="1"
-      :customUpload="true"
-      @uploader="upload"
-      class="p-mb-4"
-    />
-    <DataTable v-if="m3uData.isLoaded" :m3u="m3uData.m3uList"></DataTable>
-  </div>
+  <EpgUploader @m3uLoaded="onM3uLoaded"></EpgUploader>
 </template>
 
 <script>
-import { ref, reactive } from 'vue'
-
-import FileUpload from 'primevue/fileupload'
-
-import { parse } from 'iptv-playlist-parser'
-import { SanitizeM3u } from '@/utils/m3u.js'
-
-import DataTable from '../components/DataTable.vue'
+import { useRouter } from 'vue-router'
+import EpgUploader from '@/components/EpgUploader'
 
 export default {
   name: 'Index',
-  setup() {
-    let m3uData = reactive({
-      m3uList: [],
-      isLoaded: false
-    })
-    const uploadButton = ref(null)
-
-    const upload = async e => {
-      e.files[0].text().then(f => {
-        m3uData.m3uList = SanitizeM3u(parse(f).items)
-        m3uData.isLoaded = true
-      })
-      uploadButton.value.clear()
-    }
-    return { upload, uploadButton, m3uData }
-  },
   components: {
-    FileUpload,
-    DataTable
+    EpgUploader
+  },
+  setup() {
+    const router = useRouter()
+    let onM3uLoaded = () => router.push('/epg/view')
+    return { EpgUploader, onM3uLoaded }
   }
 }
 </script>

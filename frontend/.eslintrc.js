@@ -2,7 +2,7 @@ module.exports = {
   root: true,
   env: {
     node: true,
-    es6: true,
+    es6: true
   },
   extends: [
     'eslint:recommended',
@@ -16,10 +16,10 @@ module.exports = {
     'prettier/standard',
     'plugin:prettier/recommended',
     '@vue/prettier',
-    'plugin:unicorn/recommended',
+    'plugin:unicorn/recommended'
   ],
   parserOptions: {
-    parser: 'babel-eslint',
+    parser: 'babel-eslint'
   },
   rules: {
     'no-console': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
@@ -29,12 +29,14 @@ module.exports = {
       'warn',
       {
         case: 'pascalCase',
-        ignore: ['.*.js', 'babel.config.js'],
-      },
+        ignore: ['.*.js', 'babel.config.js']
+      }
     ],
     'unicorn/consistent-function-scoping': 'off',
     'unicorn/prevent-abbreviations': 'off',
     'unicorn/no-null': 'off',
+    'vue/attribute-hyphenation':'off'
+
     // 'vue/no-v-model-argument': 1
-  },
+  }
 }
