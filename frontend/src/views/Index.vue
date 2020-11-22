@@ -2,16 +2,16 @@
   <div class="p-d-flex p-flex-column p-mt-3">
     <FileUpload
       v-if="!m3uData.isLoaded"
-      ref="uploadButton"
       name="upload"
       url="/"
+      ref="uploadButton"
       mode="basic"
       :auto="true"
-      :max-file-size="26214400"
-      :file-limit="1"
-      :custom-upload="true"
-      class="p-mb-4"
+      :maxFileSize="26214400"
+      :fileLimit="1"
+      :customUpload="true"
       @uploader="upload"
+      class="p-mb-4"
     />
     <DataTable v-if="m3uData.isLoaded" :m3u="m3uData.m3uList"></DataTable>
   </div>
@@ -29,10 +29,6 @@ import DataTable from '../components/DataTable.vue'
 
 export default {
   name: 'Index',
-  components: {
-    FileUpload,
-    DataTable
-  },
   setup() {
     let m3uData = reactive({
       m3uList: [],
@@ -48,6 +44,10 @@ export default {
       uploadButton.value.clear()
     }
     return { upload, uploadButton, m3uData }
+  },
+  components: {
+    FileUpload,
+    DataTable
   }
 }
 </script>

@@ -1,27 +1,27 @@
 <template>
   <Toolbar class="p-mb-4">
-    <template #left>
+    <template v-slot:left>
       <FileUpload
         mode="basic"
         label="Ekle"
-        :max-file-size="26214400"
-        :file-limit="1"
-        choose-label="Ekle"
+        :maxFileSize="26214400"
+        :fileLimit="1"
+        chooseLabel="Ekle"
         class="p-mr-2"
       />
       <Button
         :label="removeLabel"
         icon="pi pi-trash"
         class="p-button-danger p-mr-2"
-        :disabled="!selectedItemsList || !selectedItemsList.length"
         @click="showRemoveSelected"
+        :disabled="!selectedItemsList || !selectedItemsList.length"
       />
       <Button
         label="Toplu TVG-ID Düzenle"
         icon="pi pi-file"
         class="p-button-danger p-mr-2"
-        :disabled="!selectedItemsList || !selectedItemsList.length"
         @click="showEditSelected"
+        :disabled="!selectedItemsList || !selectedItemsList.length"
       />
       <Button
         label="TVG-ID Getir"
@@ -31,7 +31,7 @@
       />
     </template>
 
-    <template #right>
+    <template v-slot:right>
       <Button label="Kaydet" icon="pi pi-save" class="p-button-help p-mr-2" @click="onSave" />
       <Button
         :disabled="downloadButtonLock"
@@ -44,47 +44,47 @@
   </Toolbar>
 
   <DataTable
-    v-model:selection="selectedItemsList"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
-    edit-mode="cell"
+    editMode="cell"
     :filters="filters"
-    data-key="id"
-    paginator-template="CurrentPageReport FirstPageLink PrevPageLink PageLinks NextPageLink LastPageLink RowsPerPageDropdown"
+    dataKey="id"
+    v-model:selection="selectedItemsList"
+    paginatorTemplate="CurrentPageReport FirstPageLink PrevPageLink PageLinks NextPageLink LastPageLink RowsPerPageDropdown"
     :value="reOrderedList"
     :paginator="true"
-    :rows-per-page-options="[25, 50, 100, 250]"
+    :rowsPerPageOptions="[25, 50, 100, 250]"
     :rows="25"
-    current-page-report-template="Showing {first} to {last} of {totalRecords}"
+    currentPageReportTemplate="Showing {first} to {last} of {totalRecords}"
     @row-reorder="onRowReorder"
   >
-    <Column :row-reorder="true" header-style="width: 3rem" :reorderable-column="false" />
+    <Column :rowReorder="true" headerStyle="width: 3rem" :reorderableColumn="false" />
 
-    <Column selection-mode="multiple" header-style="width: 3em"></Column>
+    <Column selectionMode="multiple" headerStyle="width: 3em"></Column>
 
-    <Column field="name" header="NAME" auto-layout="true">
+    <Column field="name" header="NAME" autoLayout="true">
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
       <template #filter>
-        <InputText v-model="filters.name" type="text" placeholder="İsim ara" />
+        <InputText type="text" v-model="filters.name" placeholder="İsim ara" />
       </template>
     </Column>
-    <Column field="group_title" header="GROUP" auto-layout="true">
+    <Column field="group_title" header="GROUP" autoLayout="true">
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
       <template #filter>
-        <InputText v-model="filters.group_title" type="text" placeholder="Group ara" />
+        <InputText type="text" v-model="filters.group_title" placeholder="Group ara" />
       </template>
     </Column>
-    <Column field="tvg_id" header="TVG-ID" auto-layout="true">
+    <Column field="tvg_id" header="TVG-ID" autoLayout="true">
       <template #editor="slotProps">
         <InputText
           v-model="slotProps.data[slotProps.column.props.field]"
           @focus="onSelectInput"
         /> </template
       ><template #filter>
-        <InputText v-model="filters.tvg_id" type="text" placeholder="TVG-ID ara" /> </template
+        <InputText type="text" v-model="filters.tvg_id" placeholder="TVG-ID ara" /> </template
     ></Column>
     <!-- <Column field="tvg_name" header="TVG-NAME" autoLayout="true">
       <template #editor="slotProps">
@@ -95,14 +95,14 @@
       ><template #filter>
         <InputText type="text" v-model="filters.tvg_name" placeholder="TVG-NAME ara" /> </template
     ></Column> -->
-    <Column field="tvg_logo" header="TVG-LOGO" auto-layout="true">
+    <Column field="tvg_logo" header="TVG-LOGO" autoLayout="true">
       <template #editor="slotProps">
         <InputText
           v-model="slotProps.data[slotProps.column.props.field]"
           @focus="onSelectInput"
         /> </template
     ></Column>
-    <Column field="url" header="URL" auto-layout="true">
+    <Column field="url" header="URL" autoLayout="true">
       <template #editor="slotProps">
         <InputText
           v-model="slotProps.data[slotProps.column.props.field]"
@@ -144,7 +144,7 @@
     :modal="true"
   >
     <div class="p-input-filled p-p-2">
-      <span>Yeni TVG-ID: </span> <InputText v-model="newTvgId" autofocus />
+      <span>Yeni TVG-ID: </span> <InputText autofocus v-model="newTvgId" />
     </div>
     <template #footer>
       <Button
@@ -184,23 +184,10 @@ import Toast from 'primevue/toast'
 import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 import { ref, computed } from 'vue'
-import { root_path } from '@/router/urls'
 
 export default {
-  components: {
-    DataTable,
-    Column,
-    InputText,
-    Toolbar,
-    Dialog,
-    FileUpload,
-    Toast
-  },
   props: {
-    m3u: {
-      type: Object,
-      required: true
-    }
+    m3u: Object
   },
 
   setup(props) {
@@ -222,9 +209,11 @@ export default {
     let downloadButtonLock = ref(true)
     let newTvgId = ref('')
     let removeLabel = computed(() => {
-      return selectedItemsList.value.length === 0
-        ? 'Sil'
-        : `Sil (${selectedItemsList.value.length})`
+      if (selectedItemsList.value.length < 1) {
+        return 'Sil'
+      } else {
+        return `Sil (${selectedItemsList.value.length})`
+      }
     })
 
     let onRowReorder = e => (reOrderedList.value = e.value)
@@ -236,7 +225,7 @@ export default {
         return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
-      fetch(root_path + '/api/save', {
+      fetch('/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList)
@@ -259,11 +248,11 @@ export default {
             })
           }
         })
-        .catch(error => {
+        .catch(data => {
           toast.add({
             severity: 'error',
             summary: 'Error',
-            detail: error,
+            detail: data,
             life: 3000
           })
         })
@@ -321,6 +310,15 @@ export default {
       ProgressSpinner,
       loadingDialog
     }
+  },
+  components: {
+    DataTable,
+    Column,
+    InputText,
+    Toolbar,
+    Dialog,
+    FileUpload,
+    Toast
   }
 }
 </script>

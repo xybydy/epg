@@ -1,8 +1,8 @@
 {
     "go.useLanguageServer": true,
-    // "go.lintTool": "revive",
-    // "go.lintFlags": [
-    //     "-config=${workspaceFolder}/revive.toml"
-    // ],
-    // "vue3snippets.enable-compile-vue-file-on-did-save-code": false
+    "go.lintTool": "revive",
+    "go.lintFlags": [
+        "-config=${workspaceFolder}/revive.toml"
+    ],
+    "npm-scripts.showStartNotification": false
 }
