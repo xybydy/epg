@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
@@ -41,8 +42,6 @@ func InsertData(input []byte) error {
 		fmt.Println("fffff", err)
 		return err
 	}
-	fmt.Println("qweeeeqeqeq", data)
-	fmt.Println("leee", input)
 
 	var la []interface{}
 
@@ -61,6 +60,49 @@ func InsertData(input []byte) error {
 	if err != nil {
 		fmt.Println("laaa", err)
 		return err
+	}
+	return nil
+}
+
+func GetData() (ChannelMatches, error) {
+	data := ChannelMatches{}
+
+	if !isAlive(cli) {
+		cli, ctx = GetClient()
+	}
+
+	opts := options.Find()
+	col := cli.Database("epg").Collection("tvs")
+
+	cur, err := col.Find(ctx, bson.D{}, opts)
+	if err != nil {
+		fmt.Println("hooooo ", err)
+	}
+
+	cur.All(context.TODO(), &data)
+	return data, nil
+}
+
+func UpdateData(input []byte) error {
+	if !isAlive(cli) {
+		cli, ctx = GetClient()
+	}
+
+	col := cli.Database("epg").Collection("tvs")
+	data := ChannelMatches{}
+	err := json.Unmarshal(input, &data)
+	if err != nil {
+		return err
+	}
+
+	for _, i := range data {
+		filter := bson.D{{"chan_name", i.ChanName}}
+		update := bson.D{{"$set", bson.M{"group_title": i.GroupTitle, "tvg_id": i.TvgID}}}
+		_, err := col.UpdateOne(ctx, filter, update)
+		if err != nil {
+			fmt.Println("laaa", err)
+			return err
+		}
 	}
 	return nil
 }

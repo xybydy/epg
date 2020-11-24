@@ -16,12 +16,12 @@
         :disabled="!selectedItemsList || !selectedItemsList.length"
         @click="showEditSelected"
       />
-      <Button
+      <!--<Button
         label="TVG-ID Getir"
         icon="pi pi-cloud-download"
         class="p-button-danger"
         @click="TvgMatcherDialog"
-      />
+      />-->
     </template>
 
     <template #right>
@@ -33,7 +33,7 @@
         @click="onSave"
       />
       <Button
-        v-if="!updateOrNew"
+        v-else
         label="Guncelle"
         icon="pi pi-save"
         class="p-button-help p-mr-2"
@@ -50,11 +50,12 @@
   </Toolbar>
 
   <DataTable
+    v-if="!loadingDialog"
     v-model:selection="selectedItemsList"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
     editMode="cell"
     :filters="filters"
-    dataKey="id"
+    dataKey="_id"
     paginatorTemplate="CurrentPageReport FirstPageLink PrevPageLink PageLinks NextPageLink LastPageLink RowsPerPageDropdown"
     :value="reOrderedList"
     :paginator="true"
@@ -62,17 +63,18 @@
     :rows="25"
     currentPageReportTemplate="Showing {first} to {last} of {totalRecords}"
     @row-reorder="onRowReorder"
+    @cell-edit-complete="onCellComplete"
   >
     <Column :rowReorder="true" headerStyle="width: 3rem" :reorderableColumn="false" />
 
     <Column selectionMode="multiple" headerStyle="width: 3em"></Column>
 
-    <Column field="name" header="NAME" autoLayout="true">
+    <Column field="chan_name" header="NAME" autoLayout="true">
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
       <template #filter>
-        <InputText v-model="filters.name" type="text" placeholder="İsim ara" />
+        <InputText v-model="filters.chan_name" type="text" placeholder="İsim ara" />
       </template>
     </Column>
     <Column field="group_title" header="GROUP" autoLayout="true">
@@ -168,7 +170,7 @@
     :style="{ width: '200px' }"
     :modal="true"
     :closable="false"
-    header="Saving"
+    header="Please Wait"
   >
     <ProgressSpinner style="display:flex" />
   </Dialog>
@@ -192,6 +194,15 @@ import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 
 import EpgUploader from '@/components/EpgUploader'
+
+import { root_path } from '@/router/url'
+
+const pushItems = (toArray, fromArray) => {
+  for (let item of fromArray.value) {
+    let pushItem = { [item._id]: item }
+    Object.assign(toArray, pushItem)
+  }
+}
 
 export default {
   components: {
@@ -225,7 +236,7 @@ export default {
     let BulkTvgIdDialog = ref(false)
     const showEditSelected = () => (BulkTvgIdDialog.value = true)
 
-    let loadingDialog = ref(false)
+    let loadingDialog = props.m3u.length === 0 ? ref(true) : ref(false)
     let selectedItemsList = ref([])
     let reOrderedList = ref(props.m3u)
     let itemsToSavedList = []
@@ -239,16 +250,20 @@ export default {
         : `Sil (${selectedItemsList.value.length})`
     })
 
+    let changedItems = {}
+
+    let onCellComplete = e => Object.assign(changedItems, { [e.data._id]: e.data })
+
     let onRowReorder = e => (reOrderedList.value = e.value)
     let onSelectInput = e => e.target.select()
     let onSave = () => {
       loadingDialog.value = true
 
       itemsToSavedList = deDupe(reOrderedList.value).map(item => {
-        return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
+        return { group_title: item.group_title, chan_name: item.chan_name, tvg_id: item.tvg_id }
       })
       downloadButtonLock.value = false
-      fetch('/api/save', {
+      fetch(root_path + '/api/save', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList)
@@ -279,17 +294,21 @@ export default {
             life: 3000
           })
         })
-        .finally(() => (loadingDialog.value = false))
+        .finally(() => {
+          selectedItemsList.value = []
+          loadingDialog.value = false
+        })
     }
 
     let onUpdate = () => {
       loadingDialog.value = true
 
-      itemsToSavedList = deDupe(reOrderedList.value).map(item => {
-        return { group_title: item.group_title, chan_name: item.name, tvg_id: item.tvg_id }
+      itemsToSavedList = Object.entries(changedItems).map(([k, v]) => {
+        return { _id: v._id, group_title: v.group_title, chan_name: v.chan_name, tvg_id: v.tvg_id }
       })
+      console.log(itemsToSavedList)
       downloadButtonLock.value = false
-      fetch('/api/update', {
+      fetch(root_path + '/api/update', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(itemsToSavedList)
@@ -320,7 +339,10 @@ export default {
             life: 3000
           })
         })
-        .finally(() => (loadingDialog.value = false))
+        .finally(() => {
+          selectedItemsList.value = []
+          loadingDialog.value = false
+        })
     }
 
     const removeSelectedItemsList = () => {
@@ -330,17 +352,22 @@ export default {
       renameItemsDialog.value = false
       selectedItemsList.value = []
     }
+
     const editBulkItems = () => {
       for (let item of selectedItemsList.value) {
         for (let i = 0; i < reOrderedList.value.length; i++) {
-          if (reOrderedList.value[i].id === item.id) {
+          if (reOrderedList.value[i]._id === item._id) {
             reOrderedList.value[i].tvg_id = newTvgId.value
             break
           }
         }
       }
+      pushItems(changedItems, selectedItemsList)
+      selectedItemsList.value = []
+      newTvgId.value = ''
       BulkTvgIdDialog.value = false
     }
+
     const downloadM3u = () => {
       if (reOrderedList.value.length > 0) {
         ExportM3u(reOrderedList.value)
@@ -356,7 +383,8 @@ export default {
 
     watch(
       () => props.m3u,
-      (f, s) => {
+      f => {
+        loadingDialog.value = false
         reOrderedList.value = f
       }
     )
@@ -382,10 +410,9 @@ export default {
       loadingDialog,
       updateOrNew,
       onUpdate,
-      EpgUploader
+      EpgUploader,
+      onCellComplete
     }
   }
 }
 </script>
-
-<style lang="scss" scoped></style>

@@ -3,8 +3,8 @@ export function SanitizeM3u(m3uFile) {
 
   for (var [key, item] of Object.entries(m3uFile)) {
     outPut.push({
-      id: key,
-      name: item.name,
+      _id: key,
+      chan_name: item.name,
       url: item.url,
       raw: item.raw,
       tvg_id: item.tvg.id,
