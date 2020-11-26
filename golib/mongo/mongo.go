@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"fmt"
+	"log"
 
 	"go.mongodb.org/mongo-driver/bson"
 	"go.mongodb.org/mongo-driver/mongo"
@@ -20,7 +21,7 @@ func GetClient() (*mongo.Client, context.Context) {
 	ctx := context.Background()
 	cli, err := mongo.Connect(ctx, options.Client().ApplyURI(url))
 	if err != nil {
-		fmt.Println("leee", err)
+		log.Println("leee", err)
 		return nil, nil
 	}
 	return cli, ctx
@@ -39,7 +40,7 @@ func InsertData(input []byte) error {
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
 	if err != nil {
-		fmt.Println("fffff", err)
+		log.Println("fffff", err)
 		return err
 	}
 
@@ -58,25 +59,29 @@ func InsertData(input []byte) error {
 	col := cli.Database("epg").Collection("tvs")
 	col.InsertMany(ctx, la, opts)
 	if err != nil {
-		fmt.Println("laaa", err)
+		log.Println("laaa", err)
 		return err
 	}
 	return nil
 }
 
-func GetData() (ChannelMatches, error) {
+func GetData(nameSort bool) (ChannelMatches, error) {
 	data := ChannelMatches{}
 
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
 	}
-
 	opts := options.Find()
+
+	if nameSort {
+		opts.SetSort(bson.D{{"chan_name", 1}})
+	}
+
 	col := cli.Database("epg").Collection("tvs")
 
 	cur, err := col.Find(ctx, bson.D{}, opts)
 	if err != nil {
-		fmt.Println("hooooo ", err)
+		log.Println("hooooo ", err)
 	}
 
 	cur.All(context.TODO(), &data)
@@ -100,7 +105,7 @@ func UpdateData(input []byte) error {
 		update := bson.D{{"$set", bson.M{"group_title": i.GroupTitle, "tvg_id": i.TvgID}}}
 		_, err := col.UpdateOne(ctx, filter, update)
 		if err != nil {
-			fmt.Println("laaa", err)
+			log.Println("laaa", err)
 			return err
 		}
 	}

@@ -2,25 +2,41 @@ package api
 
 import (
 	"encoding/json"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"net/http"
 
 	"github.com/xybydy/epg/golib/mongo"
+	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
-type apiResponse struct {
-	StatusCode int         `json:"status_code"`
-	Message    string      `json:"message"`
-	Data       interface{} `json:"data"`
+type resp struct {
+	ID       primitive.ObjectID `bson:"_id,omitempty" json:"_id,omitempty"`
+	ChanName string             `bson:"chan_name" json:"chan_name,omitempty"`
+	TvgID    string             `bson:"tvg_id" json:"tvg_id,omitempty"`
 }
+type resps []resp
 
-func Save(w http.ResponseWriter, r *http.Request) {
+func Matcher(w http.ResponseWriter, r *http.Request) {
+
 	response := new(apiResponse)
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 
 	if r.Method == http.MethodPost {
+		respData := resps{}
+		returnData := resps{}
+
 		res, err := ioutil.ReadAll(r.Body)
+		err = json.Unmarshal(res, &respData)
+		if err != nil {
+			mes := []byte(err.Error())
+			response.StatusCode = http.StatusInternalServerError
+			response.Message = string(mes)
+			json.NewEncoder(w).Encode(response)
+			return
+		}
+
 		r.Body.Close()
 		if err != nil {
 			mes := []byte(err.Error())
@@ -29,17 +45,18 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			json.NewEncoder(w).Encode(response)
 			return
 		}
-		err = mongo.InsertData(res)
-		if err != nil {
-			mes := []byte(err.Error())
-			response.StatusCode = http.StatusInternalServerError
-			response.Message = string(mes)
-			json.NewEncoder(w).Encode(response)
-			log.Println("3", string(mes))
-			return
+
+		match, err := mongo.GetData(true)
+		for _, v := range respData {
+			tvgID := match.GetTvgID(v.ChanName)
+			if tvgID == "" {
+				continue
+			}
+			r := resp{ID: v.ID, TvgID: tvgID}
+			returnData = append(returnData, r)
 		}
 
-		response = &apiResponse{StatusCode: http.StatusOK, Message: "Data successfully sent!"}
+		response = &apiResponse{StatusCode: http.StatusOK, Message: fmt.Sprintf("Matched %d channels!", len(returnData)), Data: returnData}
 		json.NewEncoder(w).Encode(response)
 
 	} else {

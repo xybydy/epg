@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"log"
 	"net/http"
 
 	"github.com/gorilla/mux"
@@ -17,6 +17,7 @@ func main() {
 	r.HandleFunc("/api/save", api.Save)
 	r.HandleFunc("/api/update", api.Update)
 	r.HandleFunc("/api/get", api.Get)
+	r.HandleFunc("/api/match", api.Matcher)
 	handler := cors.Default().Handler(r)
-	fmt.Println(http.ListenAndServe(":8000", handler))
+	log.Println(http.ListenAndServe(":8000", handler))
 }

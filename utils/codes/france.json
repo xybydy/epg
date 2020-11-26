@@ -1,0 +1,1162 @@
+[
+ {
+   "chan_name": "13ème RUE",
+   "epg_code": "13RUE.fr",
+   "popularity": 75820
+ },
+ {
+   "chan_name": "6ter",
+   "epg_code": "6ter.fr",
+   "popularity": 91915
+ },
+ {
+   "chan_name": "A+ CENTRE",
+   "epg_code": "A+.fr",
+   "popularity": 775
+ },
+ {
+   "chan_name": "AB 1",
+   "epg_code": "AB1.fr",
+   "popularity": 37140
+ },
+ {
+   "chan_name": "ACTION",
+   "epg_code": "Action.fr",
+   "popularity": 60602
+ },
+ {
+   "chan_name": "Altice Studio",
+   "epg_code": "AlticeStudio.fr",
+   "popularity": 19563
+ },
+ {
+   "chan_name": "ANIMAUX",
+   "epg_code": "Animaux.fr",
+   "popularity": 38256
+ },
+ {
+   "chan_name": "ARTE",
+   "epg_code": "ARTE.fr",
+   "popularity": 50590
+ },
+ {
+   "chan_name": "Automoto la chaine",
+   "epg_code": "Automoto.fr",
+   "popularity": 6915
+ },
+ {
+   "chan_name": "Baby TV",
+   "epg_code": "BabyTV.fr",
+   "popularity": 11420
+ },
+ {
+   "chan_name": "BBlack Classik",
+   "epg_code": "BBlackClassik.fr",
+   "popularity": 161
+ },
+ {
+   "chan_name": "BeIN Sports 1",
+   "epg_code": "beINSport1.fr",
+   "popularity": 236219
+ },
+ {
+   "chan_name": "BeIN Sports 2",
+   "epg_code": "beINSport2.fr",
+   "popularity": 48516
+ },
+ {
+   "chan_name": "BeIN Sports 3",
+   "epg_code": "beINSport3.fr",
+   "popularity": 35842
+ },
+ {
+   "chan_name": "BeIN Sports MAX 10",
+   "epg_code": "BeInSportMax10.fr",
+   "popularity": 4771
+ },
+ {
+   "chan_name": "BeIN Sports MAX 4",
+   "epg_code": "BeInSportMax4.fr",
+   "popularity": 9811
+ },
+ {
+   "chan_name": "BeIN Sports MAX 5",
+   "epg_code": "BeInSportMax5.fr",
+   "popularity": 9387
+ },
+ {
+   "chan_name": "BeIN Sports MAX 6",
+   "epg_code": "BeInSportMax6.fr",
+   "popularity": 5212
+ },
+ {
+   "chan_name": "BeIN Sports MAX 7",
+   "epg_code": "BeInSportMax7.fr",
+   "popularity": 5872
+ },
+ {
+   "chan_name": "BeIN Sports MAX 8",
+   "epg_code": "BeInSportMax8.fr",
+   "popularity": 6353
+ },
+ {
+   "chan_name": "BeIN Sports MAX 9",
+   "epg_code": "BeInSportMax9.fr",
+   "popularity": 5580
+ },
+ {
+   "chan_name": "BET France",
+   "epg_code": "BET.fr",
+   "popularity": 17856
+ },
+ {
+   "chan_name": "BFM Business",
+   "epg_code": "BFMBusiness.fr",
+   "popularity": 28950
+ },
+ {
+   "chan_name": "BFM Sport",
+   "epg_code": "BFMSport.fr",
+   "popularity": 192
+ },
+ {
+   "chan_name": "BFM TV",
+   "epg_code": "BFMTV.fr",
+   "popularity": 128427
+ },
+ {
+   "chan_name": "Bip TV",
+   "epg_code": "BipTV.fr",
+   "popularity": 156
+ },
+ {
+   "chan_name": "Boing",
+   "epg_code": "Boing.fr",
+   "popularity": 15415
+ },
+ {
+   "chan_name": "Boomerang (France)",
+   "epg_code": "Boomerang.fr",
+   "popularity": 21020
+ },
+ {
+   "chan_name": "Brava HD",
+   "epg_code": "StingrayBrava.fr",
+   "popularity": 71
+ },
+ {
+   "chan_name": "C Star Hits France",
+   "epg_code": "CStarHitsFrance.fr",
+   "popularity": 353
+ },
+ {
+   "chan_name": "C8",
+   "epg_code": "C8.fr",
+   "popularity": 75949
+ },
+ {
+   "chan_name": "Campagnes TV",
+   "epg_code": "CampagnesTV.fr",
+   "popularity": 8
+ },
+ {
+   "chan_name": "Canal J",
+   "epg_code": "CanalJ.fr",
+   "popularity": 24016
+ },
+ {
+   "chan_name": "CANAL+",
+   "epg_code": "CANALplus.fr",
+   "popularity": 124616
+ },
+ {
+   "chan_name": "CANAL+ CINEMA",
+   "epg_code": "CANALplusCINEMA.fr",
+   "popularity": 163923
+ },
+ {
+   "chan_name": "CANAL+ DÉCALÉ",
+   "epg_code": "CANALplusDECALE.fr",
+   "popularity": 106453
+ },
+ {
+   "chan_name": "CANAL+ Family",
+   "epg_code": "CANALplusFamily.fr",
+   "popularity": 76423
+ },
+ {
+   "chan_name": "Canal+ Series",
+   "epg_code": "CanalplusSeries.fr",
+   "popularity": 87440
+ },
+ {
+   "chan_name": "CANAL+ SPORT",
+   "epg_code": "CANALplusSPORT.fr",
+   "popularity": 263545
+ },
+ {
+   "chan_name": "Cartoon Network (France)",
+   "epg_code": "CartoonNetwork.fr",
+   "popularity": 24309
+ },
+ {
+   "chan_name": "Chasse et Pêche",
+   "epg_code": "ChassePeche.fr",
+   "popularity": 28964
+ },
+ {
+   "chan_name": "Cherie 25",
+   "epg_code": "Cherie25.fr",
+   "popularity": 47119
+ },
+ {
+   "chan_name": "Ciné cinéma Classic",
+   "epg_code": "CinecinemaClassic.fr",
+   "popularity": 69398
+ },
+ {
+   "chan_name": "Ciné cinéma Club",
+   "epg_code": "CinecinemaClub.fr",
+   "popularity": 58590
+ },
+ {
+   "chan_name": "Ciné cinéma Emotion",
+   "epg_code": "CinecinemaEmotion.fr",
+   "popularity": 113405
+ },
+ {
+   "chan_name": "Ciné cinéma Famiz",
+   "epg_code": "CinecinemaFamiz.fr",
+   "popularity": 118944
+ },
+ {
+   "chan_name": "Ciné cinéma Frisson",
+   "epg_code": "CinecinemaFrisson.fr",
+   "popularity": 214866
+ },
+ {
+   "chan_name": "Ciné cinéma Premier",
+   "epg_code": "CinecinemaPremier.fr",
+   "popularity": 109679
+ },
+ {
+   "chan_name": "CliqueTV.fr",
+   "epg_code": "CliqueTV.fr",
+   "popularity": 522
+ },
+ {
+   "chan_name": "CNews",
+   "epg_code": "CNews.fr",
+   "popularity": 56499
+ },
+ {
+   "chan_name": "Comedie",
+   "epg_code": "Comedie.fr",
+   "popularity": 44383
+ },
+ {
+   "chan_name": "COMEDY CENTRAL",
+   "epg_code": "ComedyCentral.fr",
+   "popularity": 7016
+ },
+ {
+   "chan_name": "Crime District",
+   "epg_code": "CrimeDistrict.fr",
+   "popularity": 26483
+ },
+ {
+   "chan_name": "CStar",
+   "epg_code": "CStar.fr",
+   "popularity": 26608
+ },
+ {
+   "chan_name": "D!ci TV",
+   "epg_code": "Dicit.fr",
+   "popularity": 328
+ },
+ {
+   "chan_name": "Discovery Channel",
+   "epg_code": "Discovery.fr",
+   "popularity": 39262
+ },
+ {
+   "chan_name": "Discovery Family",
+   "epg_code": "DiscoveryFamily.fr",
+   "popularity": 21151
+ },
+ {
+   "chan_name": "Discovery Investigation",
+   "epg_code": "DiscoveryInvestigation.fr",
+   "popularity": 17438
+ },
+ {
+   "chan_name": "DISCOVERY SCIENCE HD",
+   "epg_code": "DiscoveryScience.fr",
+   "popularity": 37782
+ },
+ {
+   "chan_name": "Disney Channel",
+   "epg_code": "DisneyChannel.fr",
+   "popularity": 16957
+ },
+ {
+   "chan_name": "Disney Cinema",
+   "epg_code": "DisneyMagic.fr",
+   "popularity": 4985
+ },
+ {
+   "chan_name": "DISNEY JUNIOR",
+   "epg_code": "DisneyJunior.fr",
+   "popularity": 18028
+ },
+ {
+   "chan_name": "Disney XD",
+   "epg_code": "DisneyXD.fr",
+   "popularity": 3656
+ },
+ {
+   "chan_name": "DisneyChannel +1",
+   "epg_code": "DisneyChannelPlus1.fr",
+   "popularity": 4025
+ },
+ {
+   "chan_name": "Djazz TV",
+   "epg_code": "StingrayDjazz.fr",
+   "popularity": 674
+ },
+ {
+   "chan_name": "E!",
+   "epg_code": "Eentertainment.fr",
+   "popularity": 12874
+ },
+ {
+   "chan_name": "Eleven Sports 1",
+   "epg_code": "ElevenSports1.fr",
+   "popularity": 54
+ },
+ {
+   "chan_name": "Eleven Sports 2",
+   "epg_code": "ElevenSports2.fr",
+   "popularity": 46
+ },
+ {
+   "chan_name": "Eleven Sports 3",
+   "epg_code": "ElevenSports3.fr",
+   "popularity": 28
+ },
+ {
+   "chan_name": "ELLE Girl",
+   "epg_code": "ELLEGirl.fr",
+   "popularity": 1138
+ },
+ {
+   "chan_name": "Equidia",
+   "epg_code": "EquidiaLive.fr",
+   "popularity": 15430
+ },
+ {
+   "chan_name": "Equipe 21",
+   "epg_code": "EquipeTV.fr",
+   "popularity": 41596
+ },
+ {
+   "chan_name": "ES1",
+   "epg_code": "ES1.fr",
+   "popularity": 1070
+ },
+ {
+   "chan_name": "ETB 1",
+   "epg_code": "ETB1.fr",
+   "popularity": 1
+ },
+ {
+   "chan_name": "Eurochannel",
+   "epg_code": "Eurochannel.fr",
+   "popularity": 1664
+ },
+ {
+   "chan_name": "Eurosport",
+   "epg_code": "Eurosport1.fr",
+   "popularity": 19581
+ },
+ {
+   "chan_name": "Eurosport 2",
+   "epg_code": "Eurosport2.fr",
+   "popularity": 18387
+ },
+ {
+   "chan_name": "Extreme Sports Channel",
+   "epg_code": "ExtremeSports.fr",
+   "popularity": 1441
+ },
+ {
+   "chan_name": "Foot+ 24/24",
+   "epg_code": "Foot24.fr",
+   "popularity": 9250
+ },
+ {
+   "chan_name": "France 2",
+   "epg_code": "France2.fr",
+   "popularity": 146169
+ },
+ {
+   "chan_name": "FRANCE 24",
+   "epg_code": "France24.fr",
+   "popularity": 252
+ },
+ {
+   "chan_name": "France 3",
+   "epg_code": "France3.fr",
+   "popularity": 87483
+ },
+ {
+   "chan_name": "France 3 Alpes",
+   "epg_code": "France3Alpes.fr",
+   "popularity": 49
+ },
+ {
+   "chan_name": "France 3 Alsace",
+   "epg_code": "France3Alsace.fr",
+   "popularity": 37
+ },
+ {
+   "chan_name": "France 3 Aquitaine",
+   "epg_code": "France3Aquitaine.fr",
+   "popularity": 957
+ },
+ {
+   "chan_name": "France 3 Auvergne",
+   "epg_code": "France3Auvergne.fr",
+   "popularity": 19
+ },
+ {
+   "chan_name": "France 3 Basse-Normandie",
+   "epg_code": "France3Basse-Normandie.fr",
+   "popularity": 10
+ },
+ {
+   "chan_name": "France 3 Bourgogne",
+   "epg_code": "France3Bourgogne.fr",
+   "popularity": 12
+ },
+ {
+   "chan_name": "France 3 Bretagne",
+   "epg_code": "France3Bretagne.fr",
+   "popularity": 10
+ },
+ {
+   "chan_name": "France 3 Centre",
+   "epg_code": "France3Centre.fr",
+   "popularity": 23
+ },
+ {
+   "chan_name": "France 3 Champagne-Ardenne",
+   "epg_code": "France3Champagne-Ardenne.fr",
+   "popularity": 10
+ },
+ {
+   "chan_name": "FRANCE 3 Corse Via Stella",
+   "epg_code": "France3Corse.fr",
+   "popularity": 16
+ },
+ {
+   "chan_name": "France 3 Côte d'Azur",
+   "epg_code": "France3CotedAzur.fr",
+   "popularity": 22
+ },
+ {
+   "chan_name": "France 3 Franche-Comté",
+   "epg_code": "France3Franche-Comte.fr",
+   "popularity": 9
+ },
+ {
+   "chan_name": "France 3 Haute-Normandie",
+   "epg_code": "France3Haute-Normandie.fr",
+   "popularity": 16
+ },
+ {
+   "chan_name": "France 3 Languedoc",
+   "epg_code": "France3Languedoc.fr",
+   "popularity": 16
+ },
+ {
+   "chan_name": "France 3 Limousin",
+   "epg_code": "France3Limousin.fr",
+   "popularity": 14
+ },
+ {
+   "chan_name": "France 3 Lorraine",
+   "epg_code": "France3Lorraine.fr",
+   "popularity": 14
+ },
+ {
+   "chan_name": "France 3 Midi-Pyrénées",
+   "epg_code": "France3Midi-Pyrenees.fr",
+   "popularity": 15
+ },
+ {
+   "chan_name": "France 3 Nord-Pas de Calais",
+   "epg_code": "France3Nord-PasDeCalais.fr",
+   "popularity": 154
+ },
+ {
+   "chan_name": "France 3 Paris IdF",
+   "epg_code": "France3Paris-IdF.fr",
+   "popularity": 34
+ },
+ {
+   "chan_name": "France 3 Pays de la Loire",
+   "epg_code": "France3PaysDeLaLoire.fr",
+   "popularity": 20
+ },
+ {
+   "chan_name": "France 3 Picardie",
+   "epg_code": "France3Picardie.fr",
+   "popularity": 21
+ },
+ {
+   "chan_name": "France 3 Poitou-Charentes",
+   "epg_code": "France3Poitou-Charentes.fr",
+   "popularity": 15
+ },
+ {
+   "chan_name": "France 3 Provence-Alpes",
+   "epg_code": "France3Provence-Alpes.fr",
+   "popularity": 86
+ },
+ {
+   "chan_name": "France 3 Rhône-Alpes",
+   "epg_code": "France3Rhone-Alpes.fr",
+   "popularity": 43
+ },
+ {
+   "chan_name": "France 4",
+   "epg_code": "France4.fr",
+   "popularity": 64680
+ },
+ {
+   "chan_name": "France 5",
+   "epg_code": "France5.fr",
+   "popularity": 70465
+ },
+ {
+   "chan_name": "FRANCE Ô",
+   "epg_code": "FranceO.fr",
+   "popularity": 29046
+ },
+ {
+   "chan_name": "Franceinfo",
+   "epg_code": "Franceinfo.fr",
+   "popularity": 31591
+ },
+ {
+   "chan_name": "Game One",
+   "epg_code": "GameOne.fr",
+   "popularity": 21580
+ },
+ {
+   "chan_name": "Golf channel",
+   "epg_code": "Golf.fr",
+   "popularity": 8351
+ },
+ {
+   "chan_name": "Golf+",
+   "epg_code": "Golfplus.fr",
+   "popularity": 8230
+ },
+ {
+   "chan_name": "Gong",
+   "epg_code": "Gong.fr",
+   "popularity": 1922
+ },
+ {
+   "chan_name": "Gong Max",
+   "epg_code": "GongMax.fr",
+   "popularity": 900
+ },
+ {
+   "chan_name": "Grand Lille TV",
+   "epg_code": "GrandLilleTV.fr",
+   "popularity": 5661
+ },
+ {
+   "chan_name": "Guadeloupe 1ère",
+   "epg_code": "Guadeloupe1.fr",
+   "popularity": 14
+ },
+ {
+   "chan_name": "Gulli",
+   "epg_code": "Gulli.fr",
+   "popularity": 19736
+ },
+ {
+   "chan_name": "Guyane 1ère",
+   "epg_code": "Guyane1.fr",
+   "popularity": 9
+ },
+ {
+   "chan_name": "Histoire",
+   "epg_code": "Histoire.fr",
+   "popularity": 30162
+ },
+ {
+   "chan_name": "INFOSPORT+",
+   "epg_code": "Infosport.fr",
+   "popularity": 31783
+ },
+ {
+   "chan_name": "J-ONE HD",
+   "epg_code": "JOne.fr",
+   "popularity": 10983
+ },
+ {
+   "chan_name": "KTO",
+   "epg_code": "KTO.fr",
+   "popularity": 2079
+ },
+ {
+   "chan_name": "LA CHAINE METEO",
+   "epg_code": "LaChaineMeteo.fr",
+   "popularity": 3266
+ },
+ {
+   "chan_name": "La Locale",
+   "epg_code": "LaLocale.fr",
+   "popularity": 0
+ },
+ {
+   "chan_name": "LCI",
+   "epg_code": "LCI.fr",
+   "popularity": 57370
+ },
+ {
+   "chan_name": "LCP",
+   "epg_code": "LCP.fr",
+   "popularity": 8847
+ },
+ {
+   "chan_name": "LN24",
+   "epg_code": "LN24.fr",
+   "popularity": 825
+ },
+ {
+   "chan_name": "M6",
+   "epg_code": "M6.fr",
+   "popularity": 260973
+ },
+ {
+   "chan_name": "M6 BOUTIQUE",
+   "epg_code": "M6Boutique.fr",
+   "popularity": 779
+ },
+ {
+   "chan_name": "M6 Music",
+   "epg_code": "M6MusicHits.fr",
+   "popularity": 13510
+ },
+ {
+   "chan_name": "MANGAS",
+   "epg_code": "Mangas.fr",
+   "popularity": 22617
+ },
+ {
+   "chan_name": "Martinique 1ère",
+   "epg_code": "Martinique1.fr",
+   "popularity": 20
+ },
+ {
+   "chan_name": "MCM",
+   "epg_code": "MCM.fr",
+   "popularity": 10675
+ },
+ {
+   "chan_name": "MCM top",
+   "epg_code": "MCMtop.fr",
+   "popularity": 4837
+ },
+ {
+   "chan_name": "Mezzo",
+   "epg_code": "Mezzo.fr",
+   "popularity": 4166
+ },
+ {
+   "chan_name": "Mezzo Live HD",
+   "epg_code": "MezzoLiveHD.fr",
+   "popularity": 2913
+ },
+ {
+   "chan_name": "Mirabelle TV",
+   "epg_code": "MirabelleTV.fr",
+   "popularity": 113
+ },
+ {
+   "chan_name": "Mont Blanc Live",
+   "epg_code": "MontBlancLiveTV.fr",
+   "popularity": 52
+ },
+ {
+   "chan_name": "MTV",
+   "epg_code": "MTV.fr",
+   "popularity": 12586
+ },
+ {
+   "chan_name": "MTV +1",
+   "epg_code": "MTVPlus1.fr",
+   "popularity": 78
+ },
+ {
+   "chan_name": "My Cuisine",
+   "epg_code": "MyCuisine.fr",
+   "popularity": 3373
+ },
+ {
+   "chan_name": "Myzen TV",
+   "epg_code": "MyzenTV.fr",
+   "popularity": 1503
+ },
+ {
+   "chan_name": "NAT GEO WILD HD",
+   "epg_code": "NatGeoWildHD.fr",
+   "popularity": 24560
+ },
+ {
+   "chan_name": "National Geographic",
+   "epg_code": "NationalGeographic.fr",
+   "popularity": 24292
+ },
+ {
+   "chan_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.fr",
+   "popularity": 37489
+ },
+ {
+   "chan_name": "Nickelodeon +1",
+   "epg_code": "NickelodeonPlus1.fr",
+   "popularity": 1439
+ },
+ {
+   "chan_name": "Nickelodeon 4 teens",
+   "epg_code": "Nick4teens.fr",
+   "popularity": 3552
+ },
+ {
+   "chan_name": "Nickelodeon Junior",
+   "epg_code": "NickJr.fr",
+   "popularity": 12724
+ },
+ {
+   "chan_name": "NOLLYWOOD TV",
+   "epg_code": "Nollywood.fr",
+   "popularity": 3530
+ },
+ {
+   "chan_name": "Non Stop People",
+   "epg_code": "NonStopPeople.fr",
+   "popularity": 3985
+ },
+ {
+   "chan_name": "Novelas TV",
+   "epg_code": "NovelasTV.fr",
+   "popularity": 8036
+ },
+ {
+   "chan_name": "NRJ 12",
+   "epg_code": "NRJ12.fr",
+   "popularity": 48388
+ },
+ {
+   "chan_name": "NRJ Hits",
+   "epg_code": "NRJHits.fr",
+   "popularity": 8786
+ },
+ {
+   "chan_name": "NRJ Hits TV",
+   "epg_code": "NRJHitsBelgique,be",
+   "popularity": 565
+ },
+ {
+   "chan_name": "OCS Choc",
+   "epg_code": "OrangeCinechoc.fr",
+   "popularity": 111934
+ },
+ {
+   "chan_name": "OCS City",
+   "epg_code": "OrangeCineHappy.fr",
+   "popularity": 94986
+ },
+ {
+   "chan_name": "OCS Géants",
+   "epg_code": "OrangeCineGeants.fr",
+   "popularity": 89827
+ },
+ {
+   "chan_name": "OCS Max",
+   "epg_code": "OrangeCinemax.fr",
+   "popularity": 94989
+ },
+ {
+   "chan_name": "OL TV",
+   "epg_code": "OLTV.fr",
+   "popularity": 6397
+ },
+ {
+   "chan_name": "Olympia",
+   "epg_code": "Olympia.fr",
+   "popularity": 319
+ },
+ {
+   "chan_name": "ONZEO",
+   "epg_code": "Onzeo.fr",
+   "popularity": 103
+ },
+ {
+   "chan_name": "Paramount Channel",
+   "epg_code": "ParamountChannel.fr",
+   "popularity": 38175
+ },
+ {
+   "chan_name": "Paramount Channel Decale",
+   "epg_code": "ParamountChannelDecale.fr",
+   "popularity": 6507
+ },
+ {
+   "chan_name": "Paris Première",
+   "epg_code": "ParisPremiere.fr",
+   "popularity": 42063
+ },
+ {
+   "chan_name": "PINK TV",
+   "epg_code": "PinkTV.fr",
+   "popularity": 9121
+ },
+ {
+   "chan_name": "PIWI+",
+   "epg_code": "PIWI.fr",
+   "popularity": 14150
+ },
+ {
+   "chan_name": "PLANETE",
+   "epg_code": "PLANETE.fr",
+   "popularity": 18564
+ },
+ {
+   "chan_name": "Planete A&E",
+   "epg_code": "PLANETEnoLIMIT.fr",
+   "popularity": 26907
+ },
+ {
+   "chan_name": "PLANETE CI",
+   "epg_code": "PLANETEJustice.fr",
+   "popularity": 31142
+ },
+ {
+   "chan_name": "Polar+",
+   "epg_code": "PolarPlus.fr",
+   "popularity": 7336
+ },
+ {
+   "chan_name": "QVC",
+   "epg_code": "QVC.fr",
+   "popularity": 17
+ },
+ {
+   "chan_name": "RFM TV",
+   "epg_code": "RFMTV.fr",
+   "popularity": 5731
+ },
+ {
+   "chan_name": "RMC decouverte",
+   "epg_code": "RMCdecouverte.fr",
+   "popularity": 65595
+ },
+ {
+   "chan_name": "RMC Sport 1",
+   "epg_code": "RMCSport1.fr",
+   "popularity": 230565
+ },
+ {
+   "chan_name": "RMC Sport 2",
+   "epg_code": "RMCSport2.fr",
+   "popularity": 94348
+ },
+ {
+   "chan_name": "RMC Sport 3",
+   "epg_code": "RMCSport3.fr",
+   "popularity": 64795
+ },
+ {
+   "chan_name": "RMC Sport 4",
+   "epg_code": "RMCSport4.fr",
+   "popularity": 29123
+ },
+ {
+   "chan_name": "RMC Sport 4K",
+   "epg_code": "RMCSport4K.fr",
+   "popularity": 3730
+ },
+ {
+   "chan_name": "RMC Sport Access 1",
+   "epg_code": "RMCSportAccess1.fr",
+   "popularity": 8264
+ },
+ {
+   "chan_name": "RMC Sport Access 2",
+   "epg_code": "RMCSportAccess2.fr",
+   "popularity": 4918
+ },
+ {
+   "chan_name": "RMC Sport Access 3",
+   "epg_code": "RMCSportAccess3.fr",
+   "popularity": 4768
+ },
+ {
+   "chan_name": "RMC Sport Live 10",
+   "epg_code": "RMCSportLive10.fr",
+   "popularity": 567
+ },
+ {
+   "chan_name": "RMC Sport Live 11",
+   "epg_code": "RMCSportLive11.fr",
+   "popularity": 533
+ },
+ {
+   "chan_name": "RMC Sport Live 12",
+   "epg_code": "RMCSportLive12.fr",
+   "popularity": 417
+ },
+ {
+   "chan_name": "RMC Sport Live 13",
+   "epg_code": "RMCSportLive13.fr",
+   "popularity": 370
+ },
+ {
+   "chan_name": "RMC Sport Live 14",
+   "epg_code": "RMCSportLive14.fr",
+   "popularity": 365
+ },
+ {
+   "chan_name": "RMC Sport Live 15",
+   "epg_code": "RMCSportLive15.fr",
+   "popularity": 382
+ },
+ {
+   "chan_name": "RMC Sport Live 16",
+   "epg_code": "RMCSportLive16.fr",
+   "popularity": 98
+ },
+ {
+   "chan_name": "RMC Sport Live 5",
+   "epg_code": "RMCSportLive5.fr",
+   "popularity": 3071
+ },
+ {
+   "chan_name": "RMC Sport Live 6",
+   "epg_code": "RMCSportLive6.fr",
+   "popularity": 2022
+ },
+ {
+   "chan_name": "RMC Sport Live 7",
+   "epg_code": "RMCSportLive7.fr",
+   "popularity": 1086
+ },
+ {
+   "chan_name": "RMC Sport Live 8",
+   "epg_code": "RMCSportLive8.fr",
+   "popularity": 780
+ },
+ {
+   "chan_name": "RMC Sport Live 9",
+   "epg_code": "RMCSportLive9.fr",
+   "popularity": 624
+ },
+ {
+   "chan_name": "RMC Sport News HD",
+   "epg_code": "RMCSportNews.fr",
+   "popularity": 3001
+ },
+ {
+   "chan_name": "RMC Story",
+   "epg_code": "RMCStory.fr",
+   "popularity": 23232
+ },
+ {
+   "chan_name": "RTL 9",
+   "epg_code": "RTL9.fr",
+   "popularity": 58767
+ },
+ {
+   "chan_name": "Science et Vie",
+   "epg_code": "ScienceVie.fr",
+   "popularity": 18847
+ },
+ {
+   "chan_name": "Seasons",
+   "epg_code": "Seasons.fr",
+   "popularity": 19430
+ },
+ {
+   "chan_name": "Serie Club",
+   "epg_code": "SerieClub.fr",
+   "popularity": 33469
+ },
+ {
+   "chan_name": "Stingray Festival",
+   "epg_code": "StingrayFestival.fr",
+   "popularity": 2
+ },
+ {
+   "chan_name": "Sundance Channel",
+   "epg_code": "SundanceChannel.fr",
+   "popularity": 251
+ },
+ {
+   "chan_name": "Syfy Universal",
+   "epg_code": "Syfy.fr",
+   "popularity": 30427
+ },
+ {
+   "chan_name": "TCM",
+   "epg_code": "TCM.fr",
+   "popularity": 46380
+ },
+ {
+   "chan_name": "Tebeo - Tele Bretagne Ouest",
+   "epg_code": "Tebeo.fr",
+   "popularity": 289
+ },
+ {
+   "chan_name": "TELE MELODY",
+   "epg_code": "TeleMelody.fr",
+   "popularity": 1978
+ },
+ {
+   "chan_name": "TéléTOON",
+   "epg_code": "TeleTOON.fr",
+   "popularity": 12961
+ },
+ {
+   "chan_name": "TéléTOON +1",
+   "epg_code": "TeleTOONplus1.fr",
+   "popularity": 3217
+ },
+ {
+   "chan_name": "Téva",
+   "epg_code": "Teva.fr",
+   "popularity": 42463
+ },
+ {
+   "chan_name": "TF1",
+   "epg_code": "TF1.fr",
+   "popularity": 268079
+ },
+ {
+   "chan_name": "TF1 +1",
+   "epg_code": "TF1plus1.fr",
+   "popularity": 15764
+ },
+ {
+   "chan_name": "TF1 Series Films",
+   "epg_code": "TF1SeriesFilms.fr",
+   "popularity": 19790
+ },
+ {
+   "chan_name": "TFX",
+   "epg_code": "TFX.fr",
+   "popularity": 39108
+ },
+ {
+   "chan_name": "Tiji",
+   "epg_code": "Tiji.fr",
+   "popularity": 20905
+ },
+ {
+   "chan_name": "TMC",
+   "epg_code": "TMC.fr",
+   "popularity": 71003
+ },
+ {
+   "chan_name": "TMC +1",
+   "epg_code": "TMCplus1.fr",
+   "popularity": 3823
+ },
+ {
+   "chan_name": "Toonami",
+   "epg_code": "Toonami.fr",
+   "popularity": 11296
+ },
+ {
+   "chan_name": "Toute l'histoire",
+   "epg_code": "TouteHistoire.fr",
+   "popularity": 10050
+ },
+ {
+   "chan_name": "Trace AFRICA",
+   "epg_code": "TraceAFRICA.fr",
+   "popularity": 2028
+ },
+ {
+   "chan_name": "Trace Sports",
+   "epg_code": "TraceSport.fr",
+   "popularity": 259
+ },
+ {
+   "chan_name": "Trace TV",
+   "epg_code": "TraceUrban.fr",
+   "popularity": 8047
+ },
+ {
+   "chan_name": "Trek",
+   "epg_code": "Trek.fr",
+   "popularity": 16726
+ },
+ {
+   "chan_name": "TV Breizh",
+   "epg_code": "TVBreizh.fr",
+   "popularity": 38987
+ },
+ {
+   "chan_name": "TV Tours",
+   "epg_code": "TVTours.fr",
+   "popularity": 219
+ },
+ {
+   "chan_name": "TV7 Bordeaux",
+   "epg_code": "TV7Bordeaux.fr",
+   "popularity": 46
+ },
+ {
+   "chan_name": "TV8 MONT BLANC",
+   "epg_code": "TV8MontBlanc.fr",
+   "popularity": 486
+ },
+ {
+   "chan_name": "Ushuaia TV",
+   "epg_code": "UshuaiaTV.fr",
+   "popularity": 43579
+ },
+ {
+   "chan_name": "Viceland",
+   "epg_code": "Viceland.fr",
+   "popularity": 4074
+ },
+ {
+   "chan_name": "Vosges TV",
+   "epg_code": "VosgesTV.fr",
+   "popularity": 605
+ },
+ {
+   "chan_name": "Voyage",
+   "epg_code": "Voyage.fr",
+   "popularity": 32800
+ },
+ {
+   "chan_name": "W9",
+   "epg_code": "W9.fr",
+   "popularity": 96148
+ },
+ {
+   "chan_name": "Warner TV",
+   "epg_code": "Warnertv.fr",
+   "popularity": 15113
+ }
+]

@@ -2,8 +2,8 @@ package api
 
 import (
 	"encoding/json"
-	"fmt"
 	"io/ioutil"
+	"log"
 	"net/http"
 
 	"github.com/xybydy/epg/golib/mongo"
@@ -30,7 +30,7 @@ func Update(w http.ResponseWriter, r *http.Request) {
 			response.StatusCode = http.StatusInternalServerError
 			response.Message = string(mes)
 			json.NewEncoder(w).Encode(response)
-			fmt.Println("3", string(mes))
+			log.Println("3", string(mes))
 			return
 		}
 
@@ -38,7 +38,7 @@ func Update(w http.ResponseWriter, r *http.Request) {
 		json.NewEncoder(w).Encode(response)
 
 	} else {
-		fmt.Println(r.Method)
+		log.Println(r.Method)
 		response = &apiResponse{StatusCode: http.StatusBadRequest, Message: "Bad Request"}
 		json.NewEncoder(w).Encode(response)
 	}

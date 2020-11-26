@@ -16,12 +16,12 @@
         :disabled="!selectedItemsList || !selectedItemsList.length"
         @click="showEditSelected"
       />
-      <!--<Button
+      <Button
         label="TVG-ID Getir"
         icon="pi pi-cloud-download"
         class="p-button-danger"
-        @click="TvgMatcherDialog"
-      />-->
+        @click="onTvgMatcher"
+      />
     </template>
 
     <template #right>
@@ -256,11 +256,15 @@ export default {
 
     let onRowReorder = e => (reOrderedList.value = e.value)
     let onSelectInput = e => e.target.select()
-    let onSave = () => {
+    const onSave = () => {
       loadingDialog.value = true
 
       itemsToSavedList = deDupe(reOrderedList.value).map(item => {
-        return { group_title: item.group_title, chan_name: item.chan_name, tvg_id: item.tvg_id }
+        return {
+          group_title: item.group_title.trim(),
+          chan_name: item.chan_name.trim(),
+          tvg_id: item.tvg_id.trim()
+        }
       })
       downloadButtonLock.value = false
       fetch(root_path + '/api/save', {
@@ -300,7 +304,7 @@ export default {
         })
     }
 
-    let onUpdate = () => {
+    const onUpdate = () => {
       loadingDialog.value = true
 
       itemsToSavedList = Object.entries(changedItems).map(([k, v]) => {
@@ -341,6 +345,7 @@ export default {
         })
         .finally(() => {
           selectedItemsList.value = []
+          changedItems = {}
           loadingDialog.value = false
         })
     }
@@ -381,6 +386,61 @@ export default {
       }
     }
 
+    const onTvgMatcher = () => {
+      loadingDialog.value = true
+
+      itemsToSavedList = reOrderedList.value.map(item => {
+        return {
+          _id: item._id,
+          chan_name: item.chan_name
+        }
+      })
+
+      fetch(root_path + '/api/match', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(itemsToSavedList)
+      })
+        .then(resp => resp.json())
+        .then(data => {
+          if (data.status_code == 200) {
+            console.log(data.data)
+            for (let outerItem of data.data) {
+              for (let innerItem of reOrderedList.value) {
+                if (innerItem._id === outerItem._id) {
+                  innerItem.tvg_id = outerItem.tvg_id
+                  break
+                }
+              }
+            }
+            toast.add({
+              severity: 'success',
+              summary: 'Success',
+              detail: data.message,
+              life: 3000
+            })
+          } else {
+            toast.add({
+              severity: 'error',
+              summary: 'Error',
+              detail: `${data.status_code} - ${data.message}`,
+              life: 3000
+            })
+          }
+        })
+        .catch(error => {
+          toast.add({
+            severity: 'error',
+            summary: 'Error',
+            detail: error,
+            life: 3000
+          })
+        })
+        .finally(() => {
+          loadingDialog.value = false
+        })
+    }
+
     watch(
       () => props.m3u,
       f => {
@@ -411,7 +471,8 @@ export default {
       updateOrNew,
       onUpdate,
       EpgUploader,
-      onCellComplete
+      onCellComplete,
+      onTvgMatcher
     }
   }
 }
