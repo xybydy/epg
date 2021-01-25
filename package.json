@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
-    "iptv-playlist-parser": "^0.5.0",
+    "iptv-playlist-parser": "^0.6.0",
     "mitt": "^2.1.0",
     "normalize.css": "^8.0.1",
     "primeflex": "^2.0.0",
