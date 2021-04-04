@@ -11,7 +11,6 @@ import (
 	"go.mongodb.org/mongo-driver/mongo/options"
 )
 
-const DbName = "epg"
 const MongoPass = "1ZaaVagptA9N9gJW"
 
 var cli, ctx = GetClient()
@@ -36,7 +35,23 @@ func isAlive(cli *mongo.Client) bool {
 	return true
 }
 
-func InsertData(input []byte) error {
+func InsertData(input []interface{}, colName string) error {
+	if !isAlive(cli) {
+		cli, ctx = GetClient()
+	}
+
+	opts := options.InsertMany().SetOrdered(false)
+
+	col := cli.Database("epg").Collection(colName)
+	_, err := col.InsertMany(ctx, input, opts)
+	if err != nil {
+		log.Println("laaa", err)
+		return err
+	}
+	return nil
+}
+
+func InsertChannels(input []byte, colName string) error {
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
 	if err != nil {
@@ -50,22 +65,11 @@ func InsertData(input []byte) error {
 		la = append(la, td)
 	}
 
-	if !isAlive(cli) {
-		cli, ctx = GetClient()
-	}
+	return InsertData(la, colName)
 
-	opts := options.InsertMany().SetOrdered(false)
-
-	col := cli.Database("epg").Collection("tvs")
-	col.InsertMany(ctx, la, opts)
-	if err != nil {
-		log.Println("laaa", err)
-		return err
-	}
-	return nil
 }
 
-func GetData(nameSort bool) (ChannelMatches, error) {
+func GetData(nameSort bool, colName string) (ChannelMatches, error) {
 	data := ChannelMatches{}
 
 	if !isAlive(cli) {
@@ -77,7 +81,7 @@ func GetData(nameSort bool) (ChannelMatches, error) {
 		opts.SetSort(bson.D{{"chan_name", 1}})
 	}
 
-	col := cli.Database("epg").Collection("tvs")
+	col := cli.Database("epg").Collection(colName)
 
 	cur, err := col.Find(ctx, bson.D{}, opts)
 	if err != nil {
@@ -88,12 +92,12 @@ func GetData(nameSort bool) (ChannelMatches, error) {
 	return data, nil
 }
 
-func UpdateData(input []byte) error {
+func UpdateData(input []byte, colName string) error {
 	if !isAlive(cli) {
 		cli, ctx = GetClient()
 	}
 
-	col := cli.Database("epg").Collection("tvs")
+	col := cli.Database("epg").Collection(colName)
 	data := ChannelMatches{}
 	err := json.Unmarshal(input, &data)
 	if err != nil {

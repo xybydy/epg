@@ -1,0 +1,467 @@
+[
+ {
+   "channel_name": "2M Monde",
+   "epg_code": "2MMonde.ma",
+   "popularity": 13864
+ },
+ {
+   "channel_name": "Alsace 20",
+   "epg_code": "Alsace20.fr",
+   "popularity": 339
+ },
+ {
+   "channel_name": "angers télé",
+   "epg_code": "angerstele.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "APTV - Martinique",
+   "epg_code": "APTV.carab",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Argent",
+   "epg_code": "Argent.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Assemblée Nationale",
+   "epg_code": "AssembléeNationale.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AVS Eeklo",
+   "epg_code": "AVSEeklo.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AVS Oudenaarde",
+   "epg_code": "AVSOudenaarde.be",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Azur TV",
+   "epg_code": "AzurTV.fr",
+   "popularity": 304
+ },
+ {
+   "channel_name": "BeCurious TV",
+   "epg_code": "BeCuriousTV.ch",
+   "popularity": 251
+ },
+ {
+   "channel_name": "BelRTL Vision",
+   "epg_code": "BelRTL.be",
+   "popularity": 41
+ },
+ {
+   "channel_name": "BFM Paris",
+   "epg_code": "BFMParis.fr",
+   "popularity": 30322
+ },
+ {
+   "channel_name": "CANAL 2 INTER",
+   "epg_code": "CANAL2INTER.cmr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Canal 9",
+   "epg_code": "Canal9.ch",
+   "popularity": 79
+ },
+ {
+   "channel_name": "Canal C",
+   "epg_code": "CanalC.be",
+   "popularity": 546
+ },
+ {
+   "channel_name": "Canal Savoir",
+   "epg_code": "CanalSavoir.fr",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Canal Zoom",
+   "epg_code": "CanalZoom.be",
+   "popularity": 407
+ },
+ {
+   "channel_name": "ChChing",
+   "epg_code": "CHCH.cdn",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Cine 12",
+   "epg_code": "Cine12.mu",
+   "popularity": 9
+ },
+ {
+   "channel_name": "CPAC",
+   "epg_code": "CPAC.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Demain TV",
+   "epg_code": "DemainTV.fr",
+   "popularity": 633
+ },
+ {
+   "channel_name": "Dobbit TV",
+   "epg_code": "DobbitTV.be",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Enorme TV",
+   "epg_code": "EnormeTV.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ICI Canal international HD",
+   "epg_code": "ICICanalinternationalHD",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ICI Radio-Canada Télé (Acadie)",
+   "epg_code": "ICI-RCT.ca",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ICI Radio-Canada Télé (Montréal)",
+   "epg_code": "ICI-RCT.fr",
+   "popularity": 47
+ },
+ {
+   "channel_name": "ICI Réseau de l'Information",
+   "epg_code": "ICI-RDI.fr",
+   "popularity": 87
+ },
+ {
+   "channel_name": "IDF1",
+   "epg_code": "IDF1.fr",
+   "popularity": 2395
+ },
+ {
+   "channel_name": "Indies Live",
+   "epg_code": "IndiesLive.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "la chaine normande",
+   "epg_code": "lachainenormande.fr",
+   "popularity": 82
+ },
+ {
+   "channel_name": "La Télé [HD]",
+   "epg_code": "LaTele.ch",
+   "popularity": 10
+ },
+ {
+   "channel_name": "LCN",
+   "epg_code": "LeCanalNouvelles.fr",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Leman Blue",
+   "epg_code": "LemanBleu.ch",
+   "popularity": 81
+ },
+ {
+   "channel_name": "LFM TV",
+   "epg_code": "LFMTV.ch",
+   "popularity": 58
+ },
+ {
+   "channel_name": "MA TV",
+   "epg_code": "MATV.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MaTélé",
+   "epg_code": "MaTele.be",
+   "popularity": 291
+ },
+ {
+   "channel_name": "Med1 tv Afrique",
+   "epg_code": "Med1.tv.Afrique.ma",
+   "popularity": 1727
+ },
+ {
+   "channel_name": "Mega Cosmos",
+   "epg_code": "MegaCosmos.gr",
+   "popularity": 4
+ },
+ {
+   "channel_name": "MEN’S UP TV",
+   "epg_code": "MensUpTV.fr",
+   "popularity": 95
+ },
+ {
+   "channel_name": "Monde Du Loisir",
+   "epg_code": "MondeDuLoisir.fr",
+   "popularity": 1
+ },
+ {
+   "channel_name": "MySports1F",
+   "epg_code": "MySports1F.ch",
+   "popularity": 5
+ },
+ {
+   "channel_name": "MySports2F",
+   "epg_code": "MySports2F.ch",
+   "popularity": 1
+ },
+ {
+   "channel_name": "MySports3F",
+   "epg_code": "MySports3F.ch",
+   "popularity": 1
+ },
+ {
+   "channel_name": "MySports4F",
+   "epg_code": "MySports4F.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MySports5F",
+   "epg_code": "MySports5F.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MySports6F",
+   "epg_code": "MySports6F.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MySports7F",
+   "epg_code": "MySports7F.ch",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MySportsF",
+   "epg_code": "MySportsF.ch",
+   "popularity": 2
+ },
+ {
+   "channel_name": "No télé",
+   "epg_code": "NoTele.be",
+   "popularity": 387
+ },
+ {
+   "channel_name": "OnAirTV",
+   "epg_code": "OnAirTV.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "One TV",
+   "epg_code": "OneTV.ch",
+   "popularity": 6813
+ },
+ {
+   "channel_name": "Ouatch TV",
+   "epg_code": "Ouatch-tv.fr",
+   "popularity": 25
+ },
+ {
+   "channel_name": "Pitchoun",
+   "epg_code": "Pitchoun.fr",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Provence Azure",
+   "epg_code": "ProvenceAzur.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RDS",
+   "epg_code": "RDS.fr",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Ring TV",
+   "epg_code": "RingTV.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rouge TV",
+   "epg_code": "RougeTV.ch",
+   "popularity": 1512
+ },
+ {
+   "channel_name": "RTC Liège",
+   "epg_code": "RTCLiege.be",
+   "popularity": 57
+ },
+ {
+   "channel_name": "RTV Kempen Noord",
+   "epg_code": "RTVKempenNoord.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTV Kempen Oost",
+   "epg_code": "RTVKempenOost.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTV Kempen West",
+   "epg_code": "RTVKempenWest.be",
+   "popularity": 8
+ },
+ {
+   "channel_name": "RTV Mechelen",
+   "epg_code": "RTVMechelen.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Tebesud",
+   "epg_code": "Tebesud.fr",
+   "popularity": 110
+ },
+ {
+   "channel_name": "Tele Basel",
+   "epg_code": "TeleBasel.ch",
+   "popularity": 1373
+ },
+ {
+   "channel_name": "Tele Bielingue",
+   "epg_code": "TeleBielingue.ch",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Télé Bruxelles",
+   "epg_code": "TeleBruxelles.be",
+   "popularity": 90
+ },
+ {
+   "channel_name": "Télé Congo",
+   "epg_code": "TeleCongo.COD",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Tele Grenoble",
+   "epg_code": "TeleGrenoble.fr",
+   "popularity": 93
+ },
+ {
+   "channel_name": "Télé Loire 7",
+   "epg_code": "TL7.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Télé Mons Borinage",
+   "epg_code": "TeleMonsBorinage.be",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Télé Québec",
+   "epg_code": "TéléQuébec.fr",
+   "popularity": 152
+ },
+ {
+   "channel_name": "TéléNantes",
+   "epg_code": "TeleNantes.fr",
+   "popularity": 169
+ },
+ {
+   "channel_name": "Télésambre",
+   "epg_code": "Telesambre.be",
+   "popularity": 155
+ },
+ {
+   "channel_name": "Télévesdre",
+   "epg_code": "Televesdre.be",
+   "popularity": 55
+ },
+ {
+   "channel_name": "Trace Gospel",
+   "epg_code": "TraceGospel.fr",
+   "popularity": 313
+ },
+ {
+   "channel_name": "Trace Kitoko",
+   "epg_code": "TraceKitoko.fr",
+   "popularity": 82
+ },
+ {
+   "channel_name": "Trace Mziki",
+   "epg_code": "TraceMziki.fr",
+   "popularity": 274
+ },
+ {
+   "channel_name": "Trace Naija",
+   "epg_code": "TraceNaija.fr",
+   "popularity": 366
+ },
+ {
+   "channel_name": "Trace Toca",
+   "epg_code": "TraceToca.fr",
+   "popularity": 1199
+ },
+ {
+   "channel_name": "Trace Tropical",
+   "epg_code": "TraceTropical.fr",
+   "popularity": 2081
+ },
+ {
+   "channel_name": "TV Com",
+   "epg_code": "TVCom.be",
+   "popularity": 14
+ },
+ {
+   "channel_name": "TV Lux",
+   "epg_code": "TVLux.be",
+   "popularity": 609
+ },
+ {
+   "channel_name": "TV Rennes 35 Bretagne",
+   "epg_code": "TVRRennes35.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Vendée",
+   "epg_code": "TV-Vendee.fr",
+   "popularity": 502
+ },
+ {
+   "channel_name": "TV5MONDE Amérique latine et Caraïbes",
+   "epg_code": "TV5MONDEAmeriqueLatine.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV5MONDE Asie",
+   "epg_code": "TV5MONDEAsie.fr",
+   "popularity": 20
+ },
+ {
+   "channel_name": "TVA",
+   "epg_code": "TVANetworks.fr",
+   "popularity": 1495
+ },
+ {
+   "channel_name": "TVA Sports",
+   "epg_code": "TVASports.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TVM3",
+   "epg_code": "TVM3.ch",
+   "popularity": 232
+ },
+ {
+   "channel_name": "V Télé",
+   "epg_code": "VTélé.fr",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Var Azure",
+   "epg_code": "VarAzur.fr",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Virgin Radio",
+   "epg_code": "virginradio.fr",
+   "popularity": 285
+ },
+ {
+   "channel_name": "Wéo",
+   "epg_code": "Weo.fr",
+   "popularity": 1969
+ }
+]

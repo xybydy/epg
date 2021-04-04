@@ -1,0 +1,732 @@
+[
+ {
+   "channel_name": "1 Baltijskij kanal",
+   "epg_code": "1tv-lt",
+   "popularity": 1974
+ },
+ {
+   "channel_name": "3+",
+   "epg_code": "3_plus",
+   "popularity": 3123
+ },
+ {
+   "channel_name": "Animal planet",
+   "epg_code": "AnimalPlanet.blt",
+   "popularity": 758
+ },
+ {
+   "channel_name": "Animal Planet EU",
+   "epg_code": "AnimalPlanet.ee",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Balticum",
+   "epg_code": "balt-tv",
+   "popularity": 3573
+ },
+ {
+   "channel_name": "Balticum auksinis",
+   "epg_code": "balt-auks",
+   "popularity": 5106
+ },
+ {
+   "channel_name": "Balticum Platinum",
+   "epg_code": "balt-plat-lt",
+   "popularity": 4363
+ },
+ {
+   "channel_name": "Boec",
+   "epg_code": "Boec.blt",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.blt",
+   "popularity": 141
+ },
+ {
+   "channel_name": "BTV",
+   "epg_code": "baltijos-lt",
+   "popularity": 83590
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.blt",
+   "popularity": 644
+ },
+ {
+   "channel_name": "Deutsche Welle",
+   "epg_code": "dwelle-en",
+   "popularity": 272
+ },
+ {
+   "channel_name": "Discovery",
+   "epg_code": "Discovery.blt",
+   "popularity": 190
+ },
+ {
+   "channel_name": "Discovery Channel EE",
+   "epg_code": "Discovery.ee",
+   "popularity": 580
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "DiscoveryHDShowcase.blt",
+   "popularity": 315
+ },
+ {
+   "channel_name": "Discovery ID XTRA",
+   "epg_code": "DiscoveryIDXtra.ee",
+   "popularity": 492
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.blt",
+   "popularity": 1218
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.blt",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Disney",
+   "epg_code": "disney-blt",
+   "popularity": 71
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "disney-xd-blt",
+   "popularity": 6095
+ },
+ {
+   "channel_name": "Dzūkijos TV",
+   "epg_code": "dzukijos",
+   "popularity": 191
+ },
+ {
+   "channel_name": "E Entertainment TV",
+   "epg_code": "E.blt",
+   "popularity": 10607
+ },
+ {
+   "channel_name": "ETV",
+   "epg_code": "ETV.ee",
+   "popularity": 1052
+ },
+ {
+   "channel_name": "ETV+",
+   "epg_code": "ETVPlus.ee",
+   "popularity": 564
+ },
+ {
+   "channel_name": "ETV2",
+   "epg_code": "ETV2.ee",
+   "popularity": 587
+ },
+ {
+   "channel_name": "Euronews",
+   "epg_code": "euro-en",
+   "popularity": 668
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport.blt",
+   "popularity": 1324
+ },
+ {
+   "channel_name": "Eurosport 1 EE",
+   "epg_code": "Eurosport1.ee",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.blt",
+   "popularity": 539
+ },
+ {
+   "channel_name": "Eurosport 2 EE",
+   "epg_code": "Eurosport2.ee",
+   "popularity": 1242
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.blt",
+   "popularity": 383
+ },
+ {
+   "channel_name": "Filmbox Baltic",
+   "epg_code": "Filmbox.lt",
+   "popularity": 1027
+ },
+ {
+   "channel_name": "FILMZONE",
+   "epg_code": "Filmzone.ee",
+   "popularity": 112
+ },
+ {
+   "channel_name": "Filmzone",
+   "epg_code": "Filmzone.blt",
+   "popularity": 4986
+ },
+ {
+   "channel_name": "Filmzone LT",
+   "epg_code": "Filmzone.lt",
+   "popularity": 2258
+ },
+ {
+   "channel_name": "FILMZONE+",
+   "epg_code": "FilmzonePlus.ee",
+   "popularity": 38
+ },
+ {
+   "channel_name": "Filmzone+",
+   "epg_code": "FilmzonePlus.blt",
+   "popularity": 5130
+ },
+ {
+   "channel_name": "Filmzone+ LT",
+   "epg_code": "FilmzonePlus.lt",
+   "popularity": 784
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.ee",
+   "popularity": 64
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "Fox.lt",
+   "popularity": 331
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FoxLife.ee",
+   "popularity": 72
+ },
+ {
+   "channel_name": "FOX Life",
+   "epg_code": "FoxLife.lt",
+   "popularity": 482
+ },
+ {
+   "channel_name": "GNTV",
+   "epg_code": "GNTV.lt",
+   "popularity": 579
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "history-en",
+   "popularity": 907
+ },
+ {
+   "channel_name": "History Europe",
+   "epg_code": "History.ee",
+   "popularity": 1416
+ },
+ {
+   "channel_name": "Info TV HD (hevc)",
+   "epg_code": "info-tv",
+   "popularity": 22403
+ },
+ {
+   "channel_name": "Init Ekstra TV",
+   "epg_code": "InitEkstraTV.lt",
+   "popularity": 240
+ },
+ {
+   "channel_name": "Init TV HD",
+   "epg_code": "init-lt",
+   "popularity": 3244
+ },
+ {
+   "channel_name": "K1 HD Movie Channel",
+   "epg_code": "HD1.blt",
+   "popularity": 1430
+ },
+ {
+   "channel_name": "K1 Movie Channel",
+   "epg_code": "K1.blt",
+   "popularity": 10
+ },
+ {
+   "channel_name": "K2 Movie Channel",
+   "epg_code": "K2.blt",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Kanal 11",
+   "epg_code": "Kanal11.ee",
+   "popularity": 331
+ },
+ {
+   "channel_name": "Kanal2",
+   "epg_code": "Kanal2.ee",
+   "popularity": 749
+ },
+ {
+   "channel_name": "Kanals 12 Estonia",
+   "epg_code": "Kanal12.ee",
+   "popularity": 655
+ },
+ {
+   "channel_name": "Kidzone",
+   "epg_code": "Kidzone.blt",
+   "popularity": 2220
+ },
+ {
+   "channel_name": "Kidzone TV",
+   "epg_code": "KidZone.ee",
+   "popularity": 66423
+ },
+ {
+   "channel_name": "Kidzone+",
+   "epg_code": "KidzonePlus.lt",
+   "popularity": 1281
+ },
+ {
+   "channel_name": "Kidzone+ EE",
+   "epg_code": "KidzonePlus.ee",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Lietuvos rytas TV HD",
+   "epg_code": "rytas-lt",
+   "popularity": 15730
+ },
+ {
+   "channel_name": "Liuks!",
+   "epg_code": "liuks",
+   "popularity": 3962
+ },
+ {
+   "channel_name": "LNK HD (hevc)",
+   "epg_code": "lnk-lt",
+   "popularity": 166385
+ },
+ {
+   "channel_name": "Lolo TV",
+   "epg_code": "LoloTV.ee",
+   "popularity": 468
+ },
+ {
+   "channel_name": "LRT HD (hevc)",
+   "epg_code": "lrt",
+   "popularity": 109477
+ },
+ {
+   "channel_name": "LRT Lituanica",
+   "epg_code": "ltv-world",
+   "popularity": 626
+ },
+ {
+   "channel_name": "LRT Plius HD",
+   "epg_code": "lrtkult",
+   "popularity": 75855
+ },
+ {
+   "channel_name": "LTV1",
+   "epg_code": "ltv1-lat",
+   "popularity": 7752
+ },
+ {
+   "channel_name": "LTV7",
+   "epg_code": "ltv7-lat",
+   "popularity": 5178
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.blt",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Mezzo Live HD",
+   "epg_code": "MezzoLiveHD.blt",
+   "popularity": 279
+ },
+ {
+   "channel_name": "MyHits",
+   "epg_code": "MyHits.ee",
+   "popularity": 45
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.blt",
+   "popularity": 132
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NatGeo.blt",
+   "popularity": 845
+ },
+ {
+   "channel_name": "National Geographic EE",
+   "epg_code": "NatGeo.ee",
+   "popularity": 405
+ },
+ {
+   "channel_name": "NBA TV",
+   "epg_code": "NBA.blt",
+   "popularity": 16372
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.blt",
+   "popularity": 36676
+ },
+ {
+   "channel_name": "NTV Mir Lietuva",
+   "epg_code": "NTVMir.lt",
+   "popularity": 1302
+ },
+ {
+   "channel_name": "PanTV",
+   "epg_code": "pantv-lt",
+   "popularity": 0
+ },
+ {
+   "channel_name": "PBK",
+   "epg_code": "PBK.ee",
+   "popularity": 54
+ },
+ {
+   "channel_name": "Penki TV",
+   "epg_code": "penki-lt",
+   "popularity": 0
+ },
+ {
+   "channel_name": "PinGviniUkas TV",
+   "epg_code": "LoloTV.lt",
+   "popularity": 1663
+ },
+ {
+   "channel_name": "Pirmais Baltijas Kanāls",
+   "epg_code": "1tv-lat",
+   "popularity": 2929
+ },
+ {
+   "channel_name": "Play TV",
+   "epg_code": "PlayTV.lt",
+   "popularity": 603
+ },
+ {
+   "channel_name": "Pūkas TV",
+   "epg_code": "pukas",
+   "popularity": 1003
+ },
+ {
+   "channel_name": "Re:TV",
+   "epg_code": "ReTV.lv",
+   "popularity": 5082
+ },
+ {
+   "channel_name": "REN Baltija",
+   "epg_code": "ren_baltija",
+   "popularity": 1532
+ },
+ {
+   "channel_name": "REN TV Lietuva",
+   "epg_code": "ren_lietuva",
+   "popularity": 1416
+ },
+ {
+   "channel_name": "RENTV Eesti",
+   "epg_code": "RenTV.ee",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Riga TV24",
+   "epg_code": "RigaTV24.lv",
+   "popularity": 2199
+ },
+ {
+   "channel_name": "Setanta Eurasia",
+   "epg_code": "Setanta.blt",
+   "popularity": 103
+ },
+ {
+   "channel_name": "Šiaulių TV",
+   "epg_code": "siauliu",
+   "popularity": 2339
+ },
+ {
+   "channel_name": "Sony Channel",
+   "epg_code": "SonyChannel.lt",
+   "popularity": 651
+ },
+ {
+   "channel_name": "SONY Entertainment",
+   "epg_code": "SonyEntertainment.lt",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Sony Turbo",
+   "epg_code": "sony-turbo-lat",
+   "popularity": 974
+ },
+ {
+   "channel_name": "Sony Turbo Baltic",
+   "epg_code": "SonyTurbo.blt",
+   "popularity": 464
+ },
+ {
+   "channel_name": "Sony Turbo EE",
+   "epg_code": "SonyTurbo.ee",
+   "popularity": 53
+ },
+ {
+   "channel_name": "SONY TV EE",
+   "epg_code": "SonyTV.ee",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Splius",
+   "epg_code": "splius-lt",
+   "popularity": 321
+ },
+ {
+   "channel_name": "Sport 1 LT HD",
+   "epg_code": "sport1-lt",
+   "popularity": 4317
+ },
+ {
+   "channel_name": "Sportacentrs",
+   "epg_code": "Sportacentrs.lv",
+   "popularity": 754
+ },
+ {
+   "channel_name": "Tavo TV",
+   "epg_code": "TavoTV.lt",
+   "popularity": 98096
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "tlc",
+   "popularity": 4800
+ },
+ {
+   "channel_name": "TLC EE",
+   "epg_code": "TLC.ee",
+   "popularity": 34
+ },
+ {
+   "channel_name": "TNT Film",
+   "epg_code": "tnt-film-lt",
+   "popularity": 1184
+ },
+ {
+   "channel_name": "Travel channel",
+   "epg_code": "TravelChannel.blt",
+   "popularity": 768
+ },
+ {
+   "channel_name": "TV1 Lithuania HD (hevc)",
+   "epg_code": "tv1-lt",
+   "popularity": 22475
+ },
+ {
+   "channel_name": "TV1000",
+   "epg_code": "TV1000.ee",
+   "popularity": 654
+ },
+ {
+   "channel_name": "TV1000",
+   "epg_code": "TV1000.lv",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV1000 Action",
+   "epg_code": "TV1000Action.ee",
+   "popularity": 96
+ },
+ {
+   "channel_name": "TV1000 Action",
+   "epg_code": "TV1000Action.lt",
+   "popularity": 1246
+ },
+ {
+   "channel_name": "TV1000 East",
+   "epg_code": "TV1000East.lt",
+   "popularity": 1194
+ },
+ {
+   "channel_name": "TV1000 Russkoje Kino Latvija",
+   "epg_code": "TV1000RusskojeKino.lv",
+   "popularity": 6
+ },
+ {
+   "channel_name": "TV3 EE",
+   "epg_code": "tv3-est",
+   "popularity": 1953
+ },
+ {
+   "channel_name": "TV3 Film EE",
+   "epg_code": "TV1000Premium.ee",
+   "popularity": 99
+ },
+ {
+   "channel_name": "TV3 Film LT",
+   "epg_code": "tv1000-premium-lt",
+   "popularity": 47868
+ },
+ {
+   "channel_name": "TV3 Film LV",
+   "epg_code": "TV1000Premium.lv",
+   "popularity": 1014
+ },
+ {
+   "channel_name": "TV3 Life",
+   "epg_code": "lnt-lat",
+   "popularity": 4617
+ },
+ {
+   "channel_name": "TV3 Lithuania HD (hevc)",
+   "epg_code": "tv3-lt",
+   "popularity": 137215
+ },
+ {
+   "channel_name": "TV3 LV",
+   "epg_code": "tv3-lat",
+   "popularity": 14497
+ },
+ {
+   "channel_name": "TV3 Mini",
+   "epg_code": "kanals2-lat",
+   "popularity": 2564
+ },
+ {
+   "channel_name": "TV3 Sport 2 EE",
+   "epg_code": "TVPlaySportsPlus.ee",
+   "popularity": 539
+ },
+ {
+   "channel_name": "TV3 Sport 2 LT HD",
+   "epg_code": "TVPlaySportsPlus.lt",
+   "popularity": 6404
+ },
+ {
+   "channel_name": "TV3 Sport 2 LV HD",
+   "epg_code": "TVPlaySportsPlus.lv",
+   "popularity": 1582
+ },
+ {
+   "channel_name": "TV3 Sport EE",
+   "epg_code": "TVPlaySports.ee",
+   "popularity": 810
+ },
+ {
+   "channel_name": "TV3 Sport LT HD",
+   "epg_code": "TVPlaySports.lt",
+   "popularity": 9544
+ },
+ {
+   "channel_name": "TV3 Sport LV HD",
+   "epg_code": "TVPlaySports.lv",
+   "popularity": 1101
+ },
+ {
+   "channel_name": "TV3+",
+   "epg_code": "tv3plus-est",
+   "popularity": 241
+ },
+ {
+   "channel_name": "TV6 Estonia",
+   "epg_code": "TV6.ee",
+   "popularity": 541
+ },
+ {
+   "channel_name": "TV6 Lithuania HD (hevc)",
+   "epg_code": "tv6-lt",
+   "popularity": 104224
+ },
+ {
+   "channel_name": "TV6 LV",
+   "epg_code": "tv6-lat",
+   "popularity": 6321
+ },
+ {
+   "channel_name": "TV7 EE",
+   "epg_code": "TV7.ee",
+   "popularity": 6
+ },
+ {
+   "channel_name": "TV7 LT",
+   "epg_code": "tv7-lt",
+   "popularity": 235
+ },
+ {
+   "channel_name": "TV8 Lithuania HD (hevc)",
+   "epg_code": "tv8-lt",
+   "popularity": 184548
+ },
+ {
+   "channel_name": "Viasat Explore",
+   "epg_code": "ViasatExplore.ee",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.lt",
+   "popularity": 625
+ },
+ {
+   "channel_name": "Viasat Golf",
+   "epg_code": "viasat-golf",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Viasat History EE",
+   "epg_code": "ViasatHistory.ee",
+   "popularity": 46
+ },
+ {
+   "channel_name": "Viasat History LT",
+   "epg_code": "ViasatHistory.lt",
+   "popularity": 1024
+ },
+ {
+   "channel_name": "Viasat Motor",
+   "epg_code": "viasat-motor",
+   "popularity": 578
+ },
+ {
+   "channel_name": "Viasat Motor EE",
+   "epg_code": "ViasatMotor.ee",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viasat Nature",
+   "epg_code": "ViasatNature.lt",
+   "popularity": 429
+ },
+ {
+   "channel_name": "VIASAT Nature East",
+   "epg_code": "ViasatNature.ee",
+   "popularity": 9
+ },
+ {
+   "channel_name": "VIASAT Nature East",
+   "epg_code": "ViasatNature.lv",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viasat Sport Baltic",
+   "epg_code": "viasat_sport_baltic",
+   "popularity": 1529
+ },
+ {
+   "channel_name": "Žvaigždė",
+   "epg_code": "zvaigzde",
+   "popularity": 99
+ },
+ {
+   "channel_name": "СТС International Балтия",
+   "epg_code": "sts-baltic",
+   "popularity": 911
+ },
+ {
+   "channel_name": "ТНТ International Baltic",
+   "epg_code": "tnt-international-baltic",
+   "popularity": 1458
+ }
+]

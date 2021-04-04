@@ -1,0 +1,1202 @@
+[
+ {
+   "channel_name": "100% NL TV",
+   "epg_code": "100NLTV.nl",
+   "popularity": 150106
+ },
+ {
+   "channel_name": "192 tv",
+   "epg_code": "192tv.nl",
+   "popularity": 6663
+ },
+ {
+   "channel_name": "24kitchen",
+   "epg_code": "24kitchen.nl",
+   "popularity": 10820
+ },
+ {
+   "channel_name": "2be",
+   "epg_code": "Q2.be",
+   "popularity": 4435
+ },
+ {
+   "channel_name": "2ten RTL HD",
+   "epg_code": "2tenRTL.lu",
+   "popularity": 58
+ },
+ {
+   "channel_name": "AB 3",
+   "epg_code": "AB3.be",
+   "popularity": 32563
+ },
+ {
+   "channel_name": "Actua TV",
+   "epg_code": "Actua.be",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.be",
+   "popularity": 379
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.nl",
+   "popularity": 118865
+ },
+ {
+   "channel_name": "Antenne Centre",
+   "epg_code": "AntenneCentre.be",
+   "popularity": 506
+ },
+ {
+   "channel_name": "ARTE",
+   "epg_code": "Arte.be",
+   "popularity": 273
+ },
+ {
+   "channel_name": "AT5",
+   "epg_code": "AT5.nl",
+   "popularity": 3344
+ },
+ {
+   "channel_name": "ATV",
+   "epg_code": "ATV.be",
+   "popularity": 510
+ },
+ {
+   "channel_name": "AVS Gent",
+   "epg_code": "AVSGent.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Baby TV NL",
+   "epg_code": "BabyTV.nl",
+   "popularity": 9802
+ },
+ {
+   "channel_name": "BBC Entertainment (Europe)",
+   "epg_code": "BBCEntertainment.nl",
+   "popularity": 3
+ },
+ {
+   "channel_name": "BBCFirst",
+   "epg_code": "BBCFirst.nl",
+   "popularity": 776
+ },
+ {
+   "channel_name": "BE 1",
+   "epg_code": "Be1.be",
+   "popularity": 2837
+ },
+ {
+   "channel_name": "Be Ciné",
+   "epg_code": "BeCine1.be",
+   "popularity": 1882
+ },
+ {
+   "channel_name": "Be Séries",
+   "epg_code": "BeSeries.be",
+   "popularity": 1405
+ },
+ {
+   "channel_name": "Be1 +1",
+   "epg_code": "Be1Plus1.be",
+   "popularity": 56
+ },
+ {
+   "channel_name": "Boomerang (Netherlands)",
+   "epg_code": "Boomerang.nl",
+   "popularity": 6171
+ },
+ {
+   "channel_name": "Brava NL Klassiek",
+   "epg_code": "StingrayBrava.nl",
+   "popularity": 92
+ },
+ {
+   "channel_name": "BRF Fernsehen",
+   "epg_code": "BRFFernsehen.be",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Canvas",
+   "epg_code": "Canvas.be",
+   "popularity": 5833
+ },
+ {
+   "channel_name": "Cartoon Network (Netherlands)",
+   "epg_code": "CartoonNetwork.nl",
+   "popularity": 6343
+ },
+ {
+   "channel_name": "Cartoon Network Sat",
+   "epg_code": "CartoonNetworkSat.nl",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CAZ",
+   "epg_code": "CAZ.be",
+   "popularity": 1024
+ },
+ {
+   "channel_name": "CAZ2",
+   "epg_code": "CAZ2.be",
+   "popularity": 160
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.nl",
+   "popularity": 832
+ },
+ {
+   "channel_name": "CINE + CLASSIC BE",
+   "epg_code": "CINECLASSIC.BE",
+   "popularity": 450
+ },
+ {
+   "channel_name": "CINE + FRISSON BE",
+   "epg_code": "CINEFRISSON.BE",
+   "popularity": 16
+ },
+ {
+   "channel_name": "CINE + PREMIER BE",
+   "epg_code": "CINEPREMIER.BE",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Club RTL",
+   "epg_code": "ClubRTL.be",
+   "popularity": 7559
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.be",
+   "popularity": 202
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralXtra.nl",
+   "popularity": 3104
+ },
+ {
+   "channel_name": "Comedy Central Family",
+   "epg_code": "ComedyCentralFamily.be",
+   "popularity": 1044
+ },
+ {
+   "channel_name": "Comedy Central Netherlands",
+   "epg_code": "ComedyCentral.nl",
+   "popularity": 5925
+ },
+ {
+   "channel_name": "Crime And Investigation",
+   "epg_code": "CrimeAndInvestigation.nl",
+   "popularity": 4717
+ },
+ {
+   "channel_name": "DanceTrippin",
+   "epg_code": "DanceTrippin.nl",
+   "popularity": 658
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "Discovery.nl",
+   "popularity": 6406
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.be",
+   "popularity": 1843
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.be",
+   "popularity": 3201
+ },
+ {
+   "channel_name": "Discovery World (Netherlands)",
+   "epg_code": "DiscoveryWorld.nl",
+   "popularity": 4548
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.nl",
+   "popularity": 7061
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJr.nl",
+   "popularity": 1107
+ },
+ {
+   "channel_name": "Disney XD (Netherlands)",
+   "epg_code": "DisneyXD.nl",
+   "popularity": 1463
+ },
+ {
+   "channel_name": "DJAZZ.tv",
+   "epg_code": "StingrayDjazz.nl",
+   "popularity": 149
+ },
+ {
+   "channel_name": "duck tv",
+   "epg_code": "DuckTV.eunl",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Dusk Deluxe",
+   "epg_code": "Dusk.nl",
+   "popularity": 7895
+ },
+ {
+   "channel_name": "E! Entertainment HDTV (Netherlands)",
+   "epg_code": "E!Entertainment.nl",
+   "popularity": 1988
+ },
+ {
+   "channel_name": "E! Pop of Culture",
+   "epg_code": "E!PopofCulture.nl",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Eclips",
+   "epg_code": "Eclips.be",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Edge sport",
+   "epg_code": "EdgeSport.nl",
+   "popularity": 1649
+ },
+ {
+   "channel_name": "Een",
+   "epg_code": "een.be",
+   "popularity": 9258
+ },
+ {
+   "channel_name": "Eleven Pro League 1 (FR) [HD",
+   "epg_code": "ElevenProLeague1FR.be",
+   "popularity": 270
+ },
+ {
+   "channel_name": "Eleven Pro League 1 (NL) [HD",
+   "epg_code": "ElevenProLeague1NL.be",
+   "popularity": 166
+ },
+ {
+   "channel_name": "Eleven Pro League 2 (FR) [HD",
+   "epg_code": "ElevenProLeague2FR.be",
+   "popularity": 166
+ },
+ {
+   "channel_name": "Eleven Pro League 2 (NL) [HD",
+   "epg_code": "ElevenProLeague2NL.be",
+   "popularity": 96
+ },
+ {
+   "channel_name": "Eleven Pro League 3 (FR) [HD",
+   "epg_code": "ElevenProLeague3FR.be",
+   "popularity": 139
+ },
+ {
+   "channel_name": "Eleven Pro League 3 (NL) [HD",
+   "epg_code": "ElevenProLeague3NL.be",
+   "popularity": 83
+ },
+ {
+   "channel_name": "ES1 F",
+   "epg_code": "ElevenSports1F.be",
+   "popularity": 150
+ },
+ {
+   "channel_name": "ES1 N",
+   "epg_code": "ElevenSports1N.be",
+   "popularity": 105
+ },
+ {
+   "channel_name": "ES2 F",
+   "epg_code": "ElevenSports2F.be",
+   "popularity": 117
+ },
+ {
+   "channel_name": "ES2 N",
+   "epg_code": "ElevenSports2N.be",
+   "popularity": 123
+ },
+ {
+   "channel_name": "ES3 F",
+   "epg_code": "ElevenSports3F.be",
+   "popularity": 302
+ },
+ {
+   "channel_name": "Eurosport1 - Belgium",
+   "epg_code": "Eurosport1.be",
+   "popularity": 161
+ },
+ {
+   "channel_name": "Eurosport1 - Dutch",
+   "epg_code": "Eurosport1.nl",
+   "popularity": 5436
+ },
+ {
+   "channel_name": "Eurosport2 - Belgium",
+   "epg_code": "Eurosport2.be",
+   "popularity": 160
+ },
+ {
+   "channel_name": "Eurosport2 - Dutch",
+   "epg_code": "Eurosport2.nl",
+   "popularity": 4186
+ },
+ {
+   "channel_name": "Eventkanaal",
+   "epg_code": "Eventkanaal.nl",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.nl",
+   "popularity": 1369
+ },
+ {
+   "channel_name": "Family 7",
+   "epg_code": "Family7.nl",
+   "popularity": 1368
+ },
+ {
+   "channel_name": "Film Action",
+   "epg_code": "Film1Action.nl",
+   "popularity": 84947
+ },
+ {
+   "channel_name": "Film Comedy and Kids",
+   "epg_code": "Film1Family.nl",
+   "popularity": 17773
+ },
+ {
+   "channel_name": "Film Premier",
+   "epg_code": "Film1Premiere.nl",
+   "popularity": 28269
+ },
+ {
+   "channel_name": "Film Spotlight",
+   "epg_code": "Film1Series.nl",
+   "popularity": 5846
+ },
+ {
+   "channel_name": "Film1Premiere +1",
+   "epg_code": "Film1Plus1.nl",
+   "popularity": 13787
+ },
+ {
+   "channel_name": "Fishing and Hunting TV",
+   "epg_code": "FishingHuntingTV.nl",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Focus TV",
+   "epg_code": "FocusTV.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "FOX.be",
+   "popularity": 427
+ },
+ {
+   "channel_name": "FOX channel",
+   "epg_code": "FOX.nl",
+   "popularity": 18430
+ },
+ {
+   "channel_name": "FOX Sport 2",
+   "epg_code": "FOXsport2.nl",
+   "popularity": 20117
+ },
+ {
+   "channel_name": "FOX Sport 4",
+   "epg_code": "FOXsport4.nl",
+   "popularity": 11822
+ },
+ {
+   "channel_name": "FOX Sports 1 Eredivisie",
+   "epg_code": "FoxSport1.nl",
+   "popularity": 29514
+ },
+ {
+   "channel_name": "FOX Sports 3 Eredivisie 2",
+   "epg_code": "FoxSport3.nl",
+   "popularity": 11231
+ },
+ {
+   "channel_name": "FOX Sports 5 Eredivisie",
+   "epg_code": "FOXSportsEredivisie5.nl",
+   "popularity": 9505
+ },
+ {
+   "channel_name": "Fox Sports 6",
+   "epg_code": "FoxSports6.nl",
+   "popularity": 10832
+ },
+ {
+   "channel_name": "History",
+   "epg_code": "HistoryHD.be",
+   "popularity": 5342
+ },
+ {
+   "channel_name": "Horse Country TV",
+   "epg_code": "HorseCountry.nl",
+   "popularity": 269
+ },
+ {
+   "channel_name": "Investigation Discovery Cable",
+   "epg_code": "ID.nl",
+   "popularity": 1115
+ },
+ {
+   "channel_name": "Jenz",
+   "epg_code": "CTVZeeland.nl",
+   "popularity": 3
+ },
+ {
+   "channel_name": "KanaalZ",
+   "epg_code": "KanaalZ.be",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Ketnet",
+   "epg_code": "Ketnet.be",
+   "popularity": 4910
+ },
+ {
+   "channel_name": "L1",
+   "epg_code": "L1.nl",
+   "popularity": 2128
+ },
+ {
+   "channel_name": "L1",
+   "epg_code": "Provinciaal2.nl",
+   "popularity": 0
+ },
+ {
+   "channel_name": "La Deux",
+   "epg_code": "LaDeux.be",
+   "popularity": 10862
+ },
+ {
+   "channel_name": "La Trois",
+   "epg_code": "LaTrois.be",
+   "popularity": 10643
+ },
+ {
+   "channel_name": "La Une",
+   "epg_code": "LaUne.be",
+   "popularity": 22583
+ },
+ {
+   "channel_name": "Lite TV",
+   "epg_code": "LiteTV.nl",
+   "popularity": 246
+ },
+ {
+   "channel_name": "Love Nature HD",
+   "epg_code": "LoveNature.be",
+   "popularity": 175
+ },
+ {
+   "channel_name": "Love Nature HD",
+   "epg_code": "LoveNature.nl",
+   "popularity": 10153
+ },
+ {
+   "channel_name": "Mediaset Italia",
+   "epg_code": "MediasetItaliaInt.nl",
+   "popularity": 25
+ },
+ {
+   "channel_name": "MENT TV",
+   "epg_code": "MENT.be",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.be",
+   "popularity": 567
+ },
+ {
+   "channel_name": "Motors TV",
+   "epg_code": "MotorsTV.nl",
+   "popularity": 54
+ },
+ {
+   "channel_name": "Motorsport TV",
+   "epg_code": "Motorsport.tv.nl",
+   "popularity": 18
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.be",
+   "popularity": 24
+ },
+ {
+   "channel_name": "MTV Brand New",
+   "epg_code": "MTVBrandNew.nl",
+   "popularity": 646
+ },
+ {
+   "channel_name": "MTV Music 24",
+   "epg_code": "MTVMusic24.nl",
+   "popularity": 5295
+ },
+ {
+   "channel_name": "MTV Nederland",
+   "epg_code": "mtv.nl",
+   "popularity": 5235
+ },
+ {
+   "channel_name": "Museum",
+   "epg_code": "Museum.nl",
+   "popularity": 68
+ },
+ {
+   "channel_name": "MvH Hard (Xotix)",
+   "epg_code": "MeidenVanHolland.nl",
+   "popularity": 29622
+ },
+ {
+   "channel_name": "MyZen HD",
+   "epg_code": "MyZen.nl",
+   "popularity": 794
+ },
+ {
+   "channel_name": "Nashville TV",
+   "epg_code": "NashvilleTV.nl",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Nat Geo WILD HD",
+   "epg_code": "NatGeoWILDziggo.nl",
+   "popularity": 841
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NGC.nl",
+   "popularity": 5788
+ },
+ {
+   "channel_name": "National Geographic Channel HD",
+   "epg_code": "NGCziggo.nl",
+   "popularity": 1155
+ },
+ {
+   "channel_name": "NET5",
+   "epg_code": "NET5.nl",
+   "popularity": 25589
+ },
+ {
+   "channel_name": "NGC wild",
+   "epg_code": "NGCWild.nl",
+   "popularity": 95
+ },
+ {
+   "channel_name": "Nick Hits",
+   "epg_code": "NickHits.nl",
+   "popularity": 2275
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJr.nl",
+   "popularity": 7551
+ },
+ {
+   "channel_name": "Nick Jr. International",
+   "epg_code": "NickJrInt.nl",
+   "popularity": 595
+ },
+ {
+   "channel_name": "Nick Music",
+   "epg_code": "NickMusic.nl",
+   "popularity": 1472
+ },
+ {
+   "channel_name": "Nick Toons",
+   "epg_code": "NickToons.nl",
+   "popularity": 11121
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.nl",
+   "popularity": 9261
+ },
+ {
+   "channel_name": "Nickelodeon Junior BE",
+   "epg_code": "NickJr.be",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Nickelodeon Toons TV",
+   "epg_code": "NickToons.be",
+   "popularity": 1
+ },
+ {
+   "channel_name": "NickSpike",
+   "epg_code": "NickDay.nl",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NickSpike",
+   "epg_code": "NickSpike.nl",
+   "popularity": 863
+ },
+ {
+   "channel_name": "NickSpike VL",
+   "epg_code": "NickSpike.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Njam!",
+   "epg_code": "Njam.be",
+   "popularity": 52
+ },
+ {
+   "channel_name": "npo 1",
+   "epg_code": "Ned1.nl",
+   "popularity": 70928
+ },
+ {
+   "channel_name": "NPO 1 Extra",
+   "epg_code": "NPO1Extra.nl",
+   "popularity": 2390
+ },
+ {
+   "channel_name": "npo 2",
+   "epg_code": "Ned2.nl",
+   "popularity": 51999
+ },
+ {
+   "channel_name": "NPO 2 Extra",
+   "epg_code": "NPO2Extra.nl",
+   "popularity": 1509
+ },
+ {
+   "channel_name": "npo 3",
+   "epg_code": "Ned3.nl",
+   "popularity": 57745
+ },
+ {
+   "channel_name": "NPO Nieuws",
+   "epg_code": "NPOnieuws.nl",
+   "popularity": 9175
+ },
+ {
+   "channel_name": "NPO Politiek",
+   "epg_code": "NPOPolitiek101.nl",
+   "popularity": 9718
+ },
+ {
+   "channel_name": "NPO Zappelin Extra",
+   "epg_code": "NPOZappelinExtra.nl",
+   "popularity": 465
+ },
+ {
+   "channel_name": "Omroep Brabant",
+   "epg_code": "OmroepBrabant.nl",
+   "popularity": 2547
+ },
+ {
+   "channel_name": "Omroep Flevoland",
+   "epg_code": "Flevoland.nl",
+   "popularity": 2064
+ },
+ {
+   "channel_name": "Omroep Gelderland",
+   "epg_code": "OmroepGelderland.nl",
+   "popularity": 1211
+ },
+ {
+   "channel_name": "Omroep Zeeland",
+   "epg_code": "OmroepZeeland.nl",
+   "popularity": 2604
+ },
+ {
+   "channel_name": "Omrop Fryslan",
+   "epg_code": "OmropFryslan.nl",
+   "popularity": 635
+ },
+ {
+   "channel_name": "Omrop Fryslan",
+   "epg_code": "Provinciaal1.nl",
+   "popularity": 0
+ },
+ {
+   "channel_name": "ONS",
+   "epg_code": "ONS.nl",
+   "popularity": 1741
+ },
+ {
+   "channel_name": "Out TV",
+   "epg_code": "OutTV.nl",
+   "popularity": 679
+ },
+ {
+   "channel_name": "Pebble TV",
+   "epg_code": "PebbleTV.nl",
+   "popularity": 1745
+ },
+ {
+   "channel_name": "PlattelandsTv",
+   "epg_code": "PlattelandsTv.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Play More Black",
+   "epg_code": "PlayMoreBlack.be",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Play More Cinema",
+   "epg_code": "PlayMoreCinema.be",
+   "popularity": 20
+ },
+ {
+   "channel_name": "Play More Kicks",
+   "epg_code": "PlayMoreKicks.be",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Play More Relax",
+   "epg_code": "PlayMoreRelax.be",
+   "popularity": 85
+ },
+ {
+   "channel_name": "Play More Select",
+   "epg_code": "PlayMoreSelect.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Play More Series",
+   "epg_code": "PlayMoreSeries.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Play Sports Golf",
+   "epg_code": "PlaySportsGolf.be",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Play Sports HD1",
+   "epg_code": "PlaySportsHD1.be",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Play Sports HD2",
+   "epg_code": "PlaySportsHD2.be",
+   "popularity": 104
+ },
+ {
+   "channel_name": "Play Sports HD3",
+   "epg_code": "PlaySportsHD3.be",
+   "popularity": 64
+ },
+ {
+   "channel_name": "Play Sports HD4",
+   "epg_code": "PlaySportsHD4.be",
+   "popularity": 55
+ },
+ {
+   "channel_name": "Play Sports HD5",
+   "epg_code": "PlaySportsHD5.be",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Play Sports HD6",
+   "epg_code": "PlaySportsHD6.be",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Play Sports HD7",
+   "epg_code": "PlaySportsHD7.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Play Sports HD8",
+   "epg_code": "PlaySportsHD8.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Play time",
+   "epg_code": "Playtime.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Plug RTL",
+   "epg_code": "PlugRTL.be",
+   "popularity": 7319
+ },
+ {
+   "channel_name": "Podium.TV",
+   "epg_code": "podium.tv.nl",
+   "popularity": 12
+ },
+ {
+   "channel_name": "PureVision",
+   "epg_code": "PureVision.be",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Q-music",
+   "epg_code": "Q-music.be",
+   "popularity": 148
+ },
+ {
+   "channel_name": "Radio Contact Vision",
+   "epg_code": "RadioContactVision.be",
+   "popularity": 111
+ },
+ {
+   "channel_name": "Regio TV Utrecht",
+   "epg_code": "RTVUtrecht.nl",
+   "popularity": 4254
+ },
+ {
+   "channel_name": "Rob TV",
+   "epg_code": "RobTV.be",
+   "popularity": 49
+ },
+ {
+   "channel_name": "RTL Crime",
+   "epg_code": "RTLCrime.nl",
+   "popularity": 8990
+ },
+ {
+   "channel_name": "RTL Lounge",
+   "epg_code": "RTLLounge.nl",
+   "popularity": 7902
+ },
+ {
+   "channel_name": "RTL Télé Lëtzebuerg HD",
+   "epg_code": "RTLLetzebuerg.lu",
+   "popularity": 766
+ },
+ {
+   "channel_name": "RTL Telekids",
+   "epg_code": "RTLTelekids.nl",
+   "popularity": 3025
+ },
+ {
+   "channel_name": "RTL-TVI",
+   "epg_code": "RTLTVI.be",
+   "popularity": 29614
+ },
+ {
+   "channel_name": "RTL4",
+   "epg_code": "RTL4.nl",
+   "popularity": 73153
+ },
+ {
+   "channel_name": "RTL5",
+   "epg_code": "RTL5.nl",
+   "popularity": 51279
+ },
+ {
+   "channel_name": "RTL7",
+   "epg_code": "RTL7.nl",
+   "popularity": 56265
+ },
+ {
+   "channel_name": "RTL8",
+   "epg_code": "RTL8.nl",
+   "popularity": 33647
+ },
+ {
+   "channel_name": "RTLZ",
+   "epg_code": "RTLZ.nl",
+   "popularity": 22764
+ },
+ {
+   "channel_name": "RTV Dordrecht",
+   "epg_code": "RTVDordrecht.nl",
+   "popularity": 63
+ },
+ {
+   "channel_name": "RTV Drenthe",
+   "epg_code": "RTVDrenthe.nl",
+   "popularity": 1913
+ },
+ {
+   "channel_name": "RTV Noord",
+   "epg_code": "RTVNoord.nl",
+   "popularity": 1132
+ },
+ {
+   "channel_name": "RTV Noord-Holland",
+   "epg_code": "NoordHolland.nl",
+   "popularity": 88
+ },
+ {
+   "channel_name": "RTV-7",
+   "epg_code": "RTV7.nl",
+   "popularity": 634
+ },
+ {
+   "channel_name": "SBS 9",
+   "epg_code": "SBS9.nl",
+   "popularity": 28898
+ },
+ {
+   "channel_name": "SBS6",
+   "epg_code": "SBS6.nl",
+   "popularity": 66770
+ },
+ {
+   "channel_name": "Schlager TV",
+   "epg_code": "SchlagerTV.nl",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Secret Circle",
+   "epg_code": "SecretCircle.nl",
+   "popularity": 11811
+ },
+ {
+   "channel_name": "SET Asia",
+   "epg_code": "SETAsia.nl",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Shorts TV",
+   "epg_code": "ShortsTV.nl",
+   "popularity": 842
+ },
+ {
+   "channel_name": "SLAM!TV",
+   "epg_code": "SLAM!TV.nl",
+   "popularity": 1726
+ },
+ {
+   "channel_name": "Spike",
+   "epg_code": "Spike.nl",
+   "popularity": 9261
+ },
+ {
+   "channel_name": "StarPlus",
+   "epg_code": "StarPlus.nl",
+   "popularity": 54
+ },
+ {
+   "channel_name": "Stories",
+   "epg_code": "Stories.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Studio 100 TV",
+   "epg_code": "Studio100TV.be",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Sundance HD",
+   "epg_code": "SundanceHD.be",
+   "popularity": 5
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.be",
+   "popularity": 871
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.nl",
+   "popularity": 12262
+ },
+ {
+   "channel_name": "TV Brussel",
+   "epg_code": "TVBrussel.be",
+   "popularity": 4
+ },
+ {
+   "channel_name": "TV Limburg",
+   "epg_code": "TVL.be",
+   "popularity": 78
+ },
+ {
+   "channel_name": "TV Oost",
+   "epg_code": "TVoost.be",
+   "popularity": 83
+ },
+ {
+   "channel_name": "TV Oost",
+   "epg_code": "RTVOost.nl",
+   "popularity": 1806
+ },
+ {
+   "channel_name": "TV Oranje",
+   "epg_code": "TVoranje.nl",
+   "popularity": 1735
+ },
+ {
+   "channel_name": "TV Rijnmond",
+   "epg_code": "TVRijnmond.nl",
+   "popularity": 934
+ },
+ {
+   "channel_name": "TV West",
+   "epg_code": "RTVWest.nl",
+   "popularity": 775
+ },
+ {
+   "channel_name": "TV538",
+   "epg_code": "TV538.nl",
+   "popularity": 919
+ },
+ {
+   "channel_name": "Veronica/DisneyXD",
+   "epg_code": "VeronicaDisneyXD.nl",
+   "popularity": 18858
+ },
+ {
+   "channel_name": "Viceland",
+   "epg_code": "Viceland.be",
+   "popularity": 2319
+ },
+ {
+   "channel_name": "Vier",
+   "epg_code": "Vier.be",
+   "popularity": 2163
+ },
+ {
+   "channel_name": "Vijf",
+   "epg_code": "Vijf.be",
+   "popularity": 3632
+ },
+ {
+   "channel_name": "Vitaya",
+   "epg_code": "Vitaya.be",
+   "popularity": 2408
+ },
+ {
+   "channel_name": "VOOsport 1",
+   "epg_code": "VOOsport1.be",
+   "popularity": 165
+ },
+ {
+   "channel_name": "VOOsport 2",
+   "epg_code": "VOOsport2.be",
+   "popularity": 118
+ },
+ {
+   "channel_name": "VOOsport 3",
+   "epg_code": "VOOsport3.be",
+   "popularity": 66
+ },
+ {
+   "channel_name": "VOOsport 4",
+   "epg_code": "VOOsport4.be",
+   "popularity": 1
+ },
+ {
+   "channel_name": "VOOsport 5",
+   "epg_code": "VOOsport5.be",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VOOsport World 1",
+   "epg_code": "VOOsportWorld1.be",
+   "popularity": 451
+ },
+ {
+   "channel_name": "VOOsport World 2",
+   "epg_code": "VOOsportWorld2.be",
+   "popularity": 155
+ },
+ {
+   "channel_name": "VOOsport World 3",
+   "epg_code": "VOOsportWorld3.be",
+   "popularity": 122
+ },
+ {
+   "channel_name": "VTM",
+   "epg_code": "Vtm.be",
+   "popularity": 9452
+ },
+ {
+   "channel_name": "vtm KIDS",
+   "epg_code": "vtmKIDS.be",
+   "popularity": 429
+ },
+ {
+   "channel_name": "WOS TV",
+   "epg_code": "WOS.nl",
+   "popularity": 112
+ },
+ {
+   "channel_name": "WTV",
+   "epg_code": "WTV.be",
+   "popularity": 155
+ },
+ {
+   "channel_name": "X-MO",
+   "epg_code": "X-MO.nl",
+   "popularity": 14839
+ },
+ {
+   "channel_name": "XITE",
+   "epg_code": "XITE.nl",
+   "popularity": 1665
+ },
+ {
+   "channel_name": "Xite",
+   "epg_code": "Xite.be",
+   "popularity": 58
+ },
+ {
+   "channel_name": "Zender van de Maand",
+   "epg_code": "ZendervdMaand.nl",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Zes",
+   "epg_code": "Zes.be",
+   "popularity": 1390
+ },
+ {
+   "channel_name": "Ziggo Sport HD",
+   "epg_code": "ZiggoSport.nl",
+   "popularity": 15816
+ },
+ {
+   "channel_name": "Ziggo Sport1 Extra",
+   "epg_code": "Sport1Extra1.nl",
+   "popularity": 5527
+ },
+ {
+   "channel_name": "Ziggo Sport1 Extra 2",
+   "epg_code": "Sport1Extra2.nl",
+   "popularity": 5411
+ },
+ {
+   "channel_name": "Ziggo Sport1 Golf",
+   "epg_code": "ZiggoSportGolf.nl",
+   "popularity": 17671
+ },
+ {
+   "channel_name": "Ziggo Sport1 Racing",
+   "epg_code": "ZiggoSportRacing.nl",
+   "popularity": 37835
+ },
+ {
+   "channel_name": "Ziggo Sport1 Select",
+   "epg_code": "ZiggoSportSelect.nl",
+   "popularity": 35838
+ },
+ {
+   "channel_name": "Ziggo Sport1 Voetbal",
+   "epg_code": "ZiggoSportVoetbal.nl",
+   "popularity": 6905
+ },
+ {
+   "channel_name": "Ziggo TV HD",
+   "epg_code": "ZiggoTV.nl",
+   "popularity": 277
+ }
+]

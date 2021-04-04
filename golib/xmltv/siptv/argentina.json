@@ -1,0 +1,1047 @@
+[
+ {
+   "channel_name": "26 TV",
+   "epg_code": "26TV.ar",
+   "popularity": 3534
+ },
+ {
+   "channel_name": "360 TV",
+   "epg_code": "360TV.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "A 24",
+   "epg_code": "A24.ar",
+   "popularity": 1687
+ },
+ {
+   "channel_name": "A&E Mundo",
+   "epg_code": "AyE.ar",
+   "popularity": 35
+ },
+ {
+   "channel_name": "A&E Mundo HD",
+   "epg_code": "AyEHD.ar",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Al Jazeera",
+   "epg_code": "AlJazeera.ar",
+   "popularity": 121
+ },
+ {
+   "channel_name": "Allegro",
+   "epg_code": "Allegro.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.ar",
+   "popularity": 79
+ },
+ {
+   "channel_name": "Amc HD",
+   "epg_code": "AMCHD.ar",
+   "popularity": 51
+ },
+ {
+   "channel_name": "América 2",
+   "epg_code": "America2.ar",
+   "popularity": 13665
+ },
+ {
+   "channel_name": "America Sports",
+   "epg_code": "AmericaSports.ar",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.ar",
+   "popularity": 1135
+ },
+ {
+   "channel_name": "Antena 3",
+   "epg_code": "Antena3.ar",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Argentinisima",
+   "epg_code": "Argentinisima.ar",
+   "popularity": 454
+ },
+ {
+   "channel_name": "Arirang Tv",
+   "epg_code": "ArirangTv.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Atreseries",
+   "epg_code": "Atreseries.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "AXN.ar",
+   "popularity": 165
+ },
+ {
+   "channel_name": "AXN HD",
+   "epg_code": "AXNHD.ar",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.ar",
+   "popularity": 104
+ },
+ {
+   "channel_name": "Band Internacional",
+   "epg_code": "BandInternacional.ar",
+   "popularity": 720
+ },
+ {
+   "channel_name": "BBC",
+   "epg_code": "BBC.ar",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Bloomberg",
+   "epg_code": "Bloomberg.ar",
+   "popularity": 26
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.ar",
+   "popularity": 1242
+ },
+ {
+   "channel_name": "C5N",
+   "epg_code": "C5N.ar",
+   "popularity": 4496
+ },
+ {
+   "channel_name": "Canal 21",
+   "epg_code": "Canal21.ar",
+   "popularity": 217
+ },
+ {
+   "channel_name": "Canal 90",
+   "epg_code": "Canal90.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Canal a",
+   "epg_code": "CanalA.ar",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Canal de la Ciudad (Solo Capital)",
+   "epg_code": "CanalCiudad.ar",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Canal de la Musica",
+   "epg_code": "CMMusical.ar",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Canal Rural",
+   "epg_code": "CanalRural.ar",
+   "popularity": 87
+ },
+ {
+   "channel_name": "CANAL U",
+   "epg_code": "CANALU.ar",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.ar",
+   "popularity": 245
+ },
+ {
+   "channel_name": "Cine.AR",
+   "epg_code": "IncaaTV.ar",
+   "popularity": 44
+ },
+ {
+   "channel_name": "Cinecanal",
+   "epg_code": "CinecanalEste.ar",
+   "popularity": 379
+ },
+ {
+   "channel_name": "Cinecanal HD",
+   "epg_code": "CinecanalHD.ar",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Cinemax",
+   "epg_code": "Cinemax.ar",
+   "popularity": 90
+ },
+ {
+   "channel_name": "CN 23",
+   "epg_code": "CN23.ar",
+   "popularity": 334
+ },
+ {
+   "channel_name": "CNN en español",
+   "epg_code": "CNNespanol.ar",
+   "popularity": 17
+ },
+ {
+   "channel_name": "CNN Internacional",
+   "epg_code": "CNNInternacional.ar",
+   "popularity": 1298
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.ar",
+   "popularity": 86
+ },
+ {
+   "channel_name": "Crónica TV",
+   "epg_code": "CronicaTV.ar",
+   "popularity": 1267
+ },
+ {
+   "channel_name": "Despedida de Solteros",
+   "epg_code": "DespedidadeSolteros.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Deutsche Welle",
+   "epg_code": "DeutscheWelle.ar",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.ar",
+   "popularity": 33
+ },
+ {
+   "channel_name": "Discovery Civilization",
+   "epg_code": "DiscoveryCivilization.ar",
+   "popularity": 35
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery Home & Health",
+   "epg_code": "DiscoveryHomeHealth.ar",
+   "popularity": 814
+ },
+ {
+   "channel_name": "Discovery Home & Health HD",
+   "epg_code": "DiscoveryHomeHealthHD.ar",
+   "popularity": 14738
+ },
+ {
+   "channel_name": "Discovery Kids",
+   "epg_code": "DiscoveryKids.ar",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.ar",
+   "popularity": 1138
+ },
+ {
+   "channel_name": "Discovery Theatre HD",
+   "epg_code": "DiscoveryTheatreHD.ar",
+   "popularity": 8179
+ },
+ {
+   "channel_name": "Discovery Turbo",
+   "epg_code": "DiscoveryTurbo.ar",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Discovery World HD",
+   "epg_code": "DiscoveryWorldHD.ar",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.ar",
+   "popularity": 48
+ },
+ {
+   "channel_name": "Disney Channel HD",
+   "epg_code": "DisneyHD.ar",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Disney Jrs",
+   "epg_code": "DisneyJr.ar",
+   "popularity": 2235
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.ar",
+   "popularity": 24
+ },
+ {
+   "channel_name": "DXTV",
+   "epg_code": "DXTV.ar",
+   "popularity": 4
+ },
+ {
+   "channel_name": "DXTV HD",
+   "epg_code": "DXTVHD.ar",
+   "popularity": 6
+ },
+ {
+   "channel_name": "E! Entertainment Television",
+   "epg_code": "E.ar",
+   "popularity": 82
+ },
+ {
+   "channel_name": "El Canal de las Estrellas",
+   "epg_code": "Estrellas.ar",
+   "popularity": 118
+ },
+ {
+   "channel_name": "El Garage",
+   "epg_code": "ElGarage.ar",
+   "popularity": 169
+ },
+ {
+   "channel_name": "El Nueve",
+   "epg_code": "Canal9.ar",
+   "popularity": 3234
+ },
+ {
+   "channel_name": "El Nueve HD",
+   "epg_code": "ElNueveHD.ar",
+   "popularity": 2217
+ },
+ {
+   "channel_name": "El Trece",
+   "epg_code": "Canal13.ar",
+   "popularity": 2309
+ },
+ {
+   "channel_name": "El Trece HD",
+   "epg_code": "ElTreceHD.ar",
+   "popularity": 1843
+ },
+ {
+   "channel_name": "Encuentro",
+   "epg_code": "Encuentro.ar",
+   "popularity": 876
+ },
+ {
+   "channel_name": "ESPN",
+   "epg_code": "ESPN.ar",
+   "popularity": 14268
+ },
+ {
+   "channel_name": "ESPN + HD",
+   "epg_code": "ESPN+HD.ar",
+   "popularity": 54
+ },
+ {
+   "channel_name": "ESPN 2",
+   "epg_code": "ESPN2.ar",
+   "popularity": 16830
+ },
+ {
+   "channel_name": "ESPN 2 HD",
+   "epg_code": "ESPN2HD.ar",
+   "popularity": 442
+ },
+ {
+   "channel_name": "ESPN 3",
+   "epg_code": "ESPN3SD.ar",
+   "popularity": 206
+ },
+ {
+   "channel_name": "ESPN 3 HD",
+   "epg_code": "ESPN3HD.ar",
+   "popularity": 127
+ },
+ {
+   "channel_name": "ESPN Radio",
+   "epg_code": "ESPNRadio.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurochannel",
+   "epg_code": "Eurochannel.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Euronews",
+   "epg_code": "Euronews.ar",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Europa Europa",
+   "epg_code": "EuropaEuropa.ar",
+   "popularity": 675
+ },
+ {
+   "channel_name": "Eventos HD",
+   "epg_code": "EventosHD.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "EWTN",
+   "epg_code": "EWTN.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "F1",
+   "epg_code": "F1.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Film & Arts",
+   "epg_code": "FilmArts.ar",
+   "popularity": 636
+ },
+ {
+   "channel_name": "FILM ZONE HD",
+   "epg_code": "FILMZONEHD.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.ar",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.ar",
+   "popularity": 62
+ },
+ {
+   "channel_name": "Fox HD",
+   "epg_code": "FoxHD.ar",
+   "popularity": 37
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FoxLife.ar",
+   "popularity": 811
+ },
+ {
+   "channel_name": "Fox News",
+   "epg_code": "FoxNews.ar",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Fox Premium Action",
+   "epg_code": "FoxPremiumAction.ar",
+   "popularity": 3398
+ },
+ {
+   "channel_name": "Fox Premium Action HD",
+   "epg_code": "FoxPremiumActionHD.ar",
+   "popularity": 5547
+ },
+ {
+   "channel_name": "Fox Premium Cinema",
+   "epg_code": "FoxPremiumCinema.ar",
+   "popularity": 291
+ },
+ {
+   "channel_name": "Fox Premium Classics",
+   "epg_code": "FoxPremiumClassics.ar",
+   "popularity": 147
+ },
+ {
+   "channel_name": "Fox Premium Comedy",
+   "epg_code": "FoxPremiumComedy.ar",
+   "popularity": 1146
+ },
+ {
+   "channel_name": "Fox Premium Family",
+   "epg_code": "FoxPremiumFamily.ar",
+   "popularity": 1352
+ },
+ {
+   "channel_name": "Fox Premium Movies",
+   "epg_code": "FoxPremiumMovies.ar",
+   "popularity": 1778
+ },
+ {
+   "channel_name": "Fox Premium Movies HD",
+   "epg_code": "FoxPremiumMoviesHD.ar",
+   "popularity": 3549
+ },
+ {
+   "channel_name": "Fox Premium Series",
+   "epg_code": "FoxPremiumSeries.ar",
+   "popularity": 1275
+ },
+ {
+   "channel_name": "Fox Premium Series HD",
+   "epg_code": "FoxPremiumSeriesHD.ar",
+   "popularity": 1997
+ },
+ {
+   "channel_name": "Fox Premium Series Oeste",
+   "epg_code": "FoxPremiumSeriesOeste.ar",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Fox Sports",
+   "epg_code": "FoxSports.ar",
+   "popularity": 52383
+ },
+ {
+   "channel_name": "Fox Sports 2",
+   "epg_code": "FoxSports2.ar",
+   "popularity": 8149
+ },
+ {
+   "channel_name": "Fox Sports 2 HD",
+   "epg_code": "FoxSports2HD.ar",
+   "popularity": 251
+ },
+ {
+   "channel_name": "Fox Sports 3",
+   "epg_code": "FoxSports3.ar",
+   "popularity": 5407
+ },
+ {
+   "channel_name": "Fox Sports 3 HD",
+   "epg_code": "FoxSports3HD.ar",
+   "popularity": 205
+ },
+ {
+   "channel_name": "Fox Sports HD",
+   "epg_code": "FoxSportsHD.ar",
+   "popularity": 177
+ },
+ {
+   "channel_name": "France 24",
+   "epg_code": "France24.ar",
+   "popularity": 1771
+ },
+ {
+   "channel_name": "FX",
+   "epg_code": "FX.ar",
+   "popularity": 39
+ },
+ {
+   "channel_name": "FX HD",
+   "epg_code": "FXHD.ar",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Glitz",
+   "epg_code": "Glitz.ar",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Gourmet",
+   "epg_code": "Gourmet.ar",
+   "popularity": 8
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.ar",
+   "popularity": 41
+ },
+ {
+   "channel_name": "HBO 2",
+   "epg_code": "HBO2.ar",
+   "popularity": 2242
+ },
+ {
+   "channel_name": "HBO Este",
+   "epg_code": "HBOEste.ar",
+   "popularity": 5
+ },
+ {
+   "channel_name": "HBO Este HD",
+   "epg_code": "HBOHD.ar",
+   "popularity": 781
+ },
+ {
+   "channel_name": "HBO Family Panamericano",
+   "epg_code": "HBOFamilyEste.ar",
+   "popularity": 315
+ },
+ {
+   "channel_name": "HBO Plus Panamericano",
+   "epg_code": "HBOPlusEste.ar",
+   "popularity": 284
+ },
+ {
+   "channel_name": "HBO Plus Panregional",
+   "epg_code": "HBOPlusOeste.ar",
+   "popularity": 25
+ },
+ {
+   "channel_name": "HBO Signature",
+   "epg_code": "HBOSignature.ar",
+   "popularity": 287
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.ar",
+   "popularity": 53
+ },
+ {
+   "channel_name": "Hola TV",
+   "epg_code": "HolaTV.ar",
+   "popularity": 7
+ },
+ {
+   "channel_name": "HTV",
+   "epg_code": "HTV.ar",
+   "popularity": 21
+ },
+ {
+   "channel_name": "I-Sat",
+   "epg_code": "ISat.ar",
+   "popularity": 518
+ },
+ {
+   "channel_name": "ID Investigación Discovery",
+   "epg_code": "DiscoveryID.ar",
+   "popularity": 28
+ },
+ {
+   "channel_name": "INTI Network",
+   "epg_code": "INTINetwork.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Juegos APTIV",
+   "epg_code": "JuegosAPTIV.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "La Nación",
+   "epg_code": "LaNacion.ar",
+   "popularity": 10
+ },
+ {
+   "channel_name": "La Rai",
+   "epg_code": "LaRai.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Lifetime",
+   "epg_code": "Lifetime.ar",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Magazine",
+   "epg_code": "Magazine.ar",
+   "popularity": 181
+ },
+ {
+   "channel_name": "Mas Chic",
+   "epg_code": "MasChic.ar",
+   "popularity": 29
+ },
+ {
+   "channel_name": "MAX HD",
+   "epg_code": "MAXHD.ar",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Max Panamericano",
+   "epg_code": "MaxEste.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Max Prime HD",
+   "epg_code": "MaxPrimeHD.ar",
+   "popularity": 384
+ },
+ {
+   "channel_name": "Max Prime Oeste",
+   "epg_code": "MaxPrimeOeste.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Max Prime Panamericano",
+   "epg_code": "MaxPrimeEste.ar",
+   "popularity": 4
+ },
+ {
+   "channel_name": "MAX UP",
+   "epg_code": "MaxUp.ar",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Metro",
+   "epg_code": "Metro.ar",
+   "popularity": 599
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.ar",
+   "popularity": 68
+ },
+ {
+   "channel_name": "MTV HD",
+   "epg_code": "MTVHD.ar",
+   "popularity": 20
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.ar",
+   "popularity": 26
+ },
+ {
+   "channel_name": "Much Music",
+   "epg_code": "MuchMusic.ar",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Mundo Fox",
+   "epg_code": "MundoFox.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NatGeo HD",
+   "epg_code": "NatGeoHD.ar",
+   "popularity": 31
+ },
+ {
+   "channel_name": "Natgeo Wild",
+   "epg_code": "NatgeoWild.ar",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Natgeo Wild HD",
+   "epg_code": "NatgeoWildHD.ar",
+   "popularity": 8
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.ar",
+   "popularity": 29
+ },
+ {
+   "channel_name": "NBA TV",
+   "epg_code": "NBA.ar",
+   "popularity": 32
+ },
+ {
+   "channel_name": "Nick 2",
+   "epg_code": "Nick2.ar",
+   "popularity": 246
+ },
+ {
+   "channel_name": "Nick Jrs",
+   "epg_code": "NickJrs.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.ar",
+   "popularity": 1356
+ },
+ {
+   "channel_name": "Nueva Imagen",
+   "epg_code": "NuevaImagen.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "PakaPaka",
+   "epg_code": "PAKA.ar",
+   "popularity": 400
+ },
+ {
+   "channel_name": "Paramount",
+   "epg_code": "Paramount.ar",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Playboy",
+   "epg_code": "Playboy.ar",
+   "popularity": 907
+ },
+ {
+   "channel_name": "Portal Cine&Series",
+   "epg_code": "PortalCineSeries.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Portal Deportes",
+   "epg_code": "PortalDeportes.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Portal Documentales",
+   "epg_code": "PortalDocumentales.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Portal Infantil",
+   "epg_code": "PortalInfantil.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Quiero",
+   "epg_code": "Quiero.ar",
+   "popularity": 135
+ },
+ {
+   "channel_name": "Quiero HD",
+   "epg_code": "QuieroHD.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Señal María",
+   "epg_code": "SenalMaria.ar",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Sextreme",
+   "epg_code": "Sextreme.ar",
+   "popularity": 69060
+ },
+ {
+   "channel_name": "Sony",
+   "epg_code": "Sony.ar",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Sony HD",
+   "epg_code": "SonyHD.ar",
+   "popularity": 57
+ },
+ {
+   "channel_name": "Space",
+   "epg_code": "Space.ar",
+   "popularity": 30
+ },
+ {
+   "channel_name": "Space HD",
+   "epg_code": "SpaceHD.ar",
+   "popularity": 74
+ },
+ {
+   "channel_name": "Studio Universal",
+   "epg_code": "StudioUniversal.ar",
+   "popularity": 54
+ },
+ {
+   "channel_name": "Sun Channel",
+   "epg_code": "SunChannel.ar",
+   "popularity": 123
+ },
+ {
+   "channel_name": "Syfy",
+   "epg_code": "Syfy.ar",
+   "popularity": 38
+ },
+ {
+   "channel_name": "TBS",
+   "epg_code": "TBS.ar",
+   "popularity": 102
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCM.ar",
+   "popularity": 57
+ },
+ {
+   "channel_name": "Telefe",
+   "epg_code": "Telefe.ar",
+   "popularity": 6269
+ },
+ {
+   "channel_name": "Telefe HD",
+   "epg_code": "TelefeHD.ar",
+   "popularity": 8003
+ },
+ {
+   "channel_name": "Telemax",
+   "epg_code": "Telemax.ar",
+   "popularity": 692
+ },
+ {
+   "channel_name": "Telesur",
+   "epg_code": "Telesur.ar",
+   "popularity": 105
+ },
+ {
+   "channel_name": "The Film Zone",
+   "epg_code": "TheFilmZone.ar",
+   "popularity": 7
+ },
+ {
+   "channel_name": "The Golf Channel",
+   "epg_code": "TheGolfChannel.ar",
+   "popularity": 88
+ },
+ {
+   "channel_name": "The History Channel",
+   "epg_code": "TheHistoryChannel.ar",
+   "popularity": 7
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TravelLivingChannel.ar",
+   "popularity": 4
+ },
+ {
+   "channel_name": "TLC HD",
+   "epg_code": "TLCHD.ar",
+   "popularity": 2
+ },
+ {
+   "channel_name": "TN HD",
+   "epg_code": "TNHD.ar",
+   "popularity": 1727
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNT.ar",
+   "popularity": 67
+ },
+ {
+   "channel_name": "TNT HD",
+   "epg_code": "TNTHD.ar",
+   "popularity": 77
+ },
+ {
+   "channel_name": "TNT Series",
+   "epg_code": "TNTSeries.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Todo Noticias",
+   "epg_code": "TodoNoticias.ar",
+   "popularity": 1132
+ },
+ {
+   "channel_name": "Tooncast",
+   "epg_code": "Tooncast.ar",
+   "popularity": 1990
+ },
+ {
+   "channel_name": "TRU TV",
+   "epg_code": "TRUTV.ar",
+   "popularity": 13
+ },
+ {
+   "channel_name": "TRU TV HD",
+   "epg_code": "TRUTVHD.ar",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Turf (Hipodromo de La Plata)",
+   "epg_code": "TurfLaPlata.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Turf (Hipodromo de Palermo)",
+   "epg_code": "TurfPalermo.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Turf (Hipodromo de San Isidro)",
+   "epg_code": "TurfIsidro.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Turismo Vision Argentina",
+   "epg_code": "TurismoVisionArgentina.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "TV Chile",
+   "epg_code": "TVChile.ar",
+   "popularity": 23
+ },
+ {
+   "channel_name": "TV España",
+   "epg_code": "TVEspana.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Galicia",
+   "epg_code": "TVGalicia.ar",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Tv Pública",
+   "epg_code": "TvPublica.ar",
+   "popularity": 1518
+ },
+ {
+   "channel_name": "TV Pública HD",
+   "epg_code": "TVPublicaHD.ar",
+   "popularity": 1164
+ },
+ {
+   "channel_name": "TV5 Monde",
+   "epg_code": "TV5Monde.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TyC Sports",
+   "epg_code": "TyCSports.ar",
+   "popularity": 3722
+ },
+ {
+   "channel_name": "TyC Sports 2",
+   "epg_code": "TyCSports2.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TyC Sports HD",
+   "epg_code": "TyCSportsHD.ar",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "UniversalChannel.ar",
+   "popularity": 43
+ },
+ {
+   "channel_name": "Universal Channel HD",
+   "epg_code": "UniversalChannelHD.ar",
+   "popularity": 28
+ },
+ {
+   "channel_name": "Venus",
+   "epg_code": "Venus.ar",
+   "popularity": 13348
+ },
+ {
+   "channel_name": "VH1",
+   "epg_code": "VH1.ar",
+   "popularity": 56
+ },
+ {
+   "channel_name": "VH1 Megahits",
+   "epg_code": "VH1Megahits.ar",
+   "popularity": 97
+ },
+ {
+   "channel_name": "Volver",
+   "epg_code": "Volver.ar",
+   "popularity": 751
+ },
+ {
+   "channel_name": "Warner Channel",
+   "epg_code": "WarnerChannel.ar",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Warner Channel HD",
+   "epg_code": "WarnerChannelHD.ar",
+   "popularity": 14694
+ },
+ {
+   "channel_name": "WOBI",
+   "epg_code": "WOBI.ar",
+   "popularity": 186
+ }
+]

@@ -1,0 +1,697 @@
+[
+ {
+   "channel_name": "21 Junior",
+   "epg_code": "21Junior.al",
+   "popularity": 1169
+ },
+ {
+   "channel_name": "21 Popullore",
+   "epg_code": "21Popullore.al",
+   "popularity": 32141
+ },
+ {
+   "channel_name": "24 Kitchen",
+   "epg_code": "24Kitchen.al",
+   "popularity": 4784
+ },
+ {
+   "channel_name": "3 Plus",
+   "epg_code": "3Plus.al",
+   "popularity": 55714
+ },
+ {
+   "channel_name": "ABC News",
+   "epg_code": "ABCNews.al",
+   "popularity": 43980
+ },
+ {
+   "channel_name": "Al Jazeera",
+   "epg_code": "AlJazeera.al",
+   "popularity": 23
+ },
+ {
+   "channel_name": "Albanian Screen",
+   "epg_code": "AlbanianScreen.al",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Alsat M",
+   "epg_code": "AlsatM.al",
+   "popularity": 388543
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "AnimalPlanetHD.al",
+   "popularity": 4920
+ },
+ {
+   "channel_name": "Antenna Europe",
+   "epg_code": "AntennaEurope.al",
+   "popularity": 0
+ },
+ {
+   "channel_name": "B92",
+   "epg_code": "B92.al",
+   "popularity": 173
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.al",
+   "popularity": 8885
+ },
+ {
+   "channel_name": "Bang Bang",
+   "epg_code": "BangBang.al",
+   "popularity": 25163
+ },
+ {
+   "channel_name": "BBC",
+   "epg_code": "BBC.al",
+   "popularity": 1
+ },
+ {
+   "channel_name": "BBF",
+   "epg_code": "BBF.al",
+   "popularity": 9473
+ },
+ {
+   "channel_name": "BIZARRE",
+   "epg_code": "Bizarre.al",
+   "popularity": 4359
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.al",
+   "popularity": 1837
+ },
+ {
+   "channel_name": "BUNGA BUNGA",
+   "epg_code": "BungaBunga.al",
+   "popularity": 13247
+ },
+ {
+   "channel_name": "Canale 5",
+   "epg_code": "Canale5.al",
+   "popularity": 387
+ },
+ {
+   "channel_name": "CARTOON NETWORK",
+   "epg_code": "CartoonNetwork.al",
+   "popularity": 1080
+ },
+ {
+   "channel_name": "CLICK TV",
+   "epg_code": "ClickTV.al",
+   "popularity": 5981
+ },
+ {
+   "channel_name": "CNN int",
+   "epg_code": "CNNint.al",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Cufo TV",
+   "epg_code": "CufoTV.al",
+   "popularity": 23281
+ },
+ {
+   "channel_name": "DESIRE",
+   "epg_code": "Desire.al",
+   "popularity": 5452
+ },
+ {
+   "channel_name": "Digi Gold",
+   "epg_code": "DigiGold.al",
+   "popularity": 5719
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.al",
+   "popularity": 1407
+ },
+ {
+   "channel_name": "Discovery Science HD",
+   "epg_code": "DiscoveryScienceHD.al",
+   "popularity": 1774
+ },
+ {
+   "channel_name": "DW",
+   "epg_code": "DW.al",
+   "popularity": 1299
+ },
+ {
+   "channel_name": "E TV",
+   "epg_code": "ETV.al",
+   "popularity": 11022
+ },
+ {
+   "channel_name": "EUROCHANNEL",
+   "epg_code": "EuroChannel.al",
+   "popularity": 1
+ },
+ {
+   "channel_name": "EuroNews",
+   "epg_code": "EuroNews.al",
+   "popularity": 4474
+ },
+ {
+   "channel_name": "EuroSport",
+   "epg_code": "EuroSport.al",
+   "popularity": 100
+ },
+ {
+   "channel_name": "EXP Histori",
+   "epg_code": "EXPHistori.al",
+   "popularity": 17216
+ },
+ {
+   "channel_name": "EXP Natyra",
+   "epg_code": "EXPNatyra.al",
+   "popularity": 20578
+ },
+ {
+   "channel_name": "EXP Shkence",
+   "epg_code": "EXPShkence.al",
+   "popularity": 22076
+ },
+ {
+   "channel_name": "Family HD",
+   "epg_code": "PlusHD.al",
+   "popularity": 11576
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.al",
+   "popularity": 209
+ },
+ {
+   "channel_name": "Film Aksion",
+   "epg_code": "FilmAksion.al",
+   "popularity": 61725
+ },
+ {
+   "channel_name": "Film Autor",
+   "epg_code": "FilmAutor.al",
+   "popularity": 35041
+ },
+ {
+   "channel_name": "Film Drame",
+   "epg_code": "FilmDrame.al",
+   "popularity": 34133
+ },
+ {
+   "channel_name": "Film Dy HD",
+   "epg_code": "FilmDyHD.al",
+   "popularity": 50655
+ },
+ {
+   "channel_name": "Film Hits",
+   "epg_code": "FilmHits.al",
+   "popularity": 26670
+ },
+ {
+   "channel_name": "Film Komedi",
+   "epg_code": "FilmKomedi.al",
+   "popularity": 39155
+ },
+ {
+   "channel_name": "Film Nje HD",
+   "epg_code": "FilmNjeHD.al",
+   "popularity": 51518
+ },
+ {
+   "channel_name": "Film Thriller",
+   "epg_code": "FilmThriller.al",
+   "popularity": 34942
+ },
+ {
+   "channel_name": "Fine Living",
+   "epg_code": "FineLiving.al",
+   "popularity": 1026
+ },
+ {
+   "channel_name": "First Channel",
+   "epg_code": "FirstChannel.al",
+   "popularity": 26026
+ },
+ {
+   "channel_name": "Folk +",
+   "epg_code": "FolkPlus.al",
+   "popularity": 19234
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.al",
+   "popularity": 4444
+ },
+ {
+   "channel_name": "Fox Crime",
+   "epg_code": "FoxCrime.al",
+   "popularity": 5200
+ },
+ {
+   "channel_name": "Fox Life",
+   "epg_code": "FoxLife.al",
+   "popularity": 7325
+ },
+ {
+   "channel_name": "Hayat TV",
+   "epg_code": "HayatTV.al",
+   "popularity": 40
+ },
+ {
+   "channel_name": "ID Xtra HD",
+   "epg_code": "IDXtraHD.al",
+   "popularity": 784
+ },
+ {
+   "channel_name": "INTERNATIONAL",
+   "epg_code": "INTERNATIONAL.al",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Italia 1",
+   "epg_code": "Italia1.al",
+   "popularity": 334
+ },
+ {
+   "channel_name": "JOLLY HD",
+   "epg_code": "JollyHD.al",
+   "popularity": 74253
+ },
+ {
+   "channel_name": "Junior TV",
+   "epg_code": "JuniorTV.al",
+   "popularity": 8908
+ },
+ {
+   "channel_name": "Kanali 7",
+   "epg_code": "Kanali7.al",
+   "popularity": 19367
+ },
+ {
+   "channel_name": "KIDS",
+   "epg_code": "KIDS.al",
+   "popularity": 2716
+ },
+ {
+   "channel_name": "Klan Kosova",
+   "epg_code": "KlanKosova.al",
+   "popularity": 379002
+ },
+ {
+   "channel_name": "Klan TV",
+   "epg_code": "KlanTV.al",
+   "popularity": 140784
+ },
+ {
+   "channel_name": "Klan TV HD",
+   "epg_code": "KlanTVHD.al",
+   "popularity": 252685
+ },
+ {
+   "channel_name": "KTV",
+   "epg_code": "KTV.al",
+   "popularity": 241438
+ },
+ {
+   "channel_name": "LIVING",
+   "epg_code": "Living.al",
+   "popularity": 21086
+ },
+ {
+   "channel_name": "LUXE TV",
+   "epg_code": "LuxeTV.al",
+   "popularity": 1714
+ },
+ {
+   "channel_name": "MEDIASET",
+   "epg_code": "Mediaset.al",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MOTORS TV",
+   "epg_code": "MotorsTV.al",
+   "popularity": 6604
+ },
+ {
+   "channel_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.al",
+   "popularity": 358
+ },
+ {
+   "channel_name": "MUSE",
+   "epg_code": "Muse.al",
+   "popularity": 4966
+ },
+ {
+   "channel_name": "musicAL",
+   "epg_code": "musicAL.al",
+   "popularity": 5238
+ },
+ {
+   "channel_name": "My Music",
+   "epg_code": "MyMusic.al",
+   "popularity": 14569
+ },
+ {
+   "channel_name": "N-TV",
+   "epg_code": "N-TV.al",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Nat Geo HD",
+   "epg_code": "NatGeoHD.al",
+   "popularity": 4689
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.al",
+   "popularity": 6518
+ },
+ {
+   "channel_name": "News 24",
+   "epg_code": "News24.al",
+   "popularity": 29152
+ },
+ {
+   "channel_name": "Nickelodeon HD",
+   "epg_code": "NickelodeonHD.al",
+   "popularity": 48
+ },
+ {
+   "channel_name": "ON TV",
+   "epg_code": "ONTV.al",
+   "popularity": 5093
+ },
+ {
+   "channel_name": "Ora News",
+   "epg_code": "OraNews.al",
+   "popularity": 43594
+ },
+ {
+   "channel_name": "ORA NEWS HD",
+   "epg_code": "ORANEWSHD.al",
+   "popularity": 270
+ },
+ {
+   "channel_name": "Peace TV",
+   "epg_code": "PeaceTV.al",
+   "popularity": 8401
+ },
+ {
+   "channel_name": "Rai 1",
+   "epg_code": "Rai1.al",
+   "popularity": 207
+ },
+ {
+   "channel_name": "Rai 2",
+   "epg_code": "Rai2.al",
+   "popularity": 172
+ },
+ {
+   "channel_name": "Rai 3",
+   "epg_code": "Rai3.al",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Rai News",
+   "epg_code": "RaiNews.al",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Rrokum HD",
+   "epg_code": "RrokumHD.al",
+   "popularity": 10108
+ },
+ {
+   "channel_name": "Rrokum TV",
+   "epg_code": "RrokumTV.al",
+   "popularity": 6498
+ },
+ {
+   "channel_name": "RTK",
+   "epg_code": "RTK.al",
+   "popularity": 352863
+ },
+ {
+   "channel_name": "RTL",
+   "epg_code": "RTL.al",
+   "popularity": 201
+ },
+ {
+   "channel_name": "RTL 2",
+   "epg_code": "RTL2.al",
+   "popularity": 126
+ },
+ {
+   "channel_name": "RTV 21",
+   "epg_code": "RTV21.al",
+   "popularity": 168726
+ },
+ {
+   "channel_name": "RTV 21 HD",
+   "epg_code": "RTV21HD.al",
+   "popularity": 91639
+ },
+ {
+   "channel_name": "RTV 21 PLUS",
+   "epg_code": "RTV21Plus.al",
+   "popularity": 11408
+ },
+ {
+   "channel_name": "SMILE",
+   "epg_code": "Smile.al",
+   "popularity": 18335
+ },
+ {
+   "channel_name": "Stinet",
+   "epg_code": "Stinet.al",
+   "popularity": 6442
+ },
+ {
+   "channel_name": "STV Folk",
+   "epg_code": "STVFolk.al",
+   "popularity": 4257
+ },
+ {
+   "channel_name": "Super Sport Kosova 1",
+   "epg_code": "SSKosova1.al",
+   "popularity": 4413
+ },
+ {
+   "channel_name": "Super Sport Kosova 2",
+   "epg_code": "SSKosova2.al",
+   "popularity": 4220
+ },
+ {
+   "channel_name": "Super Sport Kosova 3",
+   "epg_code": "SSKosova3.al",
+   "popularity": 493
+ },
+ {
+   "channel_name": "SuperSonic TV",
+   "epg_code": "SuperSonicTV.al",
+   "popularity": 7248
+ },
+ {
+   "channel_name": "SuperSport 1",
+   "epg_code": "SuperSport1.al",
+   "popularity": 5201
+ },
+ {
+   "channel_name": "SuperSport 2",
+   "epg_code": "SuperSport2.al",
+   "popularity": 17660
+ },
+ {
+   "channel_name": "SuperSport 3",
+   "epg_code": "SuperSport3.al",
+   "popularity": 11449
+ },
+ {
+   "channel_name": "SuperSport 4",
+   "epg_code": "SuperSport4.al",
+   "popularity": 9414
+ },
+ {
+   "channel_name": "SuperSport 5",
+   "epg_code": "SuperSport5.al",
+   "popularity": 5955
+ },
+ {
+   "channel_name": "SuperSport 6",
+   "epg_code": "SuperSport6.al",
+   "popularity": 1403
+ },
+ {
+   "channel_name": "T Channel",
+   "epg_code": "T.al",
+   "popularity": 40153
+ },
+ {
+   "channel_name": "T-HIST",
+   "epg_code": "T-Hist.al",
+   "popularity": 17560
+ },
+ {
+   "channel_name": "TELESPORT",
+   "epg_code": "TeleSport.al",
+   "popularity": 6318
+ },
+ {
+   "channel_name": "TEMA TV",
+   "epg_code": "TemaTV.al",
+   "popularity": 6820
+ },
+ {
+   "channel_name": "Tip Tv",
+   "epg_code": "TipTv.al",
+   "popularity": 11291
+ },
+ {
+   "channel_name": "Top Channel",
+   "epg_code": "TopChannel.al",
+   "popularity": 124078
+ },
+ {
+   "channel_name": "Top Channel HD",
+   "epg_code": "TopChannelHD.al",
+   "popularity": 206472
+ },
+ {
+   "channel_name": "Top News",
+   "epg_code": "TopNews.al",
+   "popularity": 44982
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.al",
+   "popularity": 5067
+ },
+ {
+   "channel_name": "Tribuna",
+   "epg_code": "Tribuna.al",
+   "popularity": 649
+ },
+ {
+   "channel_name": "Tring Comedy",
+   "epg_code": "TringComedy.al",
+   "popularity": 92642
+ },
+ {
+   "channel_name": "TRING FANTAZI",
+   "epg_code": "TringFantazi.al",
+   "popularity": 25205
+ },
+ {
+   "channel_name": "Tring Life",
+   "epg_code": "TringLife.al",
+   "popularity": 25218
+ },
+ {
+   "channel_name": "Tring Max",
+   "epg_code": "TringMax.al",
+   "popularity": 3082
+ },
+ {
+   "channel_name": "Tring Planet",
+   "epg_code": "TringPlanet.al",
+   "popularity": 21437
+ },
+ {
+   "channel_name": "Tring Shqip",
+   "epg_code": "TringShqip.al",
+   "popularity": 33635
+ },
+ {
+   "channel_name": "Tring Sport News HD",
+   "epg_code": "TringSportNewsHD.al",
+   "popularity": 11591
+ },
+ {
+   "channel_name": "Tring Super",
+   "epg_code": "TringSuper.al",
+   "popularity": 19049
+ },
+ {
+   "channel_name": "Tring Tring",
+   "epg_code": "TringTring.al",
+   "popularity": 18661
+ },
+ {
+   "channel_name": "Tring World",
+   "epg_code": "TringWorld.al",
+   "popularity": 17347
+ },
+ {
+   "channel_name": "TS1 HD",
+   "epg_code": "TS1HD.al",
+   "popularity": 82952
+ },
+ {
+   "channel_name": "TS2 HD",
+   "epg_code": "TS2HD.al",
+   "popularity": 75320
+ },
+ {
+   "channel_name": "TS3 HD",
+   "epg_code": "TS3HD.al",
+   "popularity": 52032
+ },
+ {
+   "channel_name": "TS4 HD",
+   "epg_code": "TS4HD.al",
+   "popularity": 37378
+ },
+ {
+   "channel_name": "TV Arta",
+   "epg_code": "TVArta.al",
+   "popularity": 4263
+ },
+ {
+   "channel_name": "TV Avrupa",
+   "epg_code": "TVAvrupa.al",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV Dukagjini",
+   "epg_code": "TVDukagjini.al",
+   "popularity": 75569
+ },
+ {
+   "channel_name": "TV Festina",
+   "epg_code": "TVFestina.al",
+   "popularity": 452
+ },
+ {
+   "channel_name": "TV Prizren",
+   "epg_code": "TVPrizren.al",
+   "popularity": 2
+ },
+ {
+   "channel_name": "TV5 MONDE EUROPE",
+   "epg_code": "TV5Monde.al",
+   "popularity": 19
+ },
+ {
+   "channel_name": "TVSH",
+   "epg_code": "TVSH.al",
+   "popularity": 6144
+ },
+ {
+   "channel_name": "Vizion Plus",
+   "epg_code": "VizionPlus.al",
+   "popularity": 125720
+ },
+ {
+   "channel_name": "Wedding Channel",
+   "epg_code": "WeddingChannel.al",
+   "popularity": 176
+ },
+ {
+   "channel_name": "ZDF",
+   "epg_code": "ZDF.al",
+   "popularity": 53
+ }
+]

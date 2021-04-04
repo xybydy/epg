@@ -1,0 +1,2517 @@
+[
+ {
+   "channel_name": "4Music",
+   "epg_code": "4Music.uk",
+   "popularity": 4227
+ },
+ {
+   "channel_name": "5*",
+   "epg_code": "5star.uk",
+   "popularity": 23151
+ },
+ {
+   "channel_name": "5* +1",
+   "epg_code": "5starplus1.uk",
+   "popularity": 1375
+ },
+ {
+   "channel_name": "5USA",
+   "epg_code": "FiveUSA.uk",
+   "popularity": 16490
+ },
+ {
+   "channel_name": "5USA +1",
+   "epg_code": "FiveUSAPlus1.uk",
+   "popularity": 866
+ },
+ {
+   "channel_name": "92 News",
+   "epg_code": "92News.uk",
+   "popularity": 1546
+ },
+ {
+   "channel_name": "A1TV",
+   "epg_code": "A1TV.uk",
+   "popularity": 40
+ },
+ {
+   "channel_name": "AAJ TAK",
+   "epg_code": "AAJTAK.uk",
+   "popularity": 3761
+ },
+ {
+   "channel_name": "Aastha",
+   "epg_code": "Aastha.uk",
+   "popularity": 322
+ },
+ {
+   "channel_name": "ABN TV",
+   "epg_code": "ABNTV.uk",
+   "popularity": 382
+ },
+ {
+   "channel_name": "ABP News",
+   "epg_code": "ABPNews.uk",
+   "popularity": 3157
+ },
+ {
+   "channel_name": "Abu Dhabi TV",
+   "epg_code": "AbuDhabiTV.uk",
+   "popularity": 7016
+ },
+ {
+   "channel_name": "Ahlebait TV",
+   "epg_code": "AhlebaitTV.uk",
+   "popularity": 210
+ },
+ {
+   "channel_name": "Ahlulbayt TV",
+   "epg_code": "AhlulbaytTV.uk",
+   "popularity": 338
+ },
+ {
+   "channel_name": "AIT International",
+   "epg_code": "AIT.uk",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Akaal Channel",
+   "epg_code": "AkaalChannel.uk",
+   "popularity": 729
+ },
+ {
+   "channel_name": "Alibi",
+   "epg_code": "Alibi.uk",
+   "popularity": 7456
+ },
+ {
+   "channel_name": "Alibi +1",
+   "epg_code": "Alibiplus1.uk",
+   "popularity": 597
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.uk",
+   "popularity": 36167
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.uk",
+   "popularity": 23651
+ },
+ {
+   "channel_name": "Animal Planet +1",
+   "epg_code": "AnimalPlanetplus1.uk",
+   "popularity": 764
+ },
+ {
+   "channel_name": "Aplus TV",
+   "epg_code": "AplusTV.uk",
+   "popularity": 78
+ },
+ {
+   "channel_name": "ARISE News",
+   "epg_code": "ARISENews.uk",
+   "popularity": 325
+ },
+ {
+   "channel_name": "Ary Family",
+   "epg_code": "AryFamily.uk",
+   "popularity": 2109
+ },
+ {
+   "channel_name": "At The Races",
+   "epg_code": "AtTheRaces.uk",
+   "popularity": 3558
+ },
+ {
+   "channel_name": "ATN Bangla UK",
+   "epg_code": "ATNBanglaUK.uk",
+   "popularity": 595
+ },
+ {
+   "channel_name": "atTV",
+   "epg_code": "atTV.uk",
+   "popularity": 102
+ },
+ {
+   "channel_name": "B4U Movies",
+   "epg_code": "B4UMovies.uk",
+   "popularity": 3983
+ },
+ {
+   "channel_name": "B4U Music",
+   "epg_code": "B4UMusic.uk",
+   "popularity": 7945
+ },
+ {
+   "channel_name": "BabyTV",
+   "epg_code": "BabyTV.uk",
+   "popularity": 17983
+ },
+ {
+   "channel_name": "BBC 1 East",
+   "epg_code": "BBC1East.uk",
+   "popularity": 1763
+ },
+ {
+   "channel_name": "BBC 1 East Midlands",
+   "epg_code": "BBC1EastMidlands.uk",
+   "popularity": 325
+ },
+ {
+   "channel_name": "BBC 1 HD",
+   "epg_code": "BBCOneHD.uk",
+   "popularity": 80402
+ },
+ {
+   "channel_name": "BBC 1 London",
+   "epg_code": "BBC1London.uk",
+   "popularity": 11445
+ },
+ {
+   "channel_name": "BBC 1 Midlands",
+   "epg_code": "BBC1Midlands.uk",
+   "popularity": 555
+ },
+ {
+   "channel_name": "BBC 1 North East",
+   "epg_code": "BBC1NorthEast.uk",
+   "popularity": 158
+ },
+ {
+   "channel_name": "BBC 1 North West",
+   "epg_code": "BBC1NorthWest.uk",
+   "popularity": 608
+ },
+ {
+   "channel_name": "BBC 1 Northern Ireland",
+   "epg_code": "BBC1NorthernIreland.uk",
+   "popularity": 10224
+ },
+ {
+   "channel_name": "BBC 1 Oxfordshire",
+   "epg_code": "BBC1Oxfordshire.uk",
+   "popularity": 35
+ },
+ {
+   "channel_name": "BBC 1 Scotland",
+   "epg_code": "BBC1Scotland.uk",
+   "popularity": 9987
+ },
+ {
+   "channel_name": "BBC 1 South",
+   "epg_code": "BBC1South.uk",
+   "popularity": 389
+ },
+ {
+   "channel_name": "BBC 1 South East",
+   "epg_code": "BBC1SouthEast.uk",
+   "popularity": 234
+ },
+ {
+   "channel_name": "BBC 1 South West",
+   "epg_code": "BBC1SouthWest.uk",
+   "popularity": 179
+ },
+ {
+   "channel_name": "BBC 1 Wales",
+   "epg_code": "BBC1Wales.uk",
+   "popularity": 1457
+ },
+ {
+   "channel_name": "BBC 1 West",
+   "epg_code": "BBC1West.uk",
+   "popularity": 629
+ },
+ {
+   "channel_name": "BBC 2 Northern Ireland",
+   "epg_code": "BBC2NorthernIreland.uk",
+   "popularity": 548
+ },
+ {
+   "channel_name": "BBC 2 Wales",
+   "epg_code": "BBC2Wales.uk",
+   "popularity": 676
+ },
+ {
+   "channel_name": "BBC Alba",
+   "epg_code": "BBCAlba.uk",
+   "popularity": 1478
+ },
+ {
+   "channel_name": "BBC First",
+   "epg_code": "BBCFirst.uk",
+   "popularity": 1
+ },
+ {
+   "channel_name": "BBC Four",
+   "epg_code": "BBC4.uk",
+   "popularity": 12069
+ },
+ {
+   "channel_name": "BBC Parliament",
+   "epg_code": "BBCParliament.uk",
+   "popularity": 2629
+ },
+ {
+   "channel_name": "BBC Red Button",
+   "epg_code": "BBCRedButton.uk",
+   "popularity": 873
+ },
+ {
+   "channel_name": "BBC Red Button 1",
+   "epg_code": "BBCRedButton1.uk",
+   "popularity": 360
+ },
+ {
+   "channel_name": "BBC Scotland",
+   "epg_code": "BBCScotland.uk",
+   "popularity": 481
+ },
+ {
+   "channel_name": "BBC Two",
+   "epg_code": "BBC2.uk",
+   "popularity": 57687
+ },
+ {
+   "channel_name": "BBC1 Yorkshire and Lincolnshire",
+   "epg_code": "BBC1Yorkshire.uk",
+   "popularity": 717
+ },
+ {
+   "channel_name": "Believe TV",
+   "epg_code": "BelieveTV.uk",
+   "popularity": 4
+ },
+ {
+   "channel_name": "BEN",
+   "epg_code": "BEN.uk",
+   "popularity": 521
+ },
+ {
+   "channel_name": "Best Direct",
+   "epg_code": "BestDirect.uk",
+   "popularity": 152
+ },
+ {
+   "channel_name": "BET",
+   "epg_code": "BET.uk",
+   "popularity": 5125
+ },
+ {
+   "channel_name": "BLAZE",
+   "epg_code": "BLAZE.uk",
+   "popularity": 26291
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.uk",
+   "popularity": 71785
+ },
+ {
+   "channel_name": "Boomerang +1",
+   "epg_code": "Boomerangplus1.uk",
+   "popularity": 857
+ },
+ {
+   "channel_name": "Box Hits",
+   "epg_code": "BoxHits.uk",
+   "popularity": 2291
+ },
+ {
+   "channel_name": "Box Upfront",
+   "epg_code": "BoxUpfront.uk",
+   "popularity": 133
+ },
+ {
+   "channel_name": "BoxNation",
+   "epg_code": "BoxNation.uk",
+   "popularity": 19841
+ },
+ {
+   "channel_name": "Brit Asia TV",
+   "epg_code": "BritAsiaTV.uk",
+   "popularity": 21130
+ },
+ {
+   "channel_name": "British Muslim",
+   "epg_code": "BritishMuslim.uk",
+   "popularity": 505
+ },
+ {
+   "channel_name": "BT Box Off HD",
+   "epg_code": "BTSportBO.uk",
+   "popularity": 152
+ },
+ {
+   "channel_name": "BT Sport / ESPN",
+   "epg_code": "BTSportESPN.uk",
+   "popularity": 47622
+ },
+ {
+   "channel_name": "BT Sport 1",
+   "epg_code": "BTSport1.uk",
+   "popularity": 104201
+ },
+ {
+   "channel_name": "BT Sport 2",
+   "epg_code": "BTSport2.uk",
+   "popularity": 147676
+ },
+ {
+   "channel_name": "BT Sport EurHD",
+   "epg_code": "BTSportEur.uk",
+   "popularity": 837
+ },
+ {
+   "channel_name": "BT Sports 3",
+   "epg_code": "BTSport3.uk",
+   "popularity": 72846
+ },
+ {
+   "channel_name": "Capital TV",
+   "epg_code": "CapitalTV.uk",
+   "popularity": 2031
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.uk",
+   "popularity": 13427
+ },
+ {
+   "channel_name": "Cartoon Network +1",
+   "epg_code": "CartoonNetworkPlus1.uk",
+   "popularity": 270
+ },
+ {
+   "channel_name": "Cartoonito",
+   "epg_code": "Cartoonito.uk",
+   "popularity": 28608
+ },
+ {
+   "channel_name": "CBBC",
+   "epg_code": "CBBC.uk",
+   "popularity": 4596
+ },
+ {
+   "channel_name": "CBeebies",
+   "epg_code": "CBeebies.uk",
+   "popularity": 9973
+ },
+ {
+   "channel_name": "CBS Drama",
+   "epg_code": "CBSDrama.uk",
+   "popularity": 19075
+ },
+ {
+   "channel_name": "CBS Justice",
+   "epg_code": "CBSJustice.uk",
+   "popularity": 492
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.uk",
+   "popularity": 11814
+ },
+ {
+   "channel_name": "CBS Reality+1",
+   "epg_code": "CBSRealityPlus1.uk",
+   "popularity": 107
+ },
+ {
+   "channel_name": "Celebration TV",
+   "epg_code": "CelebrationTV.uk",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Challenge",
+   "epg_code": "Challenge.uk",
+   "popularity": 5744
+ },
+ {
+   "channel_name": "Challenge +1",
+   "epg_code": "Challengeplus1.uk",
+   "popularity": 230
+ },
+ {
+   "channel_name": "Channel 4",
+   "epg_code": "Channel4.uk",
+   "popularity": 41541
+ },
+ {
+   "channel_name": "Channel 4 +1",
+   "epg_code": "Channel4plus1.uk",
+   "popularity": 3500
+ },
+ {
+   "channel_name": "Channel 4 Seven",
+   "epg_code": "4Seven.uk",
+   "popularity": 14465
+ },
+ {
+   "channel_name": "Channel 5",
+   "epg_code": "Channel5.uk",
+   "popularity": 33367
+ },
+ {
+   "channel_name": "Channel 5 +1",
+   "epg_code": "Channel5plus1.uk",
+   "popularity": 1197
+ },
+ {
+   "channel_name": "Channel i",
+   "epg_code": "Channeli.uk",
+   "popularity": 429
+ },
+ {
+   "channel_name": "Channel S TV",
+   "epg_code": "CHSTV.uk",
+   "popularity": 113
+ },
+ {
+   "channel_name": "Channels 24",
+   "epg_code": "Channels24.uk",
+   "popularity": 531
+ },
+ {
+   "channel_name": "Chelsea TV",
+   "epg_code": "ChelseaTV.uk",
+   "popularity": 1235
+ },
+ {
+   "channel_name": "Chilled TV",
+   "epg_code": "ChilledTV.uk",
+   "popularity": 23
+ },
+ {
+   "channel_name": "CITV",
+   "epg_code": "CITV.uk",
+   "popularity": 7846
+ },
+ {
+   "channel_name": "CLTV",
+   "epg_code": "CLTV.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Clubland TV",
+   "epg_code": "ClublandTV.uk",
+   "popularity": 4850
+ },
+ {
+   "channel_name": "CN+1",
+   "epg_code": "CNToo.uk",
+   "popularity": 92
+ },
+ {
+   "channel_name": "Colors",
+   "epg_code": "Colors.uk",
+   "popularity": 12197
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.uk",
+   "popularity": 75306
+ },
+ {
+   "channel_name": "Comedy Central +1",
+   "epg_code": "ComedyCentralplus1.uk",
+   "popularity": 741
+ },
+ {
+   "channel_name": "Comedy Central Extra",
+   "epg_code": "ComedyCentralExtra.uk",
+   "popularity": 9177
+ },
+ {
+   "channel_name": "Comedy Central Extra +1",
+   "epg_code": "ComedyCentralExtraPlus1.uk",
+   "popularity": 1240
+ },
+ {
+   "channel_name": "Community Channel",
+   "epg_code": "CommunityChannel.uk",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Craft Extra",
+   "epg_code": "CraftExtra.uk",
+   "popularity": 127
+ },
+ {
+   "channel_name": "Create and Craft",
+   "epg_code": "CreateCraft.uk",
+   "popularity": 341
+ },
+ {
+   "channel_name": "Crime and Investigation",
+   "epg_code": "CrimeAndInvestigationNetwork.uk",
+   "popularity": 29823
+ },
+ {
+   "channel_name": "Crime and Investigation +1",
+   "epg_code": "CrimeAndInvestigationNetworkplus1.uk",
+   "popularity": 264
+ },
+ {
+   "channel_name": "Cruise1st.tv",
+   "epg_code": "Cruise1st.tv.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CruiseDealsTV",
+   "epg_code": "CruiseDealsTV.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "CruiseSaversTV",
+   "epg_code": "CruiseSaversTV.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Cula4",
+   "epg_code": "Cula4.ie",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Dave",
+   "epg_code": "Dave.uk",
+   "popularity": 17066
+ },
+ {
+   "channel_name": "Dave Ja Vu",
+   "epg_code": "DaveJaVu.uk",
+   "popularity": 2129
+ },
+ {
+   "channel_name": "DAYSTAR",
+   "epg_code": "DAYSTAR.uk",
+   "popularity": 37
+ },
+ {
+   "channel_name": "DBN",
+   "epg_code": "DBN.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery",
+   "epg_code": "Discovery.uk",
+   "popularity": 33901
+ },
+ {
+   "channel_name": "Discovery Channel +1",
+   "epg_code": "Discoveryplus1.uk",
+   "popularity": 2696
+ },
+ {
+   "channel_name": "Discovery History",
+   "epg_code": "DiscoveryHistory.uk",
+   "popularity": 8783
+ },
+ {
+   "channel_name": "Discovery History +1",
+   "epg_code": "DiscoveryHistoryPlus1.uk",
+   "popularity": 1166
+ },
+ {
+   "channel_name": "Discovery Home and Health +1",
+   "epg_code": "HomeandHealthplus1.uk",
+   "popularity": 542
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.uk",
+   "popularity": 22360
+ },
+ {
+   "channel_name": "Discovery Science +1",
+   "epg_code": "DiscoverySciencePlus1.uk",
+   "popularity": 1082
+ },
+ {
+   "channel_name": "Discovery Shed",
+   "epg_code": "DiscoveryShed.uk",
+   "popularity": 5462
+ },
+ {
+   "channel_name": "Discovery Turbo",
+   "epg_code": "DiscoveryTurbo.uk",
+   "popularity": 19291
+ },
+ {
+   "channel_name": "Discovery Turbo",
+   "epg_code": "DiscoveryTurboPlus1.uk",
+   "popularity": 461
+ },
+ {
+   "channel_name": "Disney",
+   "epg_code": "Disney.uk",
+   "popularity": 33297
+ },
+ {
+   "channel_name": "Disney Channel +1",
+   "epg_code": "Disneyplus1.uk",
+   "popularity": 2667
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.uk",
+   "popularity": 61130
+ },
+ {
+   "channel_name": "Disney Junior +1",
+   "epg_code": "DisneyJuniorPlus1.uk",
+   "popularity": 179
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.uk",
+   "popularity": 10169
+ },
+ {
+   "channel_name": "Disney XD +1",
+   "epg_code": "DisneyXDplus1.uk",
+   "popularity": 99
+ },
+ {
+   "channel_name": "DMAX",
+   "epg_code": "DiscoveryDMAX.uk",
+   "popularity": 23967
+ },
+ {
+   "channel_name": "DMAX +1",
+   "epg_code": "DiscoveryDMAXPlus1.uk",
+   "popularity": 2333
+ },
+ {
+   "channel_name": "Drama",
+   "epg_code": "Drama.uk",
+   "popularity": 3856
+ },
+ {
+   "channel_name": "Drama +1",
+   "epg_code": "DramaPlus1.uk",
+   "popularity": 99
+ },
+ {
+   "channel_name": "Dunamis TV",
+   "epg_code": "DunamisTV.uk",
+   "popularity": 110
+ },
+ {
+   "channel_name": "Dunya News",
+   "epg_code": "DunyaNews.uk",
+   "popularity": 1902
+ },
+ {
+   "channel_name": "E!",
+   "epg_code": "E.uk",
+   "popularity": 21785
+ },
+ {
+   "channel_name": "E! +1",
+   "epg_code": "EPlus1.uk",
+   "popularity": 250
+ },
+ {
+   "channel_name": "E4",
+   "epg_code": "E4.uk",
+   "popularity": 32178
+ },
+ {
+   "channel_name": "E4 +1",
+   "epg_code": "E4plus1.uk",
+   "popularity": 1696
+ },
+ {
+   "channel_name": "Eden",
+   "epg_code": "Eden.uk",
+   "popularity": 5829
+ },
+ {
+   "channel_name": "Eden +1",
+   "epg_code": "EdenPlus1.uk",
+   "popularity": 591
+ },
+ {
+   "channel_name": "Eir Sport 1",
+   "epg_code": "eirSport1.ie",
+   "popularity": 3107
+ },
+ {
+   "channel_name": "Eir Sport 2",
+   "epg_code": "eirSport2.ie",
+   "popularity": 11704
+ },
+ {
+   "channel_name": "Elevensports 1",
+   "epg_code": "ElevenSports1.uk",
+   "popularity": 172
+ },
+ {
+   "channel_name": "Elevensports 2",
+   "epg_code": "ElevenSports2.uk",
+   "popularity": 184
+ },
+ {
+   "channel_name": "Eman Channel",
+   "epg_code": "EmanChannel.uk",
+   "popularity": 432
+ },
+ {
+   "channel_name": "ESPN",
+   "epg_code": "ESPN.uk",
+   "popularity": 24372
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport1.uk",
+   "popularity": 44884
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.uk",
+   "popularity": 25525
+ },
+ {
+   "channel_name": "EWTN",
+   "epg_code": "EWTN.uk",
+   "popularity": 327
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.uk",
+   "popularity": 3049
+ },
+ {
+   "channel_name": "Faith UK",
+   "epg_code": "FaithUK.uk",
+   "popularity": 279
+ },
+ {
+   "channel_name": "Faith World TV",
+   "epg_code": "FaithWorld.uk",
+   "popularity": 20
+ },
+ {
+   "channel_name": "FAME TV",
+   "epg_code": "FameTV.uk",
+   "popularity": 54
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.uk",
+   "popularity": 152
+ },
+ {
+   "channel_name": "Film4",
+   "epg_code": "Film4.uk",
+   "popularity": 22755
+ },
+ {
+   "channel_name": "Film4 +1",
+   "epg_code": "Film4plus1.uk",
+   "popularity": 765
+ },
+ {
+   "channel_name": "Flow TV",
+   "epg_code": "FlowTV.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.uk",
+   "popularity": 9141
+ },
+ {
+   "channel_name": "Food Network +1",
+   "epg_code": "FoodNetworkPlus1.uk",
+   "popularity": 3738
+ },
+ {
+   "channel_name": "Foodxp",
+   "epg_code": "FoodXP.uk",
+   "popularity": 89
+ },
+ {
+   "channel_name": "Forces TV",
+   "epg_code": "ForcesTV.uk",
+   "popularity": 1671
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "FX.uk",
+   "popularity": 28499
+ },
+ {
+   "channel_name": "FOX +1",
+   "epg_code": "FoxPlus1.uk",
+   "popularity": 356
+ },
+ {
+   "channel_name": "FreeSports",
+   "epg_code": "FreeSports.uk",
+   "popularity": 2961
+ },
+ {
+   "channel_name": "FrontRunner",
+   "epg_code": "FrontRunner.uk",
+   "popularity": 119
+ },
+ {
+   "channel_name": "FrontRunner 2",
+   "epg_code": "FrontRunner2.uk",
+   "popularity": 34
+ },
+ {
+   "channel_name": "FX+",
+   "epg_code": "FXplus.uk",
+   "popularity": 108
+ },
+ {
+   "channel_name": "G.O.L.D.",
+   "epg_code": "GOLD.uk",
+   "popularity": 53600
+ },
+ {
+   "channel_name": "Gems TV",
+   "epg_code": "GemsTV.uk",
+   "popularity": 70
+ },
+ {
+   "channel_name": "GEO News",
+   "epg_code": "GEONews.uk",
+   "popularity": 3376
+ },
+ {
+   "channel_name": "GEO TEZ",
+   "epg_code": "GEOTEZ.uk",
+   "popularity": 261
+ },
+ {
+   "channel_name": "GEO TV",
+   "epg_code": "GEOTV.uk",
+   "popularity": 3082
+ },
+ {
+   "channel_name": "GINXeSportsTV",
+   "epg_code": "GINXeSportsTV.uk",
+   "popularity": 806
+ },
+ {
+   "channel_name": "Glory TV",
+   "epg_code": "GloryTV.uk",
+   "popularity": 13
+ },
+ {
+   "channel_name": "GN TV",
+   "epg_code": "GNTV.uk",
+   "popularity": 120
+ },
+ {
+   "channel_name": "GOLD +1",
+   "epg_code": "GOLDPlus1.uk",
+   "popularity": 1385
+ },
+ {
+   "channel_name": "Good News TV",
+   "epg_code": "GoodNewsTV.uk",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Gospel Channel",
+   "epg_code": "GospelChannel.uk",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Grace TV",
+   "epg_code": "GraceTV.uk",
+   "popularity": 4
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.uk",
+   "popularity": 17063
+ },
+ {
+   "channel_name": "Heart TV",
+   "epg_code": "HeartTV.uk",
+   "popularity": 213
+ },
+ {
+   "channel_name": "Hidayat TV",
+   "epg_code": "HidayatTV.uk",
+   "popularity": 271
+ },
+ {
+   "channel_name": "High Street TV",
+   "epg_code": "HighStreetTV.uk",
+   "popularity": 28
+ },
+ {
+   "channel_name": "High Street TV 2",
+   "epg_code": "HighStreetTV2.uk",
+   "popularity": 36
+ },
+ {
+   "channel_name": "High Street TV 3",
+   "epg_code": "HighStreetTV3.uk",
+   "popularity": 28
+ },
+ {
+   "channel_name": "High Street TV 5",
+   "epg_code": "HighStreetTV5.uk",
+   "popularity": 10
+ },
+ {
+   "channel_name": "History",
+   "epg_code": "History.uk",
+   "popularity": 20453
+ },
+ {
+   "channel_name": "History +1",
+   "epg_code": "Historyplus1.uk",
+   "popularity": 1058
+ },
+ {
+   "channel_name": "Hochanda",
+   "epg_code": "Hochanda.uk",
+   "popularity": 128
+ },
+ {
+   "channel_name": "holiday+cruise",
+   "epg_code": "holidaycruise.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Home",
+   "epg_code": "Home.uk",
+   "popularity": 1098
+ },
+ {
+   "channel_name": "Home +1",
+   "epg_code": "Homeplus1.uk",
+   "popularity": 141
+ },
+ {
+   "channel_name": "Home and Health",
+   "epg_code": "HomeandHealth.uk",
+   "popularity": 8240
+ },
+ {
+   "channel_name": "Horror Channel",
+   "epg_code": "HorrorChannel.uk",
+   "popularity": 5245
+ },
+ {
+   "channel_name": "Horror Channel +1",
+   "epg_code": "HorrorChannelPlus1.uk",
+   "popularity": 1053
+ },
+ {
+   "channel_name": "HUM EUROPE",
+   "epg_code": "HUM-EUROPE.uk",
+   "popularity": 2180
+ },
+ {
+   "channel_name": "HUM Masala",
+   "epg_code": "HUMMasala.uk",
+   "popularity": 1157
+ },
+ {
+   "channel_name": "HUM News",
+   "epg_code": "HUMNews.uk",
+   "popularity": 832
+ },
+ {
+   "channel_name": "Ideal Extra",
+   "epg_code": "IdealExtra.uk",
+   "popularity": 123
+ },
+ {
+   "channel_name": "Ideal World",
+   "epg_code": "IdealWorld.uk",
+   "popularity": 200
+ },
+ {
+   "channel_name": "Ideal Xmas",
+   "epg_code": "IdealXmas.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Inspiration",
+   "epg_code": "Inspiration.uk",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "Investigation.uk",
+   "popularity": 14279
+ },
+ {
+   "channel_name": "Investigation Discovery +1",
+   "epg_code": "Investigationplus1.uk",
+   "popularity": 486
+ },
+ {
+   "channel_name": "iON TV",
+   "epg_code": "iONTV.uk",
+   "popularity": 114
+ },
+ {
+   "channel_name": "IQRA BANGLA",
+   "epg_code": "IQRABANGLA.uk",
+   "popularity": 365
+ },
+ {
+   "channel_name": "IQRA TV",
+   "epg_code": "IQRATV.uk",
+   "popularity": 352
+ },
+ {
+   "channel_name": "Iran Intl HD",
+   "epg_code": "IranIntl.uk",
+   "popularity": 208
+ },
+ {
+   "channel_name": "Islam Channel",
+   "epg_code": "IslamChannel.uk",
+   "popularity": 1242
+ },
+ {
+   "channel_name": "Islam TV Urdu",
+   "epg_code": "IslamTVUrdu.uk",
+   "popularity": 84
+ },
+ {
+   "channel_name": "ITV 2",
+   "epg_code": "ITV2.uk",
+   "popularity": 21770
+ },
+ {
+   "channel_name": "ITV 3",
+   "epg_code": "ITV3.uk",
+   "popularity": 12547
+ },
+ {
+   "channel_name": "ITV 4",
+   "epg_code": "ITV4.uk",
+   "popularity": 12409
+ },
+ {
+   "channel_name": "ITV Anglia +1",
+   "epg_code": "ITV1AngliaPlus1.uk",
+   "popularity": 162
+ },
+ {
+   "channel_name": "ITV Box Off HD",
+   "epg_code": "ITVBoxOff.uk",
+   "popularity": 1014
+ },
+ {
+   "channel_name": "ITV Central+1",
+   "epg_code": "ITV1CentralPlus1.uk",
+   "popularity": 747
+ },
+ {
+   "channel_name": "ITV Granada+1",
+   "epg_code": "ITV1GranadaPlus1.uk",
+   "popularity": 148
+ },
+ {
+   "channel_name": "ITV London+1",
+   "epg_code": "ITV1LondonPlus1.uk",
+   "popularity": 3594
+ },
+ {
+   "channel_name": "ITV Meridian+1",
+   "epg_code": "ITV1MeridianPlus1.uk",
+   "popularity": 36
+ },
+ {
+   "channel_name": "ITV Tynes Tees +1",
+   "epg_code": "ITV1TyneTeesPlus1.uk",
+   "popularity": 13
+ },
+ {
+   "channel_name": "ITV Wales +1",
+   "epg_code": "ITV1WalesPlus1.uk",
+   "popularity": 52
+ },
+ {
+   "channel_name": "ITV Westcountry",
+   "epg_code": "ITV1Westcountry.uk",
+   "popularity": 384
+ },
+ {
+   "channel_name": "ITV Westcountry +1",
+   "epg_code": "ITV1WestcountryPlus1.uk",
+   "popularity": 12
+ },
+ {
+   "channel_name": "ITV Yorkshire+1",
+   "epg_code": "ITV1YorkshirePlus1.uk",
+   "popularity": 51
+ },
+ {
+   "channel_name": "ITV1 Anglia",
+   "epg_code": "ITV1Anglia.uk",
+   "popularity": 2841
+ },
+ {
+   "channel_name": "ITV1 Border North",
+   "epg_code": "ITV1Border.uk",
+   "popularity": 143
+ },
+ {
+   "channel_name": "ITV1 Central",
+   "epg_code": "ITV1Central.uk",
+   "popularity": 6867
+ },
+ {
+   "channel_name": "ITV1 Channel Islnd",
+   "epg_code": "ITV1ChannelIslands.uk",
+   "popularity": 14
+ },
+ {
+   "channel_name": "ITV1 Granada",
+   "epg_code": "ITV1Granada.uk",
+   "popularity": 4729
+ },
+ {
+   "channel_name": "ITV1 London",
+   "epg_code": "ITV1London.uk",
+   "popularity": 76421
+ },
+ {
+   "channel_name": "ITV1 Meridian",
+   "epg_code": "ITV1Meridian.uk",
+   "popularity": 385
+ },
+ {
+   "channel_name": "ITV1 Tyne Tees",
+   "epg_code": "ITV1TyneTees.uk",
+   "popularity": 231
+ },
+ {
+   "channel_name": "ITV1 Wales",
+   "epg_code": "ITV1Wales.uk",
+   "popularity": 193
+ },
+ {
+   "channel_name": "ITV1 West",
+   "epg_code": "ITV1West.uk",
+   "popularity": 93
+ },
+ {
+   "channel_name": "ITV1 YTV",
+   "epg_code": "ITV1Yorkshire.uk",
+   "popularity": 231
+ },
+ {
+   "channel_name": "ITV2+1",
+   "epg_code": "ITV2plus1.uk",
+   "popularity": 2556
+ },
+ {
+   "channel_name": "ITV3+1",
+   "epg_code": "ITV3plus1.uk",
+   "popularity": 1011
+ },
+ {
+   "channel_name": "ITV4+1",
+   "epg_code": "ITV4plus1.uk",
+   "popularity": 2001
+ },
+ {
+   "channel_name": "ITVBe",
+   "epg_code": "ITVBe.uk",
+   "popularity": 13681
+ },
+ {
+   "channel_name": "ITVBe+1",
+   "epg_code": "ITVBePlus1.uk",
+   "popularity": 737
+ },
+ {
+   "channel_name": "Jewelry Maker",
+   "epg_code": "JewelryMaker.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "JML Direct",
+   "epg_code": "JMLDirect.uk",
+   "popularity": 82
+ },
+ {
+   "channel_name": "JUS Punjabi",
+   "epg_code": "JUSPunjabi.uk",
+   "popularity": 258
+ },
+ {
+   "channel_name": "Kanshi TV",
+   "epg_code": "KanshiTV.uk",
+   "popularity": 333
+ },
+ {
+   "channel_name": "Keep It Country",
+   "epg_code": "KeepItCountry.uk",
+   "popularity": 412
+ },
+ {
+   "channel_name": "Kiss TV",
+   "epg_code": "KissTV.uk",
+   "popularity": 4422
+ },
+ {
+   "channel_name": "Kix +1",
+   "epg_code": "KixPlus1.uk",
+   "popularity": 24
+ },
+ {
+   "channel_name": "Kix Power",
+   "epg_code": "KixPower.uk",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Kix!",
+   "epg_code": "Kix.uk",
+   "popularity": 165
+ },
+ {
+   "channel_name": "KTV",
+   "epg_code": "KTV.uk",
+   "popularity": 16705
+ },
+ {
+   "channel_name": "Laliga TV",
+   "epg_code": "LaligaTV.uk",
+   "popularity": 592
+ },
+ {
+   "channel_name": "Lifetime",
+   "epg_code": "Lifetime.uk",
+   "popularity": 9865
+ },
+ {
+   "channel_name": "Lifetime +1",
+   "epg_code": "LifetimePlus1.uk",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Live 360",
+   "epg_code": "Live360.uk",
+   "popularity": 300
+ },
+ {
+   "channel_name": "LiverpoolFCTV",
+   "epg_code": "LiverpoolFCTV.uk",
+   "popularity": 9386
+ },
+ {
+   "channel_name": "Living Foodz",
+   "epg_code": "LivingFoodz.uk",
+   "popularity": 120
+ },
+ {
+   "channel_name": "London Live",
+   "epg_code": "LondonLive.uk",
+   "popularity": 7427
+ },
+ {
+   "channel_name": "Love Nature",
+   "epg_code": "LoveNature.uk",
+   "popularity": 1879
+ },
+ {
+   "channel_name": "LOVEWORLD TV",
+   "epg_code": "LOVEWORLD-TV.uk",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Madani Chnl",
+   "epg_code": "MadaniChnl.uk",
+   "popularity": 329
+ },
+ {
+   "channel_name": "Made in Birmingham",
+   "epg_code": "MadeinBirmingham.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Made in Bristol",
+   "epg_code": "MadeinBristol.uk",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Made in Cardiff",
+   "epg_code": "MadeinCardiff.uk",
+   "popularity": 15
+ },
+ {
+   "channel_name": "Made in Leeds",
+   "epg_code": "MadeinLeeds.uk",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Made in Liverpool",
+   "epg_code": "MadeinLiverpool.uk",
+   "popularity": 121
+ },
+ {
+   "channel_name": "Made in Tyne and Wear",
+   "epg_code": "MadeinTyneandWear.uk",
+   "popularity": 10
+ },
+ {
+   "channel_name": "MATV National",
+   "epg_code": "MATVNational.uk",
+   "popularity": 596
+ },
+ {
+   "channel_name": "More4",
+   "epg_code": "More4.uk",
+   "popularity": 10847
+ },
+ {
+   "channel_name": "More4 +1",
+   "epg_code": "More4Plus1.uk",
+   "popularity": 1100
+ },
+ {
+   "channel_name": "Movie Mix",
+   "epg_code": "MovieMix.uk",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Movies24",
+   "epg_code": "MoviesTwentyFour.uk",
+   "popularity": 10684
+ },
+ {
+   "channel_name": "Movies24+1",
+   "epg_code": "MoviesTwentyFourPlus1.uk",
+   "popularity": 34
+ },
+ {
+   "channel_name": "Movies4Men",
+   "epg_code": "Movies4Men.uk",
+   "popularity": 1718
+ },
+ {
+   "channel_name": "Movies4Men +1",
+   "epg_code": "Movies4MenPlus1.uk",
+   "popularity": 343
+ },
+ {
+   "channel_name": "mta-muslim tv",
+   "epg_code": "mta-muslimtv.uk",
+   "popularity": 188
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.uk",
+   "popularity": 10293
+ },
+ {
+   "channel_name": "MTV +1",
+   "epg_code": "MTVplus1.uk",
+   "popularity": 596
+ },
+ {
+   "channel_name": "MTV Base",
+   "epg_code": "MTVBase.uk",
+   "popularity": 5102
+ },
+ {
+   "channel_name": "MTV Beats",
+   "epg_code": "MTVBeats.uk",
+   "popularity": 243
+ },
+ {
+   "channel_name": "MTV Classic",
+   "epg_code": "MTVClassic.uk",
+   "popularity": 5941
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.uk",
+   "popularity": 3087
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.uk",
+   "popularity": 9586
+ },
+ {
+   "channel_name": "MTV Music +1",
+   "epg_code": "MTVMusicPlus1.uk",
+   "popularity": 223
+ },
+ {
+   "channel_name": "MTV OMG",
+   "epg_code": "MTVOMG.uk",
+   "popularity": 144
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "MTVRocks.uk",
+   "popularity": 3025
+ },
+ {
+   "channel_name": "MTV Trax",
+   "epg_code": "MTVtrax.uk",
+   "popularity": 7
+ },
+ {
+   "channel_name": "MUTV",
+   "epg_code": "MUTV.uk",
+   "popularity": 22957
+ },
+ {
+   "channel_name": "My 5",
+   "epg_code": "My5.uk",
+   "popularity": 1123
+ },
+ {
+   "channel_name": "My Channel",
+   "epg_code": "MyChannel.uk",
+   "popularity": 350
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.uk",
+   "popularity": 32063
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.uk",
+   "popularity": 18678
+ },
+ {
+   "channel_name": "National Geographic Channel +1",
+   "epg_code": "NationalGeographicPlus1.uk",
+   "popularity": 347
+ },
+ {
+   "channel_name": "NDTV 24x7",
+   "epg_code": "NDTV.uk",
+   "popularity": 973
+ },
+ {
+   "channel_name": "New Vision TV",
+   "epg_code": "NewVisionTV.uk",
+   "popularity": 851
+ },
+ {
+   "channel_name": "News 18 India",
+   "epg_code": "News18India.uk",
+   "popularity": 501
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJunior.uk",
+   "popularity": 23737
+ },
+ {
+   "channel_name": "Nick Jr +1",
+   "epg_code": "NickJrPlus1.uk",
+   "popularity": 1554
+ },
+ {
+   "channel_name": "Nick Jr. Too",
+   "epg_code": "NickJrPeppa.uk",
+   "popularity": 8643
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.uk",
+   "popularity": 14596
+ },
+ {
+   "channel_name": "Nickelodeon +1",
+   "epg_code": "NickelodeonPlus1.uk",
+   "popularity": 3088
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.uk",
+   "popularity": 20393
+ },
+ {
+   "channel_name": "Nollywood",
+   "epg_code": "Nollywood.uk",
+   "popularity": 1175
+ },
+ {
+   "channel_name": "Noor TV",
+   "epg_code": "NoorTV.uk",
+   "popularity": 577
+ },
+ {
+   "channel_name": "Notts TV",
+   "epg_code": "NottsTV.uk",
+   "popularity": 253
+ },
+ {
+   "channel_name": "NOW 80s",
+   "epg_code": "NOW80s.uk",
+   "popularity": 507
+ },
+ {
+   "channel_name": "Now 90's",
+   "epg_code": "Now90s.uk",
+   "popularity": 547
+ },
+ {
+   "channel_name": "NOW Music",
+   "epg_code": "NOWMusic.uk",
+   "popularity": 131
+ },
+ {
+   "channel_name": "NTV",
+   "epg_code": "NTV.uk",
+   "popularity": 1303
+ },
+ {
+   "channel_name": "Oireachtas TV",
+   "epg_code": "OireachtasTV.uk",
+   "popularity": 181
+ },
+ {
+   "channel_name": "Olive TV",
+   "epg_code": "OliveTV.uk",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Paramount",
+   "epg_code": "Paramount.uk",
+   "popularity": 6241
+ },
+ {
+   "channel_name": "Paramount +1",
+   "epg_code": "ParamountPlus1.uk",
+   "popularity": 4
+ },
+ {
+   "channel_name": "PaversShoes.tv",
+   "epg_code": "PaversShoes.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "PBS",
+   "epg_code": "PBS.uk",
+   "popularity": 2651
+ },
+ {
+   "channel_name": "Peace TV",
+   "epg_code": "PeaceTV.uk",
+   "popularity": 3230
+ },
+ {
+   "channel_name": "Peace TV Urdu",
+   "epg_code": "PeaceTVUrdu.uk",
+   "popularity": 210
+ },
+ {
+   "channel_name": "Pick +1",
+   "epg_code": "PickTVPlus1.uk",
+   "popularity": 262
+ },
+ {
+   "channel_name": "Pick TV",
+   "epg_code": "PickTV.uk",
+   "popularity": 9402
+ },
+ {
+   "channel_name": "Pop",
+   "epg_code": "pop.uk",
+   "popularity": 2760
+ },
+ {
+   "channel_name": "Pop +1",
+   "epg_code": "PopPlus1.uk",
+   "popularity": 407
+ },
+ {
+   "channel_name": "PopGirl",
+   "epg_code": "PopGirl.uk",
+   "popularity": 10
+ },
+ {
+   "channel_name": "PopGirl +1",
+   "epg_code": "PopGirlPlus1.uk",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Premier 2 HD",
+   "epg_code": "Premier2.ie",
+   "popularity": 287
+ },
+ {
+   "channel_name": "Premier Sports",
+   "epg_code": "PremierSports.uk",
+   "popularity": 7064
+ },
+ {
+   "channel_name": "Premier Sports 2",
+   "epg_code": "PremierSports2.uk",
+   "popularity": 1507
+ },
+ {
+   "channel_name": "Price Crash",
+   "epg_code": "PriceCrash.uk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Primal Cure",
+   "epg_code": "PrimalCure.uk",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Propeller TV",
+   "epg_code": "PropellerTV.uk",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Property Show",
+   "epg_code": "Property.uk",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Psychic Today",
+   "epg_code": "PsychicToday.uk",
+   "popularity": 21
+ },
+ {
+   "channel_name": "PTC PUNJABI",
+   "epg_code": "PTCPUNJABI.uk",
+   "popularity": 1605
+ },
+ {
+   "channel_name": "PTV Global",
+   "epg_code": "PTVGlobal.uk",
+   "popularity": 874
+ },
+ {
+   "channel_name": "PTV Prime",
+   "epg_code": "PTVPrime.uk",
+   "popularity": 246
+ },
+ {
+   "channel_name": "QUEST",
+   "epg_code": "Quest.uk",
+   "popularity": 5276
+ },
+ {
+   "channel_name": "Quest +1",
+   "epg_code": "QuestPlus1.uk",
+   "popularity": 997
+ },
+ {
+   "channel_name": "Quest Red",
+   "epg_code": "QuestRed.uk",
+   "popularity": 2535
+ },
+ {
+   "channel_name": "Quest Red +1",
+   "epg_code": "QuestRedPlus1.uk",
+   "popularity": 616
+ },
+ {
+   "channel_name": "QVC",
+   "epg_code": "QVC.uk",
+   "popularity": 1066
+ },
+ {
+   "channel_name": "QVC Beauty",
+   "epg_code": "QVCBeauty.uk",
+   "popularity": 289
+ },
+ {
+   "channel_name": "QVC Extra",
+   "epg_code": "QVCExtra.uk",
+   "popularity": 240
+ },
+ {
+   "channel_name": "QVC Style",
+   "epg_code": "QVCStyle.uk",
+   "popularity": 301
+ },
+ {
+   "channel_name": "Racing UK",
+   "epg_code": "RacingUK.uk",
+   "popularity": 16316
+ },
+ {
+   "channel_name": "Really",
+   "epg_code": "Really.uk",
+   "popularity": 4135
+ },
+ {
+   "channel_name": "Republic Bharat",
+   "epg_code": "RepublicBharat.uk",
+   "popularity": 491
+ },
+ {
+   "channel_name": "Retro Movies",
+   "epg_code": "RetroMovies.uk",
+   "popularity": 3
+ },
+ {
+   "channel_name": "revelation",
+   "epg_code": "revelation.uk",
+   "popularity": 166
+ },
+ {
+   "channel_name": "Rishtey",
+   "epg_code": "Rishtey.uk",
+   "popularity": 2528
+ },
+ {
+   "channel_name": "Rishtey Cineplex",
+   "epg_code": "RishteyCineplex.uk",
+   "popularity": 1823
+ },
+ {
+   "channel_name": "ROK",
+   "epg_code": "ROK.uk",
+   "popularity": 1859
+ },
+ {
+   "channel_name": "ROK +1",
+   "epg_code": "ROKplus1.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RTE jr",
+   "epg_code": "RTEjr.ie",
+   "popularity": 181
+ },
+ {
+   "channel_name": "RTE News Now",
+   "epg_code": "RTENewsNow.ie",
+   "popularity": 6798
+ },
+ {
+   "channel_name": "RTE One",
+   "epg_code": "RTE1.ie",
+   "popularity": 22002
+ },
+ {
+   "channel_name": "RTE One +1",
+   "epg_code": "RTE1Plus.ie",
+   "popularity": 346
+ },
+ {
+   "channel_name": "RTE Two",
+   "epg_code": "RTE2.ie",
+   "popularity": 10857
+ },
+ {
+   "channel_name": "S4C",
+   "epg_code": "S4C.uk",
+   "popularity": 1364
+ },
+ {
+   "channel_name": "Safeer TV",
+   "epg_code": "SafeerTV.uk",
+   "popularity": 52
+ },
+ {
+   "channel_name": "Samaa",
+   "epg_code": "Samaa.uk",
+   "popularity": 1134
+ },
+ {
+   "channel_name": "Sangat",
+   "epg_code": "Sangat.uk",
+   "popularity": 368
+ },
+ {
+   "channel_name": "Sanskar",
+   "epg_code": "Sanskar.uk",
+   "popularity": 197
+ },
+ {
+   "channel_name": "SEE TV",
+   "epg_code": "SEETV.uk",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Sewing Quarter",
+   "epg_code": "SewingQuarter.uk",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Showcase",
+   "epg_code": "Showcase.uk",
+   "popularity": 1091
+ },
+ {
+   "channel_name": "Showcase +1",
+   "epg_code": "ShowcasePlus1.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sikh Channel",
+   "epg_code": "SikhChannel.uk",
+   "popularity": 493
+ },
+ {
+   "channel_name": "Sky Arts1",
+   "epg_code": "SkyArts1.uk",
+   "popularity": 5957
+ },
+ {
+   "channel_name": "Sky Atlantic",
+   "epg_code": "SkyAtlantic.uk",
+   "popularity": 27086
+ },
+ {
+   "channel_name": "Sky Atlantic +1",
+   "epg_code": "SkyAtlanticplus1.uk",
+   "popularity": 556
+ },
+ {
+   "channel_name": "Sky Cinema Hits",
+   "epg_code": "SkyCinemaHits.uk",
+   "popularity": 26571
+ },
+ {
+   "channel_name": "Sky Comedy HD",
+   "epg_code": "SkyComedy.uk",
+   "popularity": 2348
+ },
+ {
+   "channel_name": "Sky Crime",
+   "epg_code": "SkyCrime.uk",
+   "popularity": 1911
+ },
+ {
+   "channel_name": "Sky Crime +1",
+   "epg_code": "SkyCrimePlus1.uk",
+   "popularity": 91
+ },
+ {
+   "channel_name": "Sky Living +1",
+   "epg_code": "SkyLivingPlus1.uk",
+   "popularity": 418
+ },
+ {
+   "channel_name": "Sky Movies Action and Adventure",
+   "epg_code": "SkyMoviesActionThriller.uk",
+   "popularity": 133519
+ },
+ {
+   "channel_name": "Sky Movies Comedy",
+   "epg_code": "SkyMoviesComedy.uk",
+   "popularity": 50604
+ },
+ {
+   "channel_name": "Sky Movies Crime and Thriller",
+   "epg_code": "SkyCinemaThriller.uk",
+   "popularity": 95735
+ },
+ {
+   "channel_name": "Sky Movies Disney",
+   "epg_code": "SkyMoviesDisney.uk",
+   "popularity": 23163
+ },
+ {
+   "channel_name": "Sky Movies Drama and Romance",
+   "epg_code": "SkyMoviesDrama.uk",
+   "popularity": 71094
+ },
+ {
+   "channel_name": "Sky Movies Family",
+   "epg_code": "SkyMoviesFamily.uk",
+   "popularity": 54108
+ },
+ {
+   "channel_name": "Sky Movies Premiere",
+   "epg_code": "SkyMoviesPremiere.uk",
+   "popularity": 37163
+ },
+ {
+   "channel_name": "Sky Movies Premiere +1",
+   "epg_code": "SkyMoviesPremiereplus1.uk",
+   "popularity": 826
+ },
+ {
+   "channel_name": "Sky Movies Sci-Fi and Horror",
+   "epg_code": "SkySciFiHorror.uk",
+   "popularity": 16916
+ },
+ {
+   "channel_name": "Sky Movies Select",
+   "epg_code": "SkyMoviesIndie.uk",
+   "popularity": 22136
+ },
+ {
+   "channel_name": "Sky Movies Superheroes",
+   "epg_code": "SkyBrits.uk",
+   "popularity": 24061
+ },
+ {
+   "channel_name": "Sky News Arabia HD",
+   "epg_code": "SkyNewsArabia.net",
+   "popularity": 4549
+ },
+ {
+   "channel_name": "Sky Sports 1 ROI",
+   "epg_code": "SkySports1.ie",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Sky Sports 5 ROI",
+   "epg_code": "SkySports5.ie",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Sky Sports Action",
+   "epg_code": "SkySpAction.uk",
+   "popularity": 26562
+ },
+ {
+   "channel_name": "Sky Sports Arena",
+   "epg_code": "SkySpArena.uk",
+   "popularity": 41690
+ },
+ {
+   "channel_name": "Sky Sports Box Office",
+   "epg_code": "SkySpBoxOff.uk",
+   "popularity": 3670
+ },
+ {
+   "channel_name": "Sky Sports Cricket",
+   "epg_code": "SkySpCricket.uk",
+   "popularity": 54380
+ },
+ {
+   "channel_name": "Sky Sports F1",
+   "epg_code": "SkySpF1.uk",
+   "popularity": 14932
+ },
+ {
+   "channel_name": "Sky Sports Football",
+   "epg_code": "SkySpFball.uk",
+   "popularity": 53806
+ },
+ {
+   "channel_name": "Sky Sports Golf",
+   "epg_code": "SkySpTheOpen.uk",
+   "popularity": 33997
+ },
+ {
+   "channel_name": "Sky Sports Main Event",
+   "epg_code": "SkySpMainEv.uk",
+   "popularity": 167892
+ },
+ {
+   "channel_name": "Sky Sports Mix",
+   "epg_code": "SkySpMix.uk",
+   "popularity": 18809
+ },
+ {
+   "channel_name": "Sky Sports News",
+   "epg_code": "SkySpNews.uk",
+   "popularity": 17963
+ },
+ {
+   "channel_name": "Sky Sports Premier League",
+   "epg_code": "SkySpPL.uk",
+   "popularity": 83888
+ },
+ {
+   "channel_name": "Sky Witness",
+   "epg_code": "SkyLiving.uk",
+   "popularity": 3996
+ },
+ {
+   "channel_name": "Sky Witness",
+   "epg_code": "SkyWitness.uk",
+   "popularity": 2143
+ },
+ {
+   "channel_name": "Sky Witness +1",
+   "epg_code": "SkyWitnessPlus1.uk",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Sky1",
+   "epg_code": "Sky1.uk",
+   "popularity": 23056
+ },
+ {
+   "channel_name": "Sky1 +1",
+   "epg_code": "Sky1Plus1.uk",
+   "popularity": 35
+ },
+ {
+   "channel_name": "Sky2",
+   "epg_code": "Sky2.uk",
+   "popularity": 4627
+ },
+ {
+   "channel_name": "SkyNws Arabia",
+   "epg_code": "SkyNewsArabia",
+   "popularity": 69
+ },
+ {
+   "channel_name": "SkySp Racing",
+   "epg_code": "SkySpRacing.uk",
+   "popularity": 2257
+ },
+ {
+   "channel_name": "Smithsonian Channel",
+   "epg_code": "SmithsonianChannel.uk",
+   "popularity": 3040
+ },
+ {
+   "channel_name": "Sonlife",
+   "epg_code": "Sonlife.uk",
+   "popularity": 145
+ },
+ {
+   "channel_name": "Sony Crime Channel",
+   "epg_code": "SonyCrimeChannel.uk",
+   "popularity": 11451
+ },
+ {
+   "channel_name": "Sony Crime Channel +1",
+   "epg_code": "SonyCrimeChannelPlus1.uk",
+   "popularity": 227
+ },
+ {
+   "channel_name": "SONY MAX",
+   "epg_code": "SonyMax.uk",
+   "popularity": 5366
+ },
+ {
+   "channel_name": "SONY MAX 2",
+   "epg_code": "SonyMax2.uk",
+   "popularity": 955
+ },
+ {
+   "channel_name": "SONY MIX",
+   "epg_code": "SonyMix.uk",
+   "popularity": 1139
+ },
+ {
+   "channel_name": "Sony Movie Channel",
+   "epg_code": "SonyMovies.uk",
+   "popularity": 9282
+ },
+ {
+   "channel_name": "Sony Movie Channel +1",
+   "epg_code": "SonyMoviesplus1.uk",
+   "popularity": 1028
+ },
+ {
+   "channel_name": "Sony Movies Classic",
+   "epg_code": "SonyClassic.uk",
+   "popularity": 833
+ },
+ {
+   "channel_name": "Sony Movies Classic +1",
+   "epg_code": "SonyClassicPlus1.uk",
+   "popularity": 240
+ },
+ {
+   "channel_name": "SONY SAB",
+   "epg_code": "SONYSAB.uk",
+   "popularity": 4653
+ },
+ {
+   "channel_name": "Sony TV Asia",
+   "epg_code": "SonyTVAsia.uk",
+   "popularity": 5988
+ },
+ {
+   "channel_name": "Star Bharat",
+   "epg_code": "StarBharat.uk",
+   "popularity": 3101
+ },
+ {
+   "channel_name": "Star Gold",
+   "epg_code": "StarGold.uk",
+   "popularity": 6075
+ },
+ {
+   "channel_name": "Star Plus",
+   "epg_code": "StarPlus.uk",
+   "popularity": 13623
+ },
+ {
+   "channel_name": "Starz TV",
+   "epg_code": "StarzTV.uk",
+   "popularity": 470
+ },
+ {
+   "channel_name": "STV Central",
+   "epg_code": "STVCentral.uk",
+   "popularity": 303
+ },
+ {
+   "channel_name": "STV Central +1",
+   "epg_code": "STVCentralPlus1.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "STV HD",
+   "epg_code": "STV.uk",
+   "popularity": 4637
+ },
+ {
+   "channel_name": "STV North",
+   "epg_code": "STVNorth.uk",
+   "popularity": 184
+ },
+ {
+   "channel_name": "STV2",
+   "epg_code": "STV2.uk",
+   "popularity": 70
+ },
+ {
+   "channel_name": "SyFy",
+   "epg_code": "SCIFI.uk",
+   "popularity": 51661
+ },
+ {
+   "channel_name": "Syfy +1",
+   "epg_code": "SCIFIPlus1.uk",
+   "popularity": 152
+ },
+ {
+   "channel_name": "Takbeer TV",
+   "epg_code": "TakbeerTV.uk",
+   "popularity": 233
+ },
+ {
+   "channel_name": "TalkingPictures",
+   "epg_code": "TalkingPictures.uk",
+   "popularity": 1337
+ },
+ {
+   "channel_name": "TBN UK",
+   "epg_code": "TBN-UK.uk",
+   "popularity": 237
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCM.uk",
+   "popularity": 40736
+ },
+ {
+   "channel_name": "TCM +1",
+   "epg_code": "TCMplus1.uk",
+   "popularity": 615
+ },
+ {
+   "channel_name": "TG4",
+   "epg_code": "TG4.ie",
+   "popularity": 3442
+ },
+ {
+   "channel_name": "Thane",
+   "epg_code": "ThaneDirect.uk",
+   "popularity": 51
+ },
+ {
+   "channel_name": "The Box",
+   "epg_code": "TheBox.uk",
+   "popularity": 1692
+ },
+ {
+   "channel_name": "Times Now",
+   "epg_code": "TimesNow.uk",
+   "popularity": 472
+ },
+ {
+   "channel_name": "Tiny Pop",
+   "epg_code": "TinyPop.uk",
+   "popularity": 2696
+ },
+ {
+   "channel_name": "Tiny Pop +1",
+   "epg_code": "TinyPopPlus1.uk",
+   "popularity": 85
+ },
+ {
+   "channel_name": "TJC",
+   "epg_code": "TJC.uk",
+   "popularity": 54
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.uk",
+   "popularity": 13269
+ },
+ {
+   "channel_name": "TLC +1",
+   "epg_code": "TLCplus1.uk",
+   "popularity": 612
+ },
+ {
+   "channel_name": "Together",
+   "epg_code": "Together.uk",
+   "popularity": 158
+ },
+ {
+   "channel_name": "Trace Latina",
+   "epg_code": "TraceLatina.uk",
+   "popularity": 5246
+ },
+ {
+   "channel_name": "Trace Urban",
+   "epg_code": "TraceUrban.uk",
+   "popularity": 417
+ },
+ {
+   "channel_name": "Trace Vault",
+   "epg_code": "TraceVault.uk",
+   "popularity": 451
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.uk",
+   "popularity": 5860
+ },
+ {
+   "channel_name": "travelchannel +1",
+   "epg_code": "TravelChannelPlus1.uk",
+   "popularity": 70
+ },
+ {
+   "channel_name": "Tristar",
+   "epg_code": "Tristar.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TRT World",
+   "epg_code": "TRTWorld.uk",
+   "popularity": 3720
+ },
+ {
+   "channel_name": "TRTE",
+   "epg_code": "TRTE.ie",
+   "popularity": 41
+ },
+ {
+   "channel_name": "True Entertainment +1",
+   "epg_code": "TrueEntertainmentPlus1.uk",
+   "popularity": 125
+ },
+ {
+   "channel_name": "True Movies",
+   "epg_code": "TrueMovies.uk",
+   "popularity": 1918
+ },
+ {
+   "channel_name": "True Movies 2",
+   "epg_code": "TrueMovies2.uk",
+   "popularity": 300
+ },
+ {
+   "channel_name": "TrueEnt",
+   "epg_code": "TrueEntertainment.uk",
+   "popularity": 1448
+ },
+ {
+   "channel_name": "TV 99",
+   "epg_code": "TV99.uk",
+   "popularity": 19
+ },
+ {
+   "channel_name": "TV One",
+   "epg_code": "TVOne.uk",
+   "popularity": 666
+ },
+ {
+   "channel_name": "TV Warehouse",
+   "epg_code": "TVWarehouse.uk",
+   "popularity": 65
+ },
+ {
+   "channel_name": "TV3 +1",
+   "epg_code": "TV3Plus1.ie",
+   "popularity": 69
+ },
+ {
+   "channel_name": "TVC News",
+   "epg_code": "TVCNews.uk",
+   "popularity": 471
+ },
+ {
+   "channel_name": "TVC News +1",
+   "epg_code": "TVCNewsplus1.uk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Universal Channel",
+   "epg_code": "Universal.uk",
+   "popularity": 12592
+ },
+ {
+   "channel_name": "Universal Channel +1",
+   "epg_code": "UniversalPlus1.uk",
+   "popularity": 25
+ },
+ {
+   "channel_name": "UPC Customer Channel",
+   "epg_code": "CustomerChannel.ie",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Urdu1 Europe",
+   "epg_code": "Urdu1Europe.uk",
+   "popularity": 192
+ },
+ {
+   "channel_name": "UTV",
+   "epg_code": "UTV.uk",
+   "popularity": 14814
+ },
+ {
+   "channel_name": "UTV+1",
+   "epg_code": "UTVPlus1.uk",
+   "popularity": 243
+ },
+ {
+   "channel_name": "V Channel",
+   "epg_code": "VChannel.uk",
+   "popularity": 27
+ },
+ {
+   "channel_name": "Venus TV",
+   "epg_code": "VenusTV.uk",
+   "popularity": 82742
+ },
+ {
+   "channel_name": "VH1 UK",
+   "epg_code": "VH1UK.uk",
+   "popularity": 4379
+ },
+ {
+   "channel_name": "VICELAND",
+   "epg_code": "VICELAND.uk",
+   "popularity": 13733
+ },
+ {
+   "channel_name": "Vintage TV",
+   "epg_code": "VintageTV.uk",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Virgin Media One",
+   "epg_code": "TV3.ie",
+   "popularity": 4291
+ },
+ {
+   "channel_name": "Virgin Media Sport HD",
+   "epg_code": "VirginMediaSport.ie",
+   "popularity": 589
+ },
+ {
+   "channel_name": "Virgin Media Three",
+   "epg_code": "be3.uk",
+   "popularity": 740
+ },
+ {
+   "channel_name": "Virgin Media Three HD",
+   "epg_code": "VirginThree.ie",
+   "popularity": 417
+ },
+ {
+   "channel_name": "Virgin Media Two",
+   "epg_code": "3e.ie",
+   "popularity": 1732
+ },
+ {
+   "channel_name": "VM Sport Extra 1 HD",
+   "epg_code": "VMSportExtra1.ie",
+   "popularity": 2
+ },
+ {
+   "channel_name": "VM Sport Extra 2 HD",
+   "epg_code": "VMSportExtra2.ie",
+   "popularity": 2
+ },
+ {
+   "channel_name": "VM Sport Extra 3 HD",
+   "epg_code": "VMSportExtra3.ie",
+   "popularity": 1
+ },
+ {
+   "channel_name": "VM Sport Extra 4 HD",
+   "epg_code": "VMSportExtra4.ie",
+   "popularity": 0
+ },
+ {
+   "channel_name": "VM Sport Extra 5 HD",
+   "epg_code": "VMSportExtra5.ie",
+   "popularity": 1
+ },
+ {
+   "channel_name": "VM Sport Extra 6 HD",
+   "epg_code": "VMSportExtra6.ie",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Vox Africa",
+   "epg_code": "VoxAfrica.uk",
+   "popularity": 298
+ },
+ {
+   "channel_name": "W",
+   "epg_code": "W.uk",
+   "popularity": 14294
+ },
+ {
+   "channel_name": "W +1",
+   "epg_code": "WPlus1.uk",
+   "popularity": 609
+ },
+ {
+   "channel_name": "YANGA!",
+   "epg_code": "YANGA.uk",
+   "popularity": 226
+ },
+ {
+   "channel_name": "YeSTERDAY",
+   "epg_code": "Yesterday.uk",
+   "popularity": 6807
+ },
+ {
+   "channel_name": "Yesterday +1",
+   "epg_code": "YesterdayPlus1.uk",
+   "popularity": 445
+ },
+ {
+   "channel_name": "YourTV",
+   "epg_code": "YourTV.uk",
+   "popularity": 682
+ },
+ {
+   "channel_name": "Zee Cinema",
+   "epg_code": "ZeeCinema.uk",
+   "popularity": 6711
+ },
+ {
+   "channel_name": "Zee Punjabi",
+   "epg_code": "ZeePunjabi.uk",
+   "popularity": 931
+ },
+ {
+   "channel_name": "Zee TV",
+   "epg_code": "ZeeTV.uk",
+   "popularity": 6101
+ },
+ {
+   "channel_name": "Zing",
+   "epg_code": "Zing.uk",
+   "popularity": 1081
+ }
+]

@@ -1,0 +1,642 @@
+[
+ {
+   "channel_name": "24 Kitchen HD",
+   "epg_code": "24Kitchen.pt",
+   "popularity": 20664
+ },
+ {
+   "channel_name": "A and E",
+   "epg_code": "blaze.pt",
+   "popularity": 1562
+ },
+ {
+   "channel_name": "A Bola TV",
+   "epg_code": "ABolaTV.pt",
+   "popularity": 12158
+ },
+ {
+   "channel_name": "Afro Music",
+   "epg_code": "AfroMusic.pt",
+   "popularity": 8663
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "AMC.pt",
+   "popularity": 21737
+ },
+ {
+   "channel_name": "Angelus TV",
+   "epg_code": "AngelusTV.pt",
+   "popularity": 35
+ },
+ {
+   "channel_name": "ARTV",
+   "epg_code": "ARTV.pt",
+   "popularity": 1859
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "axn.pt",
+   "popularity": 24415
+ },
+ {
+   "channel_name": "AXN Black HD",
+   "epg_code": "AXNBlack.pt",
+   "popularity": 10621
+ },
+ {
+   "channel_name": "AXN White HD",
+   "epg_code": "AXNWhite.pt",
+   "popularity": 21128
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.pt",
+   "popularity": 12777
+ },
+ {
+   "channel_name": "Barça TV",
+   "epg_code": "Barca.pt",
+   "popularity": 8744
+ },
+ {
+   "channel_name": "BBC Entertainment",
+   "epg_code": "BBCentertainment.pt",
+   "popularity": 816
+ },
+ {
+   "channel_name": "Benfica TV",
+   "epg_code": "BenficaTV.pt",
+   "popularity": 21972
+ },
+ {
+   "channel_name": "CACAPESCA",
+   "epg_code": "cazaepesca.pt",
+   "popularity": 8410
+ },
+ {
+   "channel_name": "CaçaVision",
+   "epg_code": "CacaVision.pt",
+   "popularity": 5451
+ },
+ {
+   "channel_name": "Canal Q",
+   "epg_code": "CanalQ.pt",
+   "popularity": 5946
+ },
+ {
+   "channel_name": "Canção Nova",
+   "epg_code": "CANCAONOVA.pt",
+   "popularity": 1863
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "cartoon.pt",
+   "popularity": 9127
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "CBSReality.pt",
+   "popularity": 4542
+ },
+ {
+   "channel_name": "Channel 1 Russia",
+   "epg_code": "Channel1Russia.pt",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Chelsea TV",
+   "epg_code": "ChelseaTV.pt",
+   "popularity": 24
+ },
+ {
+   "channel_name": "Cinemundo",
+   "epg_code": "Cinemundo.pt",
+   "popularity": 28154
+ },
+ {
+   "channel_name": "Clubbing TV HD",
+   "epg_code": "ClubbingTV.pt",
+   "popularity": 1110
+ },
+ {
+   "channel_name": "CMTV",
+   "epg_code": "CMTV.pt",
+   "popularity": 78965
+ },
+ {
+   "channel_name": "Crime + Investigation",
+   "epg_code": "CrimeInvestigation.pt",
+   "popularity": 1500
+ },
+ {
+   "channel_name": "Cubavision",
+   "epg_code": "Cubavision.pt",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Deutsche Welle",
+   "epg_code": "DeutscheWelle.pt",
+   "popularity": 174
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "discoverychannel.pt",
+   "popularity": 9158
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "disneychannel.pt",
+   "popularity": 12001
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJunior.pt",
+   "popularity": 8397
+ },
+ {
+   "channel_name": "DOGTV",
+   "epg_code": "DogTV.pt",
+   "popularity": 488
+ },
+ {
+   "channel_name": "E! Entertainment",
+   "epg_code": "eentertainment.pt",
+   "popularity": 3865
+ },
+ {
+   "channel_name": "Eleven Sports 1",
+   "epg_code": "elevensports1.pt",
+   "popularity": 53489
+ },
+ {
+   "channel_name": "Eleven Sports 2",
+   "epg_code": "elevensports2.pt",
+   "popularity": 44676
+ },
+ {
+   "channel_name": "Eleven Sports 3",
+   "epg_code": "elevensports3.pt",
+   "popularity": 39995
+ },
+ {
+   "channel_name": "Eleven Sports 4",
+   "epg_code": "elevensports4.pt",
+   "popularity": 35708
+ },
+ {
+   "channel_name": "Eleven Sports 5",
+   "epg_code": "elevensports5.pt",
+   "popularity": 20094
+ },
+ {
+   "channel_name": "Eleven Sports 6",
+   "epg_code": "elevensports6.pt",
+   "popularity": 13586
+ },
+ {
+   "channel_name": "EuroChannel",
+   "epg_code": "EuroChannel.pt",
+   "popularity": 2101
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport1.pt",
+   "popularity": 15354
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.pt",
+   "popularity": 4657
+ },
+ {
+   "channel_name": "Eurosport 2 Xtra HD",
+   "epg_code": "Eurosport2XtraHD.pt",
+   "popularity": 467
+ },
+ {
+   "channel_name": "EuroSport News",
+   "epg_code": "EurosportNews.pt",
+   "popularity": 165
+ },
+ {
+   "channel_name": "Food Network",
+   "epg_code": "FoodNetwork.pt",
+   "popularity": 2228
+ },
+ {
+   "channel_name": "FOX",
+   "epg_code": "fox.pt",
+   "popularity": 27915
+ },
+ {
+   "channel_name": "FOX Comedy",
+   "epg_code": "FOXComedy.pt",
+   "popularity": 12595
+ },
+ {
+   "channel_name": "FOX CRIME",
+   "epg_code": "foxcrime.pt",
+   "popularity": 10850
+ },
+ {
+   "channel_name": "FOX Movies",
+   "epg_code": "FoxMovies.pt",
+   "popularity": 38809
+ },
+ {
+   "channel_name": "FOXLIFE",
+   "epg_code": "foxlife.pt",
+   "popularity": 21971
+ },
+ {
+   "channel_name": "Fuel TV",
+   "epg_code": "FuelTV.pt",
+   "popularity": 9979
+ },
+ {
+   "channel_name": "Galicia TV",
+   "epg_code": "TVGalicia.pt",
+   "popularity": 838
+ },
+ {
+   "channel_name": "Globo Now",
+   "epg_code": "GloboNow.pt",
+   "popularity": 5012
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChannel.pt",
+   "popularity": 11747
+ },
+ {
+   "channel_name": "Hollywood",
+   "epg_code": "hollywood.pt",
+   "popularity": 29173
+ },
+ {
+   "channel_name": "Hot",
+   "epg_code": "Hot.pt",
+   "popularity": 79408
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "investigationdiscovery.pt",
+   "popularity": 1380
+ },
+ {
+   "channel_name": "JimJam",
+   "epg_code": "JimJam.pt",
+   "popularity": 26184
+ },
+ {
+   "channel_name": "Kombat Sport HD",
+   "epg_code": "KombatSport.pt",
+   "popularity": 2803
+ },
+ {
+   "channel_name": "KURIAKOSTV",
+   "epg_code": "KURIAKOSTV.pt",
+   "popularity": 99
+ },
+ {
+   "channel_name": "Localvisão",
+   "epg_code": "Localvisao.pt",
+   "popularity": 606
+ },
+ {
+   "channel_name": "M6",
+   "epg_code": "m6.pt",
+   "popularity": 342
+ },
+ {
+   "channel_name": "Manchester United TV",
+   "epg_code": "ManUTV.pt",
+   "popularity": 40
+ },
+ {
+   "channel_name": "MCM POP",
+   "epg_code": "MCMPop.pt",
+   "popularity": 2173
+ },
+ {
+   "channel_name": "MCM Top",
+   "epg_code": "mcmtop.pt",
+   "popularity": 917
+ },
+ {
+   "channel_name": "MEZZO",
+   "epg_code": "mezzo.pt",
+   "popularity": 1417
+ },
+ {
+   "channel_name": "Motorvision",
+   "epg_code": "Motorvision.pt",
+   "popularity": 2670
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "mtvportugal.pt",
+   "popularity": 5164
+ },
+ {
+   "channel_name": "My Cuisine",
+   "epg_code": "MyCuisine.pt",
+   "popularity": 691
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.pt",
+   "popularity": 6024
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "nationalgeographic.pt",
+   "popularity": 9132
+ },
+ {
+   "channel_name": "NBA",
+   "epg_code": "NBA.pt",
+   "popularity": 1113
+ },
+ {
+   "channel_name": "NICK JR",
+   "epg_code": "NickJr.pt",
+   "popularity": 3529
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.pt",
+   "popularity": 6952
+ },
+ {
+   "channel_name": "NOS Studios",
+   "epg_code": "NOSStudios.pt",
+   "popularity": 6503
+ },
+ {
+   "channel_name": "Odisseia",
+   "epg_code": "odisseia.pt",
+   "popularity": 10178
+ },
+ {
+   "channel_name": "Panda",
+   "epg_code": "canalpanda.pt",
+   "popularity": 14774
+ },
+ {
+   "channel_name": "Panda Biggs",
+   "epg_code": "PandaBiggs.pt",
+   "popularity": 7728
+ },
+ {
+   "channel_name": "PFC",
+   "epg_code": "pfc.pt",
+   "popularity": 8755
+ },
+ {
+   "channel_name": "Playboy",
+   "epg_code": "Playboy.pt",
+   "popularity": 6159
+ },
+ {
+   "channel_name": "Porto Canal",
+   "epg_code": "PortoCanal.pt",
+   "popularity": 10337
+ },
+ {
+   "channel_name": "Real Madrid TV",
+   "epg_code": "RealMadridTV.pt",
+   "popularity": 1282
+ },
+ {
+   "channel_name": "Record News",
+   "epg_code": "RecordNews.pt",
+   "popularity": 4014
+ },
+ {
+   "channel_name": "RTP 3",
+   "epg_code": "RTP3.pt",
+   "popularity": 36286
+ },
+ {
+   "channel_name": "RTP Acores",
+   "epg_code": "RTPAcores.pt",
+   "popularity": 7538
+ },
+ {
+   "channel_name": "RTP Africa",
+   "epg_code": "RTPAfrica.pt",
+   "popularity": 17307
+ },
+ {
+   "channel_name": "RTP Madeira",
+   "epg_code": "RTPMadeira.pt",
+   "popularity": 7479
+ },
+ {
+   "channel_name": "RTP Memoria",
+   "epg_code": "rtpmemoria.pt",
+   "popularity": 9229
+ },
+ {
+   "channel_name": "RTP1",
+   "epg_code": "rtp1.pt",
+   "popularity": 79144
+ },
+ {
+   "channel_name": "RTP2",
+   "epg_code": "rtp2.pt",
+   "popularity": 28546
+ },
+ {
+   "channel_name": "RTPHD",
+   "epg_code": "rtpHD",
+   "popularity": 1145
+ },
+ {
+   "channel_name": "SIC",
+   "epg_code": "sic.pt",
+   "popularity": 129382
+ },
+ {
+   "channel_name": "Sic Caras",
+   "epg_code": "SicCaras.pt",
+   "popularity": 17512
+ },
+ {
+   "channel_name": "SIC K",
+   "epg_code": "SicK.pt",
+   "popularity": 6797
+ },
+ {
+   "channel_name": "SIC Mulher",
+   "epg_code": "sicmulher.pt",
+   "popularity": 26193
+ },
+ {
+   "channel_name": "SIC Notícias",
+   "epg_code": "sicnoticias.pt",
+   "popularity": 49544
+ },
+ {
+   "channel_name": "SIC Radical",
+   "epg_code": "sicradical.pt",
+   "popularity": 22353
+ },
+ {
+   "channel_name": "Sony Entertainment",
+   "epg_code": "SonyTV.pt",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Sport TV 4K UHD",
+   "epg_code": "SportTV4K.pt",
+   "popularity": 1148
+ },
+ {
+   "channel_name": "SPORT.TV1",
+   "epg_code": "sporttv1.pt",
+   "popularity": 151575
+ },
+ {
+   "channel_name": "SPORT.TV2",
+   "epg_code": "sporttv2.pt",
+   "popularity": 108796
+ },
+ {
+   "channel_name": "SPORT.TV3",
+   "epg_code": "sporttv3.pt",
+   "popularity": 52431
+ },
+ {
+   "channel_name": "SPORT.TV4",
+   "epg_code": "sporttv4.pt",
+   "popularity": 26922
+ },
+ {
+   "channel_name": "SPORT.TV5",
+   "epg_code": "sporttv5.pt",
+   "popularity": 26745
+ },
+ {
+   "channel_name": "SPORTINGTV",
+   "epg_code": "SPORTINGTV.pt",
+   "popularity": 12736
+ },
+ {
+   "channel_name": "SportTV+",
+   "epg_code": "SportTVplus.pt",
+   "popularity": 23265
+ },
+ {
+   "channel_name": "SyFy",
+   "epg_code": "SyFy.pt",
+   "popularity": 10438
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLC.pt",
+   "popularity": 5908
+ },
+ {
+   "channel_name": "Toros TV",
+   "epg_code": "TorosTV.pt",
+   "popularity": 3052
+ },
+ {
+   "channel_name": "TPA Internacional",
+   "epg_code": "TPAInt.pt",
+   "popularity": 987
+ },
+ {
+   "channel_name": "Trace TV",
+   "epg_code": "TraceTV.pt",
+   "popularity": 328
+ },
+ {
+   "channel_name": "Travel Channel",
+   "epg_code": "TravelChannel.pt",
+   "popularity": 3485
+ },
+ {
+   "channel_name": "TV Globo",
+   "epg_code": "TVGlobo.pt",
+   "popularity": 21854
+ },
+ {
+   "channel_name": "TV Record",
+   "epg_code": "tvrecord.pt",
+   "popularity": 15227
+ },
+ {
+   "channel_name": "TV Series",
+   "epg_code": "TVSeries.pt",
+   "popularity": 8216
+ },
+ {
+   "channel_name": "TVC1",
+   "epg_code": "tvc1.pt",
+   "popularity": 8126
+ },
+ {
+   "channel_name": "TVC2",
+   "epg_code": "tvc2.pt",
+   "popularity": 9526
+ },
+ {
+   "channel_name": "TVC3",
+   "epg_code": "tvc3.pt",
+   "popularity": 6029
+ },
+ {
+   "channel_name": "TVC4",
+   "epg_code": "tvc4.pt",
+   "popularity": 7243
+ },
+ {
+   "channel_name": "TVE 24h",
+   "epg_code": "TVE24h.pt",
+   "popularity": 2215
+ },
+ {
+   "channel_name": "TVI",
+   "epg_code": "TVI.pt",
+   "popularity": 161908
+ },
+ {
+   "channel_name": "TVI 24",
+   "epg_code": "TVI24.pt",
+   "popularity": 57176
+ },
+ {
+   "channel_name": "TVI Ficção",
+   "epg_code": "TVIFiccao.pt",
+   "popularity": 31089
+ },
+ {
+   "channel_name": "TVI INTERNACIONAL",
+   "epg_code": "TVIInt.pt",
+   "popularity": 1131
+ },
+ {
+   "channel_name": "TVI Real",
+   "epg_code": "TVIReal.pt",
+   "popularity": 55337
+ },
+ {
+   "channel_name": "TVI Reality",
+   "epg_code": "TVIReality.pt",
+   "popularity": 493
+ },
+ {
+   "channel_name": "Venus",
+   "epg_code": "venus.pt",
+   "popularity": 22809
+ },
+ {
+   "channel_name": "Zap Viva HD",
+   "epg_code": "zapvivahd.pt",
+   "popularity": 1829
+ }
+]

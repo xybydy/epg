@@ -13,7 +13,7 @@ func Get(w http.ResponseWriter, r *http.Request) {
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 
 	if r.Method == http.MethodGet {
-		match, err := mongo.GetData(false)
+		match, err := mongo.GetData(false, "tvs")
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError

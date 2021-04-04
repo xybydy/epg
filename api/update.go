@@ -24,7 +24,7 @@ func Update(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 
-		err = mongo.UpdateData(res)
+		err = mongo.UpdateData(res, "tvs")
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError

@@ -1,0 +1,1817 @@
+[
+ {
+   "channel_name": "24 Nordjyske",
+   "epg_code": "24nord.dk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "6eren",
+   "epg_code": "6eren.dk",
+   "popularity": 16253
+ },
+ {
+   "channel_name": "AlfaTV",
+   "epg_code": "AlfaTV.fi",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.dk",
+   "popularity": 1020
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.fi",
+   "popularity": 54
+ },
+ {
+   "channel_name": "ANIMAL PLANET",
+   "epg_code": "AnimalPlanet.no",
+   "popularity": 141
+ },
+ {
+   "channel_name": "Animal Planet",
+   "epg_code": "AnimalPlanet.se",
+   "popularity": 8643
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "AnimalPlanetHD.fi",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "AnimalPlanetHD.no",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Auto Motor og Sport TV",
+   "epg_code": "AutoMotorSportTV.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AVA",
+   "epg_code": "MTV3Ava.fi",
+   "popularity": 226
+ },
+ {
+   "channel_name": "Axess TV",
+   "epg_code": "AxessTV.se",
+   "popularity": 57
+ },
+ {
+   "channel_name": "BBC Brit",
+   "epg_code": "BBCBrit.fi",
+   "popularity": 77
+ },
+ {
+   "channel_name": "BBC Brit",
+   "epg_code": "BBCBrit.no",
+   "popularity": 128
+ },
+ {
+   "channel_name": "BBC Brit",
+   "epg_code": "BBCBrit.se",
+   "popularity": 1239
+ },
+ {
+   "channel_name": "BBC Earth",
+   "epg_code": "BBCEarth.no",
+   "popularity": 185
+ },
+ {
+   "channel_name": "BBC HD",
+   "epg_code": "BBCHD.se",
+   "popularity": 12
+ },
+ {
+   "channel_name": "BBC Knowledge",
+   "epg_code": "BBCKnowledge.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "BlueHustler Night",
+   "epg_code": "BlueHustlerNight.dk",
+   "popularity": 68
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.dk",
+   "popularity": 2136
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.no",
+   "popularity": 79
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.se",
+   "popularity": 4946
+ },
+ {
+   "channel_name": "C More First",
+   "epg_code": "CMoreFirst.dk",
+   "popularity": 1234
+ },
+ {
+   "channel_name": "C More First HD",
+   "epg_code": "CMoreFirst.fi",
+   "popularity": 69
+ },
+ {
+   "channel_name": "C More First HD",
+   "epg_code": "CMoreFirst.no",
+   "popularity": 154
+ },
+ {
+   "channel_name": "C More First HD",
+   "epg_code": "CMoreFirst.se",
+   "popularity": 11466
+ },
+ {
+   "channel_name": "C More Fotboll",
+   "epg_code": "CMoreFotboll.no",
+   "popularity": 11
+ },
+ {
+   "channel_name": "C More Fotboll",
+   "epg_code": "CMoreFotboll.se",
+   "popularity": 18569
+ },
+ {
+   "channel_name": "C More Golf",
+   "epg_code": "CMoreGolf.se",
+   "popularity": 1916
+ },
+ {
+   "channel_name": "C More Hits",
+   "epg_code": "CMoreHits.dk",
+   "popularity": 548
+ },
+ {
+   "channel_name": "C More Hits",
+   "epg_code": "CMoreHits.fi",
+   "popularity": 56
+ },
+ {
+   "channel_name": "C More Hits",
+   "epg_code": "CMoreHits.no",
+   "popularity": 159
+ },
+ {
+   "channel_name": "C More Hits",
+   "epg_code": "CMoreHits.se",
+   "popularity": 11383
+ },
+ {
+   "channel_name": "C More Hockey",
+   "epg_code": "CMoreHockey.se",
+   "popularity": 99180
+ },
+ {
+   "channel_name": "C More Live",
+   "epg_code": "CMoreLive.se",
+   "popularity": 7469
+ },
+ {
+   "channel_name": "C More Live 2",
+   "epg_code": "CMoreLive2.se",
+   "popularity": 12512
+ },
+ {
+   "channel_name": "C More Live 3",
+   "epg_code": "CMoreLive3.se",
+   "popularity": 5482
+ },
+ {
+   "channel_name": "C More Live 4",
+   "epg_code": "CMoreLive4.se",
+   "popularity": 3466
+ },
+ {
+   "channel_name": "C More Live 5 HD",
+   "epg_code": "CMoreLive5.se",
+   "popularity": 696
+ },
+ {
+   "channel_name": "C More Live HD",
+   "epg_code": "CMoreLive.no",
+   "popularity": 4
+ },
+ {
+   "channel_name": "C More Series",
+   "epg_code": "CMoreSeries.dk",
+   "popularity": 2262
+ },
+ {
+   "channel_name": "C More Series",
+   "epg_code": "CMoreSeries.no",
+   "popularity": 106
+ },
+ {
+   "channel_name": "C More Series",
+   "epg_code": "CMoreSeries.se",
+   "popularity": 8666
+ },
+ {
+   "channel_name": "C More Series HD",
+   "epg_code": "CMoreSeries.fi",
+   "popularity": 47
+ },
+ {
+   "channel_name": "C More Sport",
+   "epg_code": "CMoreSport.se",
+   "popularity": 1634
+ },
+ {
+   "channel_name": "C More Sport 2",
+   "epg_code": "CMoreSport2.fi",
+   "popularity": 27
+ },
+ {
+   "channel_name": "C More Sport HD",
+   "epg_code": "CMoreSport.fi",
+   "popularity": 719
+ },
+ {
+   "channel_name": "C More Star HD",
+   "epg_code": "CMoreStars.no",
+   "popularity": 136
+ },
+ {
+   "channel_name": "C More Stars",
+   "epg_code": "CMoreStars.dk",
+   "popularity": 277
+ },
+ {
+   "channel_name": "C More Stars",
+   "epg_code": "CMoreStars.fi",
+   "popularity": 564
+ },
+ {
+   "channel_name": "C More Stars",
+   "epg_code": "CMoreStars.se",
+   "popularity": 7809
+ },
+ {
+   "channel_name": "C More Tennis",
+   "epg_code": "CMoreTennis.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CANAL 9",
+   "epg_code": "CANAL9.dk",
+   "popularity": 2953
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.dk",
+   "popularity": 1658
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CARTOON NETWORK",
+   "epg_code": "CartoonNetwork.no",
+   "popularity": 184
+ },
+ {
+   "channel_name": "Cartoon Network",
+   "epg_code": "CartoonNetwork.se",
+   "popularity": 5770
+ },
+ {
+   "channel_name": "CBS Reality",
+   "epg_code": "ZoneReality.se",
+   "popularity": 28
+ },
+ {
+   "channel_name": "Channel 1 Russia",
+   "epg_code": "Channel1Russia.se",
+   "popularity": 133
+ },
+ {
+   "channel_name": "CNBC",
+   "epg_code": "CNBCNordic.fi",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.dk",
+   "popularity": 320
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.no",
+   "popularity": 10
+ },
+ {
+   "channel_name": "Comedy Central",
+   "epg_code": "ComedyCentral.se",
+   "popularity": 1497
+ },
+ {
+   "channel_name": "Discovery",
+   "epg_code": "DiscoveryChannel.dk",
+   "popularity": 924
+ },
+ {
+   "channel_name": "DISCOVERY",
+   "epg_code": "DiscoveryChannel.no",
+   "popularity": 157
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.fi",
+   "popularity": 545
+ },
+ {
+   "channel_name": "Discovery Channel",
+   "epg_code": "DiscoveryChannel.se",
+   "popularity": 34533
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.dk",
+   "popularity": 213
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.fi",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery HD Showcase",
+   "epg_code": "DiscoveryHDshowcase.se",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.dk",
+   "popularity": 835
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.fi",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.no",
+   "popularity": 113
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.se",
+   "popularity": 9663
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.dk",
+   "popularity": 40
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.no",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Discovery World",
+   "epg_code": "DiscoveryWorld.se",
+   "popularity": 1654
+ },
+ {
+   "channel_name": "Disney",
+   "epg_code": "DisneyChannel.no",
+   "popularity": 159
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.fi",
+   "popularity": 80
+ },
+ {
+   "channel_name": "Disney Channel",
+   "epg_code": "DisneyChannel.se",
+   "popularity": 5817
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJr.fi",
+   "popularity": 98
+ },
+ {
+   "channel_name": "Disney Junior",
+   "epg_code": "DisneyJr.se",
+   "popularity": 9086
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.dk",
+   "popularity": 2740
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.no",
+   "popularity": 154
+ },
+ {
+   "channel_name": "Disney XD",
+   "epg_code": "DisneyXD.se",
+   "popularity": 5354
+ },
+ {
+   "channel_name": "DisneyChannel",
+   "epg_code": "DisneyChannel.dk",
+   "popularity": 3119
+ },
+ {
+   "channel_name": "dk4",
+   "epg_code": "dk4.dk",
+   "popularity": 5520
+ },
+ {
+   "channel_name": "DR RamaSjang",
+   "epg_code": "DRRamaSjang.dk",
+   "popularity": 7113
+ },
+ {
+   "channel_name": "DR1",
+   "epg_code": "DR1.dk",
+   "popularity": 17613
+ },
+ {
+   "channel_name": "DR2",
+   "epg_code": "DR2.dk",
+   "popularity": 8302
+ },
+ {
+   "channel_name": "E!",
+   "epg_code": "E.se",
+   "popularity": 2772
+ },
+ {
+   "channel_name": "Eurosport",
+   "epg_code": "Eurosport.fi",
+   "popularity": 148
+ },
+ {
+   "channel_name": "Eurosport",
+   "epg_code": "Eurosport.no",
+   "popularity": 35
+ },
+ {
+   "channel_name": "Eurosport",
+   "epg_code": "Eurosport.se",
+   "popularity": 14103
+ },
+ {
+   "channel_name": "Eurosport 1",
+   "epg_code": "Eurosport1.dk",
+   "popularity": 896
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.dk",
+   "popularity": 665
+ },
+ {
+   "channel_name": "Eurosport 2",
+   "epg_code": "Eurosport2.se",
+   "popularity": 9197
+ },
+ {
+   "channel_name": "Eurosport Norge",
+   "epg_code": "EurosportNorge.no",
+   "popularity": 100
+ },
+ {
+   "channel_name": "Eurosport Pluss 1",
+   "epg_code": "EurosportPluss1.no",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Eurosport Pluss 10",
+   "epg_code": "EurosportPluss10.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurosport Pluss 11",
+   "epg_code": "EurosportPluss11.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurosport Pluss 12",
+   "epg_code": "EurosportPluss12.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurosport Pluss 2",
+   "epg_code": "EurosportPluss2.no",
+   "popularity": 12
+ },
+ {
+   "channel_name": "Eurosport Pluss 3",
+   "epg_code": "EurosportPluss3.no",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Eurosport Pluss 4",
+   "epg_code": "EurosportPluss4.no",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Eurosport Pluss 5",
+   "epg_code": "EurosportPluss5.no",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Eurosport Pluss 6",
+   "epg_code": "EurosportPluss6.no",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Eurosport Pluss 7",
+   "epg_code": "EurosportPluss7.no",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Eurosport Pluss 8",
+   "epg_code": "EurosportPluss8.no",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Eurosport Pluss 9",
+   "epg_code": "EurosportPluss9.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Eurosport2",
+   "epg_code": "Eurosport2.fi",
+   "popularity": 29
+ },
+ {
+   "channel_name": "Extreme Sports",
+   "epg_code": "ExtremeSports.se",
+   "popularity": 58
+ },
+ {
+   "channel_name": "Extreme Sports Channel",
+   "epg_code": "ExtremeSports.fi",
+   "popularity": 8
+ },
+ {
+   "channel_name": "Fashion TV",
+   "epg_code": "FashionTV.se",
+   "popularity": 77
+ },
+ {
+   "channel_name": "Fatstone TV",
+   "epg_code": "FatstoneTV.no",
+   "popularity": 15
+ },
+ {
+   "channel_name": "FEM",
+   "epg_code": "FEM.no",
+   "popularity": 335
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "FOX.no",
+   "popularity": 42
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.fi",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Fox",
+   "epg_code": "Fox.se",
+   "popularity": 7750
+ },
+ {
+   "channel_name": "Frii",
+   "epg_code": "Frii.fi",
+   "popularity": 14
+ },
+ {
+   "channel_name": "Ginx TV",
+   "epg_code": "GinxTV.se",
+   "popularity": 2
+ },
+ {
+   "channel_name": "H2",
+   "epg_code": "H2.dk",
+   "popularity": 45
+ },
+ {
+   "channel_name": "H2HD",
+   "epg_code": "H2.fi",
+   "popularity": 5
+ },
+ {
+   "channel_name": "H2HD",
+   "epg_code": "H2.no",
+   "popularity": 50
+ },
+ {
+   "channel_name": "H2HD",
+   "epg_code": "H2.se",
+   "popularity": 8482
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "History.fi",
+   "popularity": 2850
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.dk",
+   "popularity": 442
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.no",
+   "popularity": 2392
+ },
+ {
+   "channel_name": "History HD",
+   "epg_code": "HistoryHD.se",
+   "popularity": 12674
+ },
+ {
+   "channel_name": "Horse & Country TV",
+   "epg_code": "HorseCountry.se",
+   "popularity": 39
+ },
+ {
+   "channel_name": "Hustler TV",
+   "epg_code": "HustlerTV.ero",
+   "popularity": 2824
+ },
+ {
+   "channel_name": "ID",
+   "epg_code": "ID.dk",
+   "popularity": 397
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.fi",
+   "popularity": 1705
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscovery.se",
+   "popularity": 13531
+ },
+ {
+   "channel_name": "Investigation Discovery",
+   "epg_code": "InvestigationDiscoveryChannel.no",
+   "popularity": 2
+ },
+ {
+   "channel_name": "JIM",
+   "epg_code": "Jim.fi",
+   "popularity": 434
+ },
+ {
+   "channel_name": "Kalaallit Nunaata Radioa",
+   "epg_code": "KNR.gl",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kanal 10",
+   "epg_code": "Kanal10.no",
+   "popularity": 174
+ },
+ {
+   "channel_name": "Kanal 10",
+   "epg_code": "Kanal10.se",
+   "popularity": 24175
+ },
+ {
+   "channel_name": "Kanal 11 HD",
+   "epg_code": "Kanal11.se",
+   "popularity": 31795
+ },
+ {
+   "channel_name": "Kanal 5",
+   "epg_code": "Kanal5.se",
+   "popularity": 120620
+ },
+ {
+   "channel_name": "Kanal 9",
+   "epg_code": "Kanal9.se",
+   "popularity": 60916
+ },
+ {
+   "channel_name": "Kanal NORD",
+   "epg_code": "KanalNord.dk",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Kanal Østjylland",
+   "epg_code": "KanalOstjylland.dk",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Kanal Sport",
+   "epg_code": "KanalSport.dk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Kanal4",
+   "epg_code": "Kanal4.dk",
+   "popularity": 7486
+ },
+ {
+   "channel_name": "Kanal5",
+   "epg_code": "Kanal5.dk",
+   "popularity": 9231
+ },
+ {
+   "channel_name": "Kringvarp Foroya",
+   "epg_code": "KringvarpForoya.fo",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kunskapskanalen",
+   "epg_code": "Kunskapskanalen.se",
+   "popularity": 8059
+ },
+ {
+   "channel_name": "Kutonen",
+   "epg_code": "TheVoice.fi",
+   "popularity": 334
+ },
+ {
+   "channel_name": "LifestyleTV.en",
+   "epg_code": "LifestyleTV.se",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Liv",
+   "epg_code": "liv.fi",
+   "popularity": 585
+ },
+ {
+   "channel_name": "Matkanalen",
+   "epg_code": "Matkanalen.no",
+   "popularity": 213
+ },
+ {
+   "channel_name": "Max",
+   "epg_code": "Max.no",
+   "popularity": 762
+ },
+ {
+   "channel_name": "Mezzo",
+   "epg_code": "Mezzo.se",
+   "popularity": 6
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.dk",
+   "popularity": 2210
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.no",
+   "popularity": 23
+ },
+ {
+   "channel_name": "MTV",
+   "epg_code": "MTV.se",
+   "popularity": 2199
+ },
+ {
+   "channel_name": "MTV Dance",
+   "epg_code": "MTVDance.dk",
+   "popularity": 35
+ },
+ {
+   "channel_name": "MTV Fakta",
+   "epg_code": "MTV3Fakta.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "MTV Hits",
+   "epg_code": "MTVHits.dk",
+   "popularity": 47
+ },
+ {
+   "channel_name": "MTV Juniori",
+   "epg_code": "SUBJuniori.fi",
+   "popularity": 9
+ },
+ {
+   "channel_name": "MTV LIVE HD",
+   "epg_code": "MTVNHD.se",
+   "popularity": 28
+ },
+ {
+   "channel_name": "MTV Live HD",
+   "epg_code": "MTVLiveHD.dk",
+   "popularity": 48
+ },
+ {
+   "channel_name": "MTV MAX",
+   "epg_code": "MTV3Max.fi",
+   "popularity": 22
+ },
+ {
+   "channel_name": "MTV Rocks",
+   "epg_code": "MTVRocks.dk",
+   "popularity": 39
+ },
+ {
+   "channel_name": "MTV Sport 1 HD",
+   "epg_code": "MTV3MaxSport1.fi",
+   "popularity": 33
+ },
+ {
+   "channel_name": "MTV Sport 2",
+   "epg_code": "MTV3MaxSport2.fi",
+   "popularity": 37
+ },
+ {
+   "channel_name": "MTV Suomi",
+   "epg_code": "MTV.fi",
+   "popularity": 6
+ },
+ {
+   "channel_name": "MTV3",
+   "epg_code": "MTV3.fi",
+   "popularity": 786
+ },
+ {
+   "channel_name": "Nat Geo People",
+   "epg_code": "NatGeoPeople.dk",
+   "popularity": 18
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.fi",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Nat Geo Wild",
+   "epg_code": "NatGeoWild.se",
+   "popularity": 4997
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWildHD.dk",
+   "popularity": 188
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWildHD.no",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Nat Geo Wild HD",
+   "epg_code": "NatGeoWildHD.se",
+   "popularity": 1264
+ },
+ {
+   "channel_name": "Nat. Geogr. HD",
+   "epg_code": "NationalGeopgraphicHD.no",
+   "popularity": 2
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NatGeo.se",
+   "popularity": 3481
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeographic.fi",
+   "popularity": 16
+ },
+ {
+   "channel_name": "National Geographic",
+   "epg_code": "NationalGeopgraphic.dk",
+   "popularity": 1608
+ },
+ {
+   "channel_name": "National Geographic Channel",
+   "epg_code": "NationalGeopgraphic.no",
+   "popularity": 3
+ },
+ {
+   "channel_name": "National Geographic HD",
+   "epg_code": "NationalGeographicHD.fi",
+   "popularity": 5
+ },
+ {
+   "channel_name": "National Geographic HD (svenska)",
+   "epg_code": "NatGeoHD.se",
+   "popularity": 82
+ },
+ {
+   "channel_name": "Nelonen",
+   "epg_code": "Nelonen.fi",
+   "popularity": 445
+ },
+ {
+   "channel_name": "Nelonen Hero",
+   "epg_code": "Hero.fi",
+   "popularity": 21
+ },
+ {
+   "channel_name": "Nelonen Kino",
+   "epg_code": "KinoTV.fi",
+   "popularity": 70
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJr.dk",
+   "popularity": 335
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJr.no",
+   "popularity": 128
+ },
+ {
+   "channel_name": "Nick Jr",
+   "epg_code": "NickJr.se",
+   "popularity": 10761
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.dk",
+   "popularity": 1689
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.fi",
+   "popularity": 22
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.no",
+   "popularity": 142
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "Nickelodeon.se",
+   "popularity": 10135
+ },
+ {
+   "channel_name": "Nickelodeon",
+   "epg_code": "NickelodeonMTVHits.dk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "NickJr",
+   "epg_code": "NickJr.fi",
+   "popularity": 59
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.dk",
+   "popularity": 192
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.no",
+   "popularity": 136
+ },
+ {
+   "channel_name": "Nicktoons",
+   "epg_code": "Nicktoons.se",
+   "popularity": 1355
+ },
+ {
+   "channel_name": "NRK Super",
+   "epg_code": "NRKSuper.no",
+   "popularity": 70
+ },
+ {
+   "channel_name": "NRK Tegnspråk",
+   "epg_code": "NRKTegnsprak.no",
+   "popularity": 1
+ },
+ {
+   "channel_name": "NRK1",
+   "epg_code": "NRK1.no",
+   "popularity": 2521
+ },
+ {
+   "channel_name": "NRK2",
+   "epg_code": "NRK2.no",
+   "popularity": 1215
+ },
+ {
+   "channel_name": "Out TV",
+   "epg_code": "OutTV.se",
+   "popularity": 13
+ },
+ {
+   "channel_name": "Paramount",
+   "epg_code": "Paramount.se",
+   "popularity": 98
+ },
+ {
+   "channel_name": "Paramount Channel",
+   "epg_code": "ParamountChannel.dk",
+   "popularity": 65
+ },
+ {
+   "channel_name": "Pink Plus",
+   "epg_code": "PinkPlus.se",
+   "popularity": 22325
+ },
+ {
+   "channel_name": "Playboy TV",
+   "epg_code": "PlayboyTV.se",
+   "popularity": 403
+ },
+ {
+   "channel_name": "Playhouse Disney",
+   "epg_code": "DisneyJr.dk",
+   "popularity": 76
+ },
+ {
+   "channel_name": "Playhouse Junior",
+   "epg_code": "DisneyJr.no",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Ras1",
+   "epg_code": "Ras1.is",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Ras2",
+   "epg_code": "Ras2.is",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Rikstoto Direkte",
+   "epg_code": "RikstotoDirekte.no",
+   "popularity": 2
+ },
+ {
+   "channel_name": "Ruutu+ Dokkarit",
+   "epg_code": "RuutuDokkarit.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ruutu+ Lapset",
+   "epg_code": "RuutuLapset.fi",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Ruutu+ Leffat ja Sarjat",
+   "epg_code": "RuutuLeffatjaSarjat.fi",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Ruutu+ Urheilu 1",
+   "epg_code": "RuutuUrheilu1.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Ruutu+ Urheilu 2",
+   "epg_code": "RuutuUrheilu2.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "RUV",
+   "epg_code": "RUV.is",
+   "popularity": 86
+ },
+ {
+   "channel_name": "SF-kanalen",
+   "epg_code": "SFKanalen.fi",
+   "popularity": 12
+ },
+ {
+   "channel_name": "SF-Kanalen",
+   "epg_code": "SFKanalen.no",
+   "popularity": 334
+ },
+ {
+   "channel_name": "SF-kanalen",
+   "epg_code": "SFKanalen.se",
+   "popularity": 8944
+ },
+ {
+   "channel_name": "SF-Kanalen",
+   "epg_code": "SFkanalen.dk",
+   "popularity": 32
+ },
+ {
+   "channel_name": "Sjuan",
+   "epg_code": "Sjuan.se",
+   "popularity": 37525
+ },
+ {
+   "channel_name": "Sportkanalen",
+   "epg_code": "Sportkanalen.se",
+   "popularity": 1934
+ },
+ {
+   "channel_name": "Strive Sport TV NO",
+   "epg_code": "StriveSportTV.no",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Sub",
+   "epg_code": "SubTV.fi",
+   "popularity": 77
+ },
+ {
+   "channel_name": "SVT Barn /  SVT24 HD",
+   "epg_code": "SVTb/svt24.se",
+   "popularity": 96
+ },
+ {
+   "channel_name": "SVT World",
+   "epg_code": "SVTWorld.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "SVT1",
+   "epg_code": "SVT1.se",
+   "popularity": 112968
+ },
+ {
+   "channel_name": "SVT2",
+   "epg_code": "SVT2.se",
+   "popularity": 61637
+ },
+ {
+   "channel_name": "TBN Nordic",
+   "epg_code": "TBNNordic.no",
+   "popularity": 7
+ },
+ {
+   "channel_name": "TCM",
+   "epg_code": "TCMNordic.se",
+   "popularity": 1596
+ },
+ {
+   "channel_name": "TCM - Turner Classic Movies",
+   "epg_code": "TCM.fi",
+   "popularity": 4
+ },
+ {
+   "channel_name": "TCM and Cartoon",
+   "epg_code": "CNTCM.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLCNorge.no",
+   "popularity": 34
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "TLCsverige.se",
+   "popularity": 18878
+ },
+ {
+   "channel_name": "TLC",
+   "epg_code": "DiscoveryTravelLiving.fi",
+   "popularity": 32
+ },
+ {
+   "channel_name": "TLC Danmark HD",
+   "epg_code": "TLCDanmarkHD.dk",
+   "popularity": 324
+ },
+ {
+   "channel_name": "TLC Europe",
+   "epg_code": "TLCEurope.se",
+   "popularity": 116
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNTNordic.dk",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TNT",
+   "epg_code": "TNTNordic.se",
+   "popularity": 23
+ },
+ {
+   "channel_name": "TV 11",
+   "epg_code": "TV11.se",
+   "popularity": 4342
+ },
+ {
+   "channel_name": "TV 12",
+   "epg_code": "TV12.se",
+   "popularity": 41705
+ },
+ {
+   "channel_name": "TV 2 Bliss",
+   "epg_code": "tv2Bliss.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV 2 Livsstil",
+   "epg_code": "TV2Livsstil.no",
+   "popularity": 354
+ },
+ {
+   "channel_name": "TV 2 SPORT X",
+   "epg_code": "TV2SPORTX.dk",
+   "popularity": 134
+ },
+ {
+   "channel_name": "TV 2 Zebra",
+   "epg_code": "TV2Zebra.no",
+   "popularity": 1029
+ },
+ {
+   "channel_name": "TV Chile",
+   "epg_code": "TVChili.se",
+   "popularity": 1692
+ },
+ {
+   "channel_name": "TV Finland",
+   "epg_code": "TVFinland.fi",
+   "popularity": 7
+ },
+ {
+   "channel_name": "TV10",
+   "epg_code": "TV10.se",
+   "popularity": 21709
+ },
+ {
+   "channel_name": "TV2",
+   "epg_code": "TV2.dk",
+   "popularity": 18240
+ },
+ {
+   "channel_name": "TV2",
+   "epg_code": "tv2.no",
+   "popularity": 2568
+ },
+ {
+   "channel_name": "TV2 fri",
+   "epg_code": "TV2fri.dk",
+   "popularity": 5866
+ },
+ {
+   "channel_name": "TV2 fyn (HD)",
+   "epg_code": "TV2fyn.dk",
+   "popularity": 639
+ },
+ {
+   "channel_name": "TV2 Humor",
+   "epg_code": "TV2Humor.no",
+   "popularity": 16
+ },
+ {
+   "channel_name": "TV2 Humor",
+   "epg_code": "TV2Nyhetskanalen.no",
+   "popularity": 1893
+ },
+ {
+   "channel_name": "TV2 News",
+   "epg_code": "TV2News.dk",
+   "popularity": 19373
+ },
+ {
+   "channel_name": "TV2 Ostjylland",
+   "epg_code": "TV2Ostjylland.dk",
+   "popularity": 582
+ },
+ {
+   "channel_name": "TV2 Sport 1",
+   "epg_code": "TV2Sport1.no",
+   "popularity": 834
+ },
+ {
+   "channel_name": "TV2 Sport 2",
+   "epg_code": "TV2Sport2.no",
+   "popularity": 337
+ },
+ {
+   "channel_name": "TV2 Sport Premium",
+   "epg_code": "TV2SportPremium.no",
+   "popularity": 233
+ },
+ {
+   "channel_name": "TV2 Sport Premium 2",
+   "epg_code": "TV2SportPremium2.no",
+   "popularity": 322
+ },
+ {
+   "channel_name": "TV2bornholm",
+   "epg_code": "TV2bornholm.dk",
+   "popularity": 574
+ },
+ {
+   "channel_name": "TV2Charlie",
+   "epg_code": "TV2Charlie.dk",
+   "popularity": 4614
+ },
+ {
+   "channel_name": "TV2Lorry",
+   "epg_code": "TV2Lorry.dk",
+   "popularity": 2155
+ },
+ {
+   "channel_name": "TV2MidtVest",
+   "epg_code": "TV2MidtVest.dk",
+   "popularity": 813
+ },
+ {
+   "channel_name": "TV2nord",
+   "epg_code": "TV2nord.dk",
+   "popularity": 219
+ },
+ {
+   "channel_name": "TV2Ost",
+   "epg_code": "TV2Ost.dk",
+   "popularity": 146
+ },
+ {
+   "channel_name": "TV2Sport",
+   "epg_code": "TV2Sport.dk",
+   "popularity": 3724
+ },
+ {
+   "channel_name": "TV2Syd",
+   "epg_code": "TVSyd.dk",
+   "popularity": 163
+ },
+ {
+   "channel_name": "TV2Zulu",
+   "epg_code": "TV2Zulu.dk",
+   "popularity": 8573
+ },
+ {
+   "channel_name": "TV3",
+   "epg_code": "TV3.dk",
+   "popularity": 11104
+ },
+ {
+   "channel_name": "TV3",
+   "epg_code": "TV3.no",
+   "popularity": 1185
+ },
+ {
+   "channel_name": "TV3",
+   "epg_code": "TV3.se",
+   "popularity": 77586
+ },
+ {
+   "channel_name": "TV3",
+   "epg_code": "ViasatTV3.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "TV3 Max",
+   "epg_code": "TV3Max.dk",
+   "popularity": 15079
+ },
+ {
+   "channel_name": "TV3 Puls",
+   "epg_code": "TV3Puls.dk",
+   "popularity": 11267
+ },
+ {
+   "channel_name": "TV3 Sport HD",
+   "epg_code": "TV3Sport.se",
+   "popularity": 10818
+ },
+ {
+   "channel_name": "TV3 Sport1",
+   "epg_code": "TV3Sport1.dk",
+   "popularity": 3654
+ },
+ {
+   "channel_name": "TV3 Sport2",
+   "epg_code": "TV3Sport2.dk",
+   "popularity": 7873
+ },
+ {
+   "channel_name": "TV3plus",
+   "epg_code": "TV3plus.dk",
+   "popularity": 2859
+ },
+ {
+   "channel_name": "TV4",
+   "epg_code": "TV4.se",
+   "popularity": 254825
+ },
+ {
+   "channel_name": "TV4 Fakta",
+   "epg_code": "TV4Fakta.se",
+   "popularity": 28547
+ },
+ {
+   "channel_name": "TV4 Fakta XL",
+   "epg_code": "TV4FaktaXL.se",
+   "popularity": 1609
+ },
+ {
+   "channel_name": "TV4 Film",
+   "epg_code": "TV4Film.se",
+   "popularity": 29797
+ },
+ {
+   "channel_name": "TV4 Guld",
+   "epg_code": "TV4Guld.se",
+   "popularity": 17552
+ },
+ {
+   "channel_name": "TV4 Komedi",
+   "epg_code": "TV4Komedi.se",
+   "popularity": 75
+ },
+ {
+   "channel_name": "TV4 Sport",
+   "epg_code": "TV4sport.se",
+   "popularity": 35
+ },
+ {
+   "channel_name": "TV5",
+   "epg_code": "TV5.fi",
+   "popularity": 3511
+ },
+ {
+   "channel_name": "TV6 HD",
+   "epg_code": "TV6.se",
+   "popularity": 83995
+ },
+ {
+   "channel_name": "TV6 Norge",
+   "epg_code": "TV6Norge.no",
+   "popularity": 410
+ },
+ {
+   "channel_name": "TV8",
+   "epg_code": "TV8.se",
+   "popularity": 23164
+ },
+ {
+   "channel_name": "TVE",
+   "epg_code": "TVE.se",
+   "popularity": 4704
+ },
+ {
+   "channel_name": "TVNORGE",
+   "epg_code": "tvnorge.no",
+   "popularity": 2345
+ },
+ {
+   "channel_name": "VGHD",
+   "epg_code": "VGHD.no",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viasat 4",
+   "epg_code": "Viasat4.no",
+   "popularity": 394
+ },
+ {
+   "channel_name": "Viasat 4",
+   "epg_code": "Viasat4.se",
+   "popularity": 272
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplore.se",
+   "popularity": 2283
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.dk",
+   "popularity": 999
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.fi",
+   "popularity": 50
+ },
+ {
+   "channel_name": "Viasat Explorer",
+   "epg_code": "ViasatExplorer.no",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Viasat Family",
+   "epg_code": "ViasatFamily.dk",
+   "popularity": 1115
+ },
+ {
+   "channel_name": "Viasat Film Action",
+   "epg_code": "ViasatFilmAction.dk",
+   "popularity": 2580
+ },
+ {
+   "channel_name": "Viasat Film Action",
+   "epg_code": "ViasatFilmAction.no",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Viasat Film Family",
+   "epg_code": "ViasatFilmFamily.fi",
+   "popularity": 113
+ },
+ {
+   "channel_name": "Viasat Film Family",
+   "epg_code": "ViasatFilmFamily.no",
+   "popularity": 154
+ },
+ {
+   "channel_name": "Viasat Film Family",
+   "epg_code": "ViasatFilmFamily.se",
+   "popularity": 6899
+ },
+ {
+   "channel_name": "Viasat Film Hits",
+   "epg_code": "ViasatFilmHits.dk",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Viasat Film Hits",
+   "epg_code": "ViasatFilmHits.fi",
+   "popularity": 80
+ },
+ {
+   "channel_name": "Viasat Film Hits",
+   "epg_code": "ViasatFilmHits.no",
+   "popularity": 177
+ },
+ {
+   "channel_name": "Viasat Film Hits",
+   "epg_code": "ViasatFilmHits.se",
+   "popularity": 5461
+ },
+ {
+   "channel_name": "Viasat Film Premiere",
+   "epg_code": "TV1000.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viasat Film Premiere",
+   "epg_code": "ViasatFilmPremiere.fi",
+   "popularity": 78
+ },
+ {
+   "channel_name": "Viasat Film Premiere",
+   "epg_code": "ViasatFilmPremiere.no",
+   "popularity": 63
+ },
+ {
+   "channel_name": "Viasat Film Premiere Action HD fi",
+   "epg_code": "ViasatFilmAction.fi",
+   "popularity": 71
+ },
+ {
+   "channel_name": "Viasat Film Premiere Action HD se",
+   "epg_code": "ViasatFilmAction.se",
+   "popularity": 19942
+ },
+ {
+   "channel_name": "Viasat Film Premiere HD",
+   "epg_code": "ViasatFilmPremiere.se",
+   "popularity": 6944
+ },
+ {
+   "channel_name": "Viasat Film Series",
+   "epg_code": "ViasatSeries.fi",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Viasat Fotball",
+   "epg_code": "ViasatFotball.no",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Viasat Fotboll",
+   "epg_code": "ViasatFotboll.se",
+   "popularity": 11572
+ },
+ {
+   "channel_name": "Viasat Golf",
+   "epg_code": "ViasatGolf.dk",
+   "popularity": 1021
+ },
+ {
+   "channel_name": "Viasat Golf",
+   "epg_code": "ViasatGolf.fi",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Viasat Golf",
+   "epg_code": "ViasatGolf.no",
+   "popularity": 80
+ },
+ {
+   "channel_name": "Viasat Golf",
+   "epg_code": "ViasatGolf.se",
+   "popularity": 8863
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.dk",
+   "popularity": 1325
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.fi",
+   "popularity": 306
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.no",
+   "popularity": 48
+ },
+ {
+   "channel_name": "Viasat History",
+   "epg_code": "ViasatHistory.se",
+   "popularity": 10289
+ },
+ {
+   "channel_name": "Viasat Hockey",
+   "epg_code": "ViasatHockey.fi",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Viasat Hockey",
+   "epg_code": "ViasatHockey.se",
+   "popularity": 4587
+ },
+ {
+   "channel_name": "Viasat Hockey HD",
+   "epg_code": "ViasatHockey.no",
+   "popularity": 17
+ },
+ {
+   "channel_name": "Viasat Jääkiekko HD",
+   "epg_code": "ViasatJaakiekko.fi",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Viasat Jalkapallo HD",
+   "epg_code": "ViasatJalkapallo.fi",
+   "popularity": 87
+ },
+ {
+   "channel_name": "Viasat Motor",
+   "epg_code": "ViasatMotor.se",
+   "popularity": 3249
+ },
+ {
+   "channel_name": "Viasat Nature/Crime",
+   "epg_code": "ViasatNature.no",
+   "popularity": 108
+ },
+ {
+   "channel_name": "Viasat Nature/Crime",
+   "epg_code": "ViasatNatureCrime.dk",
+   "popularity": 889
+ },
+ {
+   "channel_name": "Viasat Nature/Crime",
+   "epg_code": "ViasatNatureCrime.se",
+   "popularity": 2455
+ },
+ {
+   "channel_name": "Viasat Premiere",
+   "epg_code": "ViasatPremiere.dk",
+   "popularity": 1887
+ },
+ {
+   "channel_name": "Viasat Series",
+   "epg_code": "ViasatSeries.dk",
+   "popularity": 1399
+ },
+ {
+   "channel_name": "Viasat Series",
+   "epg_code": "ViasatSeries.no",
+   "popularity": 115
+ },
+ {
+   "channel_name": "Viasat Series",
+   "epg_code": "ViasatSeries.se",
+   "popularity": 3117
+ },
+ {
+   "channel_name": "Viasat Sport",
+   "epg_code": "ViasatSport.se",
+   "popularity": 12367
+ },
+ {
+   "channel_name": "Viasat Sport",
+   "epg_code": "ViasatSportNorge.no",
+   "popularity": 211
+ },
+ {
+   "channel_name": "Viasat Sport Extra",
+   "epg_code": "ViasatSportExtra.se",
+   "popularity": 4504
+ },
+ {
+   "channel_name": "Viasat Sport HD",
+   "epg_code": "ViasatSportHD.fi",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Viasat Sport Premium",
+   "epg_code": "ViasatSportPremium.se",
+   "popularity": 19793
+ },
+ {
+   "channel_name": "Viasat Ultra HD",
+   "epg_code": "ViasatUltra.no",
+   "popularity": 113
+ },
+ {
+   "channel_name": "Viasat Urheilu HD",
+   "epg_code": "ViasatUrheilu.fi",
+   "popularity": 57
+ },
+ {
+   "channel_name": "Viasport 1",
+   "epg_code": "Viasport1.no",
+   "popularity": 577
+ },
+ {
+   "channel_name": "Viasport 2",
+   "epg_code": "Viasport2.no",
+   "popularity": 377
+ },
+ {
+   "channel_name": "Viasport 3",
+   "epg_code": "Viasport3.no",
+   "popularity": 287
+ },
+ {
+   "channel_name": "Viasport+",
+   "epg_code": "Viasport+.no",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Vision Sverige",
+   "epg_code": "VisionSverige.se",
+   "popularity": 16
+ },
+ {
+   "channel_name": "Visjon Norge",
+   "epg_code": "VisjonNorge.no",
+   "popularity": 6
+ },
+ {
+   "channel_name": "VOX",
+   "epg_code": "VOX.no",
+   "popularity": 316
+ },
+ {
+   "channel_name": "XD Disney",
+   "epg_code": "DisneyXD.fi",
+   "popularity": 62
+ },
+ {
+   "channel_name": "XEE",
+   "epg_code": "XEE.dk",
+   "popularity": 1591
+ },
+ {
+   "channel_name": "Yacht and sail",
+   "epg_code": "YachtSail.se",
+   "popularity": 0
+ },
+ {
+   "channel_name": "YLE FEM",
+   "epg_code": "YLEFem.fi",
+   "popularity": 16
+ },
+ {
+   "channel_name": "YLE TV1",
+   "epg_code": "YLE1.fi",
+   "popularity": 831
+ },
+ {
+   "channel_name": "YLE TV2",
+   "epg_code": "YLE2.fi",
+   "popularity": 561
+ }
+]

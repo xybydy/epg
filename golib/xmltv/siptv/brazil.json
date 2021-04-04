@@ -1,0 +1,242 @@
+[
+ {
+   "channel_name": "+GLOBOSAT",
+   "epg_code": "+globosat.br",
+   "popularity": 11472
+ },
+ {
+   "channel_name": "+GLOBOSAT HD",
+   "epg_code": "+globosathd.br",
+   "popularity": 346
+ },
+ {
+   "channel_name": "A&E",
+   "epg_code": "Ae.br",
+   "popularity": 38856
+ },
+ {
+   "channel_name": "AE HD",
+   "epg_code": "Aehd.br",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Amazon Sat",
+   "epg_code": "AmazonSat.br",
+   "popularity": 28
+ },
+ {
+   "channel_name": "AMC",
+   "epg_code": "Amc.br",
+   "popularity": 19644
+ },
+ {
+   "channel_name": "AMC HD",
+   "epg_code": "Amchd.br",
+   "popularity": 7039
+ },
+ {
+   "channel_name": "ANIMAL PLANET",
+   "epg_code": "Animalplanet.br",
+   "popularity": 46273
+ },
+ {
+   "channel_name": "ANOS 2000",
+   "epg_code": "Anos2000.br",
+   "popularity": 90
+ },
+ {
+   "channel_name": "ANOS 60",
+   "epg_code": "Anos60.br",
+   "popularity": 5
+ },
+ {
+   "channel_name": "ANOS 70",
+   "epg_code": "Anos70.br",
+   "popularity": 195
+ },
+ {
+   "channel_name": "ANOS 80",
+   "epg_code": "Anos80.br",
+   "popularity": 98
+ },
+ {
+   "channel_name": "ANOS 90",
+   "epg_code": "Anos90.br",
+   "popularity": 72
+ },
+ {
+   "channel_name": "Arte 1",
+   "epg_code": "Arte1.br",
+   "popularity": 4909
+ },
+ {
+   "channel_name": "AXN",
+   "epg_code": "Axn.br",
+   "popularity": 28531
+ },
+ {
+   "channel_name": "AXN HD",
+   "epg_code": "Axnhd.br",
+   "popularity": 8197
+ },
+ {
+   "channel_name": "Baby TV",
+   "epg_code": "BabyTV.br",
+   "popularity": 5399
+ },
+ {
+   "channel_name": "Band",
+   "epg_code": "Bandeirantes.br",
+   "popularity": 12988
+ },
+ {
+   "channel_name": "BAND FM",
+   "epg_code": "Bandfm.br",
+   "popularity": 16
+ },
+ {
+   "channel_name": "BAND HD",
+   "epg_code": "Bandhd.br",
+   "popularity": 9265
+ },
+ {
+   "channel_name": "BAND NEWS",
+   "epg_code": "Bandnews.br",
+   "popularity": 24734
+ },
+ {
+   "channel_name": "Band Rede",
+   "epg_code": "BandRede.br",
+   "popularity": 43236
+ },
+ {
+   "channel_name": "BANDSPORTS",
+   "epg_code": "Bandsports.br",
+   "popularity": 32172
+ },
+ {
+   "channel_name": "BBC HD",
+   "epg_code": "BBCHD.br",
+   "popularity": 177
+ },
+ {
+   "channel_name": "BBC WORLD NEWS",
+   "epg_code": "Bbcworldnews.br",
+   "popularity": 6
+ },
+ {
+   "channel_name": "BH FM",
+   "epg_code": "Bhfm.br",
+   "popularity": 36
+ },
+ {
+   "channel_name": "BIS",
+   "epg_code": "Bis.br",
+   "popularity": 4142
+ },
+ {
+   "channel_name": "Bis HD",
+   "epg_code": "Bishd.br",
+   "popularity": 4958
+ },
+ {
+   "channel_name": "BLACK",
+   "epg_code": "Black.br",
+   "popularity": 6
+ },
+ {
+   "channel_name": "BLOOMBERG",
+   "epg_code": "Bloomberg.br",
+   "popularity": 223
+ },
+ {
+   "channel_name": "BLUES",
+   "epg_code": "Blues.br",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Boa Vontade TV",
+   "epg_code": "Boavontadetv.br",
+   "popularity": 590
+ },
+ {
+   "channel_name": "Boomerang",
+   "epg_code": "Boomerang.br",
+   "popularity": 13433
+ },
+ {
+   "channel_name": "BOOMERANG HD",
+   "epg_code": "Boomeranghd.br",
+   "popularity": 4099
+ },
+ {
+   "channel_name": "BOSSA NOVA",
+   "epg_code": "Bossanova.br",
+   "popularity": 68
+ },
+ {
+   "channel_name": "BUSCA DE CANAIS",
+   "epg_code": "Buscadecanais.br",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CANAL 21",
+   "epg_code": "Canal21.br",
+   "popularity": 6
+ },
+ {
+   "channel_name": "CANAL BRASIL",
+   "epg_code": "Canalbrasil.br",
+   "popularity": 12738
+ },
+ {
+   "channel_name": "CANAL BRASIL HD",
+   "epg_code": "Canalbrasilhd.br",
+   "popularity": 5820
+ },
+ {
+   "channel_name": "Canal do Boi",
+   "epg_code": "CanaldoBoi.br",
+   "popularity": 3021
+ },
+ {
+   "channel_name": "CANAL DO CLIENTE",
+   "epg_code": "Canaldocliente.br",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Canal Futura",
+   "epg_code": "Futura.br",
+   "popularity": 6653
+ },
+ {
+   "channel_name": "Canal Rural",
+   "epg_code": "Canalrural.br",
+   "popularity": 2026
+ },
+ {
+   "channel_name": "CANAL SONY",
+   "epg_code": "Sony.br",
+   "popularity": 23643
+ },
+ {
+   "channel_name": "CANÇÃO NOVA",
+   "epg_code": "CancaoNova.br",
+   "popularity": 6517
+ },
+ {
+   "channel_name": "CARTOON",
+   "epg_code": "Cartoonnetwork.br",
+   "popularity": 75719
+ },
+ {
+   "channel_name": "CARTOON HD",
+   "epg_code": "Cartoonhd.br",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Casa Club TV",
+   "epg_code": "CasaClubTV",
+   "popularity": null
+ }
+]

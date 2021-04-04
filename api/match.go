@@ -8,14 +8,24 @@ import (
 	"net/http"
 
 	"github.com/xybydy/epg/golib/mongo"
-	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
 type resp struct {
-	ID       primitive.ObjectID `bson:"_id,omitempty" json:"_id,omitempty"`
-	ChanName string             `bson:"chan_name" json:"chan_name,omitempty"`
-	TvgID    string             `bson:"tvg_id" json:"tvg_id,omitempty"`
+	ID       interface{} `bson:"_id,omitempty" json:"_id,omitempty"`
+	ChanName string      `bson:"chan_name" json:"chan_name,omitempty"`
+	TvgID    string      `bson:"tvg_id" json:"tvg_id,omitempty"`
 }
+
+// func (r *resp) UnmarshalJSON(data []byte) error {
+// 	var s resp
+
+// 	if err := json.Unmarshal(data, &s); err != nil {
+// 		log.Println(err)
+// 		return err
+// 	}
+// 	return nil
+// }
+
 type resps []resp
 
 func Matcher(w http.ResponseWriter, r *http.Request) {
@@ -46,7 +56,8 @@ func Matcher(w http.ResponseWriter, r *http.Request) {
 			return
 		}
 
-		match, err := mongo.GetData(true)
+		match, err := mongo.GetData(true, "exact_id")
+		log.Println(match)
 		for _, v := range respData {
 			tvgID := match.GetTvgID(v.ChanName)
 			if tvgID == "" {

@@ -4,22 +4,26 @@ const routes = [
   {
     path: '/',
     name: 'Index',
-    component: () => import(/* webpackChunkName: "index" */ '../views/Index.vue')
+    component: () => import('@/views/Index.vue')
   },
   {
     path: '/epg/view',
     name: 'EpgUserView',
-    component: () => import(/* webpackChunkName: "epgUserView" */ '../views/EpgUserView.vue')
+    component: () => import('@/views/EpgUserView.vue')
   },
   {
     path: '/epg/update',
     name: 'EpgUpdateView',
-    component: () => import(/* webpackChunkName: "epgUpdateView" */ '../views/EpgUpdateView.vue')
+    component: () => import('@/views/EpgUpdateView.vue')
+  },
+  {
+    path: '/test',
+    component: () => import('@/views/Test.vue')
   }
 ]
 
 const router = createRouter({
-  history: createWebHistory(process.env.BASE_URL),
+  history: createWebHistory(),
   routes
 })
 

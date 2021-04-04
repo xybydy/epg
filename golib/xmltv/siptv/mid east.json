@@ -1,0 +1,632 @@
+[
+ {
+   "channel_name": "A3",
+   "epg_code": "A3.dz",
+   "popularity": 1121
+ },
+ {
+   "channel_name": "Abu Dhabi",
+   "epg_code": "AbuDhabi.net",
+   "popularity": 1212
+ },
+ {
+   "channel_name": "Abu Dhabi Drama",
+   "epg_code": "AbuDhabiDrama.net",
+   "popularity": 6079
+ },
+ {
+   "channel_name": "AD Drama + HD",
+   "epg_code": "ADDrama.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "AD Sports 1",
+   "epg_code": "ADSports1.net",
+   "popularity": 2342
+ },
+ {
+   "channel_name": "AD Sports 2",
+   "epg_code": "ADSports2.net",
+   "popularity": 2580
+ },
+ {
+   "channel_name": "AD Sports 3",
+   "epg_code": "ADSports3.net",
+   "popularity": 1738
+ },
+ {
+   "channel_name": "AD Sports 4",
+   "epg_code": "ADSports4.net",
+   "popularity": 1944
+ },
+ {
+   "channel_name": "AD Sports 5",
+   "epg_code": "ADSports5.net",
+   "popularity": 71
+ },
+ {
+   "channel_name": "AD Sports 6",
+   "epg_code": "ADSports6.net",
+   "popularity": 88
+ },
+ {
+   "channel_name": "AD Sports 7",
+   "epg_code": "ADSports7.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Al Aan",
+   "epg_code": "AlAan.net",
+   "popularity": 524
+ },
+ {
+   "channel_name": "Al Arabiya Al Hadath",
+   "epg_code": "AlArabiyaAlHadath.net",
+   "popularity": 17860
+ },
+ {
+   "channel_name": "Al Emarat",
+   "epg_code": "AlEmarat.net",
+   "popularity": 230
+ },
+ {
+   "channel_name": "Al Kass",
+   "epg_code": "AlKass.net",
+   "popularity": 5
+ },
+ {
+   "channel_name": "Al Kass 2",
+   "epg_code": "AlKass2.net",
+   "popularity": 71
+ },
+ {
+   "channel_name": "Al Majd General",
+   "epg_code": "AlMajdGeneral.net",
+   "popularity": 69
+ },
+ {
+   "channel_name": "Al Rai TV",
+   "epg_code": "AlRaiTV.net",
+   "popularity": 107
+ },
+ {
+   "channel_name": "Al Resalah",
+   "epg_code": "AlResalah.net",
+   "popularity": 568
+ },
+ {
+   "channel_name": "Al-Jazeera",
+   "epg_code": "Al-Jazeera.net",
+   "popularity": 6640
+ },
+ {
+   "channel_name": "Al-Jazeera English",
+   "epg_code": "Al-JazeeraEnglish.net",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Alarabiya HD",
+   "epg_code": "AlarabiyaHD.net",
+   "popularity": 887
+ },
+ {
+   "channel_name": "Animal Planet HD",
+   "epg_code": "AnimalPlanet.net",
+   "popularity": 16
+ },
+ {
+   "channel_name": "ART Aflam 1",
+   "epg_code": "ARTAflam1.net",
+   "popularity": 12929
+ },
+ {
+   "channel_name": "ART Aflam 2",
+   "epg_code": "ARTAflam2.net",
+   "popularity": 14336
+ },
+ {
+   "channel_name": "ART Cinema",
+   "epg_code": "ARTCinema.net",
+   "popularity": 13766
+ },
+ {
+   "channel_name": "ART Hekayat",
+   "epg_code": "ARTHekayat.net",
+   "popularity": 4697
+ },
+ {
+   "channel_name": "ART Hekayat 2",
+   "epg_code": "ARTHekayat2.net",
+   "popularity": 8786
+ },
+ {
+   "channel_name": "B4U Aflam",
+   "epg_code": "B4UAflam.net",
+   "popularity": 6453
+ },
+ {
+   "channel_name": "Bahrain TV",
+   "epg_code": "BahrainTV.net",
+   "popularity": 1215
+ },
+ {
+   "channel_name": "Baraem",
+   "epg_code": "Baraem.net",
+   "popularity": 2538
+ },
+ {
+   "channel_name": "BBC Arabic",
+   "epg_code": "BBCArabic.net",
+   "popularity": 15687
+ },
+ {
+   "channel_name": "BBC World",
+   "epg_code": "BBCWorld.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "beiN Sports",
+   "epg_code": "beinsports.jsc",
+   "popularity": 2513
+ },
+ {
+   "channel_name": "beiN Sports 1",
+   "epg_code": "bein1hd.jsc",
+   "popularity": 777177
+ },
+ {
+   "channel_name": "beiN Sports 10",
+   "epg_code": "bein10hd.jsc",
+   "popularity": 93369
+ },
+ {
+   "channel_name": "beiN Sports 11",
+   "epg_code": "bein11hd.jsc",
+   "popularity": 129855
+ },
+ {
+   "channel_name": "beiN Sports 12",
+   "epg_code": "bein12hd.jsc",
+   "popularity": 61792
+ },
+ {
+   "channel_name": "beiN Sports 13",
+   "epg_code": "bein13hd.jsc",
+   "popularity": 33616
+ },
+ {
+   "channel_name": "beiN Sports 14",
+   "epg_code": "bein14hd.jsc",
+   "popularity": 29230
+ },
+ {
+   "channel_name": "beiN Sports 15",
+   "epg_code": "bein15hd.jsc",
+   "popularity": 31073
+ },
+ {
+   "channel_name": "beiN Sports 16",
+   "epg_code": "bein16hd.jsc",
+   "popularity": 20488
+ },
+ {
+   "channel_name": "beiN Sports 17",
+   "epg_code": "bein17hd.jsc",
+   "popularity": 234
+ },
+ {
+   "channel_name": "beiN Sports 2",
+   "epg_code": "bein2hd.jsc",
+   "popularity": 533377
+ },
+ {
+   "channel_name": "beiN Sports 3",
+   "epg_code": "bein3hd.jsc",
+   "popularity": 654076
+ },
+ {
+   "channel_name": "beiN Sports 4",
+   "epg_code": "bein4hd.jsc",
+   "popularity": 252998
+ },
+ {
+   "channel_name": "beiN Sports 4K",
+   "epg_code": "bein4Khd.jsc",
+   "popularity": 75504
+ },
+ {
+   "channel_name": "beiN Sports 5",
+   "epg_code": "bein5hd.jsc",
+   "popularity": 209025
+ },
+ {
+   "channel_name": "beiN Sports 6",
+   "epg_code": "bein6hd.jsc",
+   "popularity": 229483
+ },
+ {
+   "channel_name": "beiN Sports 7",
+   "epg_code": "bein7hd.jsc",
+   "popularity": 109696
+ },
+ {
+   "channel_name": "beiN Sports 8",
+   "epg_code": "bein8hd.jsc",
+   "popularity": 82107
+ },
+ {
+   "channel_name": "beiN Sports 9",
+   "epg_code": "bein9hd.jsc",
+   "popularity": 72349
+ },
+ {
+   "channel_name": "beiN Sports NBA",
+   "epg_code": "beinsportsnba.jsc",
+   "popularity": 5789
+ },
+ {
+   "channel_name": "beiN Sports News",
+   "epg_code": "beinsportsnews.jsc",
+   "popularity": 58878
+ },
+ {
+   "channel_name": "Canal Algerie",
+   "epg_code": "CanalAlgerie.dz",
+   "popularity": 22743
+ },
+ {
+   "channel_name": "Chaine 4",
+   "epg_code": "Chaine4.dz",
+   "popularity": 51
+ },
+ {
+   "channel_name": "CN Network",
+   "epg_code": "CNNetwork.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "CNN",
+   "epg_code": "CNN.net",
+   "popularity": 60
+ },
+ {
+   "channel_name": "Discovery Family HD",
+   "epg_code": "DiscoveryFamily.net",
+   "popularity": 6
+ },
+ {
+   "channel_name": "Discovery HD",
+   "epg_code": "DiscoveryHD.net",
+   "popularity": 7
+ },
+ {
+   "channel_name": "Discovery Science",
+   "epg_code": "DiscoveryScience.net",
+   "popularity": 58
+ },
+ {
+   "channel_name": "Dubai One",
+   "epg_code": "DubaiOne.net",
+   "popularity": 4851
+ },
+ {
+   "channel_name": "Dubai TV HD",
+   "epg_code": "DubaiTVHD.net",
+   "popularity": 6062
+ },
+ {
+   "channel_name": "FOXsport Middle East",
+   "epg_code": "FOXsport.ME",
+   "popularity": 13
+ },
+ {
+   "channel_name": "France 24",
+   "epg_code": "France24.net",
+   "popularity": 191
+ },
+ {
+   "channel_name": "Future TV",
+   "epg_code": "FutureTV.net",
+   "popularity": 10400
+ },
+ {
+   "channel_name": "H2 HD",
+   "epg_code": "H2.net",
+   "popularity": 5
+ },
+ {
+   "channel_name": "History Channel",
+   "epg_code": "HistoryChannel.net",
+   "popularity": 4
+ },
+ {
+   "channel_name": "Iqraa",
+   "epg_code": "Iqraa.net",
+   "popularity": 7953
+ },
+ {
+   "channel_name": "JEEM TV",
+   "epg_code": "JEEMTV.net",
+   "popularity": 13
+ },
+ {
+   "channel_name": "JSC Documentry",
+   "epg_code": "JSCDocumentry.net",
+   "popularity": 323
+ },
+ {
+   "channel_name": "JSC Live",
+   "epg_code": "JSCLive.net",
+   "popularity": 1
+ },
+ {
+   "channel_name": "Kral TV",
+   "epg_code": "KralTV.tu",
+   "popularity": 2248
+ },
+ {
+   "channel_name": "Kuwait TV",
+   "epg_code": "KuwaitTV.net",
+   "popularity": 35
+ },
+ {
+   "channel_name": "LBC",
+   "epg_code": "LBC.net",
+   "popularity": 198
+ },
+ {
+   "channel_name": "MBC 1",
+   "epg_code": "MBC1.net",
+   "popularity": 239076
+ },
+ {
+   "channel_name": "MBC 2",
+   "epg_code": "MBC2.net",
+   "popularity": 233254
+ },
+ {
+   "channel_name": "MBC 3",
+   "epg_code": "MBC3.net",
+   "popularity": 126582
+ },
+ {
+   "channel_name": "MBC 4",
+   "epg_code": "MBC4.net",
+   "popularity": 217436
+ },
+ {
+   "channel_name": "MBC Action",
+   "epg_code": "MBCAction.net",
+   "popularity": 168962
+ },
+ {
+   "channel_name": "MBC Bollywood",
+   "epg_code": "MBCBollywood.net",
+   "popularity": 121894
+ },
+ {
+   "channel_name": "MBC Drama",
+   "epg_code": "MBCDrama.net",
+   "popularity": 153416
+ },
+ {
+   "channel_name": "MBC MAX",
+   "epg_code": "MBCMax.net",
+   "popularity": 166240
+ },
+ {
+   "channel_name": "MBC Pro Sports 1",
+   "epg_code": "MBCProSports1.net",
+   "popularity": 40
+ },
+ {
+   "channel_name": "MBC Pro Sports 2",
+   "epg_code": "MBCProSports2.net",
+   "popularity": 84
+ },
+ {
+   "channel_name": "MBC Pro Sports 3",
+   "epg_code": "MBCProSports3.net",
+   "popularity": 29
+ },
+ {
+   "channel_name": "MBC Pro Sports 4",
+   "epg_code": "MBCProSports4.net",
+   "popularity": 68
+ },
+ {
+   "channel_name": "Medi1TV",
+   "epg_code": "Medi1TV.ma",
+   "popularity": 15423
+ },
+ {
+   "channel_name": "Nat. Geo. AD",
+   "epg_code": "NatGeoAD.net",
+   "popularity": 7123
+ },
+ {
+   "channel_name": "Nat. Geo. People HD",
+   "epg_code": "NatGeoPeople.net",
+   "popularity": 11
+ },
+ {
+   "channel_name": "Nat. Geo. Wild HD",
+   "epg_code": "NatGeoWild.net",
+   "popularity": 3
+ },
+ {
+   "channel_name": "Nat. Geographic HD",
+   "epg_code": "NatGeoHD.net",
+   "popularity": 105
+ },
+ {
+   "channel_name": "NBA TV",
+   "epg_code": "NBAtv.sport",
+   "popularity": 10472
+ },
+ {
+   "channel_name": "NESSMA",
+   "epg_code": "NESSMA.tn",
+   "popularity": 18926
+ },
+ {
+   "channel_name": "OSN Fight Network HD",
+   "epg_code": "OSNFightNetwork.net",
+   "popularity": 1
+ },
+ {
+   "channel_name": "OSN First Comedy HD",
+   "epg_code": "OSNFirstComedy.net",
+   "popularity": 584
+ },
+ {
+   "channel_name": "OSN First HBO",
+   "epg_code": "OSNFirstHBO.net",
+   "popularity": 64
+ },
+ {
+   "channel_name": "OSN First HD",
+   "epg_code": "OSNFirst.net",
+   "popularity": 5820
+ },
+ {
+   "channel_name": "OSN Hoera Bioscoop",
+   "epg_code": "OSNHoeraBioscoop.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "OSN Movies Action HD",
+   "epg_code": "OSNMoviesAction.net",
+   "popularity": 2913
+ },
+ {
+   "channel_name": "OSN Movies Comedy HD",
+   "epg_code": "OSNMoviesComedy.net",
+   "popularity": 1748
+ },
+ {
+   "channel_name": "OSN Movies Drama HD",
+   "epg_code": "OSNMoviesDrama.net",
+   "popularity": 50
+ },
+ {
+   "channel_name": "OSN Movies Family HD",
+   "epg_code": "OSNMoviesFamily.net",
+   "popularity": 185
+ },
+ {
+   "channel_name": "OSN Movies Festival HD",
+   "epg_code": "OSNMoviesFestival.net",
+   "popularity": 50
+ },
+ {
+   "channel_name": "OSN Movies HD",
+   "epg_code": "OSNMovies.net",
+   "popularity": 12708
+ },
+ {
+   "channel_name": "OSN Movies HD +2",
+   "epg_code": "OSNMovies+2.net",
+   "popularity": 99
+ },
+ {
+   "channel_name": "OSN Movies Kids",
+   "epg_code": "OSNMoviesKids.net",
+   "popularity": 211
+ },
+ {
+   "channel_name": "OSN Movies Premiere HD",
+   "epg_code": "OSNMoviesPremiere.net",
+   "popularity": 208
+ },
+ {
+   "channel_name": "OSN News",
+   "epg_code": "OSNNews.net",
+   "popularity": 1833
+ },
+ {
+   "channel_name": "OSN Sports 1",
+   "epg_code": "OSNSports1.net",
+   "popularity": 39
+ },
+ {
+   "channel_name": "OSN Sports 2",
+   "epg_code": "OSNSports2.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "OSN Sports 3",
+   "epg_code": "OSNSports3.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "OSN Sports 4",
+   "epg_code": "OSNSports4.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "OSN Yahala Drama HD",
+   "epg_code": "OSNYahalaDrama.net",
+   "popularity": 26
+ },
+ {
+   "channel_name": "OSN Yahala HD",
+   "epg_code": "OSNYahala.net",
+   "popularity": 1795
+ },
+ {
+   "channel_name": "OSN Yahala Shabab HD",
+   "epg_code": "OSNYahalaShabab.net",
+   "popularity": 0
+ },
+ {
+   "channel_name": "Qatar TV",
+   "epg_code": "QatarTV.net",
+   "popularity": 2349
+ },
+ {
+   "channel_name": "Quest Arabiya HD",
+   "epg_code": "QuestArabiya.net",
+   "popularity": 41
+ },
+ {
+   "channel_name": "Rotana Khalijiya",
+   "epg_code": "RotanaKhalijiya.net",
+   "popularity": 697
+ },
+ {
+   "channel_name": "Sama Dubai",
+   "epg_code": "SamaDubai.net",
+   "popularity": 4496
+ },
+ {
+   "channel_name": "Saudi TV 2",
+   "epg_code": "SaudiTV2.net",
+   "popularity": 19
+ },
+ {
+   "channel_name": "Star Movies HD",
+   "epg_code": "StarMovies.net",
+   "popularity": 9
+ },
+ {
+   "channel_name": "Star World HD",
+   "epg_code": "StarWorld.net",
+   "popularity": 10
+ },
+ {
+   "channel_name": "TRT1",
+   "epg_code": "TRT1.tu",
+   "popularity": 1907
+ },
+ {
+   "channel_name": "Zee Aflam",
+   "epg_code": "ZeeAflam.net",
+   "popularity": 9681
+ },
+ {
+   "channel_name": "Zee Alwan",
+   "epg_code": "ZeeAlwan.net",
+   "popularity": 13314
+ }
+]

@@ -29,7 +29,7 @@ func Save(w http.ResponseWriter, r *http.Request) {
 			json.NewEncoder(w).Encode(response)
 			return
 		}
-		err = mongo.InsertData(res)
+		err = mongo.InsertChannels(res, "tvs")
 		if err != nil {
 			mes := []byte(err.Error())
 			response.StatusCode = http.StatusInternalServerError
