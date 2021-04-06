@@ -8,20 +8,19 @@ import 'primevue/resources/themes/saga-blue/theme.css'
 import 'primeflex/primeflex.css'
 import 'primevue/resources/primevue.min.css'
 import 'primeicons/primeicons.css'
-import Button from 'primevue/button'
 
 import '@/style/main.scss'
 
-import { GetM3uData, GetM3uDataLength, AddM3uData } from '@/store/MainStore'
+import { GetM3uData, LengthM3uData, AddM3uData, LengthSelectedItems } from '@/store/MainStore'
 
 const app = createApp(App)
+
 app
   .provide('GetM3uData', GetM3uData)
-  .provide('GetM3uDataLength', GetM3uDataLength)
+  .provide('LengthM3uData', LengthM3uData)
   .provide('AddM3uData', AddM3uData)
+  .provide('LengthSelectedItems', LengthSelectedItems)
   .use(ToastService)
   .use(router)
-
-app.component('Button', Button)
 
 app.mount('#app')

@@ -1,14 +1,57 @@
 <template>
-  <MenuBar
-    props.new
-    @selectedRemoveDialog="showRemoveSelected"
-    @selectedEditDialog="showEditSelected"
-    @onSave="onSave"
-    @onUpdate="onUpdate"
-    @onTvgMatcher="onTvgMatcher"
-  ></MenuBar>
+  <Toolbar class="p-mb-4">
+    <template #left>
+      <EpgUploader class="p-mr-2"></EpgUploader>
+      <Button
+        :label="removeLabel"
+        icon="pi pi-trash"
+        class="p-button-danger p-mr-2"
+        :disabled="!selectedItemsList || !selectedItemsList.length"
+        @click="showRemoveSelected"
+      />
+      <Button
+        label="Toplu TVG-ID Düzenle"
+        icon="pi pi-file"
+        class="p-button-danger p-mr-2"
+        :disabled="!selectedItemsList || !selectedItemsList.length"
+        @click="showEditSelected"
+      />
+      <Button
+        label="TVG-ID Getir"
+        icon="pi pi-cloud-download"
+        class="p-button-danger"
+        @click="onTvgMatcher"
+      />
+    </template>
+
+    <template #right>
+      <Button
+        v-if="updateOrNew"
+        label="Kaydet"
+        icon="pi pi-save"
+        class="p-button-help p-mr-2"
+        @click="onSave"
+      />
+      <Button
+        v-else
+        label="Guncelle"
+        icon="pi pi-save"
+        class="p-button-help p-mr-2"
+        @click="onUpdate"
+      />
+      <Button
+        :disabled="downloadButtonLock"
+        label="İndir"
+        icon="pi pi-download"
+        class="p-button-help"
+        @click="downloadM3u"
+      />
+    </template>
+  </Toolbar>
 
   <DataTable
+    v-if="!loadingDialog"
+    v-model:selection="selectedItemsList"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
     editMode="cell"
     :filters="filters"
@@ -151,7 +194,6 @@ import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 
 import EpgUploader from '@/components/EpgUploader.vue'
-import MenuBar from '@/components/MenuBar.vue'
 
 import { root_path } from '@/router/url'
 
@@ -186,6 +228,7 @@ let loadingDialog = props.m3u.length === 0 ? ref(true) : ref(false)
 let selectedItemsList = ref([])
 let reOrderedList = ref(props.m3u)
 let itemsToSavedList = []
+let updateOrNew = ref(props.new)
 
 let downloadButtonLock = ref(true)
 let newTvgId = ref('')

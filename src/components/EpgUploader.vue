@@ -1,15 +1,15 @@
 <template>
   <FileUpload
-    ref='uploadButton'
-    name='upload'
-    url='/'
-    mode='basic'
-    :auto='true'
-    :maxFileSize='26214400'
-    :fileLimit='1'
-    chooseLabel='Yukle'
-    :customUpload='true'
-    @uploader='upload'
+    ref="uploadButton"
+    name="upload"
+    url="/"
+    mode="basic"
+    :auto="true"
+    :maxFileSize="26214400"
+    :fileLimit="1"
+    chooseLabel="Yukle"
+    :customUpload="true"
+    @uploader="upload"
   />
 </template>
 
@@ -25,12 +25,11 @@ const emit = defineEmit(['m3u-loaded'])
 const uploadButton = ref(null)
 const AddM3uData = inject('AddM3uData')
 
-const upload = async e => {
-  e.files[0].text().then(f => {
+const upload = async (e) => {
+  e.files[0].text().then((f) => {
     AddM3uData(SanitizeM3u(parse(f).items))
     emit('m3u-loaded')
   })
   uploadButton.value.clear()
 }
-
 </script>

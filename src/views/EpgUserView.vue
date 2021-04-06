@@ -1,5 +1,5 @@
 <template>
-  <DataTable :m3u='m3uData' :new='true'></DataTable>
+  <DataTable :m3u="m3uData" :new="true"></DataTable>
 </template>
 
 <script setup>
@@ -9,10 +9,9 @@ import DataTable from '../components/DataTable.vue'
 
 const router = useRouter()
 let m3uData = inject('GetM3uData')
-let m3uDataLength = inject('GetM3uDataLength')
+let m3uDataLength = inject('LengthM3uData')
 
 if (m3uDataLength.value === 0) {
   router.replace({ name: 'Index' })
 }
-
 </script>

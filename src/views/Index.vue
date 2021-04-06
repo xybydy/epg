@@ -8,5 +8,4 @@ import EpgUploader from '@/components/EpgUploader.vue'
 
 const router = useRouter()
 let onM3uLoaded = () => router.push('/epg/view')
-
 </script>
