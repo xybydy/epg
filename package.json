@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "iptv-playlist-parser": "^0.6.0",
+    "mitt": "^2.1.0",
     "primeflex": "^2.0.0",
     "primeicons": "^4.0.0",
     "primevue": "^3.3.5",

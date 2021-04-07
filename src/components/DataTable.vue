@@ -1,14 +1,7 @@
 <template>
-  <MenuBar
-    props.new
-    @selectedRemoveDialog="showRemoveSelected"
-    @selectedEditDialog="showEditSelected"
-    @onSave="onSave"
-    @onUpdate="onUpdate"
-    @onTvgMatcher="onTvgMatcher"
-  ></MenuBar>
-
   <DataTable
+    v-if="!loadingDialog"
+    v-model:selection="selectedItems"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
     editMode="cell"
     :filters="filters"
@@ -50,29 +43,6 @@
         <InputText v-model="filters.tvg_id" type="text" placeholder="TVG-ID ara" />
       </template>
     </Column>
-    <!-- <Column field="tvg_name" header="TVG-NAME" autoLayout="true">
-      <template #editor="slotProps">
-        <InputText
-          v-model="slotProps.data[slotProps.column.props.field]"
-          @focus="onSelectInput"
-        /> </template
-      ><template #filter>
-        <InputText type="text" v-model="filters.tvg_name" placeholder="TVG-NAME ara" /> </template
-    ></Column>
-    <Column field="tvg_logo" header="TVG-LOGO" autoLayout="true">
-      <template #editor="slotProps">
-        <InputText
-          v-model="slotProps.data[slotProps.column.props.field]"
-          @focus="onSelectInput"
-        /> </template
-    ></Column>
-    <Column field="url" header="URL" autoLayout="true">
-      <template #editor="slotProps">
-        <InputText
-          v-model="slotProps.data[slotProps.column.props.field]"
-          @focus="onSelectInput"
-        /> </template
-    ></Column>-->
   </DataTable>
 
   <Dialog
@@ -83,7 +53,7 @@
   >
     <div class="confirmation-content">
       <i class="pi pi-exclamation-triangle p-mr-3" style="font-size: 2rem" />
-      <span v-if="selectedItemsList">Seçtiğin kanallar silinsin mi?</span>
+      <span v-if="selectedItems">Seçtiğin kanallar silinsin mi?</span>
     </div>
     <template #footer>
       <Button
@@ -92,12 +62,7 @@
         class="p-button-text"
         @click="deleteItemsDialog = false"
       />
-      <Button
-        label="Yes"
-        icon="pi pi-check"
-        class="p-button-text"
-        @click="removeSelectedItemsList"
-      />
+      <Button label="Yes" icon="pi pi-check" class="p-button-text" @click="removeSelectedItems" />
     </template>
   </Dialog>
 
@@ -136,14 +101,16 @@
 </template>
 
 <script setup>
-import { ref, computed, watch, defineProps } from 'vue'
+import { ref, watch, defineProps, onMounted } from 'vue'
+import eventBus from '@/emitter/eventBus.js'
 
 import ProgressSpinner from 'primevue/progressspinner'
 import DataTable from 'primevue/datatable'
 import Column from 'primevue/column'
 import InputText from 'primevue/inputtext'
-import Toolbar from 'primevue/toolbar'
 import Dialog from 'primevue/dialog'
+import Button from 'primevue/button'
+
 import { useToast } from 'primevue/usetoast'
 import Toast from 'primevue/toast'
 
@@ -152,6 +119,8 @@ import { deDupe } from '@/utils'
 
 import EpgUploader from '@/components/EpgUploader.vue'
 import MenuBar from '@/components/MenuBar.vue'
+
+import { selectedItems } from '@/store/selectedItems.js'
 
 import { root_path } from '@/router/url'
 
@@ -177,21 +146,16 @@ const toast = useToast()
 let filters = ref({})
 
 let deleteItemsDialog = ref(false)
-const showRemoveSelected = () => (deleteItemsDialog.value = true)
 
 let BulkTvgIdDialog = ref(false)
-const showEditSelected = () => (BulkTvgIdDialog.value = true)
 
 let loadingDialog = props.m3u.length === 0 ? ref(true) : ref(false)
-let selectedItemsList = ref([])
+
 let reOrderedList = ref(props.m3u)
 let itemsToSavedList = []
 
 let downloadButtonLock = ref(true)
 let newTvgId = ref('')
-let removeLabel = computed(() => {
-  return selectedItemsList.value.length === 0 ? 'Sil' : `Sil (${selectedItemsList.value.length})`
-})
 
 let changedItems = {}
 
@@ -199,7 +163,8 @@ let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data }
 
 let onRowReorder = (e) => (reOrderedList.value = e.value)
 let onSelectInput = (e) => e.target.select()
-const onSave = () => {
+
+const postSave = () => {
   loadingDialog.value = true
 
   itemsToSavedList = deDupe(reOrderedList.value).map((item) => {
@@ -242,12 +207,12 @@ const onSave = () => {
       })
     })
     .finally(() => {
-      selectedItemsList.value = []
+      selectedItems.value = []
       loadingDialog.value = false
     })
 }
 
-const onUpdate = () => {
+const postUpdate = () => {
   loadingDialog.value = true
 
   itemsToSavedList = Object.entries(changedItems).map(([k, v]) => {
@@ -287,20 +252,20 @@ const onUpdate = () => {
       })
     })
     .finally(() => {
-      selectedItemsList.value = []
+      selectedItems.value = []
       changedItems = {}
       loadingDialog.value = false
     })
 }
 
-const removeSelectedItemsList = () => {
-  reOrderedList.value = reOrderedList.value.filter((val) => !selectedItemsList.value.includes(val))
+const removeSelectedItems = () => {
+  reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
   deleteItemsDialog.value = false
-  selectedItemsList.value = []
+  selectedItems.value = []
 }
 
 const editBulkItems = () => {
-  for (let item of selectedItemsList.value) {
+  for (let item of selectedItems.value) {
     for (let i = 0; i < reOrderedList.value.length; i++) {
       if (reOrderedList.value[i]._id === item._id) {
         reOrderedList.value[i].tvg_id = newTvgId.value
@@ -308,8 +273,8 @@ const editBulkItems = () => {
       }
     }
   }
-  pushItems(changedItems, selectedItemsList)
-  selectedItemsList.value = []
+  pushItems(changedItems, selectedItems)
+  selectedItems.value = []
   newTvgId.value = ''
   BulkTvgIdDialog.value = false
 }
@@ -329,7 +294,7 @@ const downloadM3u = () => {
 
 const onTvgMatcher = () => {
   loadingDialog.value = true
-  itemsToSavedList = selectedItemsList.value.map((item) => {
+  itemsToSavedList = selectedItems.value.map((item) => {
     return {
       _id: item._id,
       chan_name: item.chan_name,
@@ -378,9 +343,18 @@ const onTvgMatcher = () => {
     })
     .finally(() => {
       loadingDialog.value = false
-      selectedItemsList.value = []
+      selectedItems.value = []
     })
 }
+
+onMounted(() => {
+  eventBus.on('selectedRemoveDialog', () => (deleteItemsDialog.value = true))
+  eventBus.on('selectedEditDialog', () => (BulkTvgIdDialog.value = true))
+  eventBus.on('onTvgMatcher', onTvgMatcher)
+  eventBus.on('onUpdate', postUpdate)
+  eventBus.on('onSave', postSave)
+  eventBus.on('ondownloadM3u', downloadM3u)
+})
 
 watch(
   () => props.m3u,

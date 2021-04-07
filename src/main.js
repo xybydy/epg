@@ -11,7 +11,7 @@ import 'primeicons/primeicons.css'
 
 import '@/style/main.scss'
 
-import { GetM3uData, LengthM3uData, AddM3uData, LengthSelectedItems } from '@/store/MainStore'
+import { GetM3uData, LengthM3uData, AddM3uData } from '@/store/MainStore'
 
 const app = createApp(App)
 
@@ -19,7 +19,6 @@ app
   .provide('GetM3uData', GetM3uData)
   .provide('LengthM3uData', LengthM3uData)
   .provide('AddM3uData', AddM3uData)
-  .provide('LengthSelectedItems', LengthSelectedItems)
   .use(ToastService)
   .use(router)
 
