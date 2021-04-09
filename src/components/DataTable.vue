@@ -164,6 +164,18 @@ let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data }
 let onRowReorder = (e) => (reOrderedList.value = e.value)
 let onSelectInput = (e) => e.target.select()
 
+let editNames = async () => {
+  for (let item of selectedItems.value) {
+    for (let i = 0; i < reOrderedList.value.length; i++) {
+      if (reOrderedList.value[i]._id === item._id) {
+        reOrderedList.value[i].tvg_id = newTvgId.value
+        break
+      }
+    }
+  }
+  pushItems(changedItems, selectedItems)
+}
+
 const postSave = () => {
   loadingDialog.value = true
 
@@ -219,6 +231,19 @@ const postUpdate = () => {
     return { _id: v._id, group_title: v.group_title, chan_name: v.chan_name, tvg_id: v.tvg_id }
   })
 
+  if (itemsToSavedList.length === 0) {
+    console.log('leee')
+    loadingDialog.value = false
+    toast.add({
+      severity: 'warn',
+      summary: 'Warning',
+      detail: `No items has changed!`,
+      life: 3000,
+    })
+    return
+  }
+  console.log('laaa')
+
   downloadButtonLock.value = false
   fetch(root_path + '/api/update', {
     method: 'POST',
@@ -258,28 +283,31 @@ const postUpdate = () => {
     })
 }
 
+const sleepNow = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
+
 const removeSelectedItems = () => {
+  loadingDialog.value = true
   reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
   deleteItemsDialog.value = false
   selectedItems.value = []
+  loadingDialog.value = false
 }
 
-const editBulkItems = () => {
-  for (let item of selectedItems.value) {
-    for (let i = 0; i < reOrderedList.value.length; i++) {
-      if (reOrderedList.value[i]._id === item._id) {
-        reOrderedList.value[i].tvg_id = newTvgId.value
-        break
-      }
-    }
-  }
-  pushItems(changedItems, selectedItems)
+const editBulkItems = async () => {
+  BulkTvgIdDialog.value = false
+  loadingDialog.value = true
+
+  await sleepNow(200)
+  console.log('start')
+  editNames()
   selectedItems.value = []
   newTvgId.value = ''
-  BulkTvgIdDialog.value = false
+  loadingDialog.value = false
 }
 
 const downloadM3u = () => {
+  loadingDialog.value = true
+
   if (reOrderedList.value.length > 0) {
     ExportM3u(reOrderedList.value)
   } else {
@@ -290,6 +318,7 @@ const downloadM3u = () => {
       life: 3000,
     })
   }
+  loadingDialog.value = false
 }
 
 const onTvgMatcher = () => {
@@ -347,13 +376,31 @@ const onTvgMatcher = () => {
     })
 }
 
+const selectedTvgRemove = () => {
+  loadingDialog.value = true
+
+  for (let item of selectedItems.value) {
+    for (let i = 0; i < reOrderedList.value.length; i++) {
+      if (reOrderedList.value[i]._id === item._id) {
+        reOrderedList.value[i].tvg_id = ''
+        break
+      }
+    }
+  }
+  pushItems(changedItems, selectedItems)
+  selectedItems.value = []
+  loadingDialog.value = false
+}
+
 onMounted(() => {
+  console.log('mounted')
   eventBus.on('selectedRemoveDialog', () => (deleteItemsDialog.value = true))
   eventBus.on('selectedEditDialog', () => (BulkTvgIdDialog.value = true))
   eventBus.on('onTvgMatcher', onTvgMatcher)
-  eventBus.on('onUpdate', postUpdate)
-  eventBus.on('onSave', postSave)
+  eventBus.on('clickUpdate', postUpdate)
+  eventBus.on('clickSave', postSave)
   eventBus.on('ondownloadM3u', downloadM3u)
+  eventBus.on('selectedTvgRemove', selectedTvgRemove)
 })
 
 watch(

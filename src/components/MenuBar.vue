@@ -36,7 +36,7 @@
         label="Guncelle"
         icon="pi pi-save"
         class="p-button-help p-mr-2"
-        @click="emit.onUpdate"
+        @click="emit.clickUpdate"
       />
       <Button
         :disabled="props.downloadButtonLock"
@@ -50,7 +50,7 @@
 </template>
 
 <script setup>
-import { computed, defineProps, onMounted } from 'vue'
+import { computed, defineProps } from 'vue'
 import EpgUploader from '@/components/EpgUploader.vue'
 import Button from 'primevue/button'
 import Toolbar from 'primevue/toolbar'
@@ -72,17 +72,13 @@ const emit = {
   selectedRemoveDialog: () => eventBus.emit('selectedRemoveDialog'),
   selectedEditDialog: () => eventBus.emit('selectedEditDialog'),
   onTvgMatcher: () => eventBus.emit('onTvgMatcher'),
-  onUpdate: () => eventBus.emit('onUpdate'),
-  onSave: () => eventBus.emit('onSave'),
+  clickUpdate: () => eventBus.emit('clickUpdate'),
+  clickSave: () => eventBus.emit('clickSave'),
   ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
 }
 
 let removeLabel = computed(() => {
   return selectedItems.value.length === 0 ? 'Sil' : `Sil (${selectedItems.value.length})`
-})
-
-onMounted(() => {
-  eventBus.on('')
 })
 </script>
 
