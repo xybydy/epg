@@ -21,6 +21,10 @@ const emit = {
   clickUpdate: () => eventBus.emit('clickUpdate'),
   clickSave: () => eventBus.emit('clickSave'),
   ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
+  clickRemoveGroups: () => eventBus.emit('clickNoRemoveGroups'),
+  selectedEditChanTagDialog: () => eventBus.emit('selectedEditChanTagDialog'),
+  selectedEditGroupNameDialog: () => eventBus.emit('selectedEditGroupNameDialog'),
+  selectedGroupTagRemove: () => eventBus.emit('selectedGroupTagRemove'),
 }
 
 const props = defineProps({
@@ -49,6 +53,10 @@ const menuItems = ref([
         command: () => emit.selectedRemoveDialog(),
         disabled: notSelectedItem,
       },
+      {
+        label: 'Etiket Kaldır',
+        command: () => emit.selectedEditChanTagDialog(),
+      },
     ],
   },
   {
@@ -58,7 +66,7 @@ const menuItems = ref([
     label: 'TVG-ID',
     items: [
       {
-        label: 'Değiştir',
+        label: 'Düzenle',
         disabled: notSelectedItem,
         command: () => emit.selectedEditDialog(),
       },
@@ -71,6 +79,26 @@ const menuItems = ref([
         label: 'Kaldır',
         disabled: notSelectedItem,
         command: () => emit.selectedTvgRemove(),
+      },
+    ],
+  },
+  {
+    separator: true,
+  },
+  {
+    label: 'Gruplar',
+    items: [
+      {
+        label: 'Düzenle',
+        command: () => emit.selectedEditGroupNameDialog(),
+      },
+      {
+        label: 'Kaldır',
+        command: () => emit.clickRemoveGroups(),
+      },
+      {
+        label: 'Etiket Kaldır',
+        command: () => emit.selectedGroupTagRemove(),
       },
     ],
   },

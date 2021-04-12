@@ -1,5 +1,5 @@
 <template>
-  <VMenuBar class="p-mr-6" />
+  <Toolbox class="p-mr-6" />
   <DataTable :m3u="m3uData" :new="true"></DataTable>
   <!-- <MenuBar props.new downloadButtonLock></MenuBar> -->
 </template>
@@ -8,7 +8,7 @@
 import { inject } from 'vue'
 import { useRouter } from 'vue-router'
 import DataTable from '../components/DataTable.vue'
-import VMenuBar from '../components/VMenuBar.vue'
+import Toolbox from '../components/Toolbox.vue'
 
 const router = useRouter()
 let m3uData = inject('GetM3uData')

@@ -2,9 +2,9 @@
   <DataTable
     v-if="!loadingDialog"
     v-model:selection="selectedItems"
+    v-model:filters="filters"
     class="p-datatable-sm p-datatable-striped editable-cells-table"
     editMode="cell"
-    :filters="filters"
     dataKey="_id"
     paginatorTemplate="CurrentPageReport FirstPageLink PrevPageLink PageLinks NextPageLink LastPageLink RowsPerPageDropdown"
     :value="reOrderedList"
@@ -15,6 +15,15 @@
     @row-reorder="onRowReorder"
     @cell-edit-complete="onCellComplete"
   >
+    <template #empty> Sonuc bulunamadi. </template>
+    <template #header>
+      <div class="p-d-flex p-jc-end">
+        <span class="p-input-icon-left">
+          <i class="pi pi-search" />
+          <InputText placeholder="Ara" @keyup.enter="onSearch($event.target.value)" />
+        </span>
+      </div>
+    </template>
     <Column :rowReorder="true" headerStyle="width: 3rem" :reorderableColumn="false" />
 
     <Column selectionMode="multiple" headerStyle="width: 3em"></Column>
@@ -23,37 +32,23 @@
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
-      <template #filter>
-        <InputText v-model="filters.chan_name" type="text" placeholder="İsim ara" />
-      </template>
     </Column>
     <Column field="group_title" header="GROUP" autoLayout="true">
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
-      </template>
-      <template #filter>
-        <InputText v-model="filters.group_title" type="text" placeholder="Group ara" />
       </template>
     </Column>
     <Column field="tvg_id" header="TVG-ID" autoLayout="true">
       <template #editor="slotProps">
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
-      <template #filter>
-        <InputText v-model="filters.tvg_id" type="text" placeholder="TVG-ID ara" />
-      </template>
     </Column>
   </DataTable>
 
-  <Dialog
-    v-model:visible="deleteItemsDialog"
-    :style="{ width: '450px' }"
-    header="Onayla"
-    :modal="true"
-  >
-    <div class="confirmation-content">
+  <Dialog v-model:visible="deleteItemsDialog" :style="{ width: '450px' }" header="Onayla" modal>
+    <div class="p-d-flex p-ai-center confirmation-content">
       <i class="pi pi-exclamation-triangle p-mr-3" style="font-size: 2rem" />
-      <span v-if="selectedItems">Seçtiğin kanallar silinsin mi?</span>
+      <span>Seçtiğin kanallar silinsin mi?</span>
     </div>
     <template #footer>
       <Button
@@ -62,7 +57,7 @@
         class="p-button-text"
         @click="deleteItemsDialog = false"
       />
-      <Button label="Yes" icon="pi pi-check" class="p-button-text" @click="removeSelectedItems" />
+      <Button label="Yes" icon="pi pi-check" @click="removeSelectedItems" />
     </template>
   </Dialog>
 
@@ -70,9 +65,9 @@
     v-model:visible="BulkTvgIdDialog"
     :style="{ width: '350px' }"
     header="TVG-ID Düzenle"
-    :modal="true"
+    modal
   >
-    <div class="p-input-filled p-p-2">
+    <div class="p-d-flex p-jc-between p-ai-center p-input-filled p-p-2">
       <span>Yeni TVG-ID: </span>
       <InputText v-model="newTvgId" autofocus />
     </div>
@@ -83,25 +78,38 @@
         class="p-button-text"
         @click="BulkTvgIdDialog = false"
       />
-      <Button label="Onayla" icon="pi pi-check" class="p-button-text" @click="editBulkItems" />
+      <Button label="Onayla" icon="pi pi-check" @click="editBulkItems" />
     </template>
   </Dialog>
 
   <Dialog
     v-model:visible="loadingDialog"
     :style="{ width: '200px' }"
-    :modal="true"
+    modal
     :closable="false"
     header="Please Wait"
   >
     <ProgressSpinner style="display: flex" />
   </Dialog>
 
+  <GroupRemove v-model:visible="groupRemovalVisible" :groups="getGroups"></GroupRemove>
+
+  <Dialog v-model:visible="editGroupNameDialog" header="Grup Düzenle" modal closeOnEscape>
+    <Dropdown v-model="selectedGroup" :options="getGroups" placeholder="Grup Adı"></Dropdown>
+    <InputText
+      type="text"
+      placeholder="Yeni isim"
+      @keyup.enter="
+        editGroupName($event.target.previousElementSibling.outerText, $event.target.value)
+      "
+    />
+  </Dialog>
+  <TagRemove :visible="editChanTagDialog"></TagRemove>
   <Toast position="bottom-right" />
 </template>
 
 <script setup>
-import { ref, watch, defineProps, onMounted } from 'vue'
+import { ref, watch, defineProps, onMounted, computed } from 'vue'
 import eventBus from '@/emitter/eventBus.js'
 
 import ProgressSpinner from 'primevue/progressspinner'
@@ -110,7 +118,10 @@ import Column from 'primevue/column'
 import InputText from 'primevue/inputtext'
 import Dialog from 'primevue/dialog'
 import Button from 'primevue/button'
+import Dropdown from 'primevue/dropdown'
+import InputNumber from 'primevue/inputnumber'
 
+import { FilterMatchMode } from 'primevue/api'
 import { useToast } from 'primevue/usetoast'
 import Toast from 'primevue/toast'
 
@@ -119,6 +130,8 @@ import { deDupe } from '@/utils'
 
 import EpgUploader from '@/components/EpgUploader.vue'
 import MenuBar from '@/components/MenuBar.vue'
+import GroupRemove from '@/components/GroupRemove.vue'
+import TagRemove from '@/components/TagRemove.vue'
 
 import { selectedItems } from '@/store/selectedItems.js'
 
@@ -143,7 +156,7 @@ const props = defineProps({
 })
 const toast = useToast()
 
-let filters = ref({})
+let filters = ref({ global: { value: null, matchMode: FilterMatchMode.CONTAINS } })
 
 let deleteItemsDialog = ref(false)
 
@@ -158,22 +171,27 @@ let downloadButtonLock = ref(true)
 let newTvgId = ref('')
 
 let changedItems = {}
+let selectedGroup = ref()
+
+let editGroupNameDialog = ref(false)
+
+let editChanTagDialog = ref(false)
 
 let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data })
 
 let onRowReorder = (e) => (reOrderedList.value = e.value)
 let onSelectInput = (e) => e.target.select()
 
+let groupRemovalVisible = ref(false)
+
 let editNames = async () => {
+  loadingDialog.value = true
   for (let item of selectedItems.value) {
-    for (let i = 0; i < reOrderedList.value.length; i++) {
-      if (reOrderedList.value[i]._id === item._id) {
-        reOrderedList.value[i].tvg_id = newTvgId.value
-        break
-      }
-    }
+    item.tvg_id = newTvgId.value
   }
   pushItems(changedItems, selectedItems)
+  selectedItems.value = []
+  loadingDialog.value = false
 }
 
 const postSave = () => {
@@ -232,7 +250,6 @@ const postUpdate = () => {
   })
 
   if (itemsToSavedList.length === 0) {
-    console.log('leee')
     loadingDialog.value = false
     toast.add({
       severity: 'warn',
@@ -242,7 +259,6 @@ const postUpdate = () => {
     })
     return
   }
-  console.log('laaa')
 
   downloadButtonLock.value = false
   fetch(root_path + '/api/update', {
@@ -285,24 +301,26 @@ const postUpdate = () => {
 
 const sleepNow = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
-const removeSelectedItems = () => {
-  loadingDialog.value = true
-  reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
+const removeSelectedItems = async () => {
   deleteItemsDialog.value = false
+  loadingDialog.value = true
+  await sleepNow(30)
+  reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
   selectedItems.value = []
   loadingDialog.value = false
+  filters.value.global.value = ''
 }
 
 const editBulkItems = async () => {
   BulkTvgIdDialog.value = false
   loadingDialog.value = true
 
-  await sleepNow(200)
-  console.log('start')
+  await sleepNow(30)
   editNames()
   selectedItems.value = []
   newTvgId.value = ''
   loadingDialog.value = false
+  filters.value.global.value = ''
 }
 
 const downloadM3u = () => {
@@ -380,15 +398,77 @@ const selectedTvgRemove = () => {
   loadingDialog.value = true
 
   for (let item of selectedItems.value) {
-    for (let i = 0; i < reOrderedList.value.length; i++) {
-      if (reOrderedList.value[i]._id === item._id) {
-        reOrderedList.value[i].tvg_id = ''
-        break
-      }
-    }
+    item.tvg_id = ''
   }
   pushItems(changedItems, selectedItems)
   selectedItems.value = []
+  loadingDialog.value = false
+  filters.value.global.value = ''
+}
+
+const onSearch = (e) => {
+  filters.value.global.value = e
+}
+
+const getGroups = computed(() => {
+  let arr = [...new Set([...reOrderedList.value].map((x) => x.group_title))].sort()
+  return arr
+})
+
+const editChanTag = (e) => {
+  loadingDialog.value = true
+  let separator = e.val.ayrac.trim()
+
+  if (e.type === 'chan') {
+    if (selectedItems.value > 0) {
+      for (let item of selectedItems.value) {
+        let sep_index = item.chan_name.indexOf(separator)
+        if (sep_index === -1 || sep_index > e.val.num) {
+          console.log('No work:', item.chan_name)
+        } else {
+          item.chan_name = item.chan_name
+            .slice(sep_index + separator.length, item.chan_name.length)
+            .trim()
+        }
+      }
+    } else {
+      for (let item of reOrderedList.value) {
+        let sep_index = item.chan_name.indexOf(separator)
+        if (sep_index === -1 || sep_index > e.val.num) {
+          console.log('No work:', item.chan_name)
+        } else {
+          item.chan_name = item.chan_name
+            .slice(sep_index + separator.length, item.chan_name.length)
+            .trim()
+        }
+      }
+    }
+  } else if (e.type === 'group') {
+    for (let item of reOrderedList.value) {
+      let sep_index = item.group_title.indexOf(separator)
+      if (sep_index === -1 || sep_index > e.val.num) {
+        console.log('No work:', item.group_title)
+      } else {
+        item.chan_name = item.group_title
+          .slice(sep_index + separator.length, item.group_title.length)
+          .trim()
+      }
+    }
+  }
+
+  loadingDialog.value = false
+  selectedItems.value = []
+  editChanTagDialog.value = false
+}
+
+const editGroupName = (d_val, text_val) => {
+  loadingDialog.value = true
+
+  reOrderedList.value
+    .filter((val) => val.group_title === d_val)
+    .map((val) => (val.group_title = text_val))
+
+  editGroupNameDialog.value = false
   loadingDialog.value = false
 }
 
@@ -401,6 +481,23 @@ onMounted(() => {
   eventBus.on('clickSave', postSave)
   eventBus.on('ondownloadM3u', downloadM3u)
   eventBus.on('selectedTvgRemove', selectedTvgRemove)
+  eventBus.on('clickNoRemoveGroups', () => (groupRemovalVisible.value = !groupRemovalVisible.value))
+  eventBus.on('clickYesRemoveGroups', async (e) => {
+    groupRemovalVisible.value = !groupRemovalVisible.value
+    loadingDialog.value = true
+    await sleepNow(30)
+    e.map((group_title) => {
+      reOrderedList.value = reOrderedList.value.filter((val) => val.group_title !== group_title)
+    })
+    loadingDialog.value = false
+  })
+  eventBus.on(
+    'selectedEditGroupNameDialog',
+    () => (editGroupNameDialog.value = !editGroupNameDialog.value)
+  )
+})
+eventBus.on('editChanTag', (e) => {
+  editChanTag(e)
 })
 
 watch(
