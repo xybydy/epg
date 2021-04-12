@@ -48,7 +48,7 @@ onMounted(() => {
     editType.value = 'chan'
     header.value = 'Kanal Etiket Duzenle'
   })
-  eventBus.on('selectedGroupTagRemove', () => {
+  eventBus.on('selectedEditGroupTagDialog', () => {
     dialogVisible.value = !dialogVisible.value
     editType.value = 'group'
     header.value = 'Grup Etiket Duzenle'

@@ -104,6 +104,19 @@
       "
     />
   </Dialog>
+
+  <Dialog v-model:visible="editChanPreTagDialog" header="Grup Düzenle" modal closeOnEscape>
+    <Dropdown v-model="selectedGroup" :options="getGroups" placeholder="Grup Adı"></Dropdown>
+    <InputText
+      type="text"
+      placeholder="Yeni isim"
+      @keyup.enter="
+        editGroupName($event.target.previousElementSibling.outerText, $event.target.value)
+      "
+    />
+  </Dialog>
+
+  <PreTagRemove :visible="editChanPreTagDialog"></PreTagRemove>
   <TagRemove :visible="editChanTagDialog"></TagRemove>
   <Toast position="bottom-right" />
 </template>
@@ -132,6 +145,7 @@ import EpgUploader from '@/components/EpgUploader.vue'
 import MenuBar from '@/components/MenuBar.vue'
 import GroupRemove from '@/components/GroupRemove.vue'
 import TagRemove from '@/components/TagRemove.vue'
+import PreTagRemove from '@/components/PreTagRemove.vue'
 
 import { selectedItems } from '@/store/selectedItems.js'
 
@@ -176,6 +190,7 @@ let selectedGroup = ref()
 let editGroupNameDialog = ref(false)
 
 let editChanTagDialog = ref(false)
+let editChanPreTagDialog = ref(false)
 
 let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data })
 
@@ -458,7 +473,7 @@ const editChanTag = (e) => {
 
   loadingDialog.value = false
   selectedItems.value = []
-  editChanTagDialog.value = false
+  editChanPreTagDialog.value = false
 }
 
 const editGroupName = (d_val, text_val) => {

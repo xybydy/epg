@@ -22,9 +22,11 @@ const emit = {
   clickSave: () => eventBus.emit('clickSave'),
   ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
   clickRemoveGroups: () => eventBus.emit('clickNoRemoveGroups'),
-  selectedEditChanTagDialog: () => eventBus.emit('selectedEditChanTagDialog'),
   selectedEditGroupNameDialog: () => eventBus.emit('selectedEditGroupNameDialog'),
-  selectedGroupTagRemove: () => eventBus.emit('selectedGroupTagRemove'),
+  selectedEditChanPreTagDialog: () => eventBus.emit('selectedEditChanPreTagDialog'),
+  selectedEditChanTagDialog: () => eventBus.emit('selectedEditChanTagDialog'),
+  selectedEditGroupPreTagDialog: () => eventBus.emit('selectedEditGroupPreTagDialog'),
+  selectedEditGroupTagDialog: () => eventBus.emit('selectedEditGroupTagDialog'),
 }
 
 const props = defineProps({
@@ -56,6 +58,10 @@ const menuItems = ref([
       {
         label: 'Etiket Kaldır',
         command: () => emit.selectedEditChanTagDialog(),
+      },
+      {
+        label: 'Ön Etiket Kaldır',
+        command: () => emit.selectedEditChanPreTagDialog(),
       },
     ],
   },
@@ -98,7 +104,11 @@ const menuItems = ref([
       },
       {
         label: 'Etiket Kaldır',
-        command: () => emit.selectedGroupTagRemove(),
+        command: () => emit.selectedEditGroupTagDialog(),
+      },
+      {
+        label: 'Ön Etiket Kaldır',
+        command: () => emit.selectedEditGroupPreTagDialog(),
       },
     ],
   },
