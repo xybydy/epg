@@ -6,6 +6,7 @@
 import { useRouter } from 'vue-router'
 import EpgUploader from '@/components/EpgUploader.vue'
 
-const router = useRouter()
 let onM3uLoaded = () => router.push('/epg/view')
+
+const router = useRouter()
 </script>

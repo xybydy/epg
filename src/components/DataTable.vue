@@ -122,7 +122,7 @@
 </template>
 
 <script setup>
-import { ref, watch, defineProps, onMounted, computed } from 'vue'
+import { ref, watch, defineProps, onMounted, computed, reactive } from 'vue'
 import eventBus from '@/emitter/eventBus.js'
 
 import ProgressSpinner from 'primevue/progressspinner'
@@ -151,13 +151,6 @@ import { selectedItems } from '@/store/selectedItems.js'
 
 import { root_path } from '@/router/url'
 
-const pushItems = (toArray, fromArray) => {
-  for (let item of fromArray.value) {
-    let pushItem = { [item._id]: item }
-    Object.assign(toArray, pushItem)
-  }
-}
-
 const props = defineProps({
   m3u: {
     type: Object,
@@ -168,36 +161,43 @@ const props = defineProps({
     required: true,
   },
 })
+
 const toast = useToast()
 
 let filters = ref({ global: { value: null, matchMode: FilterMatchMode.CONTAINS } })
 
+let cleanup = () => {
+  newTvgId.value = ''
+  selectedItems.value = []
+  loadingDialog.value = false
+  filters.value.global.value = ''
+}
+
+let pushItems = (toArray, fromArray) => {
+  for (let item of fromArray.value) {
+    let pushItem = { [item._id]: item }
+    Object.assign(toArray, pushItem)
+  }
+}
+
 let deleteItemsDialog = ref(false)
-
 let BulkTvgIdDialog = ref(false)
-
 let loadingDialog = props.m3u.length === 0 ? ref(true) : ref(false)
-
 let reOrderedList = ref(props.m3u)
 let itemsToSavedList = []
-
 let downloadButtonLock = ref(true)
 let newTvgId = ref('')
-
 let changedItems = {}
 let selectedGroup = ref()
-
 let editGroupNameDialog = ref(false)
-
 let editChanTagDialog = ref(false)
 let editChanPreTagDialog = ref(false)
+let groupRemovalVisible = ref(false)
 
 let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data })
 
 let onRowReorder = (e) => (reOrderedList.value = e.value)
 let onSelectInput = (e) => e.target.select()
-
-let groupRemovalVisible = ref(false)
 
 let editNames = async () => {
   loadingDialog.value = true
@@ -205,8 +205,7 @@ let editNames = async () => {
     item.tvg_id = newTvgId.value
   }
   pushItems(changedItems, selectedItems)
-  selectedItems.value = []
-  loadingDialog.value = false
+  cleanup()
 }
 
 const postSave = () => {
@@ -252,8 +251,7 @@ const postSave = () => {
       })
     })
     .finally(() => {
-      selectedItems.value = []
-      loadingDialog.value = false
+      cleanup()
     })
 }
 
@@ -308,9 +306,7 @@ const postUpdate = () => {
       })
     })
     .finally(() => {
-      selectedItems.value = []
-      changedItems = {}
-      loadingDialog.value = false
+      cleanup()
     })
 }
 
@@ -321,21 +317,15 @@ const removeSelectedItems = async () => {
   loadingDialog.value = true
   await sleepNow(30)
   reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
-  selectedItems.value = []
-  loadingDialog.value = false
-  filters.value.global.value = ''
+  cleanup()
 }
 
 const editBulkItems = async () => {
   BulkTvgIdDialog.value = false
   loadingDialog.value = true
-
   await sleepNow(30)
   editNames()
-  selectedItems.value = []
-  newTvgId.value = ''
-  loadingDialog.value = false
-  filters.value.global.value = ''
+  cleanup()
 }
 
 const downloadM3u = () => {
@@ -404,8 +394,7 @@ const onTvgMatcher = () => {
       })
     })
     .finally(() => {
-      loadingDialog.value = false
-      selectedItems.value = []
+      cleanup()
     })
 }
 
@@ -416,9 +405,7 @@ const selectedTvgRemove = () => {
     item.tvg_id = ''
   }
   pushItems(changedItems, selectedItems)
-  selectedItems.value = []
-  loadingDialog.value = false
-  filters.value.global.value = ''
+  cleanup()
 }
 
 const onSearch = (e) => {
@@ -431,6 +418,7 @@ const getGroups = computed(() => {
 })
 
 const editTag = (e) => {
+  editChanPreTagDialog.value = false
   loadingDialog.value = true
   let separator = e.val.ayrac.trim()
 
@@ -471,20 +459,47 @@ const editTag = (e) => {
     }
   }
 
-  loadingDialog.value = false
-  selectedItems.value = []
-  editChanPreTagDialog.value = false
+  cleanup()
+}
+
+const editPreTag = (e) => {
+  loadingDialog.value = true
+  let val = e.val.trim()
+  if (selectedItems.value.length > 0) {
+    for (let i = 0; i < selectedItems.value.length; i++) {
+      if (e.type === 'chan') {
+        let stripped = selectedItems.value[i].chan_name.replace(' ' + val, '').trim()
+        selectedItems.value[i].chan_name = stripped
+      } else if (e.type === 'group') {
+        let stripped = selectedItems.value[i].group_title.replace(' ' + val, '').trim()
+        selectedItems.value[i].group_title = stripped
+      }
+    }
+  } else {
+    if (e.type === 'chan') {
+      for (let i = 0; i < reOrderedList.value.length; i++) {
+        let stripped = reOrderedList.value[i].chan_name.replace(' ' + val, '').trim()
+        reOrderedList.value[i].chan_name = stripped
+      }
+    } else if (e.type === 'group') {
+      for (let i = 0; i < reOrderedList.value.length; i++) {
+        let stripped = reOrderedList.value[i].group_title.replace(' ' + val, '').trim()
+        reOrderedList.value[i].group_title = stripped
+      }
+    }
+  }
+  cleanup()
 }
 
 const editGroupName = (d_val, text_val) => {
   loadingDialog.value = true
+  editGroupNameDialog.value = false
 
   reOrderedList.value
     .filter((val) => val.group_title === d_val)
     .map((val) => (val.group_title = text_val))
 
-  editGroupNameDialog.value = false
-  loadingDialog.value = false
+  cleanup()
 }
 
 onMounted(() => {
@@ -511,38 +526,8 @@ onMounted(() => {
     'selectedEditGroupNameDialog',
     () => (editGroupNameDialog.value = !editGroupNameDialog.value)
   )
-  eventBus.on('editTag', (e) => {
-    editTag(e)
-  })
-  eventBus.on('editPreTag', (e) => {
-    loadingDialog.value = true
-    let val = e.val.trim()
-    if (selectedItems.value.length > 0) {
-      for (let i = 0; i < selectedItems.value.length; i++) {
-        if (e.type === 'chan') {
-          let stripped = selectedItems.value[i].chan_name.replace(' ' + val, '').trim()
-          selectedItems.value[i].chan_name = stripped
-        } else if (e.type === 'group') {
-          let stripped = selectedItems.value[i].group_title.replace(' ' + val, '').trim()
-          selectedItems.value[i].group_title = stripped
-        }
-      }
-    } else {
-      if (e.type === 'chan') {
-        for (let i = 0; i < reOrderedList.value.length; i++) {
-          let stripped = reOrderedList.value[i].chan_name.replace(' ' + val, '').trim()
-          reOrderedList.value[i].chan_name = stripped
-        }
-      } else if (e.type === 'group') {
-        for (let i = 0; i < reOrderedList.value.length; i++) {
-          let stripped = reOrderedList.value[i].group_title.replace(' ' + val, '').trim()
-          reOrderedList.value[i].group_title = stripped
-        }
-      }
-    }
-    loadingDialog.value = false
-    selectedItems.value = []
-  })
+  eventBus.on('editTag', (e) => editTag(e))
+  eventBus.on('editPreTag', (e) => editPreTag(e))
 })
 
 watch(
