@@ -71,6 +71,6 @@ const editTag = (ayrac, num) => {
     console.log('editTag failed.', props.editType)
   }
 
-  eventBus.emit('editChanTag', obj)
+  eventBus.emit('editTag', obj)
 }
 </script>

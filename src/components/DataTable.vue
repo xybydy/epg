@@ -430,7 +430,7 @@ const getGroups = computed(() => {
   return arr
 })
 
-const editChanTag = (e) => {
+const editTag = (e) => {
   loadingDialog.value = true
   let separator = e.val.ayrac.trim()
 
@@ -510,9 +510,16 @@ onMounted(() => {
     'selectedEditGroupNameDialog',
     () => (editGroupNameDialog.value = !editGroupNameDialog.value)
   )
-})
-eventBus.on('editChanTag', (e) => {
-  editChanTag(e)
+  eventBus.on('editTag', (e) => {
+    editTag(e)
+  })
+  eventBus.on('editPreTag', (e) => {
+    let val = e.trim()
+    if (selectedItems.value.length > 0) {
+      for (let item of selectedItems.value) {
+      }
+    }
+  })
 })
 
 watch(

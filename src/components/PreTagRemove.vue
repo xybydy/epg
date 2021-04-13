@@ -1,10 +1,13 @@
 <template>
   <Dialog v-model:visible="dialogVisible" :header="header" modal closeOnEscape>
     <div class="p-field">
-      <Dropdown :options="choices" :editable="true"> </Dropdown>
-      <p class="p-text-light" style="font-size: 0.8rem">
-        5 karakterden uzun etiketleri desteklemiyor.
-      </p>
+      <Dropdown
+        v-model="selectedTag"
+        :options="choices"
+        :editable="true"
+        @keyup.enter="eventBus.emit('editPreTag', $event.target.value)"
+      >
+      </Dropdown>
     </div>
   </Dialog>
 </template>
@@ -26,6 +29,7 @@ const props = defineProps({
 
 let dialogVisible = ref(props.visible)
 let choices = ref(preTags)
+let selectedTag = ref('HEVC')
 
 onMounted(() => {
   eventBus.on('selectedEditChanPreTagDialog', () => {
