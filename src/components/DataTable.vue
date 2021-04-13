@@ -505,6 +505,7 @@ onMounted(() => {
       reOrderedList.value = reOrderedList.value.filter((val) => val.group_title !== group_title)
     })
     loadingDialog.value = false
+    selectedItems.value = []
   })
   eventBus.on(
     'selectedEditGroupNameDialog',
@@ -514,11 +515,33 @@ onMounted(() => {
     editTag(e)
   })
   eventBus.on('editPreTag', (e) => {
-    let val = e.trim()
+    loadingDialog.value = true
+    let val = e.val.trim()
     if (selectedItems.value.length > 0) {
-      for (let item of selectedItems.value) {
+      for (let i = 0; i < selectedItems.value.length; i++) {
+        if (e.type === 'chan') {
+          let stripped = selectedItems.value[i].chan_name.replace(' ' + val, '').trim()
+          selectedItems.value[i].chan_name = stripped
+        } else if (e.type === 'group') {
+          let stripped = selectedItems.value[i].group_title.replace(' ' + val, '').trim()
+          selectedItems.value[i].group_title = stripped
+        }
+      }
+    } else {
+      if (e.type === 'chan') {
+        for (let i = 0; i < reOrderedList.value.length; i++) {
+          let stripped = reOrderedList.value[i].chan_name.replace(' ' + val, '').trim()
+          reOrderedList.value[i].chan_name = stripped
+        }
+      } else if (e.type === 'group') {
+        for (let i = 0; i < reOrderedList.value.length; i++) {
+          let stripped = reOrderedList.value[i].group_title.replace(' ' + val, '').trim()
+          reOrderedList.value[i].group_title = stripped
+        }
       }
     }
+    loadingDialog.value = false
+    selectedItems.value = []
   })
 })
 

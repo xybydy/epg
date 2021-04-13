@@ -5,7 +5,7 @@
         v-model="selectedTag"
         :options="choices"
         :editable="true"
-        @keyup.enter="eventBus.emit('editPreTag', $event.target.value)"
+        @keyup.enter="editPreTag()"
       >
       </Dropdown>
     </div>
@@ -20,6 +20,7 @@ import { ref, defineProps, onMounted } from 'vue'
 import Dialog from 'primevue/dialog'
 import Dropdown from 'primevue/dropdown'
 import preTags from '@/utils/preTags.js'
+import { selectedItems } from '../store/selectedItems'
 
 const props = defineProps({
   visible: {
@@ -31,6 +32,23 @@ let dialogVisible = ref(props.visible)
 let choices = ref(preTags)
 let selectedTag = ref('HEVC')
 
+let editType = ref()
+let header = ref()
+
+const editPreTag = () => {
+  let obj = { val: '', type: '' }
+
+  if (editType.value === 'group') {
+    obj = { val: selectedTag.value, type: 'group' }
+  } else if (editType.value === 'chan') {
+    obj = { val: selectedTag.value, type: 'chan' }
+  } else {
+    console.log('editTag failed.', props.editType)
+  }
+
+  eventBus.emit('editPreTag', obj)
+}
+
 onMounted(() => {
   eventBus.on('selectedEditChanPreTagDialog', () => {
     dialogVisible.value = !dialogVisible.value
@@ -40,11 +58,7 @@ onMounted(() => {
   eventBus.on('selectedEditGroupPreTagDialog', () => {
     dialogVisible.value = !dialogVisible.value
     editType.value = 'group'
-    header.value = 'Grup Etiket Duzenle'
+    header.value = 'Grup Ön Etiket Duzenle'
   })
 })
-
-let editType = ref()
-
-let header = ref()
 </script>
