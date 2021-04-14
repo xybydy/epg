@@ -43,6 +43,15 @@
         <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
       </template>
     </Column>
+    <Column
+      field="matcher"
+      headerStyle="width: 4rem; text-align: center"
+      bodyStyle="text-align: center; overflow: visible"
+    >
+      <template #body="slotProps">
+        <MatchButton :data="slotProps"></MatchButton>
+      </template>
+    </Column>
   </DataTable>
 
   <Dialog v-model:visible="deleteItemsDialog" :style="{ width: '450px' }" header="Onayla" modal>
@@ -122,7 +131,7 @@
 </template>
 
 <script setup>
-import { ref, watch, defineProps, onMounted, computed, reactive } from 'vue'
+import { ref, watch, defineProps, onMounted, computed } from 'vue'
 import eventBus from '@/emitter/eventBus.js'
 
 import ProgressSpinner from 'primevue/progressspinner'
@@ -146,6 +155,7 @@ import MenuBar from '@/components/MenuBar.vue'
 import GroupRemove from '@/components/GroupRemove.vue'
 import TagRemove from '@/components/TagRemove.vue'
 import PreTagRemove from '@/components/PreTagRemove.vue'
+import MatchButton from '@/components/MatchButton.vue'
 
 import { selectedItems } from '@/store/selectedItems.js'
 
@@ -193,6 +203,7 @@ let editGroupNameDialog = ref(false)
 let editChanTagDialog = ref(false)
 let editChanPreTagDialog = ref(false)
 let groupRemovalVisible = ref(false)
+let matchingProgress = ref(false)
 
 let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data })
 
