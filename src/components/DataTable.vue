@@ -15,7 +15,7 @@
     @row-reorder="onRowReorder"
     @cell-edit-complete="onCellComplete"
   >
-    <template #empty> Sonuc bulunamadi. </template>
+    <template #empty> Sonuc bulunamadi.</template>
     <template #header>
       <div class="p-d-flex p-jc-end">
         <span class="p-input-icon-left">
@@ -434,7 +434,7 @@ const editTag = (e) => {
   let separator = e.val.ayrac.trim()
 
   if (e.type === 'chan') {
-    if (selectedItems.value > 0) {
+    if (selectedItems.value.length > 0) {
       for (let item of selectedItems.value) {
         let sep_index = item.chan_name.indexOf(separator)
         if (sep_index === -1 || sep_index > e.val.num) {

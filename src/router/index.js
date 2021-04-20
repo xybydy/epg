@@ -17,6 +17,11 @@ const routes = [
     component: () => import('@/views/EpgUpdateView.vue'),
   },
   {
+    path: '/fatih/tvg',
+    name: 'TvgMap',
+    component: () => import('@/views/TvgMap.vue'),
+  },
+  {
     path: '/test',
     component: () => import('@/views/Test.vue'),
   },

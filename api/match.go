@@ -16,16 +16,6 @@ type resp struct {
 	TvgID    string      `bson:"tvg_id" json:"tvg_id,omitempty"`
 }
 
-// func (r *resp) UnmarshalJSON(data []byte) error {
-// 	var s resp
-
-// 	if err := json.Unmarshal(data, &s); err != nil {
-// 		log.Println(err)
-// 		return err
-// 	}
-// 	return nil
-// }
-
 type resps []resp
 
 func Matcher(w http.ResponseWriter, r *http.Request) {
