@@ -3,7 +3,23 @@ import XClient from './xtream'
 
 let xc
 
-beforeAll(() => (xc = new XClient(auth.username, auth.password, auth.url)))
+beforeAll(async () => {
+      xc = new XClient(auth.username, auth.password, auth.url)
+      await xc.init_data()
+      })
+
+
+test('get_stream_url',  async () => {
+await xc.get_live_stream()
+    // {
+    //     category_id: '5',
+    //     category_name: 'TR ➾ BELGESEL',
+    //     parent_id: 0,
+    //     type: 'live'
+    //   }
+console.log(xc.get_stream_url(15900))
+
+})
 
 test('get_live_cats',  async () => {
     // {

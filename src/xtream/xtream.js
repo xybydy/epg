@@ -7,6 +7,10 @@ class XClient {
     this.username = username.trim()
     this.password = password.trim()
     this.ua_agent = ''
+    this.server_info = ''
+    this.user_info = ''
+    this.streams = {}
+
 
     let proper_url = ['http://', 'https://'].some((el) => base_url.trim().startsWith(el))
 
@@ -16,19 +20,22 @@ class XClient {
       this.base_url = base_url.trim()
     }
 
-    this.send_request().catch((error) => console.error(`error sending auth request: ${error}`))
-
-    this.server_info = ''
-    this.user_info = ''
-
-    this.streams = {}
   }
 
+  async init_data(){
+    try {
+      let res=await this.send_request()
+      this.server_info=res.server_info
+      this.user_info=res.user_info
+    } catch (error) {
+      console.error(`error sending auth request: ${error}`)
+    }
+  }
 
-  get_stream_url(stream_id, wanted_format) {
+  get_stream_url(stream_id, wanted_format='ts') {
     let valid_format = false
 
-    for (let element of this.user_info['user_info']['allowed_output_formats']) {
+    for (let element of this.user_info.allowed_output_formats) {
       if (wanted_format === element) {
         valid_format = true
         break
@@ -45,13 +52,11 @@ class XClient {
 
     let stream = this.streams[stream_id]
 
-    return `${this.base_url}/${stream.type}/${this.username}/${this.pasword}/${stream_id}/${wanted_format}`
+    return `${this.base_url}/${stream.stream_type}/${this.username}/${this.password}/${stream_id}.${wanted_format}`
   }
 
 get_live_categories() {
-    let res = this.get_categories('live')
-
-    return res
+  return this.get_categories('live')
   }
 
   get_vod_categories() {
