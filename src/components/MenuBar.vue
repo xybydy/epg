@@ -51,7 +51,7 @@
 
 <script setup>
 import { computed, defineProps } from 'vue'
-import EpgUploader from '@/components/EpgUploader.vue'
+import EpgUploader from '@/components/index/EpgUploader.vue'
 import Button from 'primevue/button'
 import Toolbar from 'primevue/toolbar'
 

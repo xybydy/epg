@@ -37,6 +37,7 @@ module.exports = {
     'unicorn/prevent-abbreviations': 'off',
     'unicorn/no-null': 'off',
     'vue/attribute-hyphenation': 'off',
+    // 'array-bracket-spacing': ['always', { objectsInArrays: false }],
 
     // 'vue/no-v-model-argument': 1
   },

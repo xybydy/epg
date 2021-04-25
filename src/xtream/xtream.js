@@ -1,7 +1,5 @@
 const ua_agent = 'f-xtream-api'
 
-import fetch from 'node-fetch'
-
 class XClient {
   constructor(username, password, base_url) {
     this.username = username.trim()
@@ -11,7 +9,6 @@ class XClient {
     this.user_info = ''
     this.streams = {}
 
-
     let proper_url = ['http://', 'https://'].some((el) => base_url.trim().startsWith(el))
 
     if (!proper_url) {
@@ -19,20 +16,19 @@ class XClient {
     } else {
       this.base_url = base_url.trim()
     }
-
   }
 
-  async init_data(){
+  async init_data() {
     try {
-      let res=await this.send_request()
-      this.server_info=res.server_info
-      this.user_info=res.user_info
+      let res = await this.send_request()
+      this.server_info = res.server_info
+      this.user_info = res.user_info
     } catch (error) {
       console.error(`error sending auth request: ${error}`)
     }
   }
 
-  get_stream_url(stream_id, wanted_format='ts') {
+  async get_stream_url(stream_id, wanted_format = 'ts') {
     let valid_format = false
 
     for (let element of this.user_info.allowed_output_formats) {
@@ -55,15 +51,15 @@ class XClient {
     return `${this.base_url}/${stream.stream_type}/${this.username}/${this.password}/${stream_id}.${wanted_format}`
   }
 
-get_live_categories() {
-  return this.get_categories('live')
+  async get_live_categories() {
+    return this.get_categories('live')
   }
 
-  get_vod_categories() {
+  async get_vod_categories() {
     return this.get_categories('vod')
   }
 
-  get_series_categories() {
+  async get_series_categories() {
     return this.get_categories('series')
   }
 
@@ -71,23 +67,23 @@ get_live_categories() {
     let result = ''
 
     try {
-    result = await this.send_request(`get_${cat_type}_categories`)
+      result = await this.send_request(`get_${cat_type}_categories`)
     } catch (error) {
       console.error(error)
     }
-    
+
     for (let item of result) {
       item.type = cat_type
     }
-    
+
     return result
   }
 
-  get_live_stream(cat_id) {
+  async get_live_stream(cat_id) {
     return this.get_streams('live', cat_id)
   }
 
-  get_vod_streams(cat_id) {
+  async get_vod_streams(cat_id) {
     return this.get_streams('vod', cat_id)
   }
 
@@ -104,7 +100,7 @@ get_live_categories() {
     }
 
     try {
-    results=await this.send_request(`get_${stream_action}`, params)  
+      results = await this.send_request(`get_${stream_action}`, params)
     } catch (error) {
       console.error(error)
     }
@@ -125,7 +121,7 @@ get_live_categories() {
     }
 
     try {
-    results=await this.send_request('get_series', params)  
+      results = await this.send_request('get_series', params)
     } catch (error) {
       console.error(error)
     }
@@ -142,7 +138,7 @@ get_live_categories() {
     let params = `series_id=${id}`
 
     try {
-    results=await this.send_request('get_series_info', params)  
+      results = await this.send_request('get_series_info', params)
     } catch (error) {
       console.error(error)
     }
@@ -160,30 +156,29 @@ get_live_categories() {
     let params = `vod_id=${id}`
 
     try {
-    results=await this.send_request('get_vod_info', params)  
+      results = await this.send_request('get_vod_info', params)
     } catch (error) {
       console.error(error)
     }
-    
+
     return results
   }
 
-  get_short_epg(id, limit) {
+  async get_short_epg(id, limit) {
     return this.get_epg('get_short_epg', id, limit)
   }
 
-  get_long_epg(id) {
+  async get_long_epg(id) {
     return this.get_epg('get_simple_data_table', id)
   }
 
   async get_xml() {
     let results = ''
     try {
-    results=await this.send_request('xmltv.php')  
+      results = await this.send_request('xmltv.php')
     } catch (error) {
       console.error(error)
     }
-    
 
     return results
   }
@@ -192,7 +187,7 @@ get_live_categories() {
     let params = ''
     let results = ''
 
-    if (id ===undefined) {
+    if (id === undefined) {
       throw 'stream id cannot be empty'
     }
 
@@ -202,13 +197,11 @@ get_live_categories() {
       params = `${params}&limit=${limit}`
     }
 
-
     try {
-    results= await this.send_request(action, params)  
+      results = await this.send_request(action, params)
     } catch (error) {
       console.error(error)
     }
-    
 
     return results
   }
@@ -229,6 +222,8 @@ get_live_categories() {
       request_url = `${request_url}&` + encodeURI(params)
     }
 
+    console.log(request_url)
+
     // eslint-disable-next-line no-useless-catch
     try {
       let response = await fetch(request_url, {
@@ -238,20 +233,14 @@ get_live_categories() {
           'User-Agent': this.ua_agent,
         },
       })
-      if (action ==='xmltv.php'){
-      result = await response.text()
-      }else{
-      result = await response.json()
-      }
+      result = await (action === 'xmltv.php' ? response.text() : response.json())
 
-      if (action===undefined &&params===undefined&&result.user_info.auth === 0) {
+      if (action === undefined && params === undefined && result.user_info.auth === 0) {
         throw 'user is not authorized'
       }
-
     } catch (error) {
       throw error
     }
-
 
     return result
   }

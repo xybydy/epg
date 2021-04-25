@@ -4,7 +4,7 @@
 
 <script setup>
 import { computed, defineProps, ref } from 'vue'
-import EpgUploader from '@/components/EpgUploader.vue'
+import EpgUploader from '@/components/index/EpgUploader.vue'
 import Menu from 'primevue/menu'
 import Button from 'primevue/button'
 import Toolbar from 'primevue/toolbar'

@@ -1,12 +1,24 @@
 <template>
-  <EpgUploader @m3uLoaded="onM3uLoaded"></EpgUploader>
+  <div class="login p-p-2">
+    <TabView>
+      <TabPanel header="Upload playlist"> <M3u /></TabPanel>
+      <TabPanel header="Enter URL"> <URL /> </TabPanel>
+      <TabPanel header="Xtream Login"> <Xtream /> </TabPanel>
+    </TabView>
+  </div>
 </template>
 
 <script setup>
-import { useRouter } from 'vue-router'
-import EpgUploader from '@/components/EpgUploader.vue'
+import TabView from 'primevue/tabview'
+import TabPanel from 'primevue/tabpanel'
 
-let onM3uLoaded = () => router.push('/epg/view')
-
-const router = useRouter()
+import M3u from '@/views/login/M3u.vue'
+import URL from '@/views/login/Url.vue'
+import Xtream from '@/views/login/Xtream.vue'
 </script>
+
+<style lang="sass" scoped>
+.login
+  height: 400px
+  border: 2px solid beige
+</style>

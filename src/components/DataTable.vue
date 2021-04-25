@@ -150,7 +150,7 @@ import Toast from 'primevue/toast'
 import { ExportM3u } from '@/utils/m3u.js'
 import { deDupe } from '@/utils'
 
-import EpgUploader from '@/components/EpgUploader.vue'
+import EpgUploader from '@/components/index/EpgUploader.vue'
 import MenuBar from '@/components/MenuBar.vue'
 import GroupRemove from '@/components/GroupRemove.vue'
 import TagRemove from '@/components/TagRemove.vue'

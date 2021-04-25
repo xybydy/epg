@@ -39,3 +39,9 @@ export function ExportM3u(data, filename = 'epg.m3u8') {
 
   return blob
 }
+
+export function BuildUrl(username, password, url) {
+  url = url.endsWith('/') ? url : url + '/'
+
+  return `${url}get.php?username=${username}&password=${password}&type=m3u_plus&output=ts`
+}

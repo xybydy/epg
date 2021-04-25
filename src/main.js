@@ -4,6 +4,7 @@ import router from './router'
 
 import ToastService from 'primevue/toastservice'
 
+import PrimeVue from 'primevue/config'
 import 'primevue/resources/themes/saga-blue/theme.css'
 import 'primeflex/primeflex.css'
 import 'primevue/resources/primevue.min.css'
@@ -20,6 +21,7 @@ app
   .provide('LengthM3uData', LengthM3uData)
   .provide('AddM3uData', AddM3uData)
   .use(ToastService)
+  .use(PrimeVue)
   .use(router)
 
 app.mount('#app')
