@@ -1,13 +1,26 @@
 <template>
   <Dialog v-model:visible="dialogVisible" :header="header" modal closeOnEscape>
     <div class="p-field">
-      <Dropdown
-        v-model="selectedTag"
-        :options="choices"
-        :editable="true"
-        @keyup.enter="editPreTag()"
-      >
-      </Dropdown>
+      <InputText
+        id="tag-text"
+        type="text"
+        placeholder="Ayraç"
+        @keyup.enter="
+          editPreTag($event.target.value, $event.target.nextElementSibling.children[0].value)
+        "
+      />
+      <InputNumber
+        id="max-char"
+        v-model="editPreTagSliderVal"
+        inputStyle="width:2rem"
+        mode="decimal"
+        :max="5"
+        :min="1"
+        showButtons
+      ></InputNumber>
+      <p class="p-text-light" style="font-size: 0.8rem">
+        5 karakterden uzun etiketleri desteklemiyor.
+      </p>
     </div>
   </Dialog>
 </template>
@@ -18,9 +31,9 @@ import eventBus from '@/emitter/eventBus.js'
 import { ref, defineProps, onMounted } from 'vue'
 
 import Dialog from 'primevue/dialog'
-import Dropdown from 'primevue/dropdown'
-import preTags from '@/utils/preTags.js'
-import { selectedItems } from '../store/selectedItems'
+import InputNumber from 'primevue/inputnumber'
+import InputText from 'primevue/inputtext'
+import Button from 'primevue/button'
 
 const props = defineProps({
   visible: {
@@ -29,31 +42,12 @@ const props = defineProps({
 })
 
 let dialogVisible = ref(props.visible)
-let choices = ref(preTags)
-let selectedTag = ref('HEVC')
-
-let editType = ref()
-let header = ref()
-
-const editPreTag = () => {
-  let obj = { val: '', type: '' }
-
-  if (editType.value === 'group') {
-    obj = { val: selectedTag.value, type: 'group' }
-  } else if (editType.value === 'chan') {
-    obj = { val: selectedTag.value, type: 'chan' }
-  } else {
-    console.log('editTag failed.', props.editType)
-  }
-
-  eventBus.emit('editPreTag', obj)
-}
 
 onMounted(() => {
   eventBus.on('selectedEditChanPreTagDialog', () => {
     dialogVisible.value = !dialogVisible.value
     editType.value = 'chan'
-    header.value = 'Kanal Etiket Duzenle'
+    header.value = 'Kanal Ön Etiket Duzenle'
   })
   eventBus.on('selectedEditGroupPreTagDialog', () => {
     dialogVisible.value = !dialogVisible.value
@@ -61,4 +55,23 @@ onMounted(() => {
     header.value = 'Grup Ön Etiket Duzenle'
   })
 })
+
+let editType = ref()
+
+let header = ref()
+let editPreTagSliderVal = ref(1)
+
+const editPreTag = (ayrac, num) => {
+  let obj = { val: { ayrac: ayrac, num: num }, type: '' }
+
+  if (editType.value === 'group') {
+    obj = { val: { ayrac: ayrac, num: num }, type: 'group' }
+  } else if (editType.value === 'chan') {
+    obj = { val: { ayrac: ayrac, num: num }, type: 'chan' }
+  } else {
+    console.log('editPreTag failed.', props.editType)
+  }
+
+  eventBus.emit('editPreTag', obj)
+}
 </script>

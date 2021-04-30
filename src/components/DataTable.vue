@@ -428,7 +428,7 @@ const getGroups = computed(() => {
   return arr
 })
 
-const editTag = (e) => {
+const editPreTag = (e) => {
   editChanPreTagDialog.value = false
   loadingDialog.value = true
   let separator = e.val.ayrac.trim()
@@ -463,7 +463,7 @@ const editTag = (e) => {
       if (sep_index === -1 || sep_index > e.val.num) {
         console.log('No work:', item.group_title)
       } else {
-        item.chan_name = item.group_title
+        item.group_title = item.group_title
           .slice(sep_index + separator.length, item.group_title.length)
           .trim()
       }
@@ -473,7 +473,7 @@ const editTag = (e) => {
   cleanup()
 }
 
-const editPreTag = (e) => {
+const editTag = (e) => {
   loadingDialog.value = true
   let val = e.val.trim()
   if (selectedItems.value.length > 0) {

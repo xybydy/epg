@@ -1,7 +1,9 @@
 <template>
-  <Toolbox class="p-mr-6" />
-  <DataTable :m3u="m3uData" :new="true"></DataTable>
-  <!-- <MenuBar props.new downloadButtonLock></MenuBar> -->
+  <div class="p-d-flex p-mt-3 p-mx-auto p-ai-start">
+    <Toolbox class="p-mr-6" />
+    <DataTable :m3u="m3uData" :new="true"></DataTable>
+    <!-- <MenuBar props.new downloadButtonLock></MenuBar> -->
+  </div>
 </template>
 
 <script setup>

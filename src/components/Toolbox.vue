@@ -56,11 +56,11 @@ const menuItems = ref([
         disabled: notSelectedItem,
       },
       {
-        label: 'Ön Etiket Kaldır',
+        label: 'Etiket Kaldır',
         command: () => emit.selectedEditChanTagDialog(),
       },
       {
-        label: 'Etiket Kaldır',
+        label: 'Ön Etiket Kaldır',
         command: () => emit.selectedEditChanPreTagDialog(),
       },
     ],
@@ -103,11 +103,11 @@ const menuItems = ref([
         command: () => emit.clickRemoveGroups(),
       },
       {
-        label: 'Ön Etiket Kaldır',
+        label: 'Etiket Kaldır',
         command: () => emit.selectedEditGroupTagDialog(),
       },
       {
-        label: 'Etiket Kaldır',
+        label: 'Ön Etiket Kaldır',
         command: () => emit.selectedEditGroupPreTagDialog(),
       },
     ],

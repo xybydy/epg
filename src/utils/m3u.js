@@ -2,6 +2,13 @@ export function SanitizeM3u(m3uFile) {
   let outPut = []
 
   for (var [key, item] of Object.entries(m3uFile)) {
+    let item_type = 'live'
+    if (item.tvg.url.includes('/series/')) {
+      item_type = 'series'
+    } else if (item.tvg.url.includes('/movie/')) {
+      item_type = 'movie'
+    }
+
     outPut.push({
       _id: key,
       chan_name: item.name,
@@ -16,6 +23,7 @@ export function SanitizeM3u(m3uFile) {
       group_title: item.group.title,
       http_referrer: item.http.referrer,
       http_user_agent: item.http['user-agent'],
+      item_type: item_type,
     })
   }
   return outPut

@@ -1,10 +1,12 @@
 <template>
-  <div class="login p-p-2">
-    <TabView>
-      <TabPanel header="Upload playlist"> <M3u /></TabPanel>
-      <TabPanel header="Enter URL"> <URL /> </TabPanel>
-      <TabPanel header="Xtream Login"> <Xtream /> </TabPanel>
-    </TabView>
+  <div class="container p-d-flex p-mx-auto">
+    <div class="login p-p-2">
+      <TabView>
+        <TabPanel header="Upload playlist"> <M3u /></TabPanel>
+        <TabPanel header="Enter URL"> <URL /> </TabPanel>
+        <TabPanel header="Xtream Login"> <Xtream /> </TabPanel>
+      </TabView>
+    </div>
   </div>
 </template>
 
@@ -18,6 +20,11 @@ import Xtream from '@/views/login/Xtream.vue'
 </script>
 
 <style lang="sass" scoped>
+.container
+  min-height: 100vh
+  justify-content: center
+  align-items: center
+
 .login
   height: 400px
   border: 2px solid beige
