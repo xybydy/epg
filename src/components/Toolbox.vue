@@ -15,13 +15,13 @@ import { selectedItems } from '@/store/selectedItems.js'
 
 const emit = {
   selectedRemoveDialog: () => eventBus.emit('selectedRemoveDialog'),
-  selectedEditDialog: () => eventBus.emit('selectedEditDialog'),
+  selectedEditTVGDialog: () => eventBus.emit('selectedEditTVGDialog'),
   selectedTvgRemove: () => eventBus.emit('selectedTvgRemove'),
   onTvgMatcher: () => eventBus.emit('onTvgMatcher'),
   clickUpdate: () => eventBus.emit('clickUpdate'),
   clickSave: () => eventBus.emit('clickSave'),
   ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
-  clickRemoveGroups: () => eventBus.emit('clickNoRemoveGroups'),
+  clickRemoveGroups: () => eventBus.emit('clickRemoveGroups'),
   selectedEditGroupNameDialog: () => eventBus.emit('selectedEditGroupNameDialog'),
   selectedEditChanPreTagDialog: () => eventBus.emit('selectedEditChanPreTagDialog'),
   selectedEditChanTagDialog: () => eventBus.emit('selectedEditChanTagDialog'),
@@ -74,7 +74,7 @@ const menuItems = ref([
       {
         label: 'Düzenle',
         disabled: notSelectedItem,
-        command: () => emit.selectedEditDialog(),
+        command: () => emit.selectedEditTVGDialog(),
       },
       {
         label: 'Eşleştir',

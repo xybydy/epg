@@ -13,7 +13,7 @@
         icon="pi pi-file"
         class="p-button-danger p-mr-2"
         :disabled="!selectedItems || !selectedItems.length"
-        @click="emit.selectedEditDialog"
+        @click="emit.selectedEditTVGDialog"
       />
       <Button
         label="TVG-ID Getir"
@@ -70,7 +70,7 @@ const props = defineProps({
 
 const emit = {
   selectedRemoveDialog: () => eventBus.emit('selectedRemoveDialog'),
-  selectedEditDialog: () => eventBus.emit('selectedEditDialog'),
+  selectedEditTVGDialog: () => eventBus.emit('selectedEditTVGDialog'),
   onTvgMatcher: () => eventBus.emit('onTvgMatcher'),
   clickUpdate: () => eventBus.emit('clickUpdate'),
   clickSave: () => eventBus.emit('clickSave'),

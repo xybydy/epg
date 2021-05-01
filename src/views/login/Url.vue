@@ -9,7 +9,7 @@
         placeholder="Enter URL"
       ></InputText>
     </div>
-    <div class="p-field">
+    <div class="p-field" style="float: right">
       <Button class="p-mr-3" :disabled="sendDisabled" @click="clickSend">Gonder</Button>
       <Button @click="clickReset">Reset</Button>
     </div>
@@ -17,6 +17,8 @@
 </template>
 
 <script setup>
+import eventBus from '@/emitter/eventBus.js'
+
 import { ref, computed, inject, defineEmit } from 'vue'
 import InputText from 'primevue/inputtext'
 import Button from 'primevue/button'
@@ -44,6 +46,7 @@ let validateUrl = computed(() => {
 })
 
 const clickSend = () => {
+  eventBus.emit('onStart')
   if (!urlValidateRe.test(url.value) || url.value.length === 0) {
     console.error('invalid url')
   } else {
@@ -53,6 +56,17 @@ const clickSend = () => {
       .then((data) => {
         AddM3uData(SanitizeM3u(parse(data).items))
         router.push('/epg/view')
+      })
+      .catch(() => {
+        eventBus.emit('pushToast', {
+          severity: 'error',
+          summary: 'Error',
+          message: 'Error on getting data',
+        })
+      })
+      .finally(() => {
+        sendDisabled.value = false
+        eventBus.emit('onFinish')
       })
   }
 }

@@ -23,7 +23,7 @@
         placeholder="Server URL"
       ></InputText>
     </div>
-    <div class="p-field">
+    <div class="p-field" style="float: right">
       <Button class="p-mr-3" :disabled="sendDisabled" @click="clickSend">Gonder</Button>
       <Button @click="clickReset">Reset</Button>
     </div>
@@ -31,6 +31,8 @@
 </template>
 
 <script setup>
+import eventBus from '@/emitter/eventBus.js'
+
 import { ref, inject } from 'vue'
 import InputText from 'primevue/inputtext'
 import Button from 'primevue/button'
@@ -55,6 +57,8 @@ const clickReset = () => {
 }
 
 const clickSend = async () => {
+  eventBus.emit('onStart')
+
   if (!urlValidateRe.test(urlRef.value) || urlRef.value.length === 0) {
     console.error('invalid url')
   } else {
@@ -63,10 +67,23 @@ const clickSend = async () => {
     let url = BuildUrl(userRef.value, passRef.value, urlRef.value)
 
     fetch(url)
-      .then((resp) => resp.text())
+      .then((resp) => {
+        return resp.text()
+      })
       .then((data) => {
         AddM3uData(SanitizeM3u(parse(data).items))
         router.push('/epg/view')
+      })
+      .catch(() => {
+        eventBus.emit('pushToast', {
+          severity: 'error',
+          summary: 'Error',
+          message: 'Error on getting data',
+        })
+      })
+      .finally(() => {
+        sendDisabled.value = false
+        eventBus.emit('onFinish')
       })
   }
 }
@@ -76,5 +93,3 @@ let userRef = ref('Cem@lkarsli')
 let urlRef = ref('http://tpaneltv.com:8080/')
 let sendDisabled = ref(false)
 </script>
-
-<style lang="sass" scoped></style>

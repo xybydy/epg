@@ -1,13 +1,12 @@
 <template>
-  <Dialog v-model:visible="dialogVisible" :header="header" modal closeOnEscape>
+  <Dialog v-model:visible="visible" :header="header" modal closeOnEscape dismissableMask closable>
     <div class="p-field">
       <InputText
         id="tag-text"
+        v-model="editInput"
         type="text"
         placeholder="Ayraç"
-        @keyup.enter="
-          editPreTag($event.target.value, $event.target.nextElementSibling.children[0].value)
-        "
+        @keyup.enter="onYes"
       />
       <InputNumber
         id="max-char"
@@ -22,6 +21,7 @@
         5 karakterden uzun etiketleri desteklemiyor.
       </p>
     </div>
+    <Button style="float: right" @click="onYes">OK</Button>
   </Dialog>
 </template>
 
@@ -41,37 +41,42 @@ const props = defineProps({
   },
 })
 
-let dialogVisible = ref(props.visible)
+let visible = ref(props.visible)
 
 onMounted(() => {
   eventBus.on('selectedEditChanPreTagDialog', () => {
-    dialogVisible.value = !dialogVisible.value
+    visible.value = !visible.value
     editType.value = 'chan'
     header.value = 'Kanal Ön Etiket Duzenle'
   })
   eventBus.on('selectedEditGroupPreTagDialog', () => {
-    dialogVisible.value = !dialogVisible.value
+    visible.value = !visible.value
     editType.value = 'group'
     header.value = 'Grup Ön Etiket Duzenle'
   })
 })
 
 let editType = ref()
-
 let header = ref()
+
+let editInput = ref('')
 let editPreTagSliderVal = ref(1)
 
-const editPreTag = (ayrac, num) => {
-  let obj = { val: { ayrac: ayrac, num: num }, type: '' }
+const onYes = () => {
+  visible.value = false
+  eventBus.emit('startLoading')
+
+  let obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: '' }
 
   if (editType.value === 'group') {
-    obj = { val: { ayrac: ayrac, num: num }, type: 'group' }
+    obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: 'group' }
   } else if (editType.value === 'chan') {
-    obj = { val: { ayrac: ayrac, num: num }, type: 'chan' }
+    obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: 'chan' }
   } else {
     console.log('editPreTag failed.', props.editType)
   }
 
   eventBus.emit('editPreTag', obj)
+  eventBus.emit('stopLoading')
 }
 </script>

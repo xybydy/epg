@@ -54,79 +54,25 @@
     </Column>
   </DataTable>
 
-  <Dialog v-model:visible="deleteItemsDialog" :style="{ width: '450px' }" header="Onayla" modal>
-    <div class="p-d-flex p-ai-center confirmation-content">
-      <i class="pi pi-exclamation-triangle p-mr-3" style="font-size: 2rem" />
-      <span>Seçtiğin kanallar silinsin mi?</span>
-    </div>
-    <template #footer>
-      <Button
-        label="No"
-        icon="pi pi-times"
-        class="p-button-text"
-        @click="deleteItemsDialog = false"
-      />
-      <Button label="Yes" icon="pi pi-check" @click="removeSelectedItems" />
-    </template>
-  </Dialog>
-
-  <Dialog
-    v-model:visible="BulkTvgIdDialog"
-    :style="{ width: '350px' }"
-    header="TVG-ID Düzenle"
-    modal
-  >
-    <div class="p-d-flex p-jc-between p-ai-center p-input-filled p-p-2">
-      <span>Yeni TVG-ID: </span>
-      <InputText v-model="newTvgId" autofocus />
-    </div>
-    <template #footer>
-      <Button
-        label="Vazgeç"
-        icon="pi pi-times"
-        class="p-button-text"
-        @click="BulkTvgIdDialog = false"
-      />
-      <Button label="Onayla" icon="pi pi-check" @click="editBulkItems" />
-    </template>
-  </Dialog>
-
   <Dialog
     v-model:visible="loadingDialog"
     :style="{ width: '200px' }"
     modal
     :closable="false"
     header="Please Wait"
+    dismissableMask
   >
     <ProgressSpinner style="display: flex" />
   </Dialog>
 
-  <GroupRemove v-model:visible="groupRemovalVisible" :groups="getGroups"></GroupRemove>
+  <GroupRemove :groups="getGroups"></GroupRemove>
+  <GroupEdit :groups="getGroups"></GroupEdit>
 
-  <Dialog v-model:visible="editGroupNameDialog" header="Grup Düzenle" modal closeOnEscape>
-    <Dropdown v-model="selectedGroup" :options="getGroups" placeholder="Grup Adı"></Dropdown>
-    <InputText
-      type="text"
-      placeholder="Yeni isim"
-      @keyup.enter="
-        editGroupName($event.target.previousElementSibling.outerText, $event.target.value)
-      "
-    />
-  </Dialog>
+  <PreTagRemove />
+  <TagRemove />
+  <RemoveChannel />
+  <TvgEdit />
 
-  <Dialog v-model:visible="editChanPreTagDialog" header="Grup Düzenle" modal closeOnEscape>
-    <Dropdown v-model="selectedGroup" :options="getGroups" placeholder="Grup Adı"></Dropdown>
-    <InputText
-      type="text"
-      placeholder="Yeni isim"
-      @keyup.enter="
-        editGroupName($event.target.previousElementSibling.outerText, $event.target.value)
-      "
-    />
-  </Dialog>
-
-  <PreTagRemove :visible="editChanPreTagDialog"></PreTagRemove>
-  <TagRemove :visible="editChanTagDialog"></TagRemove>
   <Toast position="bottom-right" />
 </template>
 
@@ -156,6 +102,9 @@ import GroupRemove from '@/components/GroupRemove.vue'
 import TagRemove from '@/components/TagRemove.vue'
 import PreTagRemove from '@/components/PreTagRemove.vue'
 import MatchButton from '@/components/MatchButton.vue'
+import GroupEdit from '@/components/GroupEdit.vue'
+import RemoveChannel from '@/components/RemoveChannel.vue'
+import TvgEdit from '@/components/TvgEdit.vue'
 
 import { selectedItems } from '@/store/selectedItems.js'
 
@@ -177,7 +126,6 @@ const toast = useToast()
 let filters = ref({ global: { value: null, matchMode: FilterMatchMode.CONTAINS } })
 
 let cleanup = () => {
-  newTvgId.value = ''
   selectedItems.value = []
   loadingDialog.value = false
   filters.value.global.value = ''
@@ -196,13 +144,7 @@ let loadingDialog = props.m3u.length === 0 ? ref(true) : ref(false)
 let reOrderedList = ref(props.m3u)
 let itemsToSavedList = []
 let downloadButtonLock = ref(true)
-let newTvgId = ref('')
 let changedItems = {}
-let selectedGroup = ref()
-let editGroupNameDialog = ref(false)
-let editChanTagDialog = ref(false)
-let editChanPreTagDialog = ref(false)
-let groupRemovalVisible = ref(false)
 let matchingProgress = ref(false)
 
 let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data })
@@ -210,10 +152,10 @@ let onCellComplete = (e) => Object.assign(changedItems, { [e.data._id]: e.data }
 let onRowReorder = (e) => (reOrderedList.value = e.value)
 let onSelectInput = (e) => e.target.select()
 
-let editNames = async () => {
+let editNames = async (val) => {
   loadingDialog.value = true
   for (let item of selectedItems.value) {
-    item.tvg_id = newTvgId.value
+    item.tvg_id = val
   }
   pushItems(changedItems, selectedItems)
   cleanup()
@@ -324,18 +266,16 @@ const postUpdate = () => {
 const sleepNow = (delay) => new Promise((resolve) => setTimeout(resolve, delay))
 
 const removeSelectedItems = async () => {
-  deleteItemsDialog.value = false
   loadingDialog.value = true
   await sleepNow(30)
   reOrderedList.value = reOrderedList.value.filter((val) => !selectedItems.value.includes(val))
   cleanup()
 }
 
-const editBulkItems = async () => {
-  BulkTvgIdDialog.value = false
+const editTvg = async (val) => {
   loadingDialog.value = true
   await sleepNow(30)
-  editNames()
+  editNames(val)
   cleanup()
 }
 
@@ -424,12 +364,23 @@ const onSearch = (e) => {
 }
 
 const getGroups = computed(() => {
-  let arr = [...new Set([...reOrderedList.value].map((x) => x.group_title))].sort()
-  return arr
+  let obj = {}
+  let sorted_obj = {}
+
+  reOrderedList.value.map((x) => {
+    if (!(x.group_title in obj)) {
+      obj[x.group_title] = 1
+    } else {
+      obj[x.group_title] += 1
+    }
+  })
+
+  for (const e of Object.keys(obj).sort()) sorted_obj[e] = obj[e]
+
+  return sorted_obj
 })
 
 const editPreTag = (e) => {
-  editChanPreTagDialog.value = false
   loadingDialog.value = true
   let separator = e.val.ayrac.trim()
 
@@ -502,29 +453,24 @@ const editTag = (e) => {
   cleanup()
 }
 
-const editGroupName = (d_val, text_val) => {
+const editGroupName = (e) => {
   loadingDialog.value = true
-  editGroupNameDialog.value = false
 
   reOrderedList.value
-    .filter((val) => val.group_title === d_val)
-    .map((val) => (val.group_title = text_val))
+    .filter((val) => val.group_title === e.d_val)
+    .map((val) => (val.group_title = e.text_val))
 
   cleanup()
 }
 
 onMounted(() => {
   console.log('mounted')
-  eventBus.on('selectedRemoveDialog', () => (deleteItemsDialog.value = true))
-  eventBus.on('selectedEditDialog', () => (BulkTvgIdDialog.value = true))
   eventBus.on('onTvgMatcher', onTvgMatcher)
   eventBus.on('clickUpdate', postUpdate)
   eventBus.on('clickSave', postSave)
   eventBus.on('ondownloadM3u', downloadM3u)
   eventBus.on('selectedTvgRemove', selectedTvgRemove)
-  eventBus.on('clickNoRemoveGroups', () => (groupRemovalVisible.value = !groupRemovalVisible.value))
   eventBus.on('clickYesRemoveGroups', async (e) => {
-    groupRemovalVisible.value = !groupRemovalVisible.value
     loadingDialog.value = true
     await sleepNow(30)
     e.map((group_title) => {
@@ -533,12 +479,14 @@ onMounted(() => {
     loadingDialog.value = false
     selectedItems.value = []
   })
-  eventBus.on(
-    'selectedEditGroupNameDialog',
-    () => (editGroupNameDialog.value = !editGroupNameDialog.value)
-  )
+
   eventBus.on('editTag', (e) => editTag(e))
   eventBus.on('editPreTag', (e) => editPreTag(e))
+  eventBus.on('startLoading', () => (loadingDialog.value = true))
+  eventBus.on('stopLoading', () => (loadingDialog.value = false))
+  eventBus.on('editGroup', (e) => editGroupName(e))
+  eventBus.on('removeSelectedItems', removeSelectedItems)
+  eventBus.on('editTvg', (e) => editTvg(e))
 })
 
 watch(
