@@ -50,36 +50,33 @@
 </template>
 
 <script setup>
-import { computed, defineProps } from 'vue'
-import EpgUploader from '@/components/index/EpgUploader.vue'
-import Button from 'primevue/button'
-import Toolbar from 'primevue/toolbar'
+  import {computed, defineProps} from 'vue'
+  import Button from 'primevue/button'
+  import Toolbar from 'primevue/toolbar'
 
-import eventBus from '@/emitter/eventBus.js'
+  import eventBus from '@/emitter/eventBus.js'
 
-import { selectedItems } from '@/store/selectedItems.js'
+  import {selectedItems} from '@/store/selectedItems.js'
 
-const props = defineProps({
-  new: {
-    type: Boolean,
-  },
-  downloadButtonLock: {
-    type: Boolean,
-  },
-})
+  const props = defineProps({
+    new: {
+      type: Boolean,
+    },
+    downloadButtonLock: {
+      type: Boolean,
+    },
+  })
 
-const emit = {
-  selectedRemoveDialog: () => eventBus.emit('selectedRemoveDialog'),
-  selectedEditTVGDialog: () => eventBus.emit('selectedEditTVGDialog'),
-  onTvgMatcher: () => eventBus.emit('onTvgMatcher'),
-  clickUpdate: () => eventBus.emit('clickUpdate'),
-  clickSave: () => eventBus.emit('clickSave'),
-  ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
-}
+  const emit = {
+    selectedRemoveDialog: () => eventBus.emit('selectedRemoveDialog'),
+    selectedEditTVGDialog: () => eventBus.emit('selectedEditTVGDialog'),
+    onTvgMatcher: () => eventBus.emit('onTvgMatcher'),
+    clickUpdate: () => eventBus.emit('clickUpdate'),
+    clickSave: () => eventBus.emit('clickSave'),
+    ondownloadM3u: () => eventBus.emit('ondownloadM3u'),
+  }
 
-let removeLabel = computed(() => {
-  return selectedItems.value.length === 0 ? 'Sil' : `Sil (${selectedItems.value.length})`
-})
+  let removeLabel = computed(() => {
+    return selectedItems.value.length === 0 ? 'Sil' : `Sil (${selectedItems.value.length})`
+  })
 </script>
-
-<style scoped></style>

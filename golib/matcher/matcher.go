@@ -67,5 +67,4 @@ func (e *EpgList) GetAll(file string) {
 // 	s := new(EpgList)
 // 	s.Match("beIN BOX OFFICE 3 TR")
 // 	log.Println((*s)[0])
-
 // }

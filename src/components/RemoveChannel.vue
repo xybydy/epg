@@ -1,5 +1,5 @@
 <template>
-  <Dialog v-model:visible="visible" :style="{ width: '450px' }" header="Sil" modal dismissableMask>
+  <Dialog v-model:visible="visible" :style="{width: '450px'}" header="Sil" modal dismissableMask>
     <div class="p-d-flex p-ai-center confirmation-content">
       <i class="pi pi-exclamation-triangle p-mr-3" style="font-size: 2rem" />
       <span>Seçtiğin kanallar silinsin mi?</span>
@@ -12,21 +12,21 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+  import {ref, onMounted} from 'vue'
 
-import eventBus from '@/emitter/eventBus.js'
+  import eventBus from '@/emitter/eventBus.js'
 
-import Dialog from 'primevue/dialog'
-import Button from 'primevue/button'
+  import Dialog from 'primevue/dialog'
+  import Button from 'primevue/button'
 
-let visible = ref(false)
+  let visible = ref(false)
 
-const onYes = () => {
-  visible.value = false
-  eventBus.emit('removeSelectedItems')
-}
+  const onYes = () => {
+    visible.value = false
+    eventBus.emit('removeSelectedItems')
+  }
 
-onMounted(() => {
-  eventBus.on('selectedRemoveDialog', () => (visible.value = true))
-})
+  onMounted(() => {
+    eventBus.on('selectedRemoveDialog', () => (visible.value = true))
+  })
 </script>

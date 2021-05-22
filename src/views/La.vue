@@ -1,11 +1,11 @@
 <template>
-  <div>{{ props.lee }}</div>
+  <Image
+    src="https://effigis.com/wpf-content/uploads/2015/02/Airbus_Pleiades_50cm_8bit_RGB_Yogyakarta.jpg"
+  />
 </template>
 
 <script setup>
-import { defineProps } from 'vue'
-
-let props = defineProps(['lee'])
+import Image from '@/components/Image.vue'
 </script>
 
 <style scoped></style>

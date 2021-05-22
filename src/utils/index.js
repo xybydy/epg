@@ -9,3 +9,8 @@ export function deDupe(arr) {
   }
   return unique
 }
+
+export function UpperFirst(s) {
+  if (typeof s !== 'string') return ''
+  return s.charAt(0).toUpperCase() + s.slice(1)
+}

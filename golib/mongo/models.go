@@ -4,18 +4,19 @@ import (
 	"go.mongodb.org/mongo-driver/bson/primitive"
 )
 
-type ChannelMatches []ChannelMatch
+type TvgMaps []TvgMap
 
-type ChannelMatch struct {
-	ID primitive.ObjectID `bson:"_id,omitempty" json:"_id,omitempty"`
-	// ChanID     int                `bson:"id" json:"id"`
-	ChanName   string `bson:"chan_name" json:"chan_name"`
-	TvgID      string `bson:"tvg_id" json:"tvg_id"`
-	UserName   string `bson:"user_name" json:"user_name"`
-	GroupTitle string `bson:"group_title" json:"group_title"`
+// Burada sadece kanal ve tvg_id olacak. kanal ismi unique olmak zorunda ve matcher buradan ilerleyecek
+// Collection adi: 	tvg > map
+type TvgMap struct {
+	ID      primitive.ObjectID `bson:"_id,omitempty" json:"_id,omitempty"`
+	Name    string             `bson:"name" json:"name"`
+	TvgID   string             `bson:"tvg_id" json:"tvg_id"`
+	Logo    string             `bson:"logo" json:"logo"`
+	Country string             `bson:"country" json:"country"`
 }
 
-func (c ChannelMatches) GetTvgID(name string) string {
+func (c TvgMaps) GetTvgID(name string) string {
 	// name = normalize(name)
 
 	res := BinarySearch(c, name)
@@ -26,15 +27,15 @@ func (c ChannelMatches) GetTvgID(name string) string {
 	return c[res].TvgID
 }
 
-func BinarySearch(a ChannelMatches, search string) (result int) {
+func BinarySearch(a TvgMaps, search string) (result int) {
 	mid := len(a) / 2
 
 	switch {
 	case len(a) == 0:
 		result = -1 // not found
-	case a[mid].ChanName > search:
+	case a[mid].Name > search:
 		result = BinarySearch(a[:mid], search)
-	case a[mid].ChanName < search:
+	case a[mid].Name < search:
 		result = BinarySearch(a[mid+1:], search)
 		result += mid + 1
 	default: // a[mid] == search

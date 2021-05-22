@@ -1,45 +1,31 @@
 package api
 
 import (
-	"encoding/json"
-	"io/ioutil"
-	"log"
+	"io"
 	"net/http"
 
 	"github.com/xybydy/epg/golib/mongo"
+	"github.com/xybydy/epg/golib/utils"
 )
 
 func Update(w http.ResponseWriter, r *http.Request) {
-	response := new(apiResponse)
 	w.Header().Set("Content-Type", "application/json; charset=UTF-8")
 
 	if r.Method == http.MethodPost {
-		res, err := ioutil.ReadAll(r.Body)
+		res, err := io.ReadAll(r.Body)
 		r.Body.Close()
 		if err != nil {
-			mes := []byte(err.Error())
-			response.StatusCode = http.StatusInternalServerError
-			response.Message = string(mes)
-			json.NewEncoder(w).Encode(response)
+			utils.SendApiResponse(w, http.StatusInternalServerError, err.Error(), nil)
 			return
 		}
 
-		err = mongo.UpdateData(res, "tvs")
+		err = mongo.UpdateData(res, "map")
 		if err != nil {
-			mes := []byte(err.Error())
-			response.StatusCode = http.StatusInternalServerError
-			response.Message = string(mes)
-			json.NewEncoder(w).Encode(response)
-			log.Println("3", string(mes))
+			utils.SendApiResponse(w, http.StatusInternalServerError, err.Error(), nil)
 			return
 		}
-
-		response = &apiResponse{StatusCode: http.StatusOK, Message: "Data successfully sent!"}
-		json.NewEncoder(w).Encode(response)
-
+		utils.SendApiResponse(w, http.StatusOK, "Data successfully sent!", nil)
 	} else {
-		log.Println(r.Method)
-		response = &apiResponse{StatusCode: http.StatusBadRequest, Message: "Bad Request"}
-		json.NewEncoder(w).Encode(response)
+		utils.SendApiResponse(w, http.StatusBadRequest, "Bad Request", nil)
 	}
 }

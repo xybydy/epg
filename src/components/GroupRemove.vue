@@ -25,36 +25,36 @@
 </template>
 
 <script setup>
-import { defineProps, ref, onMounted } from 'vue'
-import eventBus from '@/emitter/eventBus.js'
-import Dialog from 'primevue/dialog'
-import Checkbox from 'primevue/checkbox'
-import Button from 'primevue/button'
+  import {defineProps, ref, onMounted} from 'vue'
+  import eventBus from '@/emitter/eventBus.js'
+  import Dialog from 'primevue/dialog'
+  import Checkbox from 'primevue/checkbox'
+  import Button from 'primevue/button'
 
-let selectedGroups = ref([])
-let visible = ref(false)
+  let selectedGroups = ref([])
+  let visible = ref(false)
 
-const onHide = () => {
-  if (visible.value) {
-    visible.value = false
+  const onHide = () => {
+    if (visible.value) {
+      visible.value = false
+    }
+    selectedGroups.value = []
   }
-  selectedGroups.value = []
-}
 
-const onYes = () => {
-  visible.value = false
-  eventBus.emit('clickYesRemoveGroups', selectedGroups.value)
-}
+  const onYes = () => {
+    visible.value = false
+    eventBus.emit('clickYesRemoveGroups', selectedGroups.value)
+  }
 
-let props = defineProps({
-  groups: {
-    type: Object,
-  },
-})
-
-onMounted(() => {
-  eventBus.on('clickRemoveGroups', () => {
-    visible.value = !visible.value
+  let props = defineProps({
+    groups: {
+      type: Object,
+    },
   })
-})
+
+  onMounted(() => {
+    eventBus.on('clickRemoveGroups', () => {
+      visible.value = !visible.value
+    })
+  })
 </script>

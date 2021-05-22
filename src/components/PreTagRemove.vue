@@ -26,57 +26,57 @@
 </template>
 
 <script setup>
-import eventBus from '@/emitter/eventBus.js'
+  import eventBus from '@/emitter/eventBus.js'
 
-import { ref, defineProps, onMounted } from 'vue'
+  import {ref, defineProps, onMounted} from 'vue'
 
-import Dialog from 'primevue/dialog'
-import InputNumber from 'primevue/inputnumber'
-import InputText from 'primevue/inputtext'
-import Button from 'primevue/button'
+  import Dialog from 'primevue/dialog'
+  import InputNumber from 'primevue/inputnumber'
+  import InputText from 'primevue/inputtext'
+  import Button from 'primevue/button'
 
-const props = defineProps({
-  visible: {
-    type: Boolean,
-  },
-})
-
-let visible = ref(props.visible)
-
-onMounted(() => {
-  eventBus.on('selectedEditChanPreTagDialog', () => {
-    visible.value = !visible.value
-    editType.value = 'chan'
-    header.value = 'Kanal Ön Etiket Duzenle'
+  const props = defineProps({
+    visible: {
+      type: Boolean,
+    },
   })
-  eventBus.on('selectedEditGroupPreTagDialog', () => {
-    visible.value = !visible.value
-    editType.value = 'group'
-    header.value = 'Grup Ön Etiket Duzenle'
+
+  let visible = ref(props.visible)
+
+  onMounted(() => {
+    eventBus.on('selectedEditChanPreTagDialog', () => {
+      visible.value = !visible.value
+      editType.value = 'chan'
+      header.value = 'Kanal Ön Etiket Duzenle'
+    })
+    eventBus.on('selectedEditGroupPreTagDialog', () => {
+      visible.value = !visible.value
+      editType.value = 'group'
+      header.value = 'Grup Ön Etiket Duzenle'
+    })
   })
-})
 
-let editType = ref()
-let header = ref()
+  let editType = ref()
+  let header = ref()
 
-let editInput = ref('')
-let editPreTagSliderVal = ref(1)
+  let editInput = ref('')
+  let editPreTagSliderVal = ref(1)
 
-const onYes = () => {
-  visible.value = false
-  eventBus.emit('startLoading')
+  const onYes = () => {
+    visible.value = false
+    eventBus.emit('startLoading')
 
-  let obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: '' }
+    let obj = {val: {ayrac: editInput.value, num: editPreTagSliderVal.value}, type: ''}
 
-  if (editType.value === 'group') {
-    obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: 'group' }
-  } else if (editType.value === 'chan') {
-    obj = { val: { ayrac: editInput.value, num: editPreTagSliderVal.value }, type: 'chan' }
-  } else {
-    console.log('editPreTag failed.', props.editType)
+    if (editType.value === 'group') {
+      obj = {val: {ayrac: editInput.value, num: editPreTagSliderVal.value}, type: 'group'}
+    } else if (editType.value === 'chan') {
+      obj = {val: {ayrac: editInput.value, num: editPreTagSliderVal.value}, type: 'chan'}
+    } else {
+      console.log('editPreTag failed.', props.editType)
+    }
+
+    eventBus.emit('editPreTag', obj)
+    eventBus.emit('stopLoading')
   }
-
-  eventBus.emit('editPreTag', obj)
-  eventBus.emit('stopLoading')
-}
 </script>

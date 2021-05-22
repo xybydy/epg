@@ -23,7 +23,11 @@ const routes = [
   },
   {
     path: '/test',
-    component: () => import('@/views/Test.vue'),
+    component: () => import('@/views/La.vue'),
+  },
+  {
+    path: '/admin',
+    component: () => import('@/views/admin/Index.vue'),
   },
 ]
 
