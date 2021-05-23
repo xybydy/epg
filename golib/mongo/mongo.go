@@ -214,6 +214,52 @@ func DeleteChannels(ids []string, colName string) error {
 	return nil
 }
 
+func AutoComplete(query, colName string) []string {
+	data := []struct{ Values []string }{}
+
+	if !isAlive(cli) {
+		cli, ctx = GetClient()
+	}
+
+	col := cli.Database("epg").Collection(colName)
+
+	log.Print(query)
+	pipe := []bson.M{
+		{"$search": bson.D{
+			{"index", "tvg_id"},
+			{"autocomplete", bson.D{
+				{"path", "tvg_id"},
+				{"query", query},
+			}},
+		}},
+		{"$project": bson.D{
+			{"tvg_id", 1},
+		}},
+		{"$group": bson.D{
+			{"_id", nil},
+			{"values", bson.D{
+				{"$addToSet", "$tvg_id"},
+			}},
+		}},
+	}
+
+	cur, err := col.Aggregate(ctx, pipe, nil)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	err = cur.All(ctx, &data)
+	if err != nil {
+		log.Panic(err)
+	}
+
+	if len(data) == 0 {
+		return []string{}
+	}
+
+	return data[0].Values
+}
+
 func isDup(err error) bool {
 	var e mongo.BulkWriteException
 	if errors.As(err, &e) {

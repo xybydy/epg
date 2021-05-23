@@ -14,6 +14,7 @@ const MongoPass = "1ZaaVagptA9N9gJW"
 
 func main() {
 	r := mux.NewRouter()
+	r.HandleFunc("/api/complete", api.Complete)
 	r.HandleFunc("/api/save", api.Save)
 	r.HandleFunc("/api/update", api.Update)
 	r.HandleFunc("/api/all", api.All)

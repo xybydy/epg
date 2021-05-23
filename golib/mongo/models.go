@@ -10,10 +10,10 @@ type TvgMaps []TvgMap
 // Collection adi: 	tvg > map
 type TvgMap struct {
 	ID      primitive.ObjectID `bson:"_id,omitempty" json:"_id,omitempty"`
-	Name    string             `bson:"name" json:"name"`
-	TvgID   string             `bson:"tvg_id" json:"tvg_id"`
-	Logo    string             `bson:"logo" json:"logo"`
-	Country string             `bson:"country" json:"country"`
+	Name    string             `bson:"name,omitempty" json:"name,omitempty"`
+	TvgID   string             `bson:"tvg_id,omitempty" json:"tvg_id,omitempty"`
+	Logo    string             `bson:"logo,omitempty" json:"logo,omitempty"`
+	Country string             `bson:"country,omitempty" json:"country,omitempty"`
 }
 
 func (c TvgMaps) GetTvgID(name string) string {

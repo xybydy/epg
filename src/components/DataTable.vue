@@ -40,7 +40,11 @@
     </Column>
     <Column field="tvg_id" header="TVG-ID" autoLayout="true">
       <template #editor="slotProps">
-        <InputText v-model="slotProps.data[slotProps.column.props.field]" @focus="onSelectInput" />
+        <AutoComplete
+          v-model="slotProps.data[slotProps.column.props.field]"
+          :suggestions="completeSuggestions"
+          @complete="autocomplete($event)"
+        />
       </template>
     </Column>
     <Column
@@ -77,9 +81,8 @@
   <Toast position="bottom-right" />
 </template>
 
-
 <script setup>
-import {ref, watch, defineProps, onMounted, computed} from 'vue'
+  import {ref, watch, defineProps, onMounted, computed} from 'vue'
   import eventBus from '@/emitter/eventBus.js'
 
   import ProgressSpinner from 'primevue/progressspinner'
@@ -87,6 +90,7 @@ import {ref, watch, defineProps, onMounted, computed} from 'vue'
   import Column from 'primevue/column'
   import InputText from 'primevue/inputtext'
   import Dialog from 'primevue/dialog'
+  import AutoComplete from 'primevue/autocomplete'
 
   import {FilterMatchMode} from 'primevue/api'
   import {useToast} from 'primevue/usetoast'
@@ -144,6 +148,7 @@ import {ref, watch, defineProps, onMounted, computed} from 'vue'
   let downloadButtonLock = ref(true)
   let changedItems = {}
   let matchingProgress = ref(false)
+  let completeSuggestions = ref([])
 
   let onCellComplete = (e) => Object.assign(changedItems, {[e.data._id]: e.data})
 
@@ -459,6 +464,30 @@ import {ref, watch, defineProps, onMounted, computed} from 'vue'
       .map((val) => (val.group_title = e.text_val))
 
     cleanup()
+  }
+
+  const autocomplete = (e) => {
+    setTimeout(() => {
+      fetch(root_path + '/api/complete', {
+        method: 'POST',
+        headers: {'Content-Type': 'application/json'},
+        body: JSON.stringify({query: e.query}),
+      })
+        .then((resp) => resp.json())
+        .then((data) => {
+          if (data.status_code == 200) {
+            completeSuggestions.value = data.data
+          }
+        })
+        .catch((error) => {
+          toast.add({
+            severity: 'error',
+            summary: 'Error',
+            detail: error,
+            life: 3000,
+          })
+        })
+    }, 500)
   }
 
   onMounted(() => {
